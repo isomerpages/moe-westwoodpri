@@ -2,6 +2,7 @@ collections:
   about-westwood:
     output: true
     order:
+      - School Crest.md
       - School Rules.md
       - Westwood Virtual Tour.md
       - School Song.md
