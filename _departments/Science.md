@@ -71,6 +71,8 @@ Ultimately, we hope to develop pupils who  are innovative, enjoy Science and va
 <img src="/images/science9.jpg" style="width:49%" align=left>
 <img src="/images/science10.jpg" style="width:49%" align=right>
 
+<br clear="left">
+
 #### **Science Committee**
 **Mdm Jennifer Long (HOD Science)<br>
 Mrs Naseema Ansar (Lead Teacher Science)**<br>
