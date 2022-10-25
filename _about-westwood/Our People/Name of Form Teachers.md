@@ -6,7 +6,7 @@ third_nav_title: Our People
 ---
 ### **Name of Form Teachers**
 
-##### **P1 Form Teachers**
+#### **P1 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -20,7 +20,7 @@ third_nav_title: Our People
 | <br>P1 Teamwork | Ms Elaine Lai Yongxian<br> Mr Zhang Weixiang<br> Ms Ng Su Chern |
 |
 
-##### **P2 Form Teachers**
+#### **P2 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -33,7 +33,7 @@ third_nav_title: Our People
 | P2 Teamwork | Ms Tong Jin Yi<br>Ms Viroshini |
 |
 
-##### **P3 Form Teachers**
+#### **P3 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -44,7 +44,8 @@ third_nav_title: Our People
 | P3 Synergy | Mr Khoo Rong<br>Mrs Tan-Nai Li Li Hua |
 | <br>P3 Teamwork | Ms Isabelle Gan Chai Hong<br>Ms Vivian Lim Swee Keng<br>Ms Li Huili |
 |
-##### **P4 Form Teachers**
+
+#### **P4 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -56,7 +57,7 @@ third_nav_title: Our People
 | <br>P4 Teamwork | Mdm Naseema Beevi<br>Ms Katherine Chua Cheng Bee<br>Mr Ng Kai Zhe Alan |
 |
 
-##### **P5 Form Teachers**
+#### **P5 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -68,7 +69,7 @@ third_nav_title: Our People
 | <br>P5 Teamwork | Mr Dexter Sim Yu Min<br>Mdm Sophia Tan Seok Yee<br>Ms Tan Sze Yi |
 |
 
-##### **P6 Form Teachers**
+#### **P6 Form Teachers**
 
 | Class | Name |
 |:---:|:---:|
@@ -80,7 +81,7 @@ third_nav_title: Our People
 | P6 Teamwork | Ms Lam Meng Chee<br>Mr Mohamed Rafik Osman Alkhatib |
 |
 
-##### **Other Teaching Staff**
+#### **Other Teaching Staff**
 
 |  |
 |:---:|
