@@ -42,14 +42,40 @@ third_nav_title: Our People
 | P3 Gratitude | Ms Shen Rong<br>Mr Tan Shi Wei |
 | P3 Resilience | Mr Jonathan Chng Ching Chuang<br>Ms Thachayani Putaran |
 | P3 Synergy | Mr Khoo Rong<br>Mrs Tan-Nai Li Li Hua |
-| P3 Teamwork | Ms Isabelle Gan Chai Hong<br>Ms Vivian Lim Swee Keng<br>Ms Li Huili |
+| <br>P3 Teamwork | Ms Isabelle Gan Chai Hong<br>Ms Vivian Lim Swee Keng<br>Ms Li Huili |
 |
 ##### **P4 Form Teachers**
 
-
+| Class | Name |
+|:---:|:---:|
+| P4 Confidence | Ms Murshidah <br>Ms Saraswathi |
+| P4 Diligence | Ms Noor Amirah<br>Ms Sandy Lee Lay Kheng |
+| P4 Gratitude | Mr Devaraj S/O Nambirajan<br>Mdm Lim Shae Min |
+| P4 Resilience | Ms Siti Aisyah<br>Ms Yao Anli |
+| P4 Synergy | Ms Elaine Lew Yi Ling<br>Mr Premnath |
+| <br>P4 Teamwork | Mdm Naseema Beevi<br>Ms Katherine Chua Cheng Bee<br>Mr Ng Kai Zhe Alan |
+|
 
 ##### **P5 Form Teachers**
 
+| Class | Name |
+|:---:|:---:|
+| P5 Confidence | Ms Hazel Chan Lay Mun<br>Mr Khairul Abdillah |
+| P5 Diligence | Mr Macus Rouis<br>Ms Siti Juwani |
+| P5 Gratitude | Ms Lin Shing Chi<br>Ms Ngiam Wei Ling, Melissa |
+| P5 Resilience | Ms Janice Foo Mei Chien<br>Mdm Alamnu |
+| P5 Synergy | Ms Fathimah Muzamillah<br>Ms Tan Lay Lian |
+| <br>P5 Teamwork | Mr Dexter Sim Yu Min<br>Mdm Sophia Tan Seok Yee<br>Ms Tan Sze Yi |
+|
 
+##### **P6 Form Teachers**
 
-##### **P1 Form Teachers**
+| Class | Name |
+|:---:|:---:|
+| P6 Confidence | Ms Dawn Sia Pei Fen<br>Ms Yong Lee Min |
+| P6 Diligence | Mr Boo Hong Rui<br>Ms Yap Hui Tee |
+| P6 Gratitude | Ms Hiew Litiang<br>Mdm Kee Suat Har |
+| P6 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Long Miaw Ying |
+| P6 Synergy | Ms Elna<br>Mr Joel Ong Xuan You |
+| P6 Teamwork | Ms Lam Meng Chee<br>Mr Mohamed Rafik Osman Alkhatib |
+|
