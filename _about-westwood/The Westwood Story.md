@@ -13,7 +13,7 @@ Redwoods have a strong network of roots that reach out and provide support for o
 
 ##### **Westwood THRIVES Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nowsmijK37c" title="Westwood Thrives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/nowsmijK37c" title="Westwood Thrives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Life Of A Westwoodian Video**
 
