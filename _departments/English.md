@@ -54,7 +54,7 @@ These are the various aspects of EL literacy:
 | Holistic Assessment | - Formative & Summative Assessments |
 |
 
-#### STELLAR 2.0
+#### **STELLAR 2.0**
 ##### **STELLAR 2.0: Primary 1 and 2**
 
 <img src="/images/eng5.png" style="width:85%">
