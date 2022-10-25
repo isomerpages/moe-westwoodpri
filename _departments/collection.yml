@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Aesthetics.md
       - Physical Education.md
       - Student Leadership.md
       - Applied Learning Programme/Applied Learning Programme.md
