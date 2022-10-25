@@ -26,5 +26,5 @@ sections:
       title: Photo Gallery
       subtitle: Westwood Primary School
       button: click here
-      url: https://westwoodpri.moe.edu.sg/about-westwood/photo-gallery/2019
+      url: /photo-gallery/
 ---
