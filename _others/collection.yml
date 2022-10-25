@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - Highlights.md
       - Calendar of Events.md
       - Quick Links.md
       - Letters of Appreciation.md
