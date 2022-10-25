@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Mother Tongue.md
       - Character & Citizenship Education.md
       - Information & Communication Technology.md
       - Aesthetics.md
