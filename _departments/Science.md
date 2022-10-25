@@ -42,3 +42,46 @@ Ultimately, we hope to develop pupils who  are innovative, enjoy Science and va
 
 <img src="/images/science2.jpg" style="width:85%">
 
+#### **E2K1 & E2K2**
+
+<img src="/images/science3.jpg" style="width:63%" align=left>
+<img src="/images/science4.jpg" style="width:35%" align=right>
+
+<br clear="left">
+
+#### **Greening for Sustainability**
+
+<img src="/images/science5.jpg" style="width:49%" align=left>
+<img src="/images/science6.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+<img src="/images/science7.jpg" style="width:49%" align=left>
+
+<br clear="left">
+
+#### **P4 STEM Programme**
+
+<img src="/images/science8.jpg" style="width:49%" align=left>
+
+<br clear="left">
+
+#### **River Wonders**
+
+<img src="/images/science9.jpg" style="width:49%" align=left>
+<img src="/images/science10.jpg" style="width:49%" align=right>
+
+#### **Science Committee**
+**Mdm Jennifer Long (HOD Science)<br>
+Mrs Naseema Ansar (Lead Teacher Science)**<br>
+Ms Elaine Lew<br>
+Ms Fathimah Muzammilah<br>
+Mr Joel Ong<br>
+Ms Goh Ho Laye<br>
+Mdm Jane Kang<br>
+Ms Dawn Sia<br>
+Ms Melissa Ngiam<br>
+Ms Hiew Li Tiang<br>
+Ms Katherine Chua <br>
+Mrs Muthu <br>
+Ms Heng Xi Yan Jean
