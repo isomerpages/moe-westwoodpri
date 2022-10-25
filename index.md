@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Isomer Site
+title: Westwood Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
@@ -34,3 +34,4 @@ sections:
       button: click here
       url: https://www.facebook.com/westwood.primary/
 ---
+
