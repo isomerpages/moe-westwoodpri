@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - "P1 & P2: Joy of Learning Flipbook.md"
       - Highlights.md
       - Calendar of Events.md
       - Quick Links.md
