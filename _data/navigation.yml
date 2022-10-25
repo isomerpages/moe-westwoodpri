@@ -1,2 +1,5 @@
 logo: /images/logo.png
-links: []
+links:
+  - title: Menu Title
+    url: /permalink
+    sublinks: []
