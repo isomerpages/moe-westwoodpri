@@ -2,5 +2,6 @@ collections:
   departments:
     output: true
     order:
+      - Applied Learning Programme/Maker Education.md
       - Applied Learning Programme/.keep
       - Learning For Life Programme (Community Service & Student Leadership).md
