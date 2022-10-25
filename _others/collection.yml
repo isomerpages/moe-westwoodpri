@@ -2,6 +2,7 @@ collections:
   others:
     output: true
     order:
+      - 2023 P1 Parents.md
       - "P1 & P2: Joy of Learning Flipbook.md"
       - Highlights.md
       - Calendar of Events.md
