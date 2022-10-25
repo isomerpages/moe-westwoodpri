@@ -2,5 +2,6 @@ collections:
   others:
     output: true
     order:
+      - Contact Us/Location.md
       - Contact Us/School based SLS and iCON Helpline.md
       - Contact Us/.keep
