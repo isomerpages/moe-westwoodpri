@@ -2,12 +2,12 @@ collections:
   others:
     output: true
     order:
-      - Highlights/Highlights.md
-      - Highlights/.keep
       - School Newsletters.md
       - Booklist for 2022.md
       - 2023 P1 Parents.md
       - "P1 & P2: Joy of Learning Flipbook.md"
+      - Highlights/.keep
+      - Highlights/Highlights.md
       - Calendar of Events.md
       - Quick Links.md
       - Letters of Appreciation.md
@@ -18,6 +18,6 @@ collections:
       - Thriving WWPS.md
       - ICT Baseline & PW.md
       - Secondary School Matters.md
+      - Contact Us/.keep
       - Contact Us/Location.md
       - Contact Us/School based SLS and iCON Helpline.md
-      - Contact Us/.keep
