@@ -24,8 +24,30 @@ links:
       - title: Photo Gallery
         url: /about-westwood/photo-gallery/2022/
   - title: Departments
-    url: /departments/
-    sublinks: []
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue
+        url: /departments/mtl/
+      - title: Character & Citizenship Edu
+        url: /departments/cce/
+      - title: Info & Communication Tech
+        url: /departments/ict/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: Physical Education
+        url: /departments/pe/
+      - title: Student Leadership
+        url: /departments/student-leadership/
+      - title: Applied Learning Programme
+        url: /departments/alp/
+      - title: Learning for Life Programme
+        url: /departments/llp/
   - title: CCA
     url: /cca/
     sublinks: []
