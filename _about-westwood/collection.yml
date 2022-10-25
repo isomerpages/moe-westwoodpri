@@ -1,0 +1,4 @@
+collections:
+  about-westwood:
+    output: true
+    order: []
