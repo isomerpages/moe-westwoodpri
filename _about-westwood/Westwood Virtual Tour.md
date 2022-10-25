@@ -7,6 +7,6 @@ description: ""
 
 **unsure how to migrate this virtual tour tool**
 
-##### **Facilities**
+#### **Facilities**
 *   Customised classrooms or differentiated teaching and learning approaches
 *   Programme for Active Learning (PAL) Facilities
