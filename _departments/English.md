@@ -23,3 +23,100 @@ The English Language Syllabus 2020 for the Primary level focuses on the developm
 
 <img src="/images/eng2.png" style="width:85%">
 
+Following the EL Syllabus 2020, the Westwood EL Department seeks to develop these competencies in our learners through the teaching and learning of EL to enable them to be:
+
+![](/images/eng3.png)
+
+Given the importance of 21 st century competencies, our desired outcomes for our learners will also include opportunities to develop the following core values:
+
+![](/images/eng4.png)
+
+At the end of their Primary School journey, all Westwoodians should be able to:
+*   Listen to, read and view critically and with accuracy, understanding and appreciation, a wide array of literary and informational texts in standard English from print, non-print and digital networked sources
+*   Speak, write and represent in standard English that is grammatical, fluent, intelligible and appropriate for different purposes, audiences, contexts and cultures
+*   Use standard English grammar and vocabulary accurately and appropriately, and understand how speakers/writers put words together and use language to communicate meaning and achieve impact
+*   Use English with impact, effect and affect
+
+These are the various aspects of EL literacy:
+* Listening and Viewing
+* Reading and Viewing
+* Speaking and Representing
+* Writing and Representing
+* Grammar
+* Vocabulary
+
+#### **STELLAR 2.0 Framework**
+
+|  |  |
+|---|---|
+| STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 1.0 curriculum<br><br>**Upper Primary**<br>STELLAR 1.0 curriculum |
+| School-based Curriculum | **Lower Primary**<br>Grammar and Vocabulary Packages<br><br>**Middle Primary and Upper Primary**<br>Grammar, Vocabulary, Comprehension, Writing, Synthesis & Transformation Packages<br><br>- MRL Activities and library lessons<br>- Pick and Tell Activities (P1 - P5)<br>- Literature Programme (P3 - P4)<br>- Vibrant Voice Programme (P3 - P5)<br>- Little Red Dot (P5 - P6)<br>- Reading Bugs Day |
+| Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Vibrant Voices (P3-P6)<br>- P6 Modular Supplementary (4 modules)<br>- Reading Boost Activities (P4 & P5 remedials)<br>- Reading Circles (P4)<br>- Competitions (Internal & External) |
+| Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- Hope Classroom Experiential lessons (P1 & P2)<br>- ICT-infused lessons |
+| Holistic Assessment | - Formative & Summative Assessments |
+|
+
+#### STELLAR 2.0
+##### **STELLAR 2.0: Primary 1 and 2**
+
+<img src="/images/eng5.png" style="width:85%">
+
+<img src="/images/eng6.jpeg" style="width:49%" align=left>
+<img src="/images/eng7.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+
+##### **STELLAR 2.0: Primary 3**
+
+<img src="/images/eng8.png" style="width:85%">
+
+##### **STELLAR 1.0: Primary 4 to 6**
+
+<img src="/images/eng9.png" style="width:85%">
+
+#### **Our Pupils' Work: The Creative Ink**
+‘The Creative Ink’ is an online compendium of wonderful writing pieces from our Westwoodians. This initiative aims to nurture budding writers in their creative expression and hone their critical thinking skills.
+
+In this compilation, treat your senses to cleverly crafted acrostic and rhyming poems written by our lower and middle primary pupils. These poems are drawn from our pupils’ rich experiences and their close observations of the things around them.  As you read the upper primary writing pieces, listen closely to what they have to say about topics close to their hearts.  At Westwood, we believe that a writer exists in each of us. Through this platform, we are proud to showcase some of our flourishing writers’ works. As C.S Lewis aptly puts it, “Write about what really interests you, whether it is real things or imaginary things”. Our connoisseurs have dipped into their creative repository to pen down these pieces. We hope that this compendium will inspire Westwoodians to develop their passion for writing.
+
+https://drive.google.com/file/d/1bloP4ezaYbEKB6N2haApRq948qbRvc7Z/view
+**video unable to embedd as cms does not support this format**
+
+#### **Photo Highlights of our EL Reading Bug Day (Term 1 2022)**
+Pupils came in a costume based on their favourite book. They get to share the love for reading by doing a book-sharing with their peers in class.
+
+<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+
+<br clear="left">
+
+<img src="/images/eng13.jpeg" style="width:49%" align=left>
+<img src="/images/eng14.jpeg" style="width:49%" align=right>
+
+<br clear="left">
+
+#### **English Language Committee 2022**
+**Ms Yong Lee Min (HOD EL)**<br>
+**Ms Jurveen Kaur (LH EL)**<br>
+Ms Chong Yoke Ting (LSP Coordinator) (P1 Rep)<br>
+Mdm Ralleeah (P2 Rep)<br>
+Mrs Winnie Teng (P3 Rep)<br>
+Mr Alan Ng (P4 Rep)<br>
+Ms Janice Foo (P5 Rep)<br>
+Ms Isabelle Gan (P6 Rep)<br>
+Mdm Siti Aisyah<br>
+Mr Mohamed Ridhwan<br>
+Ms Nur Diyana<br>
+Mr Mohamed Rafik<br>
+Mr Premnath<br>
+Ms Enda Chan<br>
+Ms Saranya D/O Asokan<br>
+Ms Noor Amirah<br>
+Mdm Jamaliah<br>
+Ms Lin Shing Chi<br>
+Ms Gan Seowling<br>
+Ms Viroshini<br>
+Ms Sarah Chua <br>
+Ms Gildabella 
+
