@@ -50,7 +50,17 @@ links:
         url: /departments/llp/
   - title: CCA
     url: /cca/
-    sublinks: []
+    sublinks:
+      - title: Philosophy of CCAs
+        url: /cca/
+      - title: Clubs & Societies
+        url: /cca/clubs-and-societies/
+      - title: Visual & Performing Arts
+        url: /cca/visual-and-performing-arts/
+      - title: Physical Sports & Games
+        url: /cca/physical-sports-and-games/
+      - title: Uniformed Groups
+        url: /cca/ug/
   - title: Our Partners
     url: /our-partners/
     sublinks: []
