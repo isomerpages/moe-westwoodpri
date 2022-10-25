@@ -35,8 +35,8 @@ sections:
       url: https://www.facebook.com/westwood.primary/
   - infopic:
       title: 10th Anniversary
-      subtitle: Positively Westwood!
-      description: We flourish and thrive together
+      subtitle: Positively Westwood
+      description: We flourish and thrive together!
       button: click here
       url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
       image: /images/10th anniversary.jpg
