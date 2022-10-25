@@ -2,6 +2,7 @@ collections:
   about-westwood:
     output: true
     order:
+      - Westwood Virtual Tour.md
       - School Song.md
       - Journey Towards Positive Education.md
       - Our People/Principal.md
