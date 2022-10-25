@@ -2,6 +2,7 @@ collections:
   about-mk-westwood:
     output: true
     order:
+      - Photo Gallery/2021.md
       - Photo Gallery/2020.md
       - Photo Gallery/2019.md
       - Photo Gallery/.keep
