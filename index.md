@@ -28,10 +28,16 @@ sections:
       button: click here
       url: /mk-westwood/photo-gallery/
   - infobar:
-      title: Westwood Primary Facebook Page
+      title: Facebook Page
       subtitle: Connect with us
       description: Find out what are the latest activities in school!
       button: click here
       url: https://www.facebook.com/westwood.primary/
+  - infopic:
+      title: 10th Anniversary
+      subtitle: Positively Westwood!
+      description: We flourish and thrive together
+      button: click here
+      url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
+      image: /images/10th anniversary.jpg
 ---
-
