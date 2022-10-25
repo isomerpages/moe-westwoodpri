@@ -17,11 +17,11 @@ Redwoods have a strong network of roots that reach out and provide support for o
 
 ##### **Life Of A Westwoodian Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rSFFZucfxYE" title="Life Of A Westwoodian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/rSFFZucfxYE" title="Life Of A Westwoodian" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **WWPS Corporate Video**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cbJKcEXpuqs" title="WWPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/cbJKcEXpuqs" title="WWPS Corporate Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Joy of Learning Chinese in WWPS**
 
