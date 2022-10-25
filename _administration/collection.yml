@@ -2,6 +2,7 @@ collections:
   administration:
     output: true
     order:
+      - Service Providers.md
       - Canteen Matters.md
       - School Safety.md
       - Parent Volunteers.md
