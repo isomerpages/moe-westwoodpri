@@ -27,4 +27,10 @@ sections:
       subtitle: Westwood Primary School
       button: click here
       url: /photo-gallery/
+  - infobar:
+      title: Westwood Primary Facebook Page
+      subtitle: Connect with us
+      description: Find out what are the latest activities in school!
+      button: click here
+      url: https://www.facebook.com/westwood.primary/
 ---
