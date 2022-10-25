@@ -24,12 +24,10 @@ The English Language Syllabus 2020 for the Primary level focuses on the developm
 <img src="/images/eng2.png" style="width:85%">
 
 Following the EL Syllabus 2020, the Westwood EL Department seeks to develop these competencies in our learners through the teaching and learning of EL to enable them to be:
-
-![](/images/eng3.png)
+<img src="/images/eng3.png" style="width:85%">
 
 Given the importance of 21 st century competencies, our desired outcomes for our learners will also include opportunities to develop the following core values:
-
-![](/images/eng4.png)
+<img src="/images/eng4.png" style="width:85%">
 
 At the end of their Primary School journey, all Westwoodians should be able to:
 *   Listen to, read and view critically and with accuracy, understanding and appreciation, a wide array of literary and informational texts in standard English from print, non-print and digital networked sources
@@ -118,5 +116,4 @@ Ms Lin Shing Chi<br>
 Ms Gan Seowling<br>
 Ms Viroshini<br>
 Ms Sarah Chua <br>
-Ms Gildabella 
-
+Ms Gildabella
