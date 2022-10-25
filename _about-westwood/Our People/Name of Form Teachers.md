@@ -79,3 +79,24 @@ third_nav_title: Our People
 | P6 Synergy | Ms Elna<br>Mr Joel Ong Xuan You |
 | P6 Teamwork | Ms Lam Meng Chee<br>Mr Mohamed Rafik Osman Alkhatib |
 |
+
+##### **Other Teaching Staff**
+
+|  |
+|:---:|
+| Ms Jane Kang Hui Chin |
+| Ms Zhou Liting |
+| Mrs May Foo - Kong Swee Wah |
+| Ms Loh Tze Mui Cindy |
+| Ms Zakiyah |
+| Ms Nurmalyanah |
+| Ms Sarah Chua Ai Tee |
+| Ms Ang Chye Siang |
+| Ms Ker Bee Lay |
+| Ms Catherine Koh Joo Tian |
+| Mrs Agnes Seah Kai Leong |
+| Mdm Sagunthala Murgaiyan (Mrs Muthu) |
+| Mr Idris |
+| Ms Koh Kah Neng |
+| Ms Heng Xi Yan Jean |
+|
