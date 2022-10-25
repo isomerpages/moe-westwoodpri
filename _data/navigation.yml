@@ -62,14 +62,64 @@ links:
       - title: Uniformed Groups
         url: /cca/ug/
   - title: Our Partners
-    url: /our-partners/
-    sublinks: []
+    url: /our-partners/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
+      - title: Parent Support Group
+        url: /our-partners/psg/
+      - title: The Young Student Programme
+        url: /our-partners/young-student-programme/
+      - title: Parent Support Programme
+        url: /our-partners/parent-support-programme/
   - title: Administration
-    url: /administration/
-    sublinks: []
+    url: /administration/service-providers/
+    sublinks:
+      - title: Service Providers
+        url: /administration/service-providers/
+      - title: Canteen Matters
+        url: /administration/canteen-matters/
+      - title: School Safety
+        url: /administration/school-safety/
+      - title: Parent Volunteers
+        url: /administration/parent-volunteers/
+      - title: Waiting List
+        url: /administration/waiting-list/
   - title: Others
-    url: /others/
-    sublinks: []
+    url: /others/school-newsletters/
+    sublinks:
+      - title: School Newsletters
+        url: /others/school-newsletters/
+      - title: Booklist for 2022
+        url: /others/booklist-for-2022/
+      - title: 2023 P1 Parents
+        url: /others/2023-p1-parents/
+      - title: P1 & P2 Flipbook
+        url: /others/p1-and-p2-flipbook/
+      - title: Highlights
+        url: /others/highlights/
+      - title: Calender of Events
+        url: /others/calenders-of-events/
+      - title: Quicklinks
+        url: /others/quicklinks/
+      - title: Letters of Appreciation
+        url: /others/letters-of-appreciation/
+      - title: Wishing Wall for Teachers' Day
+        url: /others/wishing-wall/
+      - title: High-5! Day
+        url: /others/high5-day/
+      - title: 10Years of Positively Westwood
+        url: /others/10-years-of-positively-westwood/
+      - title: Biodiversity@Westwood Gardens
+        url: /others/biodiversity-at-westwood-gardens/
+      - title: Thriving WWPS
+        url: /others/thriving-wwps/
+      - title: ICT Baseline & PW
+        url: /others/ict-baseline-and-pw/
+      - title: Secondary School Matters
+        url: /others/sec-sch-matters/
+      - title: Contact Us
+        url: /contact-us/
   - title: MK @ Westwood
     url: /mk-westwood/
     sublinks: []
