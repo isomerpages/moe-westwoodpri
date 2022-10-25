@@ -2,5 +2,6 @@ collections:
   our-partners:
     output: true
     order:
+      - Parent Support Group.md
       - The Young Student Programme.md
       - Parent Support Programme.md
