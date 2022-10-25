@@ -35,8 +35,15 @@ third_nav_title: Our People
 
 ##### **P3 Form Teachers**
 
-
-
+| Class | Name |
+|:---:|:---:|
+| P3 Confidence | Mdm Han Jin (Mrs Goh)<br>Ms Nurul Syafiqah |
+| P3 Diligence | Ms Goh Ho Laye<br>Ms Jasmine Koh Hwee Ling |
+| P3 Gratitude | Ms Shen Rong<br>Mr Tan Shi Wei |
+| P3 Resilience | Mr Jonathan Chng Ching Chuang<br>Ms Thachayani Putaran |
+| P3 Synergy | Mr Khoo Rong<br>Mrs Tan-Nai Li Li Hua |
+| P3 Teamwork | Ms Isabelle Gan Chai Hong<br>Ms Vivian Lim Swee Keng<br>Ms Li Huili |
+|
 ##### **P4 Form Teachers**
 
 
