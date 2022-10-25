@@ -1,5 +1,23 @@
 logo: /images/logo.png
 links:
-  - title: Menu Title
-    url: /permalink
+  - title: About Westwood
+    url: /about-westwood/
+    sublinks: []
+  - title: Departments
+    url: /departments/
+    sublinks: []
+  - title: CCA
+    url: /cca/
+    sublinks: []
+  - title: Our Partners
+    url: /our-partners/
+    sublinks: []
+  - title: Administration
+    url: /administration/
+    sublinks: []
+  - title: Others
+    url: /others/
+    sublinks: []
+  - title: MK @ Westwood
+    url: /mk-westwood/
     sublinks: []
