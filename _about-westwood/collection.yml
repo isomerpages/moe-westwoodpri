@@ -1,4 +1,5 @@
 collections:
   about-westwood:
     output: true
-    order: []
+    order:
+      - Photo Gallery/.keep
