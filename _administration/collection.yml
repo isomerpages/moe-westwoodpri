@@ -2,4 +2,5 @@ collections:
   administration:
     output: true
     order:
+      - Parent Volunteers.md
       - Waiting List.md
