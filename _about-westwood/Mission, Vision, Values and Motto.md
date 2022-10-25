@@ -4,13 +4,13 @@ permalink: /about-westwood/mission-vision-values-motto/
 description: ""
 ---
 ### **Mission, Vision, Values and Motto**
-##### **Our Mission**
+#### **Our Mission**
 To provide positive education that nurtures thriving teachers and flourishing pupils
 
-##### **Our Vision**
+#### **Our Vision**
 A positive institution in Jurong West that inspires our community to lead meaningful and engaged lives
 
-##### **Our Values**
+#### **Our Values**
 Westwood pupils will possess the following Character Strengths:
 
 * Heart of Gratitude
@@ -18,5 +18,5 @@ Westwood pupils will possess the following Character Strengths:
 * Passion for Community
 * Future-ready Confidence
 
-##### **Our Motto**
+#### **Our Motto**
 Future-ready, Anchor-steady
