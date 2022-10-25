@@ -23,9 +23,8 @@ sections:
           description: ""
           url: /others/quicklinks/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Photo Gallery
+      subtitle: Westwood Primary School
+      button: click here
+      url: https://westwoodpri.moe.edu.sg/about-westwood/photo-gallery/2019
 ---
