@@ -122,4 +122,18 @@ links:
         url: /contact-us/
   - title: MK @ Westwood
     url: /mk-westwood/
-    sublinks: []
+    sublinks:
+      - title: About MK @ Westwood
+        url: /mk-westwood/
+      - title: Our Learning Environment
+        url: /mk-westwood/our-learning-environment/
+      - title: Our Teaching Staff
+        url: /mk-westwood/our-teaching-staff/
+      - title: Total MK Curriculum
+        url: /mk-westwood/total-mk-curriculum/
+      - title: Photo Gallery
+        url: /mk-westwood/photo-gallery/
+      - title: Highlights
+        url: /mk-westwood/highlights/
+      - title: Useful Information / Links
+        url: /mk-westwood/useful-information-links/
