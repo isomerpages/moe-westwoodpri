@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Philosophy of CCAs.md
+      - Clubs & Societies/Design and Innovation.md
       - Clubs & Societies/.keep
       - Visual & Performing Arts/Art Club.md
       - Visual & Performing Arts/Brass Band.md
