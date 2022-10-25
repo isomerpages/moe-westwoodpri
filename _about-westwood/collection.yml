@@ -2,6 +2,7 @@ collections:
   about-westwood:
     output: true
     order:
+      - The Westwood Story.md
       - Our Strategic Plans.md
       - Mission, Vision, Values and Motto.md
       - School Crest.md
