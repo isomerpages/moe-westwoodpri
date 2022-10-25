@@ -2,6 +2,7 @@ collections:
   about-westwood:
     output: true
     order:
+      - Journey Towards Positive Education.md
       - Our People/Principal.md
       - Our People/Vice Principals.md
       - Our People/Organization Chart.md
