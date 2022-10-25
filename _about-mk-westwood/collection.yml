@@ -2,5 +2,6 @@ collections:
   about-mk-westwood:
     output: true
     order:
+      - Photo Gallery/.keep
       - Highlights/.keep
       - Useful Information and Links.md
