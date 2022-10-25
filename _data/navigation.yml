@@ -2,7 +2,27 @@ logo: /images/logo.png
 links:
   - title: About Westwood
     url: /about-westwood/
-    sublinks: []
+    sublinks:
+      - title: The Westwood Story
+        url: /about-westwood/
+      - title: Our Strategic Plans
+        url: /about-westwood/strategic-plans/
+      - title: Mission,Vision,Values & Motto
+        url: /about-westwood/mission-vision-values-motto/
+      - title: School Crest
+        url: /about-westwood/school-crest/
+      - title: School Rules
+        url: /about-westwood/school-rules/
+      - title: Westwood Virtual Tour
+        url: /about-westwood/virtual-tour/
+      - title: School Song
+        url: /about-westwood/school-song/
+      - title: Journey Towards Positive Edu
+        url: /about-westwood/journey-towards-positive-education/
+      - title: Our People
+        url: /about-westwood/our-people/principal/
+      - title: Photo Gallery
+        url: /about-westwood/photo-gallery/2022/
   - title: Departments
     url: /departments/
     sublinks: []
