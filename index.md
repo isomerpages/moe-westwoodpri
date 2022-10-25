@@ -40,4 +40,5 @@ sections:
       button: click here
       url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
       image: /images/10th anniversary.jpg
+      alt: 10th
 ---
