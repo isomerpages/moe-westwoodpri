@@ -26,3 +26,26 @@ Physical Education (PE) for Lower Primary pupils focuses on mastery of fundament
 
 Physical Education (PE) for Upper Primary pupils focuses on more complex combinations of discrete skills and sequences of movements. Pupils also get to join SwimSafer programme to learn about water safety and swimming skills.
 
+--
+
+Physical Health & Fitness (PHF) is explicitly taught via the Health Education (HE) journal, ‘An Active & Healthy Me’. It provides an insight of good health practices in exercise, safety and hygiene. It also encourages pupils’ interest in physical activity through meaningful experiential learning.
+
+Play@Recess programmes ensure that pupils get opportunities every day to play, stretch and be active. Pupils can use this opportunities to strengthen their bond with their peers.
+
+--
+
+#### **PAL @ Westwood**
+Programme for Active Learning (PAL) for lower primary pupils focuses on the teaching of soft skills and values in a fun and engaging manner, nurturing the 3Cs – Confidence, Curiosity and Cooperation skills in pupils. There are 4 domains to learn from each term: Visual Arts, Performing Arts, Sports and Games and Outdoor Education.
+
+--
+
+Through holistic health education, teachers in Westwood Primary hope to bring out the best in every pupil for them to lead a meaningful and engaged life.
+
+#### **Physical Education Department Members**
+**Mr Khairul Abdillah (HOD PE & CCA)<br>
+Mr Seet Wee Key (SH Physical Fitness & PAL, HE Coordinator)<br>
+Mr Ng Zhili Gerard-Christian**<br>
+Mr Jonathan Chng<br>
+Mr Ariel Chow<br>
+Mr Loh Chee Wei<br>
+Mr Idris Abdul Rashid 
