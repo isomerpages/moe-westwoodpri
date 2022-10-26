@@ -14,7 +14,7 @@ Infocomm Technology pupils will:
 *   experience simple animation through the use of Scratch and basic video editing skills.
 *   apply the multimedia skills that they have acquired to work on projects.
 *   brainstorm creative ideas so as to become confident presenters who can lead student community in the area of Cyber Wellness.
-*   experience the elements of art in photography & photography composition rules.
+*   experience the elements of art in photography &amp; photography composition rules.
 
 #### **CCA Teachers-in-charge**
 Mr Ng Zhili Gerard-Christian<br>
@@ -22,9 +22,9 @@ Ms Dawn Sia Pei Fen<br>
 Ms Thachayani Putaran
 
 #### **Venue**
-ICT Lab 2 & 3
+ICT Lab 2 &amp; 3
 
---
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vReb7S6kKKBddZ9WED_Je3h3pZ7zA_XXJxqqkJTNys_2IrOPZh-S1X7Ox1-7rso1zG2wtzN3Hwhtoef/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **AngryCreature**
 
