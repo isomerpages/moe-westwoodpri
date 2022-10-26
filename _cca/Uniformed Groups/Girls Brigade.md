@@ -20,3 +20,4 @@ Ms Viroshini
 #### **Venue**
 LSP Room, Math Room
 
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPDFvd38osJSiFhMj__WEIL9wuelxVCtPnIbnJLzjOigCLtedL62yQ3E5fy6F1-6Dl-GmaNgLEPdWA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
