@@ -4,7 +4,6 @@ permalink: /departments/ict/
 description: ""
 third_nav_title: Info & Communication Tech
 ---
-
 ### **Information & Communication Technology**
 
 <img src="/images/ict1.jpg" style="width:85%">
@@ -76,9 +75,7 @@ The ICT Experience@Westwood is a programme through which every pupil will be equ
 </table>
 
 <img src="/images/ict3.jpg" style="width:85%">
-
 <img src="/images/ict4.jpg" style="width:85%">
-
 <img src="/images/ict5.jpg" style="width:85%">
 
 #### **Cyberwellness**
