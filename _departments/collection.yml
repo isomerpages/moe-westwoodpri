@@ -2,6 +2,7 @@ collections:
   departments:
     output: true
     order:
+      - Info & Communication Tech/Information & Communication Technology.md
       - Info & Communication Tech/.keep
       - English.md
       - Mathematics.md
