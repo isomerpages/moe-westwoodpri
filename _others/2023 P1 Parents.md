@@ -90,7 +90,70 @@ For mobile users, please click [here](https://drive.google.com/file/d/18fJRqGOD
 For mobile users, please click [here](https://drive.google.com/file/d/1Jya7xWAHDGdddhkqC-ZHxt4vNb7WR0Kv/view) to view video.
 
 #### **Frequently Asked Questions with Queries link**
-[FAQs.pdf](https://westwoodpri.moe.edu.sg/qql/slot/u147/Our%20Partners/2022%20P1%20Parents/FAQs.pdf)<br>
+[FAQs.pdf](/files/faq.pdf)<br>
 [https://go.gov.sg/2023p1query](https://go.gov.sg/2023p1query)
 
 #### **Useful Links**
+1\) Bookshop Operator<br>
+**HB Book Centre**<br>
+Operation Hours: Monday to Friday, 8:00 a.m. to 2:00 p.m.<br>
+(Excluding public and school holidays)<br>
+Office Contact: 6270 1060<br>
+(Weekdays - 9:00 a.m. to 5:00 p.m.)<br>
+Website: [https://ihuntforbooks.com/](https://ihuntforbooks.com/)<br>
+Email: [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com)
+
+2\) Uniform Supplier / Shoes Supplier<br>
+**My Uniform Shop (ASIA) Pte Ltd** <br>
+209, New Upper Changi Road #03-651<br>
+Singapore 460209<br>
+Office Contact: 6276 6689<br>
+Website: [https://www.myuniformshop.com.sg](https://www.myuniformshop.com.sg/)<br>
+Email: [myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com)
+
+3) School-based SCC<br>
+**Little Professors Learning Centre Pte. Ltd.** <br>
+Office Contact: 8606 1170 (11:30 a.m. to 7:00 p.m.)<br>
+Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)<br>
+
+[Little Professors Slides\_For Circualtion\_Westwood\_13 Oct 22.pdf](/files/usefulpdf1.pdf)<br>
+[SCC FAQs\_Westwood\_For Circulation\_13 Oct 22.pdf](/files/usefulpdf2.pdf)
+
+Please register via [https://forms.gle/Jm8yGGjaKqFfeV1c8](https://forms.gle/Jm8yGGjaKqFfeV1c8)
+
+4\) School Bus Operator<br>
+[Westwood Pri\_Request for School Bus Services\_Year 2022 Final.docx](/files/usefuldoc.pdf)
+
+**JK59 Transport Pte Ltd**<br>
+Tel: 6465 5959 (Weekdays 9am-5:30pm / Sat 9am-1pm)<br>
+Email: [transport@jk59.com](mailto:transport@jk59.com)
+
+5\) MOE Forms
+
+**GIRO**<br>
+Child Development Account under Baby Bonus Scheme cannot be used for payment of fees.<br>
+[giro\_application\_form\_oct 2021.pdf](/files/usefulpdf3.pdf))
+
+**DBS / POSB**<br>
+Via FormSG at [https://go.gov.sg/moe-giro-dbs-posb](https://go.gov.sg/moe-giro-dbs-posb) using SingPass
+
+**DBS / POSB / OCBC**
+* via online banking portals
+* Select billing organisation: 
+	* 'MOE' for DBS/POSB accounts.
+	* 'Ministry of Education' for OCBC accounts.
+* Use Birth Certificate / Entry Permit No. as Direct Debit Authorisation reference no. 
+* Do not set any deduction limit
+
+**Other Banks**<br>
+Please request for a hardcopy form and submit original to school by Fri, 12 Nov 2021.
+
+**Edusave**<br>
+Pupils who are Singapore Citizens may choose to pay the second-tier miscellaneous fees ($6.50) from their Edusave accounts.
+
+Please complete the online Edusave Standing Order form with either parent's SingPass login.<br>[https://go.gov.sg/moe-edusave-standing-order](https://go.gov.sg/moe-edusave-standing-order)
+
+**Pupil Data Collection**<br>
+To be done via Student Details Form portal from 10am on Mon, 28 Nov 2022 via
+[https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)<br>
+Submission by Thu, 29 Dec 2022
