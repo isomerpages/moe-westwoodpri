@@ -90,6 +90,7 @@ For mobile users, please click [here](https://drive.google.com/file/d/18fJRqGOD
 For mobile users, please click [here](https://drive.google.com/file/d/1Jya7xWAHDGdddhkqC-ZHxt4vNb7WR0Kv/view) to view video.
 
 #### **Frequently Asked Questions with Queries link**
-
+[FAQs.pdf](https://westwoodpri.moe.edu.sg/qql/slot/u147/Our%20Partners/2022%20P1%20Parents/FAQs.pdf)<br>
+[https://go.gov.sg/2023p1query](https://go.gov.sg/2023p1query)
 
 #### **Useful Links**
