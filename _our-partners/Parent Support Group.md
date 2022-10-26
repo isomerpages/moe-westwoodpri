@@ -28,8 +28,9 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 | Mr Lim Teck Boon | Mr Raymond Tan  | Mdm Rohana Ramlan  |
 |
 
-| **Secretary** | Mdm Norashiqin Binte Norain |
+|  |  |
 |---|---|
+| **Secretary** | Mdm Norashiqin Binte Norain |
 | **Treasurer** | Mdm Siti Juliyana Binte Yusoff |
 | **Head Publicity IC1** | Mdm Tan Shu Hui |
 | **Head Publicity IC2** | Mr Adrian Ng |
