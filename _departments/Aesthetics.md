@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Aesthetics**
 
-<img src="/images/aesthetics1.jpg" style="width:85%">
+<img style="width:85%" src="/images/aesthetics1.jpg">
 
 **First Row (top) from left:**<br>
 Ms Hazel Chan Lay Mun, Ms Yap Chin Hwee Sherine, Mrs Goh Han Jin
@@ -16,37 +16,37 @@ Ms Gu Si Yuan, Ms Ang Hwee Chin
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
 
-<img src="/images/aesthetics2.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/aesthetics3.jpg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/aesthetics4.jpg" style="width:30%;margin-right:15px;" align = "left">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aesthetics2.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aesthetics3.jpg">
+<img align="left" style="width:30%;margin-right:15px;" src="/images/aesthetics4.jpg">
 
 <br clear="left">
 
 #### **Curricular Objectives**
 The Arts is integral to the holistic development of our children. It contributes to their development of an understanding of the physical, emotional, intellectual, aesthetic, social, moral and spiritual dimensions of human experience. The Westwood Primary Aesthetics education is aimed at providing pupils with a holistic Visual and Performing Arts experience through the formal Art and Music curriculum, school-based programmes and Visual and Performing Arts co-curricular activities.
   
-Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of and appreciation for the Arts by **igniting their passion**. We firmly believe that through Art, pupils can develop their 21CC and attain the THRIVE outcomes that will better prepare them to take on future challenges and opportunities, as well as understand the Arts as a way of learning about themselves and the world around them. For our budding artists, ample opportunities are presented to **nurture their talents** and pursue their love for the Arts, to express themselves creatively to communicate with others.
+Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of and appreciation for the Arts by&nbsp;**igniting their passion**. We firmly believe that through Art, pupils can develop their 21CC and attain the THRIVE outcomes that will better prepare them to take on future challenges and opportunities, as well as understand the Arts as a way of learning about themselves and the world around them. For our budding artists, ample opportunities are presented to&nbsp;**nurture their talents**&nbsp;and pursue their love for the Arts, to express themselves creatively to communicate with others.
 
-<img src="/images/aesthetics5.jpg" style="width:95%">
+<img style="width:95%" src="/images/aesthetics5.jpg">
 
 #### **IGNITING PASSION: Our Formal Curriculum Highlights**
 
 |  | P1 | P2 | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|---|
-| **Art (ALP)<br>Positive Design** | Create a Toy: It’s Playtime! | Design and Build with Strawbees<br> | Digital Animation | Design a Museum Experience | Design Thinking & Prototyping | Exploring Creations with 3D Pens |
+| **Art (ALP)<br>Positive Design** | Create a Toy: It’s Playtime! | Design and Build with Strawbees<br> | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with 3D Pens |
 | **Music<br>Exposure to Musical Instruments and Genres** | Music Fundamentals | Music Movement | Orff Instrumental Ensemble Level 1<br> | Orff Instrumental Ensemble Level 2<br><br>Ukulele | Ethnic Percussion | Garageband |
 |
 
-Follow us on our Aesthetics Online Gallery at [https://go.gov.sg/wwps-aesthetics](https://go.gov.sg/wwps-aesthetics)
+Follow us on our Aesthetics Online Gallery at&nbsp;[https://go.gov.sg/wwps-aesthetics](https://go.gov.sg/wwps-aesthetics)
 
-<img src="/images/aesthetics6.jpg" style="width:25%">
+<img style="width:25%" src="/images/aesthetics6.jpg">
 
-google slides
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqdL-nAuWSfvXrhWrl4f6RkkzL8Sxfq7GLuZO492WPpigc06d5dIvQgYerpRutOACvqkWAMcf7PzJN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Our Dedicated Arts Spaces**
 To provide a vibrant Aesthetics environment for our pupils to be engaged in the Arts, our spaces include two Art rooms, an Art Gallery, two Music rooms, THRIVE Studio, and the Band Room. In 2020, we set up two more dedicated Arts spaces, our Art Hive and Artistes’ Space!
 
-<img src="/images/aesthetics7.jpg" style="width:65%">
+<img style="width:65%" src="/images/aesthetics7.jpg">
 
 #### **Our People**
 
