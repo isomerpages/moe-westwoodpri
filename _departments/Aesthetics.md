@@ -41,7 +41,7 @@ Follow us on our Aesthetics Online Gallery at&nbsp;[https://go.gov.sg/wwps-aesth
 
 <img style="width:25%" src="/images/aesthetics6.jpg">
 
-<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqdL-nAuWSfvXrhWrl4f6RkkzL8Sxfq7GLuZO492WPpigc06d5dIvQgYerpRutOACvqkWAMcf7PzJN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqdL-nAuWSfvXrhWrl4f6RkkzL8Sxfq7GLuZO492WPpigc06d5dIvQgYerpRutOACvqkWAMcf7PzJN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 #### **Our Dedicated Arts Spaces**
 To provide a vibrant Aesthetics environment for our pupils to be engaged in the Arts, our spaces include two Art rooms, an Art Gallery, two Music rooms, THRIVE Studio, and the Band Room. In 2020, we set up two more dedicated Arts spaces, our Art Hive and Artistes’ Space!
