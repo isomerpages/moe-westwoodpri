@@ -30,3 +30,30 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 <img src="/images/aesthetics5.jpg" style="width:85%">
 
 #### **IGNITING PASSION: Our Formal Curriculum Highlights**
+
+|  | P1 | P2 | P3 | P4 | P5 | P6 |
+|:---:|:---:|:---:|:---:|:---:|:---:|---|
+| **Art (ALP)<br>Positive Design** | Create a Toy: It’s Playtime! | Design and Build with Strawbees<br> | Digital Animation | Design a Museum Experience | Design Thinking & Prototyping | Exploring Creations with 3D Pens |
+| **Music<br>Exposure to Musical Instruments and Genres** | Music Fundamentals | Music Movement | Orff Instrumental Ensemble Level 1<br> | Orff Instrumental Ensemble Level 2<br><br>Ukulele | Ethnic Percussion | Garageband |
+|
+
+Follow us on our Aesthetics Online Gallery at [https://go.gov.sg/wwps-aesthetics](https://go.gov.sg/wwps-aesthetics)
+
+<img src="/images/aesthetics6.jpg" style="width:25%">
+
+google slides
+
+#### **Our Dedicated Arts Spaces**
+To provide a vibrant Aesthetics environment for our pupils to be engaged in the Arts, our spaces include two Art rooms, an Art Gallery, two Music rooms, THRIVE Studio, and the Band Room. In 2020, we set up two more dedicated Arts spaces, our Art Hive and Artistes’ Space!
+
+<img src="/images/aesthetics7.jpg" style="width:65%">
+
+#### **Our People**
+
+| Art | Music |
+|:---:|:---:|
+| Mdm Hazel Chan Lay Mun (HOD Aesthetics) | Miss Gu Si Yuan |
+| Mdm Sherine Yap Chin Hwee | Mr Zhang Weixiang |
+| Mr Dexter Sim Yu Min | Ms Ang Hwee Chin |
+| Mrs Goh Han Jin |  |
+|
