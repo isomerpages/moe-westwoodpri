@@ -23,13 +23,13 @@ Children who wish to enrol in MK from 1 Apr 2020 must have received at least one
 Fees can be paid via GIRO. The GIRO form is used for non-DBS/POSB accounts. Please download the form and submit the original to the General Office.<br>
 [KCARE GIRO Application Form.pdf](/files/useful3.pdf)
 
-KCare additional subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KCare additional subsidies, please submit the Application Form to the General Office.
-[KCARE Additional Subsidy Explanatory Note.pdf](/files/useful4.pdf)
+KCare additional subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KCare additional subsidies, please submit the Application Form to the General Office.<br>
+[KCARE Additional Subsidy Explanatory Note.pdf](/files/useful4.pdf)<br>
 [KCARE Additional Subsidy Application Form 1.pdf](/files/useful5.pdf)
 
 #### **KiFAS Application**
-KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KiFAS, please submit the KF1 Application Form to the General Office.
-[KiFAS Explanatory Notes.pdf](/files/useful6.pdf)
+KiFAS subsidies are available for families where their household income (HHI) does not exceed $12,000 or per capita income (PCI) does not exceed $3000. To apply for KiFAS, please submit the KF1 Application Form to the General Office.<br>
+[KiFAS Explanatory Notes.pdf](/files/useful6.pdf)<br>
 [KF1 - Enrolment and KiFAS Application Jan 2022.pdf](/files/useful7.pdf)
 
 For more information on KiFAS, you may visit:<br>[https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS)
