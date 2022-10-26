@@ -94,7 +94,7 @@ For mobile users, please click [here](https://drive.google.com/file/d/1Jya7xWAH
 [https://go.gov.sg/2023p1query](https://go.gov.sg/2023p1query)
 
 #### **Useful Links**
-1\) Bookshop Operator<br>
+##### **1\) Bookshop Operator**
 **HB Book Centre**<br>
 Operation Hours: Monday to Friday, 8:00 a.m. to 2:00 p.m.<br>
 (Excluding public and school holidays)<br>
@@ -103,7 +103,7 @@ Office Contact: 6270 1060<br>
 Website: [https://ihuntforbooks.com/](https://ihuntforbooks.com/)<br>
 Email: [hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com)
 
-2\) Uniform Supplier / Shoes Supplier<br>
+##### **2\) Uniform Supplier / Shoes Supplier**
 **My Uniform Shop (ASIA) Pte Ltd** <br>
 209, New Upper Changi Road #03-651<br>
 Singapore 460209<br>
@@ -111,7 +111,7 @@ Office Contact: 6276 6689<br>
 Website: [https://www.myuniformshop.com.sg](https://www.myuniformshop.com.sg/)<br>
 Email: [myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com)
 
-3) School-based SCC<br>
+##### **3) School-based SCC**
 **Little Professors Learning Centre Pte. Ltd.** <br>
 Office Contact: 8606 1170 (11:30 a.m. to 7:00 p.m.)<br>
 Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)<br>
@@ -121,14 +121,14 @@ Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.
 
 Please register via [https://forms.gle/Jm8yGGjaKqFfeV1c8](https://forms.gle/Jm8yGGjaKqFfeV1c8)
 
-4\) School Bus Operator<br>
+##### **4\) School Bus Operator**
 [Westwood Pri\_Request for School Bus Services\_Year 2022 Final.docx](/files/usefuldoc.pdf)
 
 **JK59 Transport Pte Ltd**<br>
 Tel: 6465 5959 (Weekdays 9am-5:30pm / Sat 9am-1pm)<br>
 Email: [transport@jk59.com](mailto:transport@jk59.com)
 
-5\) MOE Forms
+##### **5\) MOE Forms**
 
 **GIRO**<br>
 Child Development Account under Baby Bonus Scheme cannot be used for payment of fees.<br>
