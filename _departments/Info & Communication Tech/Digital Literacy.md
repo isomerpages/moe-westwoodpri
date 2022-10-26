@@ -62,7 +62,7 @@ Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every
 
 #### **MOE’s Cyber Wellness Framework**
 
-<img src="/images/cyberwellness.png" style="width:45%">
+<img src="/images/cyberwellness.png" style="width:35%">
 
 The framework focuses on developing the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. It highlights three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’, in guiding students to make careful and well-considered decisions in the cyber space.
 
