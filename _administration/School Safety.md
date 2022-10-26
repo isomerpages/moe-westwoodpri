@@ -7,12 +7,12 @@ description: ""
 #### **School Safety & Security**
 Ensuring that Westwood Primary is safe and secure is an utmost priority to us. Parents, pupils and all our stakeholders also play a vital role in keeping the school safe and secure. We seek the partnership of parents, pupils and all stakeholders to practise good hygiene and road safety habits as we work together towards creating a safe and secure environment for learning.
 
--
+![](/images/schsafety1.jpg)
 
 #### **Management of Incidents**
 As part of pupil safety and security, the school has also put in place procedures to look into the safety of the pupils. We aim to create a conducive and caring environment for every pupil in Westwood Primary hope to achieve this with the cooperation and partnership from parents and external stakeholders.
 
--
+<img src="/images/schsafety2.jpg" style="width:65%">
 
 **Examples of Minor Incidents:**
 * Toothache.
@@ -71,4 +71,4 @@ The following list of safety tips and practices will guide you before, during an
 #### **After the sport/game**
 *   Perform ‘cool-down’ routines.
 *   Hydrate yourself adequately by drinking water after the sport/game.  
-*   Seek medical advice should there be any sign(s) of injury/illness following the sport/game.  
+*   Seek medical advice should there be any sign(s) of injury/illness following the sport/game.
