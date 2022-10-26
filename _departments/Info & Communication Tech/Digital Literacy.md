@@ -63,3 +63,39 @@ Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every
 #### **MOE’s Cyber Wellness Framework**
 
 <img src="/images/cyberwellness.png" style="width:45%">
+
+The framework focuses on developing the child’s instinct to protect and empower him to take responsibility for his own well-being in cyberspace. It highlights three principles, ‘Respect for Self and Others’, ‘Safe and Responsible Use’ and ‘Positive Peer Influence’, in guiding students to make careful and well-considered decisions in the cyber space.
+
+#### **Principles**
+(1) Respect for Self and Others<br>
+Students need to:
+*   uphold their own dignity when online
+*   respect other people online
+
+(2) Safe and Responsible Use<br>
+Students need to:
+*   understand the risks of harmful and illegal online behaviours, and take steps to protect themselves
+*   make wise and healthy choices online
+
+(3) Positive Peer Influence<br>
+Students need to:
+*   be a positive role model online
+*   advocate positive online behavior
+
+#### **3-Step Process**
+The process of **Sense, Think and Act** serves to highlight the stages that a student should undergo to prepare himself/herself to self-manage in cyberspace. The process could serve as a heuristic device to help teachers organize lessons on cyber wellness topics.
+
+**Sense** \- The first step in inculcating these principles is to create cyber awareness among the students. Students should be able to “sense” the risks of harmful behaviours online and learn how to manage such risks as well as protect themselves from the dangers.
+
+**Think** \- To develop students’ ability to respond to new encounters in cyberspace, it is important to provide opportunities for students to analyze, evaluate and reflect on cyber wellness issues.
+
+**Act** \- Students should eventually translate their understanding into actions that will keep them safe while online.
+
+Students should always “be aware”, “think” before “acting” while they are online. Therefore, “**Sense, Think and Act**” is a simple learning cycle for students to adopt. We will also reinforce this process when delivering their cyber wellness programme.
+
+#### **Overview of Cyber Wellness & Media Literacy Programme**
+Cyber Wellness (CW) refers to the positive well-being of Internet users. It involves an understanding of online behavior and awareness of how to protect oneself in cyberspace. The focus of CW is about helping students to become responsible digital learners. Students should also be a positive peer influence by harnessing technology for collaboration, learning and productivity, as well as advocating positive use of technology for the good of the community.Our Cyber Wellness Progamme aims at covering a holistic range of safety issues brought about by the increased use of technology in our student’s lives. Guided by MOE’s Cyber Wellness Framework and New Media Literacy Toolkit, the programme extends its reach further by identifying new threats that students may face and addressing them through level targeted Digital Literacy projects.
+
+<img src="/images/dl8.png" style="width:85%">
+
+<img src="/images/dl9.jpg" style="width:100%">
