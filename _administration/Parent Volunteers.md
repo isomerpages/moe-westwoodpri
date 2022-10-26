@@ -12,7 +12,7 @@ Application for our 2022 Parent Volunteer Scheme (for 2023 P1 Registration and 2
 
 #### **Timeline:**
 **By 13 May 2022**<br>
-Email the completed application form to&nbsp;[westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).
+Email the completed application form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).
 
 [2022 Westwood PV Application Form Registration in 2023 for Admission in 2024.pdf](/files/PV%20application%20form.pdf)
 
