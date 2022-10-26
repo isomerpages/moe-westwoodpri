@@ -41,8 +41,7 @@ For mobile users, please click [here](https://drive.google.com/file/d/1e0BWcO-f
 
 For mobile users, please click [here](https://drive.google.com/file/d/1kn-1E72PAE_9IHtY5Hj3KA3DkTPWayZh/view) to view video.
 
-##### **Developing Healthy and Resilient Children (by Mr Khairul Abdillah, 
-HOD PE & CCA)**
+##### **Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE & CCA)**
 
 **require video to be uploaded on youtube**
 
