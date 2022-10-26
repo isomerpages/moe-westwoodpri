@@ -14,7 +14,7 @@ Every Westwood pupil will become:
 *   Concerned citizens in cyber wellness and digital empathy
 
 #### **Digital Literacy Programme**
-<img src="/images/dl1.png" style="width:65%">
+<img src="/images/dl1.png" style="width:45%">
 
 In Westwood Primary, the Digital Literacy programme comprises of **ICT Baseline Standards, ICT Enrichment, Cyber Wellness** and **Media Literacy**. Our ICT Baseline Standards is integrated with Project Work under our Applied Learning Programme (ALP), which is aligned to the school’s Thrive Framework to **develop future-ready and responsible digital learners.**
 
