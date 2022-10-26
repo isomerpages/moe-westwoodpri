@@ -27,7 +27,7 @@ The Arts is integral to the holistic development of our children. It contributes
   
 Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of and appreciation for the Arts by **igniting their passion**. We firmly believe that through Art, pupils can develop their 21CC and attain the THRIVE outcomes that will better prepare them to take on future challenges and opportunities, as well as understand the Arts as a way of learning about themselves and the world around them. For our budding artists, ample opportunities are presented to **nurture their talents** and pursue their love for the Arts, to express themselves creatively to communicate with others.
 
-<img src="/images/aesthetics5.jpg" style="width:85%">
+<img src="/images/aesthetics5.jpg" style="width:95%">
 
 #### **IGNITING PASSION: Our Formal Curriculum Highlights**
 
