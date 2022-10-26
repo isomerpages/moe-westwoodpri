@@ -25,3 +25,4 @@ Ms Yap Hui Tee
 #### **Venue**
 Hall
 
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vR_j10koX41MBPoJfS2E2LQtIgmeXZYklU9ieBraifUUfrcyPMWNPleqMIoGkRn72xh3bucuXxtRqXC/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
