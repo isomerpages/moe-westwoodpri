@@ -27,3 +27,5 @@ The following CCAs are offered in WWPS:
 | **Clubs & Societies**<br><br>- Art Club<br>- English Literacy Club<br>- Green Club<br>- Innovation Guild | **Performing Arts**<br><br>- Brass Band<br>- Chinese Dance<br>- Choir<br>- International Dance<br>- Malay Dance |
 | **Physical Sports & Games**<br><br>- Basketball (Boys)<br>- Football (Boys & Girls)<br>- Rhythmic Gymnastics (Girls)<br>- Wushu (Boys & Girls) | **Uniformed Groups**<br><br>- Boys' Brigade<br>- Girls' Brigade |
 |  |  |
+
+All CCAs are held on Wednesdays from 2 PM to 4 PM.
