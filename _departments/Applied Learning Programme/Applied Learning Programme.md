@@ -65,3 +65,18 @@ Maker Education encourages independence and creative problem solving, and an aut
 <iframe width="379" height="315" src="https://www.youtube.com/embed/i50AGg7Aw2g" title="Celebration of Positivity Recess Activities 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <iframe width="379" height="315" src="https://www.youtube.com/embed/5Upt6wXs_dY" title="PRAM 8 Apr Celebration of Positivity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### **ALP & Maker Education Team**
+**Mdm Jennifer Long (HOD Science)<br>
+Ms Hazel Chan (HOD Aesthetics)**<br>
+Ms Cheryl Teo (SH Project Work)<br>
+Ms Elaine Lew<br>
+Ms Gan Seow Ling<br>
+Mdm Goh Ho Laye<br>
+Ms Tong Jin Yi<br>
+Mrs Tan-Nai Li Hua<br>
+Ms Ang Hwee Chin<br>
+Ms Katherine Chua<br>
+Mr Dexter Sim<br>
+Ms Viroshini<br>
+Ms Koh Kah Neng
