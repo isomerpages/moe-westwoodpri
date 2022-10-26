@@ -34,3 +34,23 @@ There are 8 food stalls in the school canteen.
 |
 
 #### **Timing for Recess, Snack and Lunch Breaks**
+The table below shows the timing for staggered recess, snack and lunch breaks in a school day:
+
+![](/images/Recess%20Schedule.jpg)
+
+#### **Lunch Break**
+On Mondays, Tuesdays and Thursdays, canteen stalls will serve lunch after school dismissal from 1.30pm to 2pm.  
+  
+On Wednesdays, only P4 to P6 pupils will have lunch break in school as they are required to stay back for CCA.
+
+#### **School Canteen Rules**
+Pupils are to abide by the following rules relating to the school canteen: <br>  
+1\.  Pupils are to queue up when buying food in the canteen.<br>
+2\.  Pupils are to consume food only in the canteen.<br>
+3\.  Pupils are to return all plates and utensils to the metal containers provided at the canteen after eating.<br>
+4\.  Pupils should not run and play in the canteen.
+
+#### **Note to Parents and Visitors**
+The school seeks the understanding of parents and visitors on the following two matters:  <br>
+1\. The food prepared by the canteen stallholders is intended to be sold to pupils and staff members of the school.<br>
+2\. Parents and visitors are not to be in the canteen during recess and lunch break.
