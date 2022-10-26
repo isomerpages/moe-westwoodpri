@@ -85,6 +85,23 @@ links:
         url: /administration/parent-volunteers/
       - title: Waiting List
         url: /administration/waiting-list/
+  - title: MK @ Westwood
+    url: /mk-westwood/
+    sublinks:
+      - title: About MK @ Westwood
+        url: /mk-westwood/
+      - title: Our Learning Environment
+        url: /mk-westwood/our-learning-environment/
+      - title: Our Teaching Staff
+        url: /mk-westwood/our-teaching-staff/
+      - title: Total MK Curriculum
+        url: /mk-westwood/total-mk-curriculum/
+      - title: Photo Gallery
+        url: /mk-westwood/photo-gallery/
+      - title: Highlights
+        url: /mk-westwood/highlights/
+      - title: Useful Information / Links
+        url: /mk-westwood/useful-information-links/
   - title: Others
     url: /others/school-newsletters/
     sublinks:
@@ -120,20 +137,3 @@ links:
         url: /others/sec-sch-matters/
       - title: Contact Us
         url: /contact-us/
-  - title: MK @ Westwood
-    url: /mk-westwood/
-    sublinks:
-      - title: About MK @ Westwood
-        url: /mk-westwood/
-      - title: Our Learning Environment
-        url: /mk-westwood/our-learning-environment/
-      - title: Our Teaching Staff
-        url: /mk-westwood/our-teaching-staff/
-      - title: Total MK Curriculum
-        url: /mk-westwood/total-mk-curriculum/
-      - title: Photo Gallery
-        url: /mk-westwood/photo-gallery/
-      - title: Highlights
-        url: /mk-westwood/highlights/
-      - title: Useful Information / Links
-        url: /mk-westwood/useful-information-links/
