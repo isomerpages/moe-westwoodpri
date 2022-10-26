@@ -2,17 +2,17 @@ collections:
   departments:
     output: true
     order:
-      - Info & Communication Tech/Information & Communication Technology.md
-      - Info & Communication Tech/.keep
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
       - Character & Citizenship Education.md
+      - Info & Communication Tech/.keep
+      - Info & Communication Tech/Information & Communication Technology.md
       - Aesthetics.md
       - Physical Education.md
       - Student Leadership.md
+      - Applied Learning Programme/.keep
       - Applied Learning Programme/Applied Learning Programme.md
       - Applied Learning Programme/Maker Education.md
-      - Applied Learning Programme/.keep
       - Learning For Life Programme (Community Service & Student Leadership).md
