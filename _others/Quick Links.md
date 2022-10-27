@@ -47,7 +47,7 @@ description: ""
 
 #### **For Parents**
 
-| <img src="/images/qlp1.png" style="width:50%" align=right> | <img src="/images/qlp2.png" style="width:30%"> |
-|---:|:---:|
-| [MOE](https://www.moe.gov.sg/) | [Singapore Examinations<br> and Assessment Board (SEAB)](https://www.seab.gov.sg/home/examinations/psle) |
+| <img src="/images/qlp1.png" style="width:50%">| <img src="/images/qlp2.png" style="width:30%"> |
+|:---:|:---:|
+| <br>[MOE](https://www.moe.gov.sg/)  | [Singapore Examinations<br> and Assessment Board (SEAB)](https://www.seab.gov.sg/home/examinations/psle) |
 |  |  |
