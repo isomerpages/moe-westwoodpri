@@ -31,7 +31,7 @@ description: ""
 #### **For Students**
 
 | <img src="/images/qls1.png" style="width:50%"> | <img src="/images/qls2.jpg" style="width:80%" align=left> | <img src="/images/qls3.png" style="width:90%"> |
-|:---:|:---:|:---:|
+|:---:|:---|:---:|
 | [Student Learning Space](https://vle.learning.moe.edu.sg/login) | [Student iCON](https://workspace.google.com/dashboard)| [Zoom for Pupils](https://students-edu-sg.zoom.us/) |
 |  |  |  |
 
