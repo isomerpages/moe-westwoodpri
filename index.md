@@ -26,7 +26,7 @@ sections:
       title: Photo Gallery
       subtitle: Westwood Primary School
       button: click here
-      url: /mk-westwood/photo-gallery/2022/
+      url: /mk-westwood/photo-gallery/
       description: Photos from MK @ Westwood
   - infobar:
       title: Facebook Page
