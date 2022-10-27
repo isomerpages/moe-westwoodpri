@@ -40,4 +40,14 @@ description: ""
 | [Multiplication](https://www.multiplication.com/games/all-games) | [Pictograph](http://softschools.com/math/data_analysis/pictograph/make_your_own_pictograph/) | [Arcademics](https://www.arcademics.com/) |
 |  |  |  |
 
+| <img src="/images/qls7.png" style="width:50%"> | <img src="/images/qls8.png" style="width:50%"> |
+|:---:|:---:|
+| [Cyberwellness](https://www.betterinternet.sg/) | [MySkillsFuture](https://www.myskillsfuture.gov.sg/content/student/en/primary.html) |
+|  |  |
+
 #### **For Parents**
+
+| <img src="/images/qlp1.png" style="width:50%" align=right> | <img src="/images/qlp2.png" style="width:30%"> |
+|:---:|:---:|
+| [MOE](https://www.moe.gov.sg/) | [Singapore Examinations<br> and Assessment Board (SEAB)](https://www.seab.gov.sg/home/examinations/psle) |
+|  |  |
