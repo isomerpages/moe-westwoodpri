@@ -11,9 +11,7 @@ description: ""
 | [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx) | [iCON Email](https://workspace.google.com/dashboard) | [HRP](https://www.hrp.gov.sg/hrp/#/) | [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F) |
 |  |  |  |  |
 
-
-
-| <img src="/images/qlt5.png" style="width:100%"> | <img src="/images/qlt6.jpg" style="width:25%"> | <img src="/images/qlt7.png" style="width:70%"> | <img src="/images/qlt8.png" style="width:100%"> |
+| <img src="/images/qlt5.png" style="width:100%"> | <img src="/images/qlt6.jpg" style="width:25%"> | <img src="/images/qlt7.png" style="width:70%" align=left> | <img src="/images/qlt8.png" style="width:100%" align=left> |
 |:---:|:---:|:---:|:---:|
 | [School Cockpit](https://schoolcockpit.moe.gov.sg/) | [Whiteboard](https://www.asia.whiteboard.chat/) | [SCMobile](https://scmobile.moe.edu.sg/login) | [iEXAMS2](https://iexams.seab.gov.sg/login) |
 |  |  |  |  |
