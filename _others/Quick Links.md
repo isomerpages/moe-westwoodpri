@@ -20,7 +20,12 @@ description: ""
 
 |  |  |  |  |
 |:---:|:---:|:---:|:---:|
-| [School Cockpit] | [Whiteboard] | [SCMobile] | [iEXAMS2] |
+| [School Cockpit](https://schoolcockpit.moe.gov.sg/) | [Whiteboard](https://www.asia.whiteboard.chat/) | [SCMobile](https://scmobile.moe.edu.sg/login) | [iEXAMS2](https://iexams.seab.gov.sg/login) |
+|  |  |  |  |
+
+| ![](/images/qlt9.png) | ![](/images/qlt10.png) | <img src="/images/qlt11.png" style="width:80%"> | ![](/images/qlt12.png) |
+|:---:|:---:|:---:|:---:|
+| [Schoolbag](https://www.schoolbag.sg/) | [READ@Academy](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) | [Manipulatives](http://nlvm.usu.edu/) | [SEN Resource Portal](http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_portal.aspx) |
 |  |  |  |  |
 
 #### **For Students**
