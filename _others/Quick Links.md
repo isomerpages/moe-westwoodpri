@@ -13,6 +13,11 @@ description: ""
 
 <br clear="left">
 
+|  |  |  |  |
+|:---:|:---:|:---:|:---:|
+| [MOE Intranet] | [iCON Email] | [HRP] | [OPAL 2.0] |
+|  |  |  |  |
+
 #### **For Students**
 <img src="/images/qlt1.jpg" style="width:22%;margin-right:15px;" align = "left">
 <img src="/images/qlt2.png" style="width:22%;margin-right:15px;" align = "left">
@@ -20,4 +25,11 @@ description: ""
 
 <br clear="left">
 
+
 #### **For Parents**
+
+
+| ![](/images/qlt1.jpg) | ![](/images/qlt2.png) | ![](/images/qlt3.jpg) | ![](/images/qlt4.jpg) |
+|:---:|:---:|:---:|:---:|
+| [MOE Intranet] | [iCON Email] | [HRP] | [OPAL 2.0] |
+|  |  |  |  |
