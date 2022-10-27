@@ -6,50 +6,50 @@ third_nav_title: Highlights
 ---
 ### **Highlights**
 <img src="/images/highlights1.jpg" style="width:10%" align=left><b>
-##### **Teacher's Day Showcase and Celebrations 2022**
+#### **Teacher's Day Showcase and Celebrations 2022**
 <br clear="left">
 	
 [Read More...](https://westwoodpri-moe-edu-sg-admin.cwp.sg/others/highlights/2022/teachers-day-showcase-n-celebrations)	
 	
 	
 <img src="/images/highlights2.jpg" style="width:10%" align=left><b>	
-##### **Cyber Week**
+#### **Cyber Week**
 <br clear="left">	
 
 [Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2022/cyber-week)	
 	
 <img src="/images/highlights3.jpg" style="width:10%" align=left><b>	
-##### **Breakfast with P1 Parents**
+#### **Breakfast with P1 Parents**
 <br clear="left">
 
 [Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2022/breakfast-with-p1-parents)	
 	
 <img src="/images/highlights4.jpg" style="width:10%" align=left><b>	
-##### **2nd Minister’s Visit to Westwood Primary**
+#### **2nd Minister’s Visit to Westwood Primary**
 <br clear="left">
 	
 [Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2021/2nd-minister-s-visit-to-westwood-primary)	
 	
 <img src="/images/highlights5.jpg" style="width:10%" align=left><b>	
-##### **Parents' Engagement Session**
+#### **Parents' Engagement Session**
 <br clear="left">
 	
 [Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2022)	
 	
 <img src="/images/highlights6.jpg" style="width:10%" align=left><b>	
-##### **P1 Parent's Briefing**
+#### **P1 Parent's Briefing**
 <br clear="left">
 	
 [Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2021/p1-parents-briefing)	
 	
 <img src="/images/highlights7.jpg" style="width:10%" align=left><b>	
-##### **Biodiversity @ Westwood Gardens**
+#### **Biodiversity @ Westwood Gardens**
 <br clear="left">
 	
 [Read More...](https://westwoodpri-moe-edu-sg-admin.cwp.sg/others/biodiversity-at-westwood-gardens)	
 	
 <img src="/images/highlights8.jpg" style="width:10%" align=left><b>	
-##### **President's Visit**
+#### **President's Visit**
 <br clear="left">
 	
-[Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit)	
+[Read More...](https://westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit)
