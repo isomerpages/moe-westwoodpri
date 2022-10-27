@@ -21,7 +21,7 @@ description: ""
 | [Schoolbag](https://www.schoolbag.sg/) | [READ@Academy](https://readacademy.moe.edu.sg/cgi-bin/spydus.exe/MSGTRN/OPAC/HOME) | [Manipulatives](http://nlvm.usu.edu/) | [SEN Resource Portal](http://intranet.moe.gov.sg/Send/Pages/SEN_Resource_portal.aspx) |
 |  |  |  |  |
 
-<img src="/images/qlt13.png" style="width:30%">
+<img src="/images/qlt13.png" style="width:25%">
 
 |  |
 |:---:|
