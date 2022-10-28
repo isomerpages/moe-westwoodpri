@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2022/.keep
+      - 2022/Parents' Engagement Day.md
       - 2022/Breakfast with P1 Parents.md
       - 2022/Cyber Week.md
       - 2022/Teacher's Day Showcase & Celebrations.md
-      - 2022/.keep
-      - 2022/Parents' Engagement Day.md
       - 2021/.keep
       - 2021/2021.md
       - 2020/.keep
