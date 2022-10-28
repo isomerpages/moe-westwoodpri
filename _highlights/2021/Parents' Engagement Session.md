@@ -16,9 +16,9 @@ Please click [here](https://form.gov.sg/60000564ba0ee20011f15963) **form unava
 
 #### **Form Teachers' Briefing Slides**
 
-[P1 Class Briefing slides 2021 Parents' Engagement Session.pdf]
-[P2 Class Briefing slides 2021 Parents' Engagement session.pdf]
-[P3 Class Briefing slides 2021 Parents' Engagement session.pdf]
-[P4 Class Briefing slides 2021 Parents' Engagement session.pdf]
-[P5 Class Briefing slides 2021 Parents' Engagement session.pdf]
-[P6 Class Briefing slides 2021 Parents' Engagement session.pdf]
+[P1 Class Briefing slides 2021 Parents' Engagement Session.pdf](/files/P1%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
+[P2 Class Briefing slides 2021 Parents' Engagement session.pdf](/files/P2%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
+[P3 Class Briefing slides 2021 Parents' Engagement session.pdf](/files/P3%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
+[P4 Class Briefing slides 2021 Parents' Engagement session.pdf](/files/P4%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
+[P5 Class Briefing slides 2021 Parents' Engagement session.pdf](/files/P5%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
+[P6 Class Briefing slides 2021 Parents' Engagement session.pdf](/files/P6%20Class%20Briefing%20slides%202021%20Parents%20Engagement%20Session.pdf)<br>
