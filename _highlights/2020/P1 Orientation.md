@@ -10,3 +10,11 @@ Westwood Primary School welcomed our 9th batch of Primary One pupils on Saturday
 Click on the pdf below to view the slides that were presented on the day.<br>
 [\[For Parents\] 2020 WWPS P1 Orientation VP Slides (1 Nov).pdf](https://westwoodpri.moe.edu.sg/qql/slot/u147/Others/2018%20P1%20Orientation/[For%20Parents]%202020%20WWPS%20P1%20Orientation%20VP%20Slides%20(1%20Nov).pdf) **broken link**
 
+<img src="/images/2020p1orientation1.jpg" style="width:85%">
+
+<img src="/images/2020p1orientation2.jpg" style="width:49%" align=left>
+<img src="/images/2020p1orientation3.jpg" style="width:49%" align=right>
+
+<br clear="left">
+
+<img src="/images/2020p1orientation4.jpg" style="width:49%" align=left>
