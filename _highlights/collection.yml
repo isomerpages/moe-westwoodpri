@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2022/Cyber Week.md
       - 2022/Teacher's Day Showcase & Celebrations.md
       - 2022/.keep
       - 2022/Parents' Engagement Day.md
