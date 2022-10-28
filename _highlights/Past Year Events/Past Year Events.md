@@ -1,9 +1,0 @@
----
-title: Past Year Events
-permalink: /others/highlights/past-year-events/
-description: ""
-third_nav_title: Past Year Events
----
-
-
-### **Past Year Events**
