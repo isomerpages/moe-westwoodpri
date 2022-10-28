@@ -2,5 +2,6 @@ collections:
   highlights:
     output: true
     order:
+      - 2020.md
       - 2019.md
       - Past Year Events.md
