@@ -29,11 +29,17 @@ sections:
       url: /mk-westwood/photo-gallery/
       description: Photos from MK @ Westwood
   - infobar:
-      title: Facebook Page
+      title: Westwood Facebook Page
       subtitle: Connect with us
       description: Find out what are the latest activities in school!
       button: click here
       url: https://www.facebook.com/westwood.primary/
+  - infobar:
+      title: Westwood Instagram
+      subtitle: Connect with us
+      description: Connect with us via our photo stories and videos!
+      button: Click here
+      url: https://www.instagram.com/westwoodprisch
   - infopic:
       title: 10th Anniversary
       subtitle: Positively Westwood
