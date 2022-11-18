@@ -10,7 +10,7 @@ Dear Parents/Guardians
 
 At Westwood Primary, we believe that home-school-partnership is crucial in enhancing your child’s learning and engagement, therefore, we would like to invite you to join our Parents' Support Group (PSG) to discover ways to support the school or initiate activities which develop your child's learning.
 
-Please click [here](https://form.gov.sg/60000564ba0ee20011f15963) **form unavailable** to fill up your particulars if you are keen to join our WWPS PSG!
+Please click [here](https://form.gov.sg/60000564ba0ee20011f15963) to fill up your particulars if you are keen to join our WWPS PSG!
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/RJ7mtDVTQJg" title="Kevin Parent Engagement Speech 2021" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
