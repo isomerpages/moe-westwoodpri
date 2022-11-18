@@ -15,7 +15,7 @@ Maker Publication is launched on Children’s Day in Year 2020. This maker publi
 
 Browse our e-Flipbook, “An Anthology of Westwood Making Experiences”.
 
-**unsure how to migrate this viewer**
+**unable to use embedded code**
 
 #### **Make Wonders (Maker Google Site)**
 Make Wonders, the title of our Google Site, facilitates ideas on creation, imagination, reading, learning, discovering, making and more!
