@@ -7,7 +7,7 @@ description: ""
 #### **P1 Induction**
 ##### **Principal's Welcome Address (by Mr Andrew Mah, Principal)**
 
-**require video to be uploaded on youtube**
+<iframe width="700" height="350" src="https://www.youtube.com/embed/QcNORDbbs9M" title="Principal's Welcome Address (by Mr Andrew Mah, Principal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 For mobile users, please click [here](https://drive.google.com/file/d/1J3XNaioCQo876P7xxRozo4XOYmwvdgBu/view) to view video.
 
