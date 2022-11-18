@@ -7,6 +7,7 @@ third_nav_title: Info & Communication Tech
 ### **Information & Communication Technology**
 
 <img src="/images/ict1.jpg" style="width:85%">
+
 **First Row (top) from left:**<br>
 Ms Yong Lee Min, Ms Lam Meng Chee, Mdm Long Miaw Ying Jennifer, Mdm Kee Suat Har, Ms Elna Bte Hussin, Ms Jasmine Koh Hwee Ling, Ms Elaine Lai Yongxian
 
@@ -30,7 +31,7 @@ The ICT Experience@Westwood is a programme through which every pupil will be equ
 
 | Level | Targeted Skill(s) | Integration of ICT into Curricular and Co-curricular Subjects |
 |:---:|---|---|
-| Primary 1<br><br><br><br>Primary 2<br><br><br>Primary 3<br><br>Primary 4<br><br>Primary 5<br><br>Primary 6 | - Basic Computer Literacy<br>- Touch-typing Skills<br>- Basic use of MS Word<br><br>- Advanced use of MS Word<br>- Browsing for images online<br>- MS PowerPoint<br>- Sending emails with attachments<br><br>- Google PowerPoint<br>- Browsing for information online<br><br>- Basic Ms Excel<br>- Creating prototypes using Microbits<br><br>- Publish and share information using Google Sites<br><br>- Use of Movie Maker with basic video-editing skills<br>- Code-for-Fun Programme by MOE | <br><br><br><br><br>- E-Books in Media Resource Library<br>- ICT-enabled Learning Trails (Use of mobile devices within the school)<br>- iPad Apps for learning<br>- Google Classroom<br>- Student Learning Space Portal<br>- Mixed Media in Art<br>- Use of Web 2.0 Tools |
+| Pri 1<br><br><br><br>Pri 2<br><br><br><br><br>Pri 3<br><br><br>Pri 4<br><br><br>Pri 5<br><br><br>Pri 6 | - Basic Computer Literacy<br>- Touch-typing Skills<br>- Basic use of MS Word<br><br>- Advanced use of MS Word<br>- Browsing for images online<br>- MS PowerPoint<br>- Sending emails with attachments<br><br>- Google PowerPoint<br>- Browsing for information online<br><br>- Basic Ms Excel<br>- Creating prototypes using Microbits<br><br>- Publish and share information using Google Sites<br><br>- Use of Movie Maker with basic video-editing skills<br>- Code-for-Fun Programme by MOE | <br><br><br><br><br>- E-Books in Media Resource Library<br>- ICT-enabled Learning Trails (Use of mobile devices within the school)<br>- iPad Apps for learning<br>- Google Classroom<br>- Student Learning Space Portal<br>- Mixed Media in Art<br>- Use of Web 2.0 Tools |
 |
 
 <img src="/images/ict3.jpg" style="width:85%">
