@@ -2,9 +2,9 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Edu/Sexuality Education – The Growing Years.md
-      - Character & Citizenship Edu/Character & Citizenship Education.md
       - Character & Citizenship Edu/.keep
+      - Character & Citizenship Edu/Character & Citizenship Education.md
+      - Character & Citizenship Edu/Sexuality Education – The Growing Years.md
       - English.md
       - Mathematics.md
       - Science.md
