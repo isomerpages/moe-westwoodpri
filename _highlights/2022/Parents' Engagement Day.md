@@ -4,9 +4,6 @@ permalink: /others/highlights/2022/
 description: ""
 third_nav_title: "2022"
 ---
-
-
-
 ### **Parents' Engagement Day**
 ##### **Parents’ Engagement Day 2022**
 #### **Primary 1**
