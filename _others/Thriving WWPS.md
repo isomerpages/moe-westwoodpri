@@ -18,10 +18,6 @@ description: ""
 
 <img src="/images/thriving1.png" style="width:85%">
 
-To view the poster on the Teachers’ Conference and ExCEL Fest 2021, please click [here](https://www.tcef2021.sg/Poster/Display/P038) **website unavailable**
-
-To view participant's feedback, please click [here](https://photos.app.goo.gl/F734YVMaA8d6ZPzC6) **website unavailable**
-
 #### **2020**
 ##### **How Student Learning Space Supports Home-based Learning<br> (8 April 2020)**
 **By _Ms Li Huili_**
