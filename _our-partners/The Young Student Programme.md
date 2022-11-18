@@ -5,23 +5,42 @@ description: ""
 ---
 ### **The Young Student Programme**
 #### **2021**
+
+<figure>  
 <img src="/images/tysp1.jpeg" style="width:85%">
-Digital Learning Programme 1
+<figcaption> Digital Learning Programme 1
+ </figcaption>  
+</figure>
 
+<figure>  
 <img src="/images/tysp2.jpeg" style="width:85%">
-Digital Learning Programme 2
+<figcaption> Digital Learning Programme 2
+ </figcaption>  
+</figure>
 
+<figure>  
 <img src="/images/tysp3.jpeg" style="width:85%">
-Digital Learning Programme 3
+<figcaption> Digital Learning Programme 3
+ </figcaption>  
+</figure>
 
+<figure>  
 <img src="/images/tysp4.jpeg" style="width:85%">
-HCI Group Photo with WWPS
+<figcaption> HCI Group Photo with WWPS
+ </figcaption>  
+</figure>
 
+<figure>  
 <img src="/images/tysp5.jpeg" style="width:85%">
-HCI Boys with WWPS Pupils
+<figcaption> WWPS pupils learning coding
+ </figcaption>  
+</figure>
 
+<figure>  
 <img src="/images/tysp6.jpeg" style="width:85%">
-WWPS pupils learning coding
+<figcaption> Digital Learning Programme 1
+ </figcaption>  
+</figure>
 
 #### **2019**
 
