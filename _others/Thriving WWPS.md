@@ -6,10 +6,12 @@ description: ""
 ### **Thriving WWPS**
 #### **2021**
 ##### **Staff Achievements for 2021**
-**unsure how to migrate**
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/6Mo9rVNwGug" title="2021 Staff Achievement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Student Achievements for 2021**
-**unsure how to migrate**
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/wPYyVJgMgCk" title="2021 Student Achievement" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### **Project Work: Innovating, Flourishing And Thriving<br> From Pre-Covid-19 To Post Covid-19<br>(1 June 2021 to 3 June 2021)**
 **By _Ms Cheryl Teo_**
