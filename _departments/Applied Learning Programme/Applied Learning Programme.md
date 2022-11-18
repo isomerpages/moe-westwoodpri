@@ -30,7 +30,7 @@ The Westwood Primary Positive Design Applied Learning Programme seeks to develop
 
 |  |  |
 |---|---|
-| P3 | - Create an infographic poster to promote kindness and prevent cruelty to animals.<br>- Click here to view the infographics created by 2021 and 2020 P3 pupils:<br>**2021**:<br>**unsure how to migrate this**<br><br>**2020**:<br>**unsure how to migrate this** |
+| P3 | - Create an infographic poster to promote kindness and prevent cruelty to animals.<br>- Click here to view the infographics created by 2021 and 2020 P3 pupils:<br>**2021**:<br>**unable to use embedded code**<br><br>**2020**:<br>**unable to use embedded code** |
 | P4 | - Create a product that help meet the need and improve the lives of a targeted group of people in our community. |
 | P5 | - Design and create a product that help meet the need and improve the lives of a targeted group of people in our community |
 |
