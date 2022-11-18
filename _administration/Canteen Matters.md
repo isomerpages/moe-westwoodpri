@@ -36,7 +36,7 @@ There are 8 food stalls in the school canteen.
 #### **Timing for Recess, Snack and Lunch Breaks**
 The table below shows the timing for staggered recess, snack and lunch breaks in a school day:
 
-![](/images/Recess%20Schedule.jpg)
+![](/images/canteenmatters.jpg)
 
 #### **Lunch Break**
 On Mondays, Tuesdays and Thursdays, canteen stalls will serve lunch after school dismissal from 1.30pm to 2pm.  
