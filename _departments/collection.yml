@@ -2,13 +2,13 @@ collections:
   departments:
     output: true
     order:
-      - Character & Citizenship Edu/.keep
-      - Character & Citizenship Edu/Character & Citizenship Education.md
-      - Character & Citizenship Edu/Sexuality Education – The Growing Years.md
       - English.md
       - Mathematics.md
       - Science.md
       - Mother Tongue.md
+      - Character & Citizenship Edu/.keep
+      - Character & Citizenship Edu/Character & Citizenship Education.md
+      - Character & Citizenship Edu/Sexuality Education – The Growing Years.md
       - Info & Communication Tech/.keep
       - Info & Communication Tech/Information & Communication Technology.md
       - Info & Communication Tech/Digital Literacy.md
