@@ -26,8 +26,8 @@ sections:
       title: Photo Gallery
       subtitle: Westwood Primary School
       button: click here
-      url: /mk-westwood/photo-gallery/
-      description: Photos from MK @ Westwood
+      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-gallery/
+      description: View Photos from Westwood Primary & MK @ Westwood
   - infobar:
       title: Westwood Facebook Page
       subtitle: Connect with us
