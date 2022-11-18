@@ -28,51 +28,10 @@ The ICT Department seeks to develop future-ready and responsible digital learner
 #### **The ICT Experience @ Westwood!**
 The ICT Experience@Westwood is a programme through which every pupil will be equipped with the fundamental ICT skills to be a future-ready, anchor-steady individual. Through the Baseline ICT Standard Literacy Programme, pupils will be equipped with the essential ICT skills for the 21st Century and learn to be self-directed and collaborative learners. With the increasing use of technology in schools and homes, cyber wellness is aimed to develop pupils’ instinct to protect himself and empower him to take responsibility for his own well-being while in cyberspace.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-amwm{font-weight:bold;text-align:center;vertical-align:top}
-.tg .tg-0lax{text-align:left;vertical-align:top}
-</style>
-<table class="tg">
-<thead>
-  <tr>
-    <th class="tg-amwm">LEVEL</th>
-    <th class="tg-amwm">TARGETED SKILL(S)</th>
-    <th class="tg-amwm">Integration of ICT into Curricular and Co-curricular Subjects</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td class="tg-amwm">Primary 1<br></td>
-    <td class="tg-0lax">- Basic Computer Literacy<br>- Touch-typing Skills<br>- Basic use of MS Word</td>
-    <td class="tg-0lax" rowspan="6"><br><br><br><br><br><br>E-Books in Media Resource Library<br><br>ICT-enabled Learning Trails (Use of mobile devices within the school)<br>iPad Apps for Learning<br>Google Classroom<br>Student Learning Space Portal <br>Mixed Media in Art<br>Use of Web 2.0 Tools </td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Primary 2<br></td>
-    <td class="tg-0lax">- Advanced use of MS Word<br>- Browsing for images online<br>- MS PowerPoint<br>- Sending emails with attachments</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Primary 3<br></td>
-    <td class="tg-0lax">- Google PowerPoint<br>- Browsing for information online</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Primary 4<br></td>
-    <td class="tg-0lax">- Basic MS Excel<br>- Creating prototypes using Microbits</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Primary 5<br></td>
-    <td class="tg-0lax">- Publish and share information using Google Sites</td>
-  </tr>
-  <tr>
-    <td class="tg-amwm">Primary 6<br></td>
-    <td class="tg-0lax">- Use of Movie Maker with basic video-editing skills<br>- Code-for-Fun Programme by MOE</td>
-  </tr>
-</tbody>
-</table>
+| Level | Targeted Skill(s) | Integration of ICT into Curricular and Co-curricular Subjects |
+|:---:|---|---|
+| Primary 1<br><br><br><br>Primary 2<br><br><br>Primary 3<br><br>Primary 4<br><br>Primary 5<br><br>Primary 6 | - Basic Computer Literacy<br>- Touch-typing Skills<br>- Basic use of MS Word<br><br>- Advanced use of MS Word<br>- Browsing for images online<br>- MS PowerPoint<br>- Sending emails with attachments<br><br>- Google PowerPoint<br>- Browsing for information online<br><br>- Basic Ms Excel<br>- Creating prototypes using Microbits<br><br>- Publish and share information using Google Sites<br><br>- Use of Movie Maker with basic video-editing skills<br>- Code-for-Fun Programme by MOE | <br><br><br><br><br>- E-Books in Media Resource Library<br>- ICT-enabled Learning Trails (Use of mobile devices within the school)<br>- iPad Apps for learning<br>- Google Classroom<br>- Student Learning Space Portal<br>- Mixed Media in Art<br>- Use of Web 2.0 Tools |
+|
 
 <img src="/images/ict3.jpg" style="width:85%">
 <img src="/images/ict4.jpg" style="width:85%">
