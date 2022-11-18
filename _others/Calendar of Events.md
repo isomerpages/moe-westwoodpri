@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Calendar of Events**
 
-**Calendar issue (school requires own Google Calendar):**
+Work in Progress
