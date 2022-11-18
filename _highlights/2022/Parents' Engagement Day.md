@@ -8,23 +8,23 @@ third_nav_title: "2022"
 ##### **Parents’ Engagement Day 2022**
 #### **Primary 1**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1CLvt4DL3iQEa79pYYvBrr1wPTlZ6MgJN/view) to watch the video.
 
 #### **Primary 2**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1xQwDAGtOpnpU8LTgNpd22ztbIlcbuh9T/view) to watch the video.
 
 #### **Primary 3**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1-2Y2MdJd177zQYa8G2N2w74PCe7HFJWd/view) to watch the video.
 
 #### **Primary 4**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1TJVmBHrskZ5Vqdx8WbG_AEScvlc70XkE/view) to watch the video.
 
 #### **Primary 5 & 6**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1PCJox9QjZ5QxLVwLGJrTKU_SFOB8CQ98/view) to watch the video.
 
 [P1 Parents Engagement Class Briefing slides_2022.pdf](/files/Parents%20Engagement%20Class%20Briefing%20slides%20P1.pdf)<br>
 [P2 Parents Engagement Class Briefing slides_2022.pdf](/files/Parents%20Engagement%20Class%20Briefing%20slides%20P2.pdf)<br>
@@ -35,7 +35,7 @@ third_nav_title: "2022"
 
 #### **Parent Support Group (PSG) Recruitment Talk**
 
-**requires video to be uploaded onto youtube**
+Please click [here](https://drive.google.com/file/d/1e8Vnp3ZIAWq41zOqSk-ynG6qLFCtBsNh/view) to watch the video.
 
 To sign up to be parent helpers/PSG, please click [here](https://form.gov.sg/61e69fb1e3238600157f73d9) or the QR code below.
 
