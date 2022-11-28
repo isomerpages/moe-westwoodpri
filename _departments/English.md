@@ -5,7 +5,10 @@ description: ""
 ---
 ### **English**
 
-<img src="/images/eng1.jpg" style="width:85%">
+<img src="/images/English.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Ms Yong Lee Min, Ms Jurveen Kaur, Ms Chong Yoke Ting, Mdm Ralleeah Naina Mohamed, Ms Janice Foo Mei Chien, Ms Siti Aisyah Binte Mohamed Yazid
