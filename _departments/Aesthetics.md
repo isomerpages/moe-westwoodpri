@@ -5,7 +5,10 @@ description: ""
 ---
 ### **Aesthetics**
 
-<img style="width:85%" src="/images/aesthetics1.jpg">
+<img style="width:85%" src="/images/Aesthetics.jpg">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Ms Hazel Chan Lay Mun, Ms Yap Chin Hwee Sherine, Mrs Goh Han Jin
