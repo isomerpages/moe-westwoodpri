@@ -89,9 +89,10 @@ For mobile users, please click [here](https://drive.google.com/file/d/18fJRqGOD
 
 For mobile users, please click [here](https://drive.google.com/file/d/1Jya7xWAHDGdddhkqC-ZHxt4vNb7WR0Kv/view) to view video.
 
-#### **Frequently Asked Questions with Queries link**
-[FAQs.pdf](/files/faq.pdf)<br>
-[https://go.gov.sg/2023p1query](https://go.gov.sg/2023p1query)
+#### **Information for Parents**
+**[FAQs.pdf](/files/faq.pdf)**<br>
+**[P1 Orientation Slides](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing)**<br>
+**[Enquiries from 2023 P1 Parents](https://go.gov.sg/2023p1query)**
 
 #### **Useful Links**
 ##### **1\) Bookshop Operator**
