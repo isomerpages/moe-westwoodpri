@@ -5,16 +5,16 @@ description: ""
 ---
 ### **Science**
 
-<img src="/images/science1.jpg" style="width:85%">
+<img src="/images/sciencedept.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Mdm Long Miaw Ying Jennifer, Mdm Naseema Beevi D/O Abd Rehim, Ms Hiew Litiang, Ms Ngiam Wei Ling, Melissa, Ms Dawn Sia Pei Fen
+Mr Tan Yeow Heng Ben, Ms Ngiam Wei Ling, Melissa, Ms Dawn Sia Pei Fen, Mdm Long Miaw Ying Jennifer, Mdm Naseema Beevi D/O Abd Rehim, Ms Elaine Lew Yi Ling, Mr Joel Ong Xuan You
 
 **Second Row (middle) from left:**<br>
-Ms Fathimah Muzamillah, Ms Elaine Lew Yi Ling, Mdm Jane Kang Hui Chin, Ms Goh Ho Laye, Ms Katherine Chua Cheng Bee, Mrs Muthu
-
-**Third Row (bottom) from left:**<br>
-Mr Joel Ong Xuan You, Mr Macus Rouis Quek Weng Sung, Mr Tan Yeow Heng Ben
+Mrs Muthu, Ms Goh Ho Laye, Ms Fathimah Muzamillah, Mdm Jane Kang Hui Chin, Ms Hiew Litiang, Ms Heng Xi Yan Jean, Ms Katherine Chua Cheng Bee
 
 #### **Learning Outcome**
 Every Westwood pupil will become an inquisitive learner through the acquisition of scientific knowledge and skills and show care and concern for the environment.
