@@ -26,11 +26,11 @@ Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every
 | **Level** | **Timeline** | **ICT Enrichment**	 | **ICT Baseline**	 | **View Students' Workpieces**|
 |:---:|:---:|:---:|:---:|:---:|
 | Primary 1 | Term 2 | Scratch Junior | Touch-typing and MS Word | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/4o7dos77iddh042s) |
-| Primary 2 | Term 3 | Scratch Junior | MS Powerpoint and Email |  |
-| Primary 3 | Term 3 | Scratch 3.0 | **Project Work on 'Care for Pets/Animals'<br>** Google Slides |  |
+| Primary 2 | Term 3 | Scratch Junior | MS Powerpoint and Email | [Click Here]( https://sites.google.com/moe.edu.sg/digital-literacy-p2/home) |
+| Primary 3 | Term 3 | Scratch 3.0 | **Project Work on 'Care for Pets/Animals'<br>** Google Slides | [Click Here](https://sites.google.com/moe.edu.sg/p3-g-slides/home?pli=1) |
 | Primary 4 | Term 1 and Term 3 | - | **Project Work on 'Passion for Community'** <br>Block Programming using Micro-bits<br><br>Google Sheets with Graphs | [Click Here](https://sites.google.com/moe.edu.sg/p4-pw-2022/home) |
 | Primary 5 | Term 2 | App Coding using Thunkable | **Project Work on Positive Design**<br>Webpage Creation using Google sites | [Click Here](https://sites.google.com/moe.edu.sg/digital-literacy-p5-2022/home) |
-| Primary 6 | Term 4 | Code-for-Fun by MOE | Video Maker |  |
+| Primary 6 | Term 4 | Code-for-Fun by MOE | Video Maker | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/6ox61mh5s8uh6up2) |
 |
 
 <img src="/images/dl2.jpg" style="width:49%" align=left>
