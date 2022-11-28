@@ -16,3 +16,17 @@ Click [here](https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
 <p><a href="https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home">
 <img style="width:85%" src="/images/10th%20anni%20banner.jpg">
 </a></p>
+
+#### **10 Anniversary Celebration Video 2022**
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/3o85jBsL0ic" title="10th Anniversary Celebration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### **Our Westwood Publications**
+
+Click [here](https://sites.google.com/moe.edu.sg/westwoodpublications/westwood-buzz) to view our Westwood Buzz and Pos Ed publications. 
+
+<img src="/images/westwoodpublications.png" style="width:65%">
+
+#### **10 Years of Positively Westwood (2013 ~ 2022)**
+
+<iframe width="700" height="350" src="https://www.youtube.com/embed/Kn4IpslCRQA" title="10 Years of Positively Westwood" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
