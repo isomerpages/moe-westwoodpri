@@ -12,10 +12,10 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Ms Wong Sheang Yun, Ms Shen Rong, Ms Siti Juwani Bte Abd Rahman, Ms Khaizuran Bte Supa'at, Mdm Venkatachalam Alamu, Ms Saraswathi Pannirsilvam
+Ms Nurul Syafiqah Bte Anuar Khan, Ms Saraswathi Pannirsilvam, Ms Murshidah Bte Hassan, Ms Lin Shing Chi, Ms Claire Lu Baozhu, Ms Wong Sheang Yun, Mdm Jamaliah Bte Sulaiman
 
 **Second Row (middle) from left:**<br>
-Ms Nurul Syafiqah Bte Anuar Khan, Ms Thachayani Putaran, Ms Sandy Lee Lay Kheng, Mdm Jamaliah Bte Sulaiman, Ms Nur Diyana Bte Zakariah, Ms Janice Foo Mei Chien, Ms Isabelle Gan Chai Hong, Ms Murshidah Bte Hassan
+Ms Sandy Lee Lay Kheng, Ms Thachayani Putaran, Ms Nur Diyana Bte Zakariah, Ms Shen Rong, Ms Siti Juwani Bte Abd Rahman, Mdm Venkatachalam Alamu, Ms Janice Foo Mei Chien
 
 #### **Character and Citizenship Programmes**
 
