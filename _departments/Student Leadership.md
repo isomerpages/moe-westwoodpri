@@ -11,6 +11,13 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
+**First Row from left:**<br>
+Ms Gu Si Yuan, Ms Yap Hui Tee, Mr Ng Kai Zhe Alan, Mr Premnath S/O Chandran, Mr Mohamed Rafik Osman Alkhatib, Ms Ngiam Wei Ling, Melissa, Mr Loh Chee Wei 
+
+**Second Row from left:**<br>
+Mr Tan Shi Wei, Mr Seet Wee Key, Mr Devaraj S/O Nambirajan, Mr Khairul Abdillah Bin Ismail, Mr Jonathan Chng Ching Chuang, Mr Chow Zhixian, Ariel, Mr Zhang Weixiang
+
+
 #### **Curricular Objectives**
 The Westwood Primary Positive Learning for Life Programme seeks to develop our pupils to be Future-Ready and Anchor-Steady, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader.
 
