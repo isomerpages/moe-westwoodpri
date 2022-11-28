@@ -7,7 +7,7 @@ description: ""
 #### **2022**
 ##### **Staff and Pupils’ Achievement for 2022**
 
-
+<iframe width="700" height="350" src="https://www.youtube.com/embed/Le9CnDTwmvs" title="We Flourish and Thrive Together 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **2021**
 ##### **Staff Achievements for 2021**
