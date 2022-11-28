@@ -4,7 +4,10 @@ permalink: /departments/pe/
 description: ""
 ---
 ### **Physical Education**
-<img style="width:85%" src="/images/pe1.jpg">
+<img style="width:85%" src="/images/Physical%20Education.jpg">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Mr Khairul Abdillah Bin Ismail, Mr Seet Wee Key, Mr Ng Zhili Gerard-Christian
