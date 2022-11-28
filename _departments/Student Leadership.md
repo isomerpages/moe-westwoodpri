@@ -6,7 +6,10 @@ description: ""
 ### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
 
-<img src="/images/sl1.png" style="width:85%">
+<img src="/images/LeadershipTeam.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 #### **Curricular Objectives**
 The Westwood Primary Positive Learning for Life Programme seeks to develop our pupils to be Future-Ready and Anchor-Steady, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader.
