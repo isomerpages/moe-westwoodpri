@@ -5,7 +5,10 @@ description: ""
 ---
 ### **Mathematics**
 
-<img src="/images/math1.jpg" style="width:85%">
+<img src="/images/Mathematics.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Ms Lam Meng Chee, Ms Elaine Lai Yongxian, Mdm Nora Bte Isnin, Mdm Azimah Bte Ghazali, Mrs May Foo, Mdm Lim Shae Min
