@@ -6,7 +6,10 @@ third_nav_title: Info & Communication Tech
 ---
 ### **Information & Communication Technology**
 
-<img src="/images/ict1.jpg" style="width:85%">
+<img src="/images/ICTInnovation&CyberwellnessTeam.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Ms Yong Lee Min, Ms Lam Meng Chee, Mdm Long Miaw Ying Jennifer, Mdm Kee Suat Har, Ms Elna Bte Hussin, Ms Jasmine Koh Hwee Ling, Ms Elaine Lai Yongxian
