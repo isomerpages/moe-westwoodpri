@@ -11,13 +11,10 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Ms Lam Meng Chee, Ms Elaine Lai Yongxian, Mdm Nora Bte Isnin, Mdm Azimah Bte Ghazali, Mrs May Foo, Mdm Lim Shae Min
+Mr Khoo Rong Huang, Mrs Agnes Seah Kai Leong, Ms Elaine Lai Yongxian, Ms Lam Meng Chee, Mdm Sophia Tan Seok Yee, Mdm Azimah Bte Ghazali, Mdm Suhaila Bte Laip
 
 **Second Row (middle) from left:**<br>
-Ms Preetha Balagi, Mdm Suhaila Bte Laip, Mdm Sophia Tan Seok Yee, Mdm Jamaliah Bte Sulaiman, Ms Saraswathi Pannirsilvam
-
-**Third Row (bottom) from left:**<br>
-Mr Boo Hong Rui, Mr Khoo Rong Huang, Mr Tan Shi Wei, Ms Catherine Koh Joo Tian, Mrs Agnes Seah Kai Leong
+Mr Boo Hong Rui, Mrs May Foo, Ms Gildabella, Ms Saraswathi Pannirsilvam, Mdm Lim Shae Min, Ms Catherine Koh Joo Tian, Mdm Nora Bte Isnin, Ms Ker Bee Lay, Mr Tan Shi Wei
 
 #### **Vision**
 Every Westwood pupil is to be a future-ready, anchor-steady Mathematical problem solver
