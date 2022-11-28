@@ -10,11 +10,8 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Ms Hazel Chan Lay Mun, Ms Yap Chin Hwee Sherine, Mrs Goh Han Jin
-
-**Second Row (bottom) from left**:<br>
-Ms Gu Si Yuan, Ms Ang Hwee Chin
+**First Row from left:**<br>
+Mr Zhang Weixiang, Mr Dexter Sim, , Mrs Goh Han Jin, Ms Hazel Chan Lay Mun, Ms Gu Si Yuan, Ms Lee Yeh Chi
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
