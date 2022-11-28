@@ -10,13 +10,13 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Mdm Kee Suat Har, Ms Yao Anli, Ms Elna Bte Hussin, Tan Sze Yi, Mdm Venkatachalam Alamu, Mdm Siti Kalsom Bte Zam Zam, Ms Wong Sheang Yun, Ms Thachayani Putaran, Ms Murshidah Bte Hassan, Ms Zhou Liting
+Mdm Venkatachalam Alamu, Ms Tan Sze Yi, Ms Murshidah Bte Hassan, Ms Elna Bte Hussin, Mdm Kee Suat Har, Ms Teo Shu Ting Cheryl, Ms Li Huili, Mrs Jasmine Wong-Koh Hwee Ling, Mr Devaraj S/O Nambirajan
 
 **Second Row (middle) from left:**<br>
-Mrs Jayaraman Chitra, Ms Nurul Syafiqah Bte Anuar Khan, Ms Sandy Lee Lay Kheng, Ms Khaizuran Bte Supa'at, Ms Yap Hui Tee, Mdm Suriati Bte Djuahir, Ms Tong Jin Yi, Ms Ng Ley Huey, Ms Siti Juwani Bte Abd Rahman
+Ms Wong Sheang Yun, Ms Nurul Syafiqah Bte Anuar Khan, Ms Vivian Lim, Mdm Wei Junying, Ms Zhou Liting, Ms Shen Rong, Ms Sandy Lee Lay Kheng, Ms Ng Ley Huey, Ms Tan Lay Lian, Mdm Siti Kalsom Bte Zam Zam, Mdm Suriati Bte Djuahir
 
 **Third Row (bottom) from left:**<br>
-Mr Chow Kai Loon, Mdm Wei Junying, Mrs Jasmine Wong-Koh Hwee Ling, Ms Li Huili, Ms Teo Shu Ting Cheryl, Ms Vivian Lim, Ms Shen Rong, Ms Claire Lu Baozhu, Ms Ang Chye Siang
+Ms Koh Kah Neng, Ms Tong Jin Yi, Ms Yap Hui Tee, Ms Claire Lu Baozhu, Mrs Tan-Nai Li Hua, Ms Siti Juwani Bte Abd Rahman, Ms Thachayani Putaran
 
 #### **Curricular Objective**
 The Mother Tongue Language Department seeks to develop competent Mother Language learners through instilling greater ownership of learning, as well as developing pupils' appreciation and promoting their interest in the learning of Mother Tongue Language and Culture. We believe that every child should strive to excel in the daily use and application of the Mother Tongue Language.
