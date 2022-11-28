@@ -4,10 +4,12 @@ permalink: /departments/cce/
 description: ""
 third_nav_title: Character & Citizenship Edu
 ---
-
 ### **Character & Citizenship Education**
 
-<img src="/images/cce1a.jpg" style="width:85%">
+<img src="/images/cce%20dept.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Ms Wong Sheang Yun, Ms Shen Rong, Ms Siti Juwani Bte Abd Rahman, Ms Khaizuran Bte Supa'at, Mdm Venkatachalam Alamu, Ms Saraswathi Pannirsilvam
