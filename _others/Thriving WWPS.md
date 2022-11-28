@@ -4,6 +4,11 @@ permalink: /others/thriving-wwps/
 description: ""
 ---
 ### **Thriving WWPS**
+#### **2022**
+##### **Staff and Pupils’ Achievement for 2022**
+
+
+
 #### **2021**
 ##### **Staff Achievements for 2021**
 
