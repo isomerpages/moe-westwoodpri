@@ -6,13 +6,16 @@ third_nav_title: Applied Learning Programme
 ---
 ### **Applied Learning Programme**
 
-<img src="/images/alp1.jpg" style="width:85%">
+<img src="/images/appliedlearningprog.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Mdm Long Miaw Ying Jennifer, Ms Hazel Chan Lay Mun, Ms Teo Shu Ting Cheryl, Ms Elaine Lew Yi Ling, Ms Gan Seow Ling, Ms Goh Ho Laye
+Ms Katherine Chua Cheng Bee, Ms Goh Ho Laye, Mr Dexter Sim, Ms Teo Shu Ting Cheryl, Ms Elaine Lew Yi Ling, Ms Hazel Chan Lay Mun, Mdm Long Miaw Ying Jennifer
 
 **Second Row (bottom) from left:**<br>
-Ms Tong Jinyi, Ms Preetha Balagi, Ms Katherine Chua Cheng Bee, Mrs Jayaraman Chitra
+Mrs Tan-Nai Li Hua, Ms Tong Jinyi, Ms Viroshini, Ms Koh Kah Neng, Ms Gan Seow Ling
 
 #### **Curricular Objectives**
 The Westwood Primary Positive Design Applied Learning Programme seeks to develop pupils’ critical and inventive thinking, as well as social awareness as they create designs that value-add to their communities.
