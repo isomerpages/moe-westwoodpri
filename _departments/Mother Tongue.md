@@ -4,7 +4,10 @@ permalink: /departments/mtl/
 description: ""
 ---
 ### **Mother Tongue**
-<img src="/images/mtl1.jpg" style="width:85%">
+<img src="/images/Mother%20Tongue%20Languages%20Department.jpg" style="width:85%">
+
+Credits to:<br>
+**Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
 Mdm Kee Suat Har, Ms Yao Anli, Ms Elna Bte Hussin, Tan Sze Yi, Mdm Venkatachalam Alamu, Mdm Siti Kalsom Bte Zam Zam, Ms Wong Sheang Yun, Ms Thachayani Putaran, Ms Murshidah Bte Hassan, Ms Zhou Liting
