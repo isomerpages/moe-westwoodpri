@@ -12,13 +12,13 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row (top) from left:**<br>
-Ms Yong Lee Min, Ms Lam Meng Chee, Mdm Long Miaw Ying Jennifer, Mdm Kee Suat Har, Ms Elna Bte Hussin, Ms Jasmine Koh Hwee Ling, Ms Elaine Lai Yongxian
+Mr Khoo Rong Huang, Ms Jasmine Koh Hwee Ling, Mr Azeri Bin Mustafar, Ms Li Huili, Mdm Azimah Bte Ghazali, Mr Joel Ong Xuan You, Mr Ng Zhili Gerard-Christian
 
 **Second Row (middle) from left:**<br>
-Ms Li Huili, Mdm Siti Kalsom Bte Zam Zam, Ms Saranya D/O Asokan, Mr Rudy Hairil Bin Adnan, Ms Chong Yoke Ting, Mdm Azimah Bte Ghazali
+Mdm Suriati Bte Djuahir, Mdm Siti Kalsom Bte Zam Zam, Ms Chong Yoke Ting, Ms Elaine Lai Yongxian, Ms Tan Lay Lian, Ms Saranya D/O Asokan, Ms Yong Lee Min
 
 **Third Row (bottom) from left:**<br>
-Mr Azeri Bin Mustafar, Mr Joel Ong Xuan You, Mr Macus Rouis Quek Weng Sung, Mr Ng Zhili Gerard-Christian, Mr Khoo Rong Huang, Mr Muhammad Nazirul Hakim Bin Jasni
+Ms Noor Amirah Bte Azman, Ms Lam Meng Chee, Mdm Long Miaw Ying Jennifer, Mdm Kee Suat Har, Ms Elna Bte Hussin
 
 #### **WWPS Pupil ICT Learning Framework**
 
