@@ -5,7 +5,8 @@ description: ""
 ---
 ### **Our Teaching Staff**
 #### **Organizational Chart**
-![](/images/staff1.jpg)
+
+<img src="/images/ourteachingstaff.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/staff2.jpg" style="width:30%">
@@ -22,7 +23,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| (to be updated)<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Head |
+| (to be updated)<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Coordinator |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/staff6.jpg" style="width:29.5%;margin-right:15px;" align = "left">
