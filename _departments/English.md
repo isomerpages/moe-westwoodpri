@@ -10,14 +10,11 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Ms Yong Lee Min, Ms Jurveen Kaur, Ms Chong Yoke Ting, Mdm Ralleeah Naina Mohamed, Ms Janice Foo Mei Chien, Ms Siti Aisyah Binte Mohamed Yazid
+**First Row from left:**<br>
+Mr Premnath S/O Chandran, Mr Ng Kai Zhe Alan, Ms Janice Foo Mei Chien, Ms Jurveen Kaur, Ms Yong Lee Min, Ms Enda Wendy Chan, Mrs Winnie Teng (Leong), Ms Isabelle Gan Chai Hong, Mr Mohamed Rafik Osman Alkhatib
 
-**Second Row (middle) from left:**<br>
-Ms Isabelle Gan Chai Hong, Mrs Winnie Teng (Leong), Ms Nur Diyana Bte Zakariah, Ms Enda Wendy Chan, Ms Saranya D/O Asokan, Ms Noor Amirah Bte Azman
-
-**Third Row (bottom) from left:**<br>
-Mr Premnath S/O Chandran, Mr Mohamed Rafik Osman Alkhatib, Mr Mohamed Ridhwan, Mr Ng Kai Zhe Alan, Ms Gan Seow Ling, Ms Sarah Chua Ai Tee
+**Second Row from left:**<br>
+Ms Saranya D/O Asokan, Ms Siti Aisyah Binte Mohamed Yazid, Ms Sarah Chua Ai Tee, Ms Noor Amirah Bte Azman, Ms Viroshini, Ms Nur Diyana Bte Zakariah, Mdm Jamaliah Bte Sulaiman, Mdm Ralleeah Naina Mohamed, Ms Lin Shing Chi, Ms Chong Yoke Ting, Ms Gan Seow Ling
 
 #### **Curricular Objectives**
 English is the common language that facilitates bonding amongst the different ethnic and cultural groups in Singapore. At the global level, English allows Singaporeans to tap into a knowledge-based economy where English is the main lingua franca of the Internet, of Science and Technology and of World Trade.
