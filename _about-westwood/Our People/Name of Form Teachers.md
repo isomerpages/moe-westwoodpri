@@ -72,6 +72,32 @@ third_nav_title: Our People
 
 #### **P6 Form Teachers**
 
-
+| Class | Name |
+|:---:|---|
+| 6 Confidence | Ms Yong Lee Min<br>Mr Khairul Abdillah |
+| 6 Diligence | Ms Noor Amirah<br>Mdm Kee Suat Har |
+| 6 Gratitude | Ms Lam Meng Chee<br>Ms Yao Anli |
+| 6 Resilience | Ms Janice Foo Mei Chien<br>Mr Khoo Rong Huang |
+| 6 Synergy | Mdm Long Miaw Ying<br>Mdm Siti Kalsom |
+| 6 Teamwork | Ms Tan Sze Yi<br>Mdm Sophia Tan Seok Yee |
+|
 
 #### **Other Teaching Staff**
+
+|  |
+|:---:|
+| Ms Jane Kang Hui Chin |
+| Ms Zhou Liting |
+| Ms Loh Tze Mui Cindy |
+| Ms Zakiyah |
+| Ms Nurmalyanah |
+| Mrs May Foo |
+| Ms Sarah Chua Ai Tee |
+| Ms Ang Chye Siang |
+| Ms Ker Bee Lay |
+| Ms Catherine Koh |
+| Mrs Agnes Seah |
+| Mrs Muthu |
+| Mr Idris |
+| Ms Koh Kah Neng |
+|
