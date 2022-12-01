@@ -80,38 +80,25 @@ An activity that aims to spread the love for reading by recommending interesting
 \- [https://issuu.com/wwpspublication/docs/wwps\_publication\_sfs](https://issuu.com/wwpspublication/docs/wwps_publication_sfs)
 
 #### **Chinese Language**
-**Mdm Kee Suat Har (HOD Mother Tongue)<br>
-Ms Yao Anli (LH CL)<br>
-Mrs Jasmine Wong-Koh Hwee Ling (Senior Teacher CL)**<br>
-Mr Chow Kai Loon <br>
-Ms Tan Sze Yi<br>
-Ms Ng Ley Huey<br>
-Ms Tong Jin Yi<br>
-Ms Vivian Lim<br>
-Ms Sandy Lee<br>
-Ms Zhou Liting<br>
-Mdm Wei Jun Ying<br>
-Ms Cheryl Teo<br>
-Ms Li Huili<br>
-Ms Shen Rong<br>
-Ms Wong Sheang Yun<br>
-Ms Yap Hui Tee<br>
-Ms Lu Baozhu<br>
-Ms Tan Lay Lian<br>
+Mdm Kee Suat Har (HOD/MTL)<br>
+Ms Yao Anli  (LH/CL)<br>
+Ms Jasmine Koh Hwee Ling (ST/CL)<br>
+Mdm Lee Lay Kheng, Sandy<br>
 Mrs Tan-Nai Li Hua<br>
+Ms Wong Sheang Yun<br>
+Ms Vivian Lim Swee Keng<br>
+Mdm Wei Junying <br>
+Ms Yap Hui Tee<br>
+Ms Ng Ley Huey<br>
 Ms Ang Chye Siang <br>
 Ms Koh Kah Neng 
 
 #### **Malay Language**
-**Mdm Elna Hussin (SH Malay & Tamil Languages)**<br>
-Mdm Suriati<br>
+Ms Elna (SH/ML & TL)<br>
+Ms Nurul Syafiqah Anuar Khan <br>
 Ms Siti Juwani<br>
-Ms Khaizuran<br>
-Mdm Siti Kalsom<br>
-Ms Nurul Syafiqah<br>
-Ms Murshidah
+Mdm Suriati Bte Djuahir
 
 #### **Tamil Language**
-Mdm Venkatachalam Alamu  <br>
-Ms Thachayani Putaran<br>
-Mr Devaraj
+Ms Venkatachalam Alamu<br>
+Ms Thachayani Putaran
