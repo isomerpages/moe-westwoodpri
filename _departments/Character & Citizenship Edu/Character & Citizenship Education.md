@@ -39,3 +39,13 @@ Ms Sandy Lee Lay Kheng, Ms Thachayani Putaran, Ms Nur Diyana Bte Zakariah, Ms Sh
 	<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
+
+#### **Character & Citizensip Education Committee**
+
+Ms Lin Shing Chi (HOD/CCE & Pos Ed)<br>
+Ms Tan Sze Yi (SH/CCE)<br>
+Mdm Jamaliah (SH/NESS)<br>
+Ms Lu Baozhu Claire <br>
+Ms Chong Yoke Ting <br>
+Ms Tan Lay Lian<br>
+Ms Shen Rong
