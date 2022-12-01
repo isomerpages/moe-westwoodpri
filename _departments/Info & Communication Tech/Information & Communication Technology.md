@@ -64,22 +64,7 @@ Partnership with parents to support them in understanding cyber wellness issues 
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
 
 #### **Information & Communication Technology Committee**
-**Ms Li Huili (HOD ICT)<br>
-Mr Ng Zhili Gerard-Christian (SH ICT & Data Manager)**<br>
-Mdm Kee Suat Har<br>
-Mrs Jasmine Wong-Koh Hwee Ling<br>
-Mdm Siti Kalsom<br>
-Ms Elna Bte Hussin<br>
-Ms Yong Lee Min<br>
-Mr Joel Ong <br>
-Mr Khoo Rong Huang<br>
-Mdm Azimah<br>
-Ms Lam Meng Chee<br>
-Ms Elaine Lai<br>
-Ms Chong Yoke Ting<br>
-Mdm Jennifer Long<br>
-Ms Saranya D/o Asokan<br>
-Ms Tan Lay Lian<br>
-Ms Suriati<br>
-Ms Noor Amirah<br>
-Mr Macus Quek
+Ms Li Huili (HOD ICT)<br>
+Mr Ng Zhili Gerard-Christian (SH/ ICT & Data Manager)<br>
+Ms Siti Kalsom Zam Zam<br>
+Mdm Azimah
