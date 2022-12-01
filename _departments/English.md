@@ -94,25 +94,14 @@ Pupils came in a costume based on their favourite book. They get to share the lo
 <br clear="left">
 
 #### **English Language Committee 2022**
-**Ms Yong Lee Min (HOD EL)**<br>
-**Ms Jurveen Kaur (LH EL)**<br>
-Ms Chong Yoke Ting (LSP Coordinator) (P1 Rep)<br>
-Mdm Ralleeah (P2 Rep)<br>
-Mrs Winnie Teng (P3 Rep)<br>
-Mr Alan Ng (P4 Rep)<br>
-Ms Janice Foo (P5 Rep)<br>
-Ms Isabelle Gan (P6 Rep)<br>
-Mdm Siti Aisyah<br>
-Mr Mohamed Ridhwan<br>
+Ms Yong Lee Min (HOD/EL)<br>
+Ms Jurveen (LH/EL)<br>
+Mr Mohamed Rafik Osman Alkhatib (School Staff Developer)<br>
+Ms Hiew Li Tiang<br>
+Ms Viroshini <br>
 Ms Nur Diyana<br>
-Mr Mohamed Rafik<br>
-Mr Premnath<br>
-Ms Enda Chan<br>
-Ms Saranya D/O Asokan<br>
+Mrs Winnie Teng<br>
 Ms Noor Amirah<br>
-Mdm Jamaliah<br>
-Ms Lin Shing Chi<br>
-Ms Gan Seowling<br>
-Ms Viroshini<br>
-Ms Sarah Chua <br>
-Ms Gildabella
+Ms Janice Foo Mei Chien<br>
+Ms Sarah Chua Ai Tee <br>
+Ms Ker Bee Lay 
