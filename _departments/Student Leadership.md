@@ -74,16 +74,11 @@ P1 to P6:
 <img src="/images/sl6.png" style="width:100%">
 
 #### **Student Leadership Team**
-**Mr C.Premnath (YH Middle/ Student Mgt & Leadership)<br>
-Mr Alan Ng (AYH Middle Pri/ Student Leadership)**<br>
-Ms Ng Ley Huey<br>
+Mr Premnath S/O Chandran (Year Head for Middle Primary & Pupil Management)<br>
+Mr Khairul Abdillah (HOD/PE & CCA)<br>
+Mr Ng Kai Zhe Alan (Assistant Year Head for Middle Primary)<br>
 Mr Tan Shi Wei<br>
-Ms Melissa Ngiam<br>
-Mr Devaraj
-
-#### **Student Leadership (CCA Leaders)**
-**Mr Khairul Abdillah (HOD PE & CCA)**<br>
-Mr Mohamed Ridhwan<br>
-Mr Chow Zhixian, Ariel<br>
-Ms Yap Hui Tee<br>
-Ms Gu Si Yuan
+Mr Devaraj S/O Nambiraja<br>
+Mr Loh Chee Wei <br>
+Mr Mohamed Ridhwan <br>
+Ms Isabelle Gan
