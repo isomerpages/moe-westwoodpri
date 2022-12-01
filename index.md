@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Westwood Primary School
-      background: /images/hero-banner.png
+      background: /images/hero.gif
       key_highlights:
         - title: Wishing Wall
           description: ""
