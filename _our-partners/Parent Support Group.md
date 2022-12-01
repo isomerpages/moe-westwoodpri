@@ -46,4 +46,7 @@ Mdm Suriati Binte Djuahir<br>
 Mdm Jasmine Koh Hwee Ling
 
 ##### **2022 PSG Newsletter**
-Click [here](https://www.flipsnack.com/huili/wwps-psg-newsletter-2022.html) to read 2022 PSG Newsletter.
+
+<p><a href="https://www.flipsnack.com/huili/wwps-psg-newsletter-2022.html">
+<img style="width:45%" src="/images/psgflip.jpg">
+</a></p>
