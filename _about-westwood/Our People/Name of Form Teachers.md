@@ -48,15 +48,30 @@ third_nav_title: Our People
 
 #### **P4 Form Teachers**
 
-
+| Class | Name |
+|:---:|---|
+| 4 Confidence | Ms Katherine Chua Cheng Bee<br>Ms Nurul Syafiqah |
+| 4 Diligence | Ms Goh Ho Laye<br>Mdm Naseema Beevi |
+| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi<br>Ms Khoo Jia Hui |
+| 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
+| 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
+| 4 Teamwork | Ms Isabelle Gan Chai Hong<br>Mr Devaraj S/O Nambirajan |
+|
 
 #### **P5 Form Teachers**
 
-
+| Class | Name |
+|:---:|---|
+| 5 Confidence | Mr Macus Rouis<br>Ms Tong Jin Yi |
+| 5 Diligence | Mr Mohamed Rafik Osman Alkhatib<br>Ms Jasmine Koh Hwee Ling |
+| 5 Gratitude | Ms Dawn Sia Pei Fen<br>Mr Ng Zhili Gerard-Christian |
+| 5 Resilience | Mr Boo Hong Rui<br>Ms Yap Hui Tee |
+| 5 Synergy | Ms Viroshini<br>Ms Murshidah |
+| 5 Teamwork | Ms Hiew Litiang<br>Mdm Lee Lay Kheng, Sandy |
+|
 
 #### **P6 Form Teachers**
 
 
 
 #### **Other Teaching Staff**
-
