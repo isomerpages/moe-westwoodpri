@@ -15,7 +15,7 @@ Maker Publication is launched on Children’s Day in Year 2020. This maker publi
 
 Browse our e-Flipbook, “An Anthology of Westwood Making Experiences”.
 
-**unable to use embedded code**
+Click [here](https://www.gohbros.com/flipbook/westwood-high-res/II/) to read "An Anthology of Westwood Making Experiences".
 
 #### **Make Wonders (Maker Google Site)**
 Make Wonders, the title of our Google Site, facilitates ideas on creation, imagination, reading, learning, discovering, making and more!
