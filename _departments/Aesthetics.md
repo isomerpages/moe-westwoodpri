@@ -49,11 +49,9 @@ To provide a vibrant Aesthetics environment for our pupils to be engaged in the 
 <img style="width:45%" src="/images/aesthetics7.jpg">
 
 #### **Our People**
+Mdm Hazel Chan (HOD/Aesthetics)<br>
+Mr Dexter Sim<br>
+Mrs Goh Han Jin<br>
+Mr Zhang Weixiang (Music Coordinator)<br>
+Ms Gu Si Yuan
 
-| Art | Music |
-|:---:|:---:|
-| Mdm Hazel Chan Lay Mun (HOD Aesthetics) | Miss Gu Si Yuan |
-| Mdm Sherine Yap Chin Hwee | Mr Zhang Weixiang |
-| Mr Dexter Sim Yu Min | Ms Ang Hwee Chin |
-| Mrs Goh Han Jin |  |
-|
