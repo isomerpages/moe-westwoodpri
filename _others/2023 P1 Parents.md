@@ -25,9 +25,7 @@ For mobile users, please click [here](https://drive.google.com/file/d/1VHvlqgn_
 
 ##### **Supporting Your Child in Primary One (by Mr Chua Sze Siong, Chief Counsellor)**
 
-**require video to be uploaded on youtube**
-
-For mobile users, please click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view) to view video.
+[](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view)
 
 ##### **Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)**
 
