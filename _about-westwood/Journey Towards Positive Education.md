@@ -10,4 +10,6 @@ As a new school which was set up at the start of 2013, Westwood Primary aspires 
 
 #### **A School Journey of Discovering Positive Education**
 
-**unable to use embedded code**
+<p><a href="https://www.flipsnack.com/8F9BB877C6F/a-school-journey-of-discovering-positive-education.html">
+<img style="width:65%" src="/images/towardspositiveedu.jpg">
+</a></p>
