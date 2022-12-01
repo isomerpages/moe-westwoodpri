@@ -44,3 +44,6 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 Mdm Murshidah Binte Hassan<br>
 Mdm Suriati Binte Djuahir<br>
 Mdm Jasmine Koh Hwee Ling
+
+##### **2022 PSG Newsletter**
+Click [here](https://www.flipsnack.com/huili/wwps-psg-newsletter-2022.html) to read 2022 PSG Newsletter.
