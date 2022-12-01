@@ -5,4 +5,4 @@ description: ""
 ---
 ### **P1 & P2- "Joy of Learning" Flipbook**
 
-**Unable to use embedded code**
+Click [here](https://westwoodpri.moe.edu.sg/qql/slot/u147/Flipping%20Book/Westwood%20Publication%20Flipbook.html) to read "Joy of Learning".
