@@ -47,20 +47,14 @@ We believe that early success in Mathematics is crucial for developing interest 
 [https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)
 
 #### **Mathematics Committee**
-**Ms Lam Meng Chee (HOD Math)<br>
-Ms Elaine Lai (LH Mathematics)<br>
-Mr Khoo Rong Huang (ST Mathematics)**<br>
-Mdm Azimah<br>
-Mdm Lim Shae Min<br>
-Mdm Sophia Tan<br>
-Ms Saraswathi<br>
-Mdm Suhaila (LSM coordinator)<br>
-Mrs May Foo<br>
-Mr Tan Shi Wei<br>
-Ms Nora Isnin<br>
+Ms Lam Meng Chee (HOD/Math)<br>
+Ms Elaine Lai Yongxian (LH/MA)<br>
+Mr Khoo Rong Huang (ST/MA)<br>
+Mr Macus Rouis Quek <br>
 Mr Boo Hong Rui<br>
-Ms Viroshini<br>
-Mdm Catherine Koh <br>
-Mrs Agnes Seah <br>
-Ms Ker Bee Lay <br>
-Mr Macus Quek Weng Sung
+Ms Ngiam Wei Ling, Melissa<br>
+Ms Ng Su Chern<br>
+Mdm Lim Shae Min<br>
+Mrs May Foo<br>
+Mrs Agnes Seah<br>
+Ms Catherine Koh 
