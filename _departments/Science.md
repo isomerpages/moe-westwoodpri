@@ -74,16 +74,10 @@ Ultimately, we hope to develop pupils who  are innovative, enjoy Science and va
 <br clear="left">
 
 #### **Science Committee**
-**Mdm Jennifer Long (HOD Science)<br>
-Mrs Naseema Ansar (Lead Teacher Science)**<br>
-Ms Elaine Lew<br>
-Ms Fathimah Muzammilah<br>
-Mr Joel Ong<br>
-Ms Goh Ho Laye<br>
-Mdm Jane Kang<br>
-Ms Dawn Sia<br>
-Ms Melissa Ngiam<br>
-Ms Hiew Li Tiang<br>
-Ms Katherine Chua <br>
-Mrs Muthu <br>
-Ms Heng Xi Yan Jean
+Mdm Jennifer Long (HOD/Science)<br>
+Mrs Naseema Ansar (LT/SC)<br>
+Ms Elaine Lew Yi Ling<br>
+Mr Ong Xuan You Joel<br>
+Ms Kang Hui Chin Jane<br>
+Mdm Goh Ho Laye<br>
+Mrs Muthu
