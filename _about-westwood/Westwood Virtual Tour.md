@@ -5,7 +5,9 @@ description: ""
 ---
 ### **Westwood Virtual Tour**
 
-**unable to use embedded code**
+<p><a href="https://www.thinglink.com/scene/1620645316208361474">
+<img style="width:85%" src="/images/virtualtour.jpg">
+</a></p>
 
 #### **Facilities**
 *   Customised classrooms or differentiated teaching and learning approaches
