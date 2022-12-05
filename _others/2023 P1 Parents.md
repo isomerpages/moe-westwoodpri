@@ -9,19 +9,13 @@ description: ""
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/QcNORDbbs9M" title="Principal's Welcome Address (by Mr Andrew Mah, Principal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/1J3XNaioCQo876P7xxRozo4XOYmwvdgBu/view) to view video.
-
 ##### **Nurturing The Flourishing Westwood Pupil (by Mr Low Min Chye, Vice Principal)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/ia_KvRAOnTU" title="Nurturing The Flourishing Westwood Pupil (by Mr Low Min Chye, Vice Principal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/1flVJrhYMWaf_o9e_QBj7hCBbmsjHxps7/view) to view video.
-
 ##### **Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/UjKMJdOMi80" title="Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1VHvlqgn_L8eHQOwP8NiFndTcfoZwqlgq/view) to view video.
 
 ##### **Supporting Your Child in Primary One (by Mr Chua Sze Siong, Chief Counsellor)**
 
@@ -31,61 +25,41 @@ For mobile users, please click [here](https://drive.google.com/file/d/1VHvlqgn_
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/Wcuylbb6m3M" title="Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/1e0BWcO-fwArq_-hmm2NIsz_Ls2qIFwut/view) to view video.
-
 ##### **Developing Children's Mathematical Skills (by Ms Lam Meng Chee)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/91WBtbhqdE0" title="Developing Children's Mathematical Skills (by Ms Lam Meng Chee)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1kn-1E72PAE_9IHtY5Hj3KA3DkTPWayZh/view) to view video.
 
 ##### **Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE & CCA)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/RMid5hMiv5o" title="Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE & CCA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/1JhywxV9D0qkJbRo74IpMHKnsK3GrlC-Y/view) to view video.
-
 ##### **Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/_rwTd8f6KDM" title="Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1y50LMB65Lb65MaUnvLJ7MUhNZnMstiSa/view) to view video.
 
 ##### **Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/-Gt_qLBJE3c" title="Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/1DvuQF6fsNA7o1JItgN7KUfTUhRDWdcvF/view) to view video.
-
 ##### **Cultivating A Love for Chinese Language (by Mdm Kee Suat Har, HOD MTL)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/TXDdbYZ2enU" title="Cultivating A Love for Chinese Language (by Mdm Kee Suat Har, HOD MTL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1LZEwmtLavPGA-FtckDaJ1xCkMfKmuQnw/view) to view video.
 
 ##### **Cultivating A Love for Malay Language (by Ms Elna Binte Hussin, SH ML & TL)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/oil4sZFYNdM" title="Cultivating A Love for Malay Language (by Ms Elna Binte Hussin, SH ML & TL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/17n8YYhlEjSf2Tc7Va-XmuMr4xqXp1_-M/view) to view video.
-
 ##### **Cultivating A Love for Tamil Language (by Ms Venkatachalam Alamu, TL Teacher)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/o8NsZZLXFAI" title="Cultivating A Love for Tamil Language (by Ms Venkatachalam Alamu, TL Teacher)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1GPk7qxGRNaTCk2VXM1L5UBj9b9-ZQBAq/view) to view video.
 
 ##### **Briefing on Pupil Dismissal Procedures (by Mr Premnath, Year Head Middle Primary)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/WHXbt7dydK4" title="Briefing on Pupil Dismissal Procedures (by Mr Premnath, Year Head Middle Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-For mobile users, please click [here](https://drive.google.com/file/d/18fJRqGOD8OYxuxKdYoREZZ_DvL3mNc8l/view) to view video.
-
 ##### **P1 Orientation Virtual School Tour**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/fNOnX8wlUgQ" title="P1 Orientation Virtual School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-For mobile users, please click [here](https://drive.google.com/file/d/1Jya7xWAHDGdddhkqC-ZHxt4vNb7WR0Kv/view) to view video.
 
 #### **Information for Parents**
 **[P1 Orientation Slides](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing)**<br>**[FAQs.pdf](/files/FAQs.pdf)**<br>
