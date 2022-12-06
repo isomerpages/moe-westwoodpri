@@ -105,7 +105,7 @@ Email: [transport@jk59.com](mailto:transport@jk59.com)
 
 **GIRO**<br>
 Child Development Account under Baby Bonus Scheme cannot be used for payment of fees.<br>
-[giro\_application\_form\_oct 2021.pdf](/files/usefulpdf3.pdf))
+[giro\_application\_form\_oct 2021.pdf](/files/usefulpdf3.pdf)
 
 **DBS / POSB**<br>
 Via FormSG at [https://go.gov.sg/moe-giro-dbs-posb](https://go.gov.sg/moe-giro-dbs-posb) using SingPass
