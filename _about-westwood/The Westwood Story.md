@@ -25,8 +25,7 @@ Redwoods have a strong network of roots that reach out and provide support for o
 
 #### **Joy of Learning Chinese in WWPS**
 
-<img src="/images/westwood2.jpg" style="width:85%">
+<iframe width="700" height="350" src="https://www.youtube.com/embed/TmEeWn7ErSg" title="Happenings@Westwood Primary School" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 To view the post on ETDtogo’s Facebook Page, please click [here](https://www.facebook.com/ETDtogo/posts/1274971052874814)
-
-To view the video on YouTube, please click [here](https://www.youtube.com/watch?v=TmEeWn7ErSg)
