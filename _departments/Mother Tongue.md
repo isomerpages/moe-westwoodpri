@@ -101,4 +101,5 @@ Mdm Suriati Bte Djuahir
 
 #### **Tamil Language**
 Ms Venkatachalam Alamu<br>
-Ms Thachayani Putaran
+Ms Thachayani Putaran<br>
+Mr Devaraj S/O Nambirajan
