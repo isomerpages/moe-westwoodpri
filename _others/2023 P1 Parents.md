@@ -62,8 +62,9 @@ click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/v
 <iframe width="700" height="350" src="https://www.youtube.com/embed/fNOnX8wlUgQ" title="P1 Orientation Virtual School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 #### **Information for Parents**
-**[P1 Orientation Slides](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing)**<br>**[FAQs.pdf](/files/FAQs.pdf)**<br>
-**[Enquiries from 2023 P1 Parents](https://go.gov.sg/2023p1query)**
+**P1 Orientation Slides (Click [here](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing) to view)**<br>
+**Frequently Asked Questions (Click [here](/files/FAQs.pdf) to view)**<br>
+**Enquiries from 2023 P1 Parents [Click [here](https://go.gov.sg/2023p1query) to view]**
 
 #### **Useful Links**
 ##### **1\) Bookshop Operator**
