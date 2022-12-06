@@ -29,6 +29,7 @@ sections:
       button: Click here
       url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-gallery/
       image: /images/infopic1.jpg
+      alt: Image alt text
   - infopic:
       title: Westwood Facebook Page
       subtitle: Connect with us
