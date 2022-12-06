@@ -21,8 +21,7 @@ Click [here](https://go.gov.sg/westories22) to view the 2022 WE Stories public
 Here is a useful [link](https://go.gov.sg/introducewestories) to know more about WE Stories and School Finder.
 
 #### **Secondary Open House**
-2022 RGS Open House – 19 Nov 2022 (8am-3.30pm)<br>
-[2022 RGS Open House\_Flyer.pdf](/files/secschmatters1.pdf)
+**Will be updated in Oct 2023**
 
 #### **Presentation Slides for P5 & P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matter**
 [2022 P5P6 Parents Engagement Handout.pdf](/files/secschmatters2.pdf)
