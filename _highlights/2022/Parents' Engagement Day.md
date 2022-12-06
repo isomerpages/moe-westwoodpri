@@ -35,7 +35,7 @@ Please click [here](https://drive.google.com/file/d/1PCJox9QjZ5QxLVwLGJrTKU_SFOB
 
 #### **Parent Support Group (PSG) Recruitment Talk**
 
-Please click [here](https://drive.google.com/file/d/1e8Vnp3ZIAWq41zOqSk-ynG6qLFCtBsNh/view) to watch the video.
+<iframe width="700" height="350" src="https://www.youtube.com/embed/YjlDrzG9KSo" title="PSG Recruitment Video Parents' Engagement Day 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 To sign up to be parent helpers/PSG, please click [here](https://form.gov.sg/61e69fb1e3238600157f73d9) or the QR code below.
 
