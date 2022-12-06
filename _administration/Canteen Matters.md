@@ -8,7 +8,7 @@ Health has always been an important aspect of a child’s holistic development. 
 
 For more information on the programme, please visit the HMSP webpage.
 
-#### **Healthy Meals in School Programme(HMSP)**
+#### **Healthy Meals in School Programme (HMSP)**
 In line with promoting a safe and healthy school, our school has joined the HMSP since 2015. The School Canteen Committee works closely with our canteen stallholders to ensure the adoption of hygienic food preparation methods, the provision of healthier food options and the sale of food at reasonable and affordable prices to pupils and staff. Meetings are held regularly to check in with stall owners on quality and quantity of food provided and provide two-way feedback.
 
 Under this programme, our canteen vendors will also need to follow food service guidelines which includes:  
