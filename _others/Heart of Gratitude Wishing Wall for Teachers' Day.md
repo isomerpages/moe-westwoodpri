@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Heart of Gratitude Wishing Wall for Teachers' Day**
 #### **2022**
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for heartfelt messages!
+Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
 
 <p><a href="https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html">
 <img style="width:65%" src="/images/wishingwall2.jpg">
