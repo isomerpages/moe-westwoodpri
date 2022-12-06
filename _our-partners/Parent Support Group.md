@@ -40,10 +40,11 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 | **External Events IC2** | Mdm Kumaresan Shanmugapriya |
 |
 
-##### **2022 PSG Partnership/Stakeholder Engagement Team**
-Mdm Murshidah Binte Hassan<br>
-Mdm Suriati Binte Djuahir<br>
-Mdm Jasmine Koh Hwee Ling
+##### **2023 PSG Partnership/Stakeholder Engagement Team**
+Ms Tan Sze Yi <br>
+Mr Mohamed Rafik Osman Alkhatib<br>
+Ms Chong Yoke Ting<br>
+Ms Ngiam Wei Ling, Melissa
 
 ##### **2022 PSG Newsletter**
 
