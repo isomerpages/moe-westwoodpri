@@ -23,3 +23,7 @@ Browse our e-Flipbook, “An Anthology of Westwood Making Experiences”.
 Make Wonders, the title of our Google Site, facilitates ideas on creation, imagination, reading, learning, discovering, making and more!
 
 Click [here](https://sites.google.com/moe.edu.sg/makewonders/home) to access the site and enter our exciting virtual world of making.
+
+<p><a href="https://sites.google.com/moe.edu.sg/makewonders/home">
+<img style="width:55%" src="/images/maker.jpg">
+</a></p>
