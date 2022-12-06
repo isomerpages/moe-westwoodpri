@@ -9,6 +9,10 @@ To commemorate Westwood Primary’s 10th anniversary, the English Department and
 
 Click [here](https://online.fliphtml5.com/cjnla/yrnv/#p=16) to read "The Flourishing Pen".
 
+<p><a href="https://online.fliphtml5.com/cjnla/yrnv/#p=16">
+<img style="width:65%" src="/images/flourishingpen.jpg">
+</a></p>
+
 #### **[Our 10th Anniversary Celebrations](https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home)**
 
 Click [here](https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home) to view our 10th anniversary celebrations
