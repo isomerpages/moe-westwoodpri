@@ -93,7 +93,7 @@ Pupils came in a costume based on their favourite book. They get to share the lo
 
 <br clear="left">
 
-#### **English Language Committee 2022**
+#### **English Language Committee**
 Ms Yong Lee Min (HOD/EL)<br>
 Ms Jurveen (LH/EL)<br>
 Mr Mohamed Rafik Osman Alkhatib (School Staff Developer)<br>
@@ -104,4 +104,4 @@ Mrs Winnie Teng<br>
 Ms Noor Amirah<br>
 Ms Janice Foo Mei Chien<br>
 Ms Sarah Chua Ai Tee <br>
-Ms Ker Bee Lay 
+Ms Ker Bee Lay
