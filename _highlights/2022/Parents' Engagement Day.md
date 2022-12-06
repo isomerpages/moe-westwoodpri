@@ -12,7 +12,7 @@ third_nav_title: "2022"
 
 #### **Primary 2**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P2 Parents" src="https://www.youtube.com/embed/wy3JH9AKjO0" height="443"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P2 Parents" src="https://www.youtube.com/embed/wy3JH9AKjO0" height="443" width="787"></iframe>
 
 #### **Primary 3**
 
