@@ -6,6 +6,9 @@ description: ""
 ### **School Newsletters**
 Check out our newsletter, Westwood Buzz 2022 issue! Find out about the exciting moments at Westwood and how we thrive positively as a school!
 
+Please click the PDF document below to view the 2022 Nov issue.<br>
+[Westwood Pri Nov Newsletter 2022.pdf](/files/newsletter1.pdf)
+
 Please click the PDF document below to view the 2022 May issue.<br>
 [Westwood Pri May Newsletter 2022.pdf](/files/newsletter1.pdf)
 
