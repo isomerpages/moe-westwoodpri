@@ -28,7 +28,7 @@ third_nav_title: Our People
 | 2 Diligence | Ms Chong Yoke Ting<br>Ms Elna |
 | 2 Gratitude | Ms Saranya D/O Asokan<br>Ms Ng Ley Huey |
 | 2 Hope | Mrs Winnie Teng (Leong)<br>Ms Li Huili |
-| 2 Kindness | Ms Ng Su Chern<br>Ms Cheryl Teo |
+| 2 Kindness | Ms Ng Su Chern<br>Ms Elaine Lew<br>Ms Cheryl Teo |
 | 2 Resilience | Mdm Suhaila<br>Mdm Alamu |
 | 2 Synergy | Mdm Jamaliah<br>Ms Chang Yu Juan Jade |
 | 2 Teamwork | Ms Elaine Lai Yongxian<br>Ms Siti Juwani |
