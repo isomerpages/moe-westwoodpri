@@ -90,6 +90,18 @@ description: ""
 
 <br clear="left">
 
-|  |  |  |
-|---|---|---|
-| **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |  |
+|  |  |
+|---|---|
+| **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
+
+updated changes - unable to move name under image due to lack of content in table
+if the preview version at bottom is ok, will delete the old version on top.
+
+<img src="/images/staff23.jpg" style="width:30%;margin-left:75px;" align = "left">
+<img src="/images/staff24.jpg" style="width:29%;margin-right:85px;" align = "right">
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
