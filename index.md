@@ -29,12 +29,13 @@ sections:
       button: Click here
       url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-gallery/
       image: /images/infopic1.jpg
-  - infobar:
+  - infopic:
       title: Westwood Facebook Page
       subtitle: Connect with us
       description: Find out what are the latest activities in school!
       button: click here
       url: https://www.facebook.com/westwood.primary/
+      alt: Image alt text
   - infobar:
       title: Westwood Instagram
       subtitle: Connect with us
