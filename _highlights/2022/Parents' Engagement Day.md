@@ -8,21 +8,21 @@ third_nav_title: "2022"
 ##### **Parents’ Engagement Day 2022**
 #### **Primary 1**
 
-<iframe width="787" height="443" src="https://www.youtube.com/embed/RTrofRsFngo" title="2022 Sharing to P1 Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P1 Parents" src="https://www.youtube.com/embed/RTrofRsFngo" height="443" width="787"></iframe>
 
 #### **Primary 2**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/wy3JH9AKjO0" title="2022 Sharing to P2 Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P2 Parents" src="https://www.youtube.com/embed/wy3JH9AKjO0" height="443"></iframe>
 
 #### **Primary 3**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/BUW1XX_PJ0U" title="2022 Sharing to P3 Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P3 Parents" src="https://www.youtube.com/embed/BUW1XX_PJ0U" height="443" width="787"></iframe>
 
 #### **Primary 4**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/J2GjcmeBm8E" title="2022 Sharing to P4 Parents" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P4 Parents" src="https://www.youtube.com/embed/J2GjcmeBm8E" height="443" width="787"></iframe>
 
-#### **Primary 5 & 6**
+#### **Primary 5 &amp; 6**
 
 Please click [here](https://drive.google.com/file/d/1PCJox9QjZ5QxLVwLGJrTKU_SFOB8CQ98/view) to watch the video.
 
@@ -35,8 +35,8 @@ Please click [here](https://drive.google.com/file/d/1PCJox9QjZ5QxLVwLGJrTKU_SFOB
 
 #### **Parent Support Group (PSG) Recruitment Talk**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/YjlDrzG9KSo" title="PSG Recruitment Video Parents' Engagement Day 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="PSG Recruitment Video Parents' Engagement Day 2022" src="https://www.youtube.com/embed/YjlDrzG9KSo" height="443" width="787"></iframe>
 
-To sign up to be parent helpers/PSG, please click [here](https://form.gov.sg/61e69fb1e3238600157f73d9) or the QR code below.
+To sign up to be parent helpers/PSG, please click&nbsp;[here](https://form.gov.sg/61e69fb1e3238600157f73d9)&nbsp;or the QR code below.
 
-<img src="/images/psg%20qr.jpeg" style="width:20%" align=left>
+<img align="left" style="width:20%" src="/images/psg%20qr.jpeg">
