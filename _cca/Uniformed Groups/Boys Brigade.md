@@ -36,8 +36,8 @@ Mr Tan Shi Wei
 |---|---|
 | Our Boys' Brigade (BB), 107J Company, has achieved<br> the Silver Award for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
 
-<img src="/images/boysbrigade5.jpg" style="width:370px; height:260px;margin-left:5px" align=left>
-<img src="/images/boysbrigade6.jpg" style="width:370px; height:260px;margin-right:15px" align=right>
+<img src="/images/boysbrigade5.jpg" style="width:370px; height:280px;margin-left:5px" align=left>
+<img src="/images/boysbrigade6.jpg" style="width:370px; height:280px;margin-right:15px" align=right>
 
 <br clear="left">
 
@@ -45,7 +45,6 @@ Mr Tan Shi Wei
 |---|:---:|
 | Boys designing their own tote bag to promote<br> environmental sustainability. |  |
 
-<img src="/images/boysbrigade7.jpg" style="width:370px; height:260px;margin-left:5px" align=left>
+<img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align=left>
 
 <br clear="left">
-
