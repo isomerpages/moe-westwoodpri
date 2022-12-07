@@ -5,11 +5,6 @@ description: ""
 ---
 ### **The Young Student Programme**
 
-#### **Teachers in Charge**
-Mdm Venkatachalam Alamu<br>
-Mdm Ralleeah Naina Mohamed<br>
-Ms Chang Yu Juan Jade<br>
-
 #### **2021**
 
 <figure>  
