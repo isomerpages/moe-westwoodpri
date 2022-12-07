@@ -18,8 +18,8 @@ Infocomm Technology pupils will:
 
 #### **CCA Teachers-in-charge**
 Mr Ng Zhili Gerard-Christian<br>
-Ms Dawn Sia Pei Fen<br>
-Ms Thachayani Putaran
+Ms Thachayani Putaran<br>
+Ms Fathimah Muzammilah
 
 #### **Venue**
 ICT Lab 2 &amp; 3
