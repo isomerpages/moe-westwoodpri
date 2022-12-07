@@ -19,7 +19,7 @@ description: ""
 
 ##### **Supporting Your Child in Primary One (by Mr Chua Sze Siong, Chief Counsellor)**
 
-click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view) to watch the video.
+Click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view) to watch the video.
 
 ##### **Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)**
 
