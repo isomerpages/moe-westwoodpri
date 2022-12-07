@@ -18,9 +18,9 @@ Chinese Dance Pupils will be able to learn the following skills through practice
 *   unique emphasis on movement accents in relation to the music
 
 #### **CCA teachers-in-charge**
-Mdm Wei Junying<br>
 Ms Tan Sze Yi<br>
-Ms Yap Hui Tee
+Ms Yap Hui Tee<br>
+Mdm Shen Rong
 
 #### **Venue**
 Hall
