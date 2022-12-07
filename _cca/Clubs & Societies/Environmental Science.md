@@ -17,7 +17,7 @@ Environmental Science pupils will:&nbsp;
 #### **CCA Teachers-in-charge**
 Mrs Naseema Ansar<br>
 Mrs Enda Wendy Chan<br>
-Mrs Tan-Nai Li Hua<br>
+Mdm Nai Li Hua<br>
 Ms Hiew Li Tiang
 
 #### **Venue**
