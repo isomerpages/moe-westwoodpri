@@ -18,8 +18,8 @@ Brass Band pupils will be learning:
 *   instruments-playing
 
 #### **CCA teachers-in-charge**
-Mr Zhang Weixiang<br>
 Ms Gu Si Yuan<br>
+Mr Zhang Weixiang<br>
 Ms Yao Anli
 
 #### **Venue**
