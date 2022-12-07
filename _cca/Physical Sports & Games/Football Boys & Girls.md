@@ -15,10 +15,10 @@ Football pupils will be:
 *   Taught on the basic technique such as ball control, passing and shooting.
 
 #### **CCA Teachers-in-charge**
-Mr Ariel Chow Zhixian<br>
-Mr Macus Rouis Quek Weng Sung<br>
+Ms Siti Juwani Bte Abd Rahman<br>
 Mdm Lee Lay Kheng, Sandy<br>
-Ms Siti Juwani Bte Abd Rahman
+Mr Ariel Chow Zhixian<br>
+Mr Macus Rouis Quek Weng Sung
 
 #### **Venue**
 School Field
