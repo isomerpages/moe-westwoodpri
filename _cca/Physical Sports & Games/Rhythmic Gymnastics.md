@@ -13,9 +13,9 @@ Rhythmic Gymnastics is a graceful sport containing many dance and ballet charact
 *   To fulfil each member’s potential and identify pupils who are keen to move on to competitive level.
 
 #### **CCA teachers-in-charge**
-Mdm Shen Rong<br>
 Ms Saranya D/O Asokan<br>
-Ms Tan Lay Lian
+Ms Tan Lay Lian<br>
+Ms Nur Diyana Bte Zakariah
 
 #### **Venue**
 School Hall
