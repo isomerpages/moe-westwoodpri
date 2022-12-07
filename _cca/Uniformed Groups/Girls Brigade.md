@@ -14,8 +14,8 @@ The Girls' Brigade (GB) is a uniformed youth organisation and is recognised by t
 
 #### **CCA teachers-in-charge**
 Mdm Lim Shae Min<br>
-Ms Janice Foo Mei Chien<br>
-Ms Viroshini
+Ms Viroshini<br>
+Ms Elaine Lew Yi Ling
 
 #### **Venue**
 LSP Room, Math Room
