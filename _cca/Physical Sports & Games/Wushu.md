@@ -16,8 +16,9 @@ Wushu is a performance sport that improves coordination, flexibility and balance
 
 #### **CCA teachers-in-charge**
 Mr Seet Wee Key<br>
-Mr Chow Kai Loon<br>
-Ms Jasmine Koh Hwee Ling
+Ms Jasmine Koh Hwee Ling<br>
+Mdm Wei Junying<br>
+Ms Khoo Jia Hui
 
 #### **Venue**
 Indoor Sports Hall
