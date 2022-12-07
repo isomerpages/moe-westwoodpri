@@ -15,8 +15,8 @@ Basketball pupils will be:
 *   Taught the value of sportsmanship, teamwork and having a resilient mind set.
 
 #### **CCA Teachers-in-charge**
-Mr Jonathan Chng Ching Chuang<br>
 Mr Khoo Rong Huang<br>
+Mr Jonathan Chng Chin Chuang<br>
 Mr Loh Chee Wei
 
 #### **Venue**
