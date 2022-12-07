@@ -19,10 +19,9 @@ Art and Crafts Club pupils will:
 *   build confidence through participating in various competitions.
 
 #### **CCA Teachers-in-charge**
-Mr Dexter Sim<br>
 Mrs Goh Han Jin<br>
-Ms Claire Lu<br>
-Ms Wong Sheang Yun
+Mr Dexter Sim Yu Min<br>
+Ms Claire Lu Baozhu
 
 #### **Venue**
 Art Rooms
