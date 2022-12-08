@@ -23,8 +23,7 @@ The CCA will also be introducing a debate module that is suitable for children w
 
 #### **CCA Teachers-in-charge**
 Ms Noor Amirah Bte Azman<br>
-Ms Siti Aisyah Binte<br>
-Mohamed Yazid<br>
+Ms Siti Aisyah Binte Mohamed Yazid<br>
 Ms Jurveen Kaur Randhawa<br>
 Mrs Winnie Teng
 
