@@ -12,10 +12,10 @@ Please click the PDF document below to view the 2022 Nov issue.<br>
 Please click the PDF document below to view the 2022 May issue.<br>
 [Westwood Pri May Newsletter 2022.pdf](/files/newsletter1.pdf)
 
-Please click the PDF document below to view the 2021 Nov issue.<br>
-[Westwood Pri Nov Newsletter 2021.pdf](/files/newsletter2.pdf)
+Please click the PDF document below to view the 2021 Sept issue.<br>
+[Westwood Pri Sept Newsletter 2021.pdf](/files/newsletter2.pdf)
 
-Please click the PDF document below to view the 2021 May issue.<br>
+Please click the PDF document below to view the 2021 June issue.<br>
 [Westwood Pri June Newsletter 2021.pdf](/files/newsletter3.pdf)
 
 Please click the PDF document below to view the 2020 Nov issue.<br>
