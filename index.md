@@ -22,6 +22,7 @@ sections:
         - title: Quicklinks
           description: ""
           url: /others/quicklinks/
+      subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
   - infopic:
       title: Photo Gallery
       subtitle: Westwood Primary School
