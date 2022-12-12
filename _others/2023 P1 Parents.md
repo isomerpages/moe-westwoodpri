@@ -5,14 +5,6 @@ description: ""
 ---
 ### **2023 P1 Parents**
 #### **P1 Induction**
-##### **Principal's Welcome Address (by Mr Andrew Mah, Principal)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/QcNORDbbs9M" title="Principal's Welcome Address (by Mr Andrew Mah, Principal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-##### **Nurturing The Flourishing Westwood Pupil (by Mr Low Min Chye, Vice Principal)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/ia_KvRAOnTU" title="Nurturing The Flourishing Westwood Pupil (by Mr Low Min Chye, Vice Principal)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ##### **Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)**
 
 <iframe width="700" height="350" src="https://www.youtube.com/embed/UjKMJdOMi80" title="Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
