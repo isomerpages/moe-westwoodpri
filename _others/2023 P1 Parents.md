@@ -56,7 +56,8 @@ Click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/v
 #### **Information for Parents**
 **P1 Orientation Slides (Click [here](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing) to view)**<br>
 **Frequently Asked Questions (Click [here](/files/FAQs.pdf) to view)**<br>
-**Enquiries from 2023 P1 Parents [Click [here](https://go.gov.sg/2023p1query) to view]**
+**Enquiries from 2023 P1 Parents [Click [here](https://go.gov.sg/2023p1query) to view]**<br>
+**[Parent Kit] Guiding Our Children Through Their P1 Transition (Click [here](https://go.gov.sg/guiding-our-children-p1-transition) to view)**
 
 #### **Useful Links**
 ##### **1\) Bookshop Operator**
