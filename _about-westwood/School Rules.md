@@ -99,3 +99,33 @@ All pupils are expected to: 
 *   Do not play in the car park and the surrounding areas.
 *   Pupils taking school bus should have their attendance taken before boarding the bus.
 *   Pupils should not run across the car park to board the cars without adult supervision.
+
+
+#### **Personal Appearance**
+* Students must be in their school uniform during all school activities unless indicated otherwise by the school.
+* Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+* Students are to wear totally covered black school shoes with school socks only.
+* Students who come to school on weekends and during school holidays must be in school uniform or in their appropriate CCA attire.
+* Students who come to school for the Student Care Services are to wear proper school shoes at all times.
+* Students are allowed to wear sandals instead of school shoes only if there is a leg injury.
+
+#### **School Attire**
+* Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
+* Students are to wear clean and neat uniforms at all times and there must not be any stains on the uniforms.
+* Students are to ensure that the name tags are sewn above the school emblem/logo.
+* Mosquito patches are not to be pasted on the surface of the uniform but can be pasted beneath the uniform or PE attire.
+
+#### **Accessories**
+* Hair accessories must be black in colour.
+* No jewellery or any form of adornment is to be worn in school.
+* Male students are not allowed to pierce ear holes or wear earrings/ear-studs.
+* Female students are allowed to wear small transparent/gold/silver ear-studs only.
+* Students are not allowed to wear any nose studs.
+
+#### **Hair and Personal Hygiene**
+* Students’ hair must be neat and tidy at all times.
+* Male students hair should be short and neat. It should not touch the ears and the collar.
+* Female students hair should be above base of the collar and neatly plaited up if long.
+* Female students and male students with fringes should ensure that the fringe is cut above the eyebrows. The fringe for the female students should be pinned up neatly. 
+* Male students must be clean-shaven and neat in appearance.
+* Students’ nails should be trimmed, clean and unvarnished at all times.
