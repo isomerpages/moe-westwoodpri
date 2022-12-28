@@ -18,10 +18,6 @@ All pupils are expected to: 
 * Students should be punctual for school. Students will report to school by 7.30 a.m. and will be considered late for school if he/she does not report to his/her form teacher by 7.30 a.m. 
 * Students must remain within the school grounds once they have reported to school.
 
-#### **Late for School / Late for Class / Skipping Lessons**
-*   A pupil will be considered late for school if he/she is not present with the class by 7.30am.
-*   Pupils must remain within the school grounds once they have reported to school.
-
 #### **Leaving School During School Hours**
 * Students may request for early release from school if they are unwell or upon request with a valid reason from his/her parent/guardian.
 * Students who are unwell and would like to leave early must do so in the company of a parent/guardian or an adult appointed by the parent/guardian, after informing the form teacher and reporting to the general office to contact his/her guardian.
