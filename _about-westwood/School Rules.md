@@ -73,9 +73,10 @@ All pupils are expected to: 
 * Students must maintain safe distancing from their peers in and out of school at all times.
 * Students must put on their face masks properly at all times except when consuming food and/or drinks.
 
-
-#### **Mobile Phones**
-
+#### **Smoking/Vaping-Related Items & Products**
+* It is a serious offence for students to be found in possession of cigarettes, vaping devices and other related items e.g. vape pods.
+* Cigarettes, vaping devices and other related items found in students’ possession or students caught smoking/vaping will be referred to the relevant authorities and/or the Singapore Police Force (SPF) for investigation. Parents of these students will be informed and the cigarettes, vaping devices and other related items will be confiscated and handed over to the relevant authorities.
+* Students found in the company of those who were caught smoking/vaping will face serious consequences.
 
 #### **School Hall**
 *   Pupils are not allowed to play, run or shout in the school hall.
