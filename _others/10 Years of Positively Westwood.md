@@ -38,4 +38,4 @@ Click [here](https://sites.google.com/moe.edu.sg/westwoodpublications/westwood-b
 #### **10th Anniversary Celebration and Prize Giving Day 2022**
 Westwood Primary has been an exemplary role model embracing positive education, nurturing both the students and staff for a decade. It is with great pride and confidence that we celebrate this joyous occasion as a school, together with our SAC committee and founding father of Westwood Primary, Mr Ng Yeow Ling as our guest-of-honour. 
 
-Please click Click [here](https://drive.google.com/drive/folders/199CrSo0LzhqjhPnjjOvkiBXn6D5QB_Ke?usp=sharing) to view the photos.  
+Please click Click [here](https://drive.google.com/drive/folders/199CrSo0LzhqjhPnjjOvkiBXn6D5QB_Ke?usp=sharing) to view the photos.
