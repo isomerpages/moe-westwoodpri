@@ -73,34 +73,6 @@ All pupils are expected to: 
 * Cigarettes, vaping devices and other related items found in students’ possession or students caught smoking/vaping will be referred to the relevant authorities and/or the Singapore Police Force (SPF) for investigation. Parents of these students will be informed and the cigarettes, vaping devices and other related items will be confiscated and handed over to the relevant authorities.
 * Students found in the company of those who were caught smoking/vaping will face serious consequences.
 
-#### **School Hall**
-*   Pupils are not allowed to play, run or shout in the school hall.
-*   Pupils should not go up the stage without permission.
-*   Food and drinks are not allowed in the hall.
-
-#### **Library**
-*   Silence must be observed in the library.
-*   Pupils must learn to handle all books with care.
-*   All books must be returned to the proper shelves where they were taken from.
-*   Pupils should help to keep the library neat and tidy at all times.
-*   All borrowed books must be returned on time.
-
-#### **Science Room**
-*   Place all stools under the table before leaving the room.
-*   Do not tamper with the exhibits or play with the matches and gas burners.
-*   Do not take any teaching aids out of the room.
-
-#### **Toilets**
-*   Do not waste water.
-*   Keep the floor clean and dry. Inform the school cleaners if the toilet floors are wet and slippery.
-*   Be considerate to other users, flush the toilet after use.
-
-#### **Carpark**
-*   Do not play in the car park and the surrounding areas.
-*   Pupils taking school bus should have their attendance taken before boarding the bus.
-*   Pupils should not run across the car park to board the cars without adult supervision.
-
-
 #### **Personal Appearance**
 * Students must be in their school uniform during all school activities unless indicated otherwise by the school.
 * Students are to wear the prescribed school uniform and modification to the uniform is not allowed.
