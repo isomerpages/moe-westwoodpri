@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Calendar of Events**
 
-Work in Progress
+<img src="/images/Term%201%20Calendar.jpg" style="width:100%">
