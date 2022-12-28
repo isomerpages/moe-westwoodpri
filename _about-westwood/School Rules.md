@@ -48,45 +48,34 @@ All pupils are expected to: 
 * Students are to consume their food and drinks within the school canteen only except when having recess or snack break in the classroom.
 * Students should observe good table manners and carry out the wipe down routine after having their meals. 
 * Students should maintain the cleanliness of the canteen by throwing litter into the bins provided.
-•	Students are to return utensils and crockery to the respective stalls after meals.
-•	Students are to assemble and be seated quietly when the designated recess bell rings.
-•	Students should refrain from playing or running in the canteen.
-•	Students should not buy any food or drinks after the first bell for recess rings.
-
-
-#### **Accessories**
-*   Hair accessories should be in black colour only.
-*   No jewellery or any form of adornment is to be worn in school.
-*   Boys are not allowed to pierce ear holes or wear earrings/studs.
-*   Girls are allowed to wear small gold/silver studs only.
-
-#### **Classroom Conduct**
-*   All the pupils must stand up and greet the teacher when he/she enters or leaves the classroom.
-*   All pupils are to leave the classroom during recess, unless accompanied by a teacher or when they are performing recess duties.
-*   All fans and lights must be switched off when leaving the classroom.
-*   All pupils must seek permission from the teacher and obtain a toilet pass before leaving the classroom during lessons.
-*   No pupils are allowed to eat in the classroom.
-
-#### **Recess**
-*   All pupils should queue up in an orderly manner when purchasing food.
-*   All food and drinks must be consumed within the school canteen.
-*   Pupils should try to help the younger schoolmates to carry or buy their food.
-*   Pupils should observe good table manners.
-*   Used crockery should be returned to the respective trolleys at the side of the canteen.
-*   All pupils must finish their food/drinks before the end of recess.
-*   Pupils are to help maintain the cleanliness of the school canteen by throwing litter into the bins provided.
-*   All pupils are to assemble at the canteen immediately after recess before proceeding to their classrooms.
-*   Refrain from playing or running in the canteen.
+* Students are to return utensils and crockery to the respective stalls after meals.
+* Students are to assemble and be seated quietly when the designated recess bell rings.
+* Students should refrain from playing or running in the canteen.
+* Students should not buy any food or drinks after the first bell for recess rings.
 
 #### **Valuables**
-*   Pupils should not bring valuables and/or excessive pocket money to school.
-*   Pupils should not bring electronic games, cards and toys to school.
-*   The following items must not be brought to school: Metal rulers, sharp pointed objects, pen-knives, matches, lighters and hazardous chemicals.
-*   These items will be confiscated and returned only to parents/ guardians.
+* Students are responsible for their own belongings at all times.
+* Students should not bring valuables and/or excessive pocket money to school.
+* Students should not bring electronic games, cards and toys to school and items will be confiscated and returned only to parents/guardians.
+
+#### **Weapons**
+* All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
+* The following items must not be brought to school:
+-metal rulers, sharp pointed objects, pen-knife, matches, lighters and hazardous chemicals
+* Students found to be in possession of such items will have their items confiscated and confiscated items will be returned only to parents.
+
+#### **Mobile/Electronic Communication Devices**
+* Students are strongly discouraged from bringing their mobile phones to school. This includes smart watches or any devices capable of capturing and storing images. The school will not be held responsible for any loss of devices.
+* Students who are found to have brought their mobile phones or smart watches will have their devices confiscated. Confiscated mobile phones, smart watches and other electronic devices will be returned only to parents.
+
+#### **Safe Management Measures**
+* Students are to follow the Safe Management Measures in the school at all times.
+* Students must maintain safe distancing from their peers in and out of school at all times.
+* Students must put on their face masks properly at all times except when consuming food and/or drinks.
+
 
 #### **Mobile Phones**
-*   Pupils are discouraged from bringing their mobile phones to school. The school will not be held responsible for any loss of mobile devices.
-*   Mobile phones must be switched off during school hours, CCA and remedial lessons. Pupils found to be using their mobile devices without permission, during these occasions, will have their mobile devices confiscated. Confiscated mobile phones will only be returned to parents.
+
 
 #### **School Hall**
 *   Pupils are not allowed to play, run or shout in the school hall.
