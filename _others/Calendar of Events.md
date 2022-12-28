@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Calendar of Events**
 
-<img src="/images/Term%201%20Calendar.jpg" style="width:100%">
+<img src="/images/Term%201%20Calendar%201.jpg" style="width:100%">
