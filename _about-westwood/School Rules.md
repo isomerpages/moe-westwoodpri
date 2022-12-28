@@ -60,8 +60,7 @@ All pupils are expected to: 
 
 #### **Weapons**
 * All students are not allowed to have in their possession any weapon. They are also not allowed to bring any weapon-like item which can be used or intended to be used to cause harm to others.
-* The following items must not be brought to school:
--metal rulers, sharp pointed objects, pen-knife, matches, lighters and hazardous chemicals
+* The following items must not be brought to school: metal rulers, sharp pointed objects, pen-knife, matches, lighters and hazardous chemicals.
 * Students found to be in possession of such items will have their items confiscated and confiscated items will be returned only to parents.
 
 #### **Mobile/Electronic Communication Devices**
