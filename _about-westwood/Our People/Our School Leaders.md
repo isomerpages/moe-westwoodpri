@@ -7,4 +7,5 @@ third_nav_title: Our People
 ### **Our School Leaders**
 
 #### **2022**
-Work in progress
+<img src="/images/SL1.jpg" style="width:100%"><br>
+<img src="/images/SL%202.jpg" style="width:100%"><br>
