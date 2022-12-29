@@ -7,7 +7,7 @@ description: ""
 #### **School Safety & Security**
 Ensuring that Westwood Primary is safe and secure is an utmost priority to us. Parents, pupils and all our stakeholders also play a vital role in keeping the school safe and secure. We seek the partnership of parents, pupils and all stakeholders to practise good hygiene and road safety habits as we work together towards creating a safe and secure environment for learning.
 
-![](/images/schsafety1.jpg)
+![](/images/Safety%20Comm%20Org%20Chart%202023%20With%20Photo.jpg)
 
 #### **Management of Incidents**
 As part of pupil safety and security, the school has also put in place procedures to look into the safety of the pupils. We aim to create a conducive and caring environment for every pupil in Westwood Primary hope to achieve this with the cooperation and partnership from parents and external stakeholders.
