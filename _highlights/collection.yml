@@ -1,0 +1,36 @@
+collections:
+  highlights:
+    output: true
+    order:
+      - Highlights.md
+      - 2022/.keep
+      - 2022/Parents' Engagement Day.md
+      - 2022/Breakfast with P1 Parents.md
+      - 2022/Cyber Week.md
+      - 2022/Teacher's Day Showcase & Celebrations.md
+      - 2021/.keep
+      - 2021/P1 Parents' Briefing.md
+      - 2021/P6 Graduation Day.md
+      - 2021/Parents' Engagement Session.md
+      - 2021/2nd Minister's Visit to Westwood Primary.md
+      - 2021/Children's Day Celebration.md
+      - 2021/Safer Internet Week.md
+      - 2021/K2 Outreach Day.md
+      - 2020/.keep
+      - 2020/K2 Outreach 2020.md
+      - 2020/Annual Prize Day.md
+      - 2020/Teacher's Day Showcase & Celebrations.md
+      - 2020/National Day Celebration.md
+      - 2020/Commemorating Total Defence Day.md
+      - 2020/Safer Internet Week.md
+      - 2020/P1 Orientation.md
+      - 2020/P6 Post Exam Programme.md
+      - 2020/Inter House Westwood Challenge.md
+      - 2019/.keep
+      - 2019/P6 Parents' Briefing on S1 Options.md
+      - 2019/P1 Orientation.md
+      - 2019/President's Visit.md
+      - 2019/P1 Induction.md
+      - Past Year Events/.keep
+      - Past Year Events/Greenwave Environmental Care Competition.md
+      - Past Year Events/Outdoor Experiential Learning.md

@@ -1,0 +1,18 @@
+collections:
+  about-mk-westwood:
+    output: true
+    order:
+      - About MK@Westwood.md
+      - Our Learning Environment.md
+      - Our Teaching Staff.md
+      - Total MK Curriculum.md
+      - MK Westwood Photo Gallery/2022.md
+      - MK Westwood Photo Gallery/2021.md
+      - MK Westwood Photo Gallery/2020.md
+      - MK Westwood Photo Gallery/2019.md
+      - MK Westwood Photo Gallery/.keep
+      - Highlights/2022.md
+      - Highlights/2021.md
+      - Highlights/2020.md
+      - Highlights/.keep
+      - Useful Information and Links.md
