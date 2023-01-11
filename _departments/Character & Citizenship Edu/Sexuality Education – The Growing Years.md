@@ -48,7 +48,7 @@ b.	Character and Citizenship Education (CCE)<br>
 
 #### **At Westwood Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
-**Primary 5**
+###### **Primary 5**
 <img src="/images/Sexuality%20Education%20P5.png" style="width:100%">
 
 **Primary 6**
