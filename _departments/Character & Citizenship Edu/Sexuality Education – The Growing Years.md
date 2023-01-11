@@ -10,7 +10,7 @@ third_nav_title: Character & Citizenship Edu
 1\. Sexuality Education (SEd) in schools is about enabling students to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. SEd is premised on the importance of the family as the basic unit of society. This means encouraging healthy, heterosexual marriages and stable nuclear family units with extended family support. The teaching and learning of SEd is based on respect for the values and beliefs of the different ethnic and religious communities in Singapore on sexuality issues.
       
 			
-2\. The **Goals** of Sexuality Education are:<br>
+2\. **The Goals of Sexuality Education are:**<br>
 
 (a) To help students make wise, responsible and informed decisions through the provision of accurate, current and age-appropriate knowledge on human sexuality and the consequences of sexual activity;<br>
 
@@ -19,7 +19,7 @@ third_nav_title: Character & Citizenship Edu
 (c) To help students develop a moral compass, respect for themselves and for others as sexual beings, premised on the family as the basic unit of society, through the inculcation of positive mainstream values and attitudes about sexuality.
 
 
-3\. The **Key Messages** of Sexuality Education are:<br>
+3\. **The Key Messages of Sexuality Education are:**<br>
 
 (a)	Love and respect yourself as you love and respect others;<br>
 (b)	Build positive relationships based on love and respect (which are the foundation for strong families);<br>
@@ -30,7 +30,7 @@ third_nav_title: Character & Citizenship Edu
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
 
-####**OVERVIEW OF WESTWOOD PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
+#### **OVERVIEW OF WESTWOOD PRIMARY SCHOOL’S SEXUALITY EDUCATION PROGRAMME FOR 2023**
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -46,8 +46,7 @@ b.	Character and Citizenship Education (CCE)<br>
 7\. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. In SEd, students learn to understand the physiological, social and emotional changes they experience as they mature, develop healthy and rewarding relationships including those with members of the opposite sex, and make wise, informed and responsible decisions on sexuality matters. 
 
 
-
-#### **At Westwood Primary School, the following lessons from the Growing Years Programme will be taught in 2022:**
+#### **At Westwood Primary School, the following Sexuality Education lessons will be taught in 2023:**
 
 <img src="/images/sexedu1.png" style="width:85%">
 
@@ -59,10 +58,8 @@ b.	Character and Citizenship Education (CCE)<br>
 
 #### **Information for Parents**
 
-8\. Parents may opt their children out of the Growing Years programme, and/or supplementary sexuality education programmes by MOE-approved external providers.
+8\.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers. 
 
-9\. Parents who wish to opt their children out of the Growing Years (GY) programme need to complete an opt-out form. This form is downloadable [here](/files/optout.pdf). The completed opt-out form is to be submitted by 27/01/2022.
+9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an opt-out form. This form will be distributed to parents at the start of the year and is also downloadable [here](https://drive.google.com/file/d/1rXzXLeNreO5dOlX-IOqSCpl3eD77GVJ-/view?usp=share_link). The completed opt-out form is to be submitted by 26/01/2023.
 
-10.Parents can contact the school at 64121690 or email Ms Murshidah Hassan at [murshidah\_hassan@moe.edu.sg](mailto:murshidah\_hassan@moe.edu.sg) for discussion or to seek clarification about the school’s sexuality education programme.
-
-11\. Parents, who wish to attend the school sexuality education lessons, should contact the school to make the necessary arrangements
+10\.	Parents can contact the school at 6412 1690 or email Ms Lin Shing Chi at lin_shing_chi@moe.edu.sg for discussion or to seek clarification about the school’s Sexuality Education programme.
