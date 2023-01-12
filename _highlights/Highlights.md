@@ -3,6 +3,8 @@ title: Highlights
 permalink: /others/highlights/
 description: ""
 ---
+
+
 ### **Highlights**
 <img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align = "left"><b>
 #### **Teacher's Day Showcase and Celebrations 2022**

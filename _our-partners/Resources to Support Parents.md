@@ -1,5 +1,5 @@
 ---
-title: Parent Support Programme
+title: Resources to Support Parents
 permalink: /our-partners/parent-support-programme/
 description: ""
 ---
