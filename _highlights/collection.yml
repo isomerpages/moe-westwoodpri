@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2023/.keep
-      - Highlights.md
       - 2022/.keep
       - 2022/Parents' Engagement Day.md
       - 2022/Breakfast with P1 Parents.md
