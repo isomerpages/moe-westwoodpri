@@ -23,7 +23,7 @@ There are 8 food stalls in the school canteen.
 
 | Stall Number | Type of Food | Name of Stall owner | Menu and Price List |
 |:---:|:---:|:---:|:---:|
-| 1 | Hot Drinks & Snacks | Mdm Rosliah Bte Ruslan | [Stall 1.pdf](/files/Stall%201.pdf) |
+| 1 | Hot Drinks & Snacks | Mr Deng Xiu Zhu | [Stall 1.pdf](/files/Canteen_Matters/Stall_1.pdf) |
 | 2 | Malay Rice | Mr Hairry Bin Ahmad Surbe | [Stall 2.pdf](/files/Stall%202.pdf) |
 | 3 | Malay Noodles | Mdm Hairunnisa Bte Mohamed Amran | [Stall 3.pdf](/files/Stall%203.pdf) |
 | 4 | Chicken Rice | Mdm Rosmah Bte Sudi | [Stall 4.pdf](/files/Stall%204.pdf) |
