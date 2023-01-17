@@ -23,14 +23,14 @@ There are 8 food stalls in the school canteen.
 
 | Stall Number | Type of Food | Name of Stall owner | Menu and Price List |
 |:---:|:---:|:---:|:---:|
-| 1 | Hot Drinks & Snacks | Mdm Rosliah Bte Ruslan | [Stall 1.pdf](/files/Stall%201.pdf) |
-| 2 | Malay Rice | Mr Hairry Bin Ahmad Surbe | [Stall 2.pdf](/files/Stall%202.pdf) |
-| 3 | Malay Noodles | Mdm Hairunnisa Bte Mohamed Amran | [Stall 3.pdf](/files/Stall%203.pdf) |
-| 4 | Chicken Rice | Mdm Rosmah Bte Sudi | [Stall 4.pdf](/files/Stall%204.pdf) |
-| 5 | Western Food | Mdm Hariati Bte Hamid | [Stall 5.pdf](/files/Stall%205.pdf) |
-| 6 | Chinese Noodles | Mdm Angie Ng Beng Hung |   [Stall 6.pdf](/files/Stall%206.pdf) |
-| 7 | Chinese Rice | Mdm Oh Bee Kim | [Stall 7.pdf](/files/Stall%207.pdf) |
-| 8 | Cold Drinks & Fruits | Mr Mohd Razali Bin Marsom | [Stall 8.pdf](/files/Stall%208.pdf) |
+| 1 | Hot Drinks & Snacks | Mr Deng Xiu Zhu | [Stall 1.pdf](/files/Canteen_Matters/Stall_1.pdf) |
+| 2 | Malay Rice | Mr Hairry Bin Ahmad Surbe | [Stall 2.pdf](/files/Canteen_Matters/Stall_2.pdf) |
+| 3 | Malay Noodles | Mdm Hairunnisa Bte Mohamed Amran | [Stall 3.pdf](/files/Canteen_Matters/Stall_3.pdf) |
+| 4 | Chicken Rice | Mdm Rosmah Bte Sudi | [Stall 4.pdf](/files/Canteen_Matters/Stall_4.pdf) |
+| 5 | Western Food | Mdm Hariati Bte Hamid | [Stall 5.pdf](/files/Canteen_Matters/Stall_5.pdf) |
+| 6 | Chinese Noodles | Mdm Angie Ng Beng Hung |   [Stall 6.pdf](/files/Canteen_Matters/Stall_6.pdf) |
+| 7 | Chinese Rice | Mdm Oh Bee Kim | [Stall 7.pdf](/files/Canteen_Matters/Stall_7.pdf) |
+| 8 | Cold Drinks & Fruits | Mr Mohd Razali Bin Marsom | [Stall 8.pdf](/files/Canteen_Matters/Stall_8.pdf) |
 |
 
 #### **Timing for Recess, Snack and Lunch Breaks**
