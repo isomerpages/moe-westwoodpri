@@ -4,6 +4,10 @@ permalink: /mk-westwood/useful-information-links/
 description: ""
 ---
 ### **Useful Information / Links**
+#### **MK@Westwood Open House 2023**
+Join us on Saturday 18th February 2023 (9am to 1pm) to learn more about MOE Kindergarten!<br>
+[MK@WW Open House 2023.pdf](/files/MK/MK_WW_Open_House_2023.pdf)
+
 #### **MOE Kindergarten Family Handbook**
 Download our handbook to know more about MOE Kindergarten.<br>
 [2022 MOE Kindergarten Family Handbook.pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
