@@ -23,8 +23,8 @@ Here is a useful [link](https://go.gov.sg/introducewestories) to know more abo
 #### **Secondary Open House**
 **Will be updated in Oct 2023**
 
-#### **Presentation Slides for P5 & P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matter**
-[2022 P5P6 Parents Engagement Handout.pdf](/files/secschmatters2.pdf)
+#### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matters**
+[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
 
 #### **Secondary 1 Posting**
 [https://www.moe.gov.sg/secondary/s1-posting](https://www.moe.gov.sg/secondary/s1-posting)
