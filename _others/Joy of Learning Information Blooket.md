@@ -5,6 +5,7 @@ description: ""
 ---
 ### **Joy of Learning Information Blooket**
 
+
 <p><a>
-<img src="/images/joyoflearning.jpg" style="width:45%">
+<img style="width:45%" src="/images/joyoflearning.jpg">
 </a></p>
