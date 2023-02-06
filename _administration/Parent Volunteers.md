@@ -12,14 +12,38 @@ Application for our 2023 Parent Volunteer Scheme (for 2024 P1 Registration and 2
 
 #### **Timeline for Application:**
 * **By 12 May 2023**<br>
-Email the completed application form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).
+Download the [PV Application Form ](https://go.gov.sg/2023pvapplication) and email the completed form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).
 
-Click  to download the form.
 
-* **From Feb to May 2023**<br>
+* **Between Feb to May 2023**<br>
 Shortlisted applicants will be contacted for interviews.<br>
-Unsuccessful applicants will be notified by email
+Unsuccessful applicants will be notified by email<br>
 
-* **26 June 2023 to 30 June 2024**<br>
+
+* **Between 26 June 2023 to 30 June 2024**<br>
 Commencement and completion of at least 40 hours of voluntary service as required by the school.&nbsp;<br>
-Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2024 P1 Registration Exercise.&nbsp; Please note that a place for your child through Phase 2B is&nbsp;**not&nbsp;guaranteed**.
+Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2024 P1 Registration Exercise.&nbsp; Please note that a place for your child through Phase 2B is&nbsp;**not&nbsp;guaranteed**.<br>
+
+
+
+| **By 12 May 2023**| 
+| -------- | 
+| Download the [PV Application Form ](https://go.gov.sg/2023pvapplication) and email the completed form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).   | 
+
+
+| **Between Feb to May 2023**| 
+| -------- | 
+| Shortlisted applicants will be contacted for interviews. Unsuccessful applicants will be notified by email.|
+
+
+| **Between 26 June 2023 to 30 June 2024** | 
+| -------- | 
+| Commencement and completion of at least 40 hours of voluntary service as required by the school.&nbsp; Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2024 P1 Registration Exercise.&nbsp; Please note that a place for your child through Phase 2B is&nbsp;**not&nbsp;guaranteed**    | 
+
+
+
+
+
+
+
+
