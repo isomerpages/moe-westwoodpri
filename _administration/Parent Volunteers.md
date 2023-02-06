@@ -10,7 +10,7 @@ You may apply to be our Parent Volunteers if your child is a Singapore Citizen o
 
 Application for our 2023 Parent Volunteer Scheme (for 2024 P1 Registration and 2025 Admission) will open from 8 Feb 2023 to 12 May 2023.
 
-#### **Timeline for PV Application**
+#### **Timeline for Parent Volunteers Application**
 
 | **By 12 May 2023**| 
 | -------- | 
