@@ -16,7 +16,7 @@ description: ""
 
 For further clarification or enquiries on the topic, parents may kindly email
 
-School Councilor -
+School Counsellor -
 
 SENO 1 -
 
