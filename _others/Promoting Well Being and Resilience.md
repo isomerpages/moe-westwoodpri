@@ -6,10 +6,7 @@ description: ""
 ### **Promoting Children’s Well Being and Resilience**
 #### **Building Resilience**
 [https://www.moe.gov.sg/-/media/files/parent-kit/journeying-through-challenging-times-together.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/journeying-through-challenging-times-together.pdf)
-
-<p><a href="https://online.fliphtml5.com/cjnla/yrnv/#p=16">
-<img style="width:65%" src="/images/flourishingpen.jpg">
-</a></p>
+[https://www.moe.gov.sg/-/media/files/parent-kit/journeying-through-challenging-times-together.pdf](https://www.moe.gov.sg/-/media/files/parent-kit/journeying-through-challenging-times-together.pdf)
 
 #### **Our 10th Anniversary Celebrations**
 
