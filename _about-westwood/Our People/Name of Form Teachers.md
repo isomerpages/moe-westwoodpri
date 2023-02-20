@@ -39,7 +39,7 @@ third_nav_title: Our People
 | Class | Name |
 |:---:|---|
 | 3 Confidence | Ms Ngiam Wei Ling, Melissa<br>Mr Premnath |
-| 3 Diligence | Mr Jonathan Chng Ching Chuang<br>Ms Khaizuran<br>Ms Sharenya |
+| 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran<br>Ms Sharenya |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
 | 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying<br>Ms Hazel Chan Lay Mun |
