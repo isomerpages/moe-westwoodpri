@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2023/Example Title.md
       - 2023/NSMark Gold Award.md
       - 2023/.keep
       - 2022/.keep
