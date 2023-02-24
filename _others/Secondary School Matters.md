@@ -21,7 +21,7 @@ Click [here](https://go.gov.sg/westories22) to view the 2022 WE Stories public
 Here is a useful [link](https://go.gov.sg/introducewestories) to know more about WE Stories and School Finder.
 
 #### **Secondary Open House**
-**Will be updated in Oct 2023**
+1.	RGS Open House will take place on Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m. Please **visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/) for further details of the Open House.
 
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
