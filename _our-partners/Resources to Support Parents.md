@@ -20,3 +20,7 @@ Please refer to the poster below for the registration details if you are interes
  A child’s holistic well-being is important to support their overall development and learning. Children with high levels of well-being will be better able to face and overcome the various challenges that life may bring. They will also be better able to build positive relationships with other children, adults, and the community as a whole. Therefore, we have compiled an array of resources that will be useful in enhancing and strengthening parents’ knowledge and skills to boost and support children’s well-being. We hope that these resources will be beneficial in helping parents to build their children’s resilience and overall cognitive, emotional and social well-being.
  
  Click [here](https://sites.google.com/moe.edu.sg/pupilswellbeing/home) to view the resources.
+ 
+ <p><a href="https://sites.google.com/moe.edu.sg/pupilswellbeing/home">
+<img style="width:100%" src="/images/Pupils%20Well%20Being.png">
+</a></p>
