@@ -23,7 +23,7 @@ Please refer to the poster below for the registration details if you are interes
  
  <p><a href="https://sites.google.com/moe.edu.sg/pupilswellbeing/home">
 <img style="width:85%" src="/images/Student%20Well%20Being.jpg">
-</a></p>
+</a></p><br>
 
 
 **For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**<br>
