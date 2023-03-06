@@ -8,7 +8,7 @@ third_nav_title: "2023"
 
 Catch MOE's latest updates, speech highlights, press release and infosheet at [COS 2023 microsite](https://www.moe.gov.sg/microsites/cos2023/index.html)<br>
 
-You may also view the infographics as follows:
+You may click on the links to view the infographics:
 
 | ![](/images/MOE's%20COS%202023%20Highlights.png) | ![](/images/Full%20Subject-Based%20Banding.png) |
 | -------- | -------- |
