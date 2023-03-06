@@ -22,7 +22,7 @@ Please refer to the poster below for the registration details if you are interes
  Click [here](https://sites.google.com/moe.edu.sg/pupilswellbeing/home) to view the resources.
  
  <p><a href="https://sites.google.com/moe.edu.sg/pupilswellbeing/home">
-<img style="width:85%" src="/images/Pupils%20Well%20Being.png">
+<img style="width:85%" src="/images/Student%20Well%20Being.jpg">
 </a></p>
 
 
