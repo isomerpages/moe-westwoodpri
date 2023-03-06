@@ -24,3 +24,10 @@ Please refer to the poster below for the registration details if you are interes
  <p><a href="https://sites.google.com/moe.edu.sg/pupilswellbeing/home">
 <img style="width:85%" src="/images/Pupils%20Well%20Being.png">
 </a></p>
+
+
+**For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**
+
+|Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  | Ms Nurmalyanah Mossadats (Special Educational Needs Officer) |
+| -------- | -------- | -------- |
+| Email Address: loh_tze_mui_cindy@schools.gov.sg | Email Address: zakiyah_abd_rahim@schools.gov.sg | Email Address: nurmalyanah_mossadats@schools.gov.sg |
