@@ -33,3 +33,9 @@ Please refer to the poster below for the registration details if you are interes
 | Email Address: loh_tze_mui_cindy@schools.gov.sg | Email Address: zakiyah_abd_rahim@schools.gov.sg | Email Address: nurmalyanah_mossadats@schools.gov.sg |
 
 ### **Managing Screen Time**
+
+MOH has launched a new advisory on screen use for children up to 12 years of age to provide parents with more resources and practical help to support their children on healthy screen and device use. <br>
+
+<img src="/images/Guidance%20on%20Screen%20Use%20in%20Children.png" style="width:65%">
+
+[Download the Advisory](https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/educational-resources/guidance-on-screen-use-in-children.pdf) 
