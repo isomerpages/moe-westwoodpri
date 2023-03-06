@@ -26,7 +26,7 @@ Please refer to the poster below for the registration details if you are interes
 </a></p>
 
 
-**For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**
+**For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**<br>
 
 |Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  | Ms Nurmalyanah Mossadats (Special Educational Needs Officer) |
 | -------- | -------- | -------- |
