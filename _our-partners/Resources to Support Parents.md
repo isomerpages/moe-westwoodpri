@@ -31,3 +31,5 @@ Please refer to the poster below for the registration details if you are interes
 |Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  | Ms Nurmalyanah Mossadats (Special Educational Needs Officer) |
 | -------- | -------- | -------- |
 | Email Address: loh_tze_mui_cindy@schools.gov.sg | Email Address: zakiyah_abd_rahim@schools.gov.sg | Email Address: nurmalyanah_mossadats@schools.gov.sg |
+
+### **Managing Screen Time**
