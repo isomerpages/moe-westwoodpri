@@ -28,7 +28,7 @@ third_nav_title: Our People
 | 2 Diligence | Ms Chong Yoke Ting<br>Ms Elna |
 | 2 Gratitude | Ms Saranya D/O Asokan<br>Ms Ng Ley Huey |
 | 2 Hope | Mrs Winnie Teng (Leong)<br>Ms Li Huili |
-| 2 Kindness | Ms Ng Su Chern<br>Ms Elaine Lew<br>Ms Cheryl Teo |
+| 2 Kindness | Ms Ng Su Chern<br>Ms Sharenya<br>Ms Cheryl Teo |
 | 2 Resilience | Mdm Suhaila<br>Mdm Alamu |
 | 2 Synergy | Mdm Jamaliah<br>Ms Chang Yu Juan Jade |
 | 2 Teamwork | Ms Elaine Lai Yongxian<br>Ms Siti Juwani |
@@ -39,7 +39,7 @@ third_nav_title: Our People
 | Class | Name |
 |:---:|---|
 | 3 Confidence | Ms Ngiam Wei Ling, Melissa<br>Mr Premnath |
-| 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran<br>Ms Sharenya |
+| 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
 | 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying<br>Ms Hazel Chan Lay Mun |
@@ -52,10 +52,10 @@ third_nav_title: Our People
 |:---:|---|
 | 4 Confidence | Ms Katherine Chua Cheng Bee<br>Ms Nurul Syafiqah |
 | 4 Diligence | Ms Goh Ho Laye<br>Mdm Naseema Beevi |
-| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi<br>Ms Khoo Jia Hui |
+| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi |
 | 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
 | 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
-| 4 Teamwork | Ms Isabelle Gan Chai Hong<br>Mr Devaraj S/O Nambirajan |
+| 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
 |
 
 #### **P5 Form Teachers**
