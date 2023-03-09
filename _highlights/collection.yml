@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2023/W6 Future of Teaching Symposium.md
       - 2023/Committee of Supply 2023.md
       - 2023/Math Sharing Exchange.md
       - 2023/NSMark Gold Award.md
