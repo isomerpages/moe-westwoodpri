@@ -4,3 +4,8 @@ permalink: /highlights/2023/w6-future-of-teaching-symposium/
 description: ""
 third_nav_title: "2023"
 ---
+
+Westwood Primary is honored to be the hosting school for our W6 Future of Teaching Symposium. Sincere thanks to Mrs Karen Tan, Principal of CHIJ Our Lady Queen of Peace for the welcoming address, and Mr Kelvin Tan, NIE Curriculum, Teaching and Learning Academic Group Associate Professor to be our Keynote speaker. 
+
+We would also like to express special thanks to Mr Muhamad Salahuddin Ibrahim, Master Teacher/ Biology from AST and Ms Joanne Tan, Senior Assessment Policy & Practice Officer, Assessment Policy & Practice, CPO for sharing with us their valuable experiences on promoting peer assessment and feedback during our Q & A discussion. The closing address by our superintendent Mdm Shanti, have also reminded us on the importance of adaptability so that we can readily adjust to the changes in our environment. We hope all educators had a rich discussion on Assessment Literacy and how we can better promote student voice through feedback in our classrooms.
+
