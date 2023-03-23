@@ -15,7 +15,7 @@ description: ""
 |:---:|
 | **Ms Shalomi Shalini Rishabaraj**<br>Centre Head |
 
-<img src="/images/staff25.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align = "left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align = "left">
 <img src="/images/staff4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
@@ -23,7 +23,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| (to be updated)<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Coordinator |
+| Beins Vicki Maryanne<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Coordinator |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/staff6.jpg" style="width:29.5%;margin-right:15px;" align = "left">
