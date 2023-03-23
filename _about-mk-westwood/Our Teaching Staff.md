@@ -15,7 +15,7 @@ description: ""
 |:---:|
 | **Ms Shalomi Shalini Rishabaraj**<br>Centre Head |
 
-<img src="/images/staff25.jpg" style="width:28%;margin-right:15px;" align = "left">
+<img src="/images/staff222.jpg" style="width:28%;margin-right:15px;" align = "left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align = "left">
 <img src="/images/staff4.jpg" style="width:30%;margin-right:15px;" align = "left">
 
