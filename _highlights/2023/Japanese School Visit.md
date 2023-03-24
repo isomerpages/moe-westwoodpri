@@ -10,3 +10,4 @@ Our friends from Japan visited Westwood Primary on 23 March 2023. They were host
 
 It was a great learning experience for both our friends and Westwood students. Through this valuable interaction, students have learned more about one another's culture.
 
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTkCWyngO7NzWhWsDoenEJN6frqeu_-7Uig78wiRKdbO3phg9jTSMQMnH9rmff67N4XBH9hamqkEBpc/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
