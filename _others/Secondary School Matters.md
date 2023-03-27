@@ -25,7 +25,6 @@ Here is a useful [link](https://go.gov.sg/introducewestories) to know more abo
 2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on [PDF](/files/Sports%20School%20e-Open%20House.pdf) to find out more details about the Sports School E-Open House.
 
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matters**
-[2023 P6 Parents Engagement Information]
-(/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
+[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
 #### **Secondary 1 Posting**
 [https://www.moe.gov.sg/secondary/s1-posting](https://www.moe.gov.sg/secondary/s1-posting)
