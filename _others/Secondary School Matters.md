@@ -22,10 +22,10 @@ Here is a useful [link](https://go.gov.sg/introducewestories) to know more abo
 
 #### **Secondary Open House**
 1.	RGS Open House will take place on Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m. Please **visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/) for further details of the Open House.
-2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on PDF to find out more details about the Sports School E-Open House.
+2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on [PDF](/files/2023%20P6%20Parents%20Engagement%20Information.pdf) to find out more details about the Sports School E-Open House.
 
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matters**
-[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
+[2023 P6 Parents Engagement Information](/files/Sports%20School%20e-Open%20House.pdf)
 
 #### **Secondary 1 Posting**
 [https://www.moe.gov.sg/secondary/s1-posting](https://www.moe.gov.sg/secondary/s1-posting)
