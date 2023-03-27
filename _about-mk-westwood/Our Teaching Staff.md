@@ -23,7 +23,7 @@ description: ""
 
 |  |  |  |
 |:---:|:---:|:---:|
-| Beins Vicki Maryanne<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Coordinator |
+| **Ms Beins Vicki Maryanne**<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Murnitiana Binte Razali**<br>Level Coordinator |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align = "left">
 <img src="/images/staff6.jpg" style="width:29.5%;margin-right:15px;" align = "left">
