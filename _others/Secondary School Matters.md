@@ -21,7 +21,7 @@ Click [here](https://go.gov.sg/westories22) to view the 2022 WE Stories public
 Here is a useful [link](https://go.gov.sg/introducewestories) to know more about WE Stories and School Finder.
 
 #### **Secondary Open House**
-1.	SOTA Open House – 1 April 2023 <br>- **SOTA Open House 2023** will be happening on **Saturday, 1 April 2023** from **9.00am to 3.00pm**. It will be a physical event held at the **SOTA campus**.<br>- More information can be found on our website [sota.edu.sg/oh2023](https://www.sota.edu.sg/whats-on/oh2023).
+1.	SOTA Open House – 1 April 2023 <br>**SOTA Open House 2023** will be happening on **Saturday, 1 April 2023** from **9.00am to 3.00pm**. It will be a physical event held at the **SOTA campus**.<br>More information can be found on our website [sota.edu.sg/oh2023](https://www.sota.edu.sg/whats-on/oh2023).
 2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on [PDF](/files/Sports%20School%20e-Open%20House.pdf) to find out more details about the Sports School E-Open House.
 3.	RGS Open House will take place on Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m. Please **visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/) for further details of the Open House.
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE & Secondary School Matters**
