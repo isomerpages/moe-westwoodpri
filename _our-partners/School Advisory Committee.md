@@ -6,4 +6,4 @@ description: ""
 ### **School Advisory Committee**
 #### **Letters of Appreciation From SAC Chairman & Vice Chairman**
 
-<img src="/images/sac.jpg" style="width:85%">
+<img src="/images/SAC 203.jpg" style="width:85%">
