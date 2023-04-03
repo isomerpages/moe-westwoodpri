@@ -92,7 +92,8 @@ Ms Yap Hui Tee<br>
 Ms Ng Ley Huey<br>
 Ms Ang Chye Siang <br>
 Ms Koh Kah Neng  <br>
-Ms Chang Yu Juan Jade
+Ms Zhong Xinying <br>
+Ms Chang Yu Juan Jade 
 
 #### **Malay Language**
 Ms Elna (SH/ML &amp; TL)<br>
