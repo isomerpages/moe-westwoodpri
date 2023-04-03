@@ -32,13 +32,13 @@ We believe that early success in Mathematics is crucial for developing interest 
 |  |  |
 |:---:|---|
 | <br>Learner-Centered Environment in every classroom | - Concrete-Pictorial-Abstract Approach<br>- Activity-Based and Collaborative Learning through Learning Experience activities<br>- Use of Cognitive Conceptual Approach in problem solving |
-| <br>Differentiated Support for every child | - Learning Support for Mathematics (P1 & P2)<br>- Math Olympiad Programme (P4 to P6)<br>- Remedial Programme (P4 to P6)<br>- Math Competitions |
+| <br>Differentiated Support for every child | - Learning Support for Mathematics (P1 &amp; P2)<br>- Math Olympiad Programme (P4 to P6)<br>- Remedial Programme (P4 to P6)<br>- Math Competitions |
 | Experiential Learning For Effective Engagement | - Math Trails<br>- Math Games Days |
 |
 
 ![](/images/math2.jpg)
 ![](/images/math3.jpg)
-<img src="/images/math4.jpg" style="width:50%" align=left>
+<img src="/images/math4.jpg" style="width:50%" align="left">
 
 <br clear="left">
 
@@ -57,4 +57,5 @@ Ms Ng Su Chern<br>
 Mdm Lim Shae Min<br>
 Mrs May Foo<br>
 Mrs Agnes Seah<br>
-Ms Catherine Koh 
+Ms Catherine Koh<br>
+Ms Khoo Jia Hui

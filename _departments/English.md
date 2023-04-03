@@ -26,7 +26,7 @@ The English Language Syllabus 2020 for the Primary level focuses on the developm
 Following the EL Syllabus 2020, the Westwood EL Department seeks to develop these competencies in our learners through the teaching and learning of EL to enable them to be:
 <img src="/images/eng3.png" style="width:85%">
 
-Given the importance of 21 st century competencies, our desired outcomes for our learners will also include opportunities to develop the following core values:
+Given the importance of 21&nbsp;st&nbsp;century competencies, our desired outcomes for our learners will also include opportunities to develop the following core values:
 <img src="/images/eng4.png" style="width:85%">
 
 At the end of their Primary School journey, all Westwoodians should be able to:
@@ -48,10 +48,10 @@ These are the various aspects of EL literacy:
 |  |  |
 |---|---|
 | STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 1.0 curriculum<br><br>**Upper Primary**<br>STELLAR 1.0 curriculum |
-| School-based Curriculum | **Lower Primary**<br>Grammar and Vocabulary Packages<br><br>**Middle Primary and Upper Primary**<br>Grammar, Vocabulary, Comprehension, Writing, Synthesis & Transformation Packages<br><br>- MRL Activities and library lessons<br>- Pick and Tell Activities (P1 - P5)<br>- Literature Programme (P3 - P4)<br>- Vibrant Voice Programme (P3 - P5)<br>- Little Red Dot (P5 - P6)<br>- Reading Bugs Day |
-| Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Vibrant Voices (P3-P6)<br>- P6 Modular Supplementary (4 modules)<br>- Reading Boost Activities (P4 & P5 remedials)<br>- Reading Circles (P4)<br>- Competitions (Internal & External) |
-| Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- Hope Classroom Experiential lessons (P1 & P2)<br>- ICT-infused lessons |
-| Holistic Assessment | - Formative & Summative Assessments |
+| School-based Curriculum | **Lower Primary**<br>Grammar and Vocabulary Packages<br><br>**Middle Primary and Upper Primary**<br>Grammar, Vocabulary, Comprehension, Writing, Synthesis &amp; Transformation Packages<br><br>- MRL Activities and library lessons<br>- Pick and Tell Activities (P1 - P5)<br>- Literature Programme (P3 - P4)<br>- Vibrant Voice Programme (P3 - P5)<br>- Little Red Dot (P5 - P6)<br>- Reading Bugs Day |
+| Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Vibrant Voices (P3-P6)<br>- P6 Modular Supplementary (4 modules)<br>- Reading Boost Activities (P4 &amp; P5 remedials)<br>- Reading Circles (P4)<br>- Competitions (Internal &amp; External) |
+| Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- Hope Classroom Experiential lessons (P1 &amp; P2)<br>- ICT-infused lessons |
+| Holistic Assessment | - Formative &amp; Summative Assessments |
 |
 
 #### **STELLAR 2.0**
@@ -59,8 +59,8 @@ These are the various aspects of EL literacy:
 
 <img src="/images/eng5.png" style="width:85%">
 
-<img src="/images/eng6.jpeg" style="width:49%" align=left>
-<img src="/images/eng7.jpeg" style="width:49%" align=right>
+<img src="/images/eng6.jpeg" style="width:49%" align="left">
+<img src="/images/eng7.jpeg" style="width:49%" align="right">
 
 <br clear="left">
 
@@ -75,21 +75,21 @@ These are the various aspects of EL literacy:
 #### **Our Pupils' Work: The Creative Ink**
 ‘The Creative Ink’ is an online compendium of wonderful writing pieces from our Westwoodians. This initiative aims to nurture budding writers in their creative expression and hone their critical thinking skills.
 
-In this compilation, treat your senses to cleverly crafted acrostic and rhyming poems written by our lower and middle primary pupils. These poems are drawn from our pupils’ rich experiences and their close observations of the things around them.  As you read the upper primary writing pieces, listen closely to what they have to say about topics close to their hearts.  At Westwood, we believe that a writer exists in each of us. Through this platform, we are proud to showcase some of our flourishing writers’ works. As C.S Lewis aptly puts it, “Write about what really interests you, whether it is real things or imaginary things”. Our connoisseurs have dipped into their creative repository to pen down these pieces. We hope that this compendium will inspire Westwoodians to develop their passion for writing.
+In this compilation, treat your senses to cleverly crafted acrostic and rhyming poems written by our lower and middle primary pupils. These poems are drawn from our pupils’ rich experiences and their close observations of the things around them.&nbsp; As you read the upper primary writing pieces, listen closely to what they have to say about topics close to their hearts.&nbsp; At Westwood, we believe that a writer exists in each of us. Through this platform, we are proud to showcase some of our flourishing writers’ works. As C.S Lewis aptly puts it, “Write about what really interests you, whether it is real things or imaginary things”. Our connoisseurs have dipped into their creative repository to pen down these pieces. We hope that this compendium will inspire Westwoodians to develop their passion for writing.
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/vCBTC5dgKSE" title="Creative Ink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/vCBTC5dgKSE" title="Creative Ink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### **Photo Highlights of our EL Reading Bug Day (Term 1 2022)**
 Pupils came in a costume based on their favourite book. They get to share the love for reading by doing a book-sharing with their peers in class.
 
-<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align = "left">
-<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align = "left">
+<img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/eng11.jpeg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/eng12.jpeg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
-<img src="/images/eng13.jpeg" style="width:49%" align=left>
-<img src="/images/eng14.jpeg" style="width:49%" align=right>
+<img src="/images/eng13.jpeg" style="width:49%" align="left">
+<img src="/images/eng14.jpeg" style="width:49%" align="right">
 
 <br clear="left">
 
@@ -104,4 +104,5 @@ Mrs Winnie Teng<br>
 Ms Noor Amirah<br>
 Ms Janice Foo Mei Chien<br>
 Ms Sarah Chua Ai Tee <br>
-Ms Ker Bee Lay
+Ms Ker Bee Lay <br>
+Ms Sharenya Devarajan 
