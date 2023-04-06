@@ -24,6 +24,14 @@ sections:
           url: /others/quicklinks/
       subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
   - infopic:
+      title: School Tour by Student Leaders
+      subtitle: Latest Announcements
+      description: "Explore our wonderful facilities and engage in a dialogue session
+        with our school leaders and student leaders. "
+      button: Click here to register
+      url: https://forms.moe.edu.sg/forms/JBEXKv
+      image: /images/westwood school tour.gif
+  - infopic:
       title: Photo and Video Gallery
       subtitle: Westwood Primary School
       description: View Photos and Videos from Westwood Primary & MK @ Westwood
@@ -55,12 +63,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
       image: /images/10th anniversary.jpg
       alt: 10th
-  - infopic:
-      title: School Tour by Student Leaders
-      subtitle: Latest Announcements
-      description: "Explore our wonderful facilities and engage in a dialogue session
-        with our school leaders and student leaders. "
-      button: Click here to register
-      url: https://forms.moe.edu.sg/forms/JBEXKv
-      image: /images/westwood school tour.gif
 ---
