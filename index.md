@@ -10,9 +10,9 @@ sections:
       title: Westwood Primary School
       background: /images/PE Lesson.jpg
       key_highlights:
-        - title: Wishing Wall
+        - title: Parent Volunteers
           description: ""
-          url: /others/wishing-wall/
+          url: /administration/parent-volunteers/
         - title: Highlights
           description: ""
           url: /others/highlights/
