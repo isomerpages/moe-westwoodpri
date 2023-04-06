@@ -55,4 +55,11 @@ sections:
       url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
       image: /images/10th anniversary.jpg
       alt: 10th
+  - infopic:
+      title: School Tour by Student Leaders
+      subtitle: Latest Announcement
+      description: "Register for Westwood Pri’s School Tour 2023 today by visiting "
+      button: Click here to register
+      url: https://forms.moe.edu.sg/forms/JBEXKv
+      alt: Image alt text
 ---
