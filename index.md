@@ -24,9 +24,9 @@ sections:
           url: /others/quicklinks/
       subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
   - infopic:
-      title: Photo Gallery
+      title: Photo and Video Gallery
       subtitle: Westwood Primary School
-      description: View Photos from Westwood Primary & MK @ Westwood
+      description: View Photos and Videos from Westwood Primary & MK @ Westwood
       button: Click here
       url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/about-westwood/photo-and-video-gallery/
       image: /images/CCASports.jpg
