@@ -31,6 +31,7 @@ sections:
       button: Click here to register
       url: https://forms.moe.edu.sg/forms/JBEXKv
       image: /images/westwood school tour.gif
+      alt: Image alt text
   - infopic:
       title: Photo and Video Gallery
       subtitle: Westwood Primary School
