@@ -16,9 +16,9 @@ sections:
         - title: Highlights
           description: ""
           url: /others/highlights/
-        - title: Calender of Events
+        - title: Parent Support Group
           description: ""
-          url: /others/calenders-of-events/
+          url: /our-partners/psg/
         - title: Quicklinks
           description: ""
           url: /others/quicklinks/
