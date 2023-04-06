@@ -13,12 +13,12 @@ sections:
         - title: Parent Volunteers
           description: ""
           url: /administration/parent-volunteers/
-        - title: Highlights
-          description: ""
-          url: /others/highlights/
         - title: Parent Support Group
           description: ""
           url: /our-partners/psg/
+        - title: Highlights
+          description: ""
+          url: /others/highlights/
         - title: Quicklinks
           description: ""
           url: /others/quicklinks/
