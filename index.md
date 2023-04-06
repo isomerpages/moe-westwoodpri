@@ -57,8 +57,9 @@ sections:
       alt: 10th
   - infopic:
       title: School Tour by Student Leaders
-      subtitle: Latest Announcement
-      description: "Register for Westwood Pri’s School Tour 2023 today by visiting "
+      subtitle: Latest Announcements
+      description: "Explore our wonderful facilities and engage in a dialogue session
+        with our school leaders and student leaders. "
       button: Click here to register
       url: https://forms.moe.edu.sg/forms/JBEXKv
       alt: Image alt text
