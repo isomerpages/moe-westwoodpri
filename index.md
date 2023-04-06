@@ -28,7 +28,7 @@ sections:
       subtitle: Westwood Primary School
       description: View Photos from Westwood Primary & MK @ Westwood
       button: Click here
-      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-gallery/
+      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/about-westwood/photo-and-video-gallery/2023/
       image: /images/CCASports.jpg
       alt: Image alt text
   - infopic:
@@ -56,4 +56,3 @@ sections:
       image: /images/10th anniversary.jpg
       alt: 10th
 ---
-
