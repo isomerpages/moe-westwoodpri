@@ -62,5 +62,5 @@ sections:
         with our school leaders and student leaders. "
       button: Click here to register
       url: https://forms.moe.edu.sg/forms/JBEXKv
-      alt: Image alt text
+      image: /images/westwood school tour.gif
 ---
