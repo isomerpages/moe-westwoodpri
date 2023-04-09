@@ -22,4 +22,4 @@ Don't miss this opportunity to discover why Westwood Primary School is the perfe
 
 **Click [here](https://forms.moe.edu.sg/forms/JBEXKv) to register for the school tour by 30 April 2023.**
 
-![](/images/school%20tour%20by%20student%20leaders.jpg)
+<img src="/images/school%20tour%20by%20student%20leaders.jpg" style="width:85%">
