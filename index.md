@@ -26,9 +26,9 @@ sections:
   - infopic:
       title: School Tour by Student Leaders
       subtitle: Latest Announcement
-      description: "Explore our wonderful facilities and engage in a dialogue session
-        with our school leaders and student leaders. "
-      button: Click here to register
+      description: Explore our wonderful facilities and engage in a dialogue session
+        with our school leaders and student leaders.
+      button: Register by 30 April 2023
       url: https://forms.moe.edu.sg/forms/JBEXKv
       image: /images/westwood school tour.gif
       alt: Image alt text
