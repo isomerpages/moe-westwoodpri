@@ -4,7 +4,7 @@ title: Westwood Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: ""
+notification: "School tour "
 sections:
   - hero:
       title: Westwood Primary School
