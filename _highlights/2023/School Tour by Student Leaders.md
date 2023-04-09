@@ -21,3 +21,5 @@ Join us for an exclusive tour led by our student leaders. Explore our wonderful 
 Don't miss this opportunity to discover why Westwood Primary School is the perfect choice for your child's education. Come and see for yourself why so many families trust us with their children's education.
 
 **Click [here](https://forms.moe.edu.sg/forms/JBEXKv) to register for the school tour by 30 April 2023.**
+
+![](/images/school%20tour%20by%20student%20leaders.jpg)
