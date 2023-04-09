@@ -12,9 +12,9 @@ Join us for an exclusive tour led by our student leaders. Explore our wonderful 
 
 **Objectives of the School Tour:**
 
-* To introduce Westwood Primary School’s physical facilities and amenities for potential Primary One parents and students alike.
+* To introduce Westwood Primary School physical facilities and amenities for potential Primary One parents and students alike.
 
-* To use this tour as a platform for parents to interact with Westwood Primary School’s students, teachers, and school leaders.
+* To use this tour as a platform for parents to interact with Westwood Primary School students, teachers, and school leaders.
 
 * To advertise and promote Westwood Primary as a school of choice for kindergarten children who are enrolling into Primary One next year.
 
