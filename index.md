@@ -4,7 +4,7 @@ title: Westwood Primary School
 description: Brief site description here
 image: /images/isomer-logo.svg
 permalink: /
-notification: "School tour "
+notification: School Tour by Student Leaders 2023
 sections:
   - hero:
       title: Westwood Primary School
