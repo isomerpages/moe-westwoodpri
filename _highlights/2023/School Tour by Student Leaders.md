@@ -12,13 +12,13 @@ Join us for an exclusive tour led by our student leaders. Explore our wonderful 
 
 **Objectives of the School Tour:**
 
-* To introduce Westwood Primary School physical facilities and amenities for potential Primary One parents and students alike.
+* To introduce Westwood Primary School facilities and amenities for potential Primary One parents and students alike.
 
-* To use this tour as a platform for parents to interact with Westwood Primary School students, teachers, and school leaders.
+* To use this tour as a platform for parents to interact with Westwood Primary School students, teachers and school leaders.
 
 * To advertise and promote Westwood Primary as a school of choice for kindergarten children who are enrolling into Primary One next year.
 
-Don't miss this opportunity to discover why Westwood Primary School is the perfect choice for your child's education. Come and experience why so many families trust us with their children's education.
+Don't miss this opportunity to discover why Westwood Primary School is the perfect choice for your child's education. Come and experience why so many families entrust us with their children's education.
 
 **Click [here](https://forms.moe.edu.sg/forms/JBEXKv) to register for the school tour by 30 April 2023.**
 
