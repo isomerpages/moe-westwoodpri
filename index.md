@@ -24,7 +24,7 @@ sections:
           url: /others/quicklinks/
       subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
   - infopic:
-      title: School Tour by Student Leaders
+      title: School Tour by Student Leaders 2023
       subtitle: Latest Announcement
       description: Explore our wonderful facilities and engage in a dialogue session
         with our school leaders and student leaders.
