@@ -23,7 +23,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
 #### **Secondary Open House**
 1.	SOTA Open House – 1 April 2023 <br>**SOTA Open House 2023** will be happening on **Saturday, 1 April 2023** from **9.00am to 3.00pm**. It will be a physical event held at the **SOTA campus**.<br>More information can be found on our website [sota.edu.sg/oh2023](https://www.sota.edu.sg/whats-on/oh2023).
 2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on [PDF](/files/Sports%20School%20e-Open%20House.pdf) to find out more details about the Sports School E-Open House.
-3.	**Raffles Institution Open House 2023**<br>**29 April 2023 (Saturday)**<br>**8.00 am – 1.00 pm**<br>- Registration link for *RI Open House Carnival*: [https://evnk.co/rioh23](https://evnk.co/rioh23)<br>- Registration link for *Guided School Tours*: [https://evnk.co/rioh23-tours](https://evnk.co/rioh23-tours)<br>- [RI Open House Letter](/files/Sports%20School%20e-Open%20House.pdf)<br>- [- RI Open House Programme Sheet](/files/Sports%20School%20e-Open%20House.pdf)
+3.	**Raffles Institution Open House 2023**<br>**29 April 2023 (Saturday)**<br>**8.00 am – 1.00 pm**<br>- Registration link for *RI Open House Carnival*: [https://evnk.co/rioh23](https://evnk.co/rioh23)<br>- Registration link for *Guided School Tours*: [https://evnk.co/rioh23-tours](https://evnk.co/rioh23-tours)<br>- [RI Open House Letter](/files/Sports%20School%20e-Open%20House.pdf)<br>- [RI Open House Programme Sheet](/files/Sports%20School%20e-Open%20House.pdf)
 4.	Temasek JC Open House<br>
 Date: Sat 29 April (end of Week 6)<br>
 Time: 9am – 12noon<br>
