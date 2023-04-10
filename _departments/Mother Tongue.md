@@ -19,7 +19,7 @@ Ms Wong Sheang Yun, Ms Nurul Syafiqah Bte Anuar Khan, Ms Vivian Lim, Mdm Wei Jun
 Ms Koh Kah Neng, Ms Tong Jin Yi, Ms Yap Hui Tee, Ms Claire Lu Baozhu, Mrs Tan-Nai Li Hua, Ms Siti Juwani Bte Abd Rahman, Ms Thachayani Putaran
 
 #### **Curricular Objective**
-The Mother Tongue Language Department seeks to develop competent Mother Language learners through instilling greater ownership of&nbsp;learning, as well as developing pupils' appreciation and promoting their interest in the learning of Mother Tongue Language and Culture. We&nbsp;believe that every child should strive to excel in the daily use and application of the Mother Tongue Language.
+The Mother Tongue Language Department seeks to develop competent Mother Language learners through instilling greater ownership of&nbsp;learning, as well as developing pupils' appreciation and promoting their interest in the learning of Mother Tongue Language and Culture. We believe that every child should strive to excel in the daily use and application of the Mother Tongue Language. Since 2022, we have been offering Higher Mother Tongue Language from Primary 3 to Primary 6. This allows more students to deepen their knowledge and appreciation for these languages and their cultures from an early age. We hope this will encourage students with strong interest and aptitude in Mother Tongue Languages to learn as high a level as they can. 
 
 #### **Holistic Assessment tasks for P1 and P2**
 
