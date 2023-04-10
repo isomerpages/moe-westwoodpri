@@ -29,7 +29,7 @@ sections:
       description: Explore our wonderful facilities and engage in a dialogue session
         with our school leaders and student leaders.
       button: Click here for more info
-      url: https://westwoodpri.sg/highlights/2023/school-tour-by-student-leaders/
+      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/highlights/2023/school-tour-by-student-leaders/
       image: /images/westwood school tour.gif
       alt: Image alt text
   - infopic:
