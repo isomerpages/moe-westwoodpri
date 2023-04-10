@@ -27,7 +27,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
 Date: Sat 29 April (end of Week 6)<br>
 Time: 9am – 12noon<br>
 Mode: In-person at 22 Bedok South Road<br>
-Students who are interested in DSA to TJC IP1 can refer to this [LINK](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/).<br> Refer to this [PDF](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) for more information. 
+Students who are interested in DSA to TJC IP1 can refer to this [LINK](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/).<br> Click [here](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) to download and view the Open House E-mailer. 
 4.	RGS Open House will take place on Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m. Please **visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for further details of the Open House.
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
