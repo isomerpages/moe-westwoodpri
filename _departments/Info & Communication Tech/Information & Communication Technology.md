@@ -1,12 +1,12 @@
 ---
-title: Information & Communication Technology
+title: Information &amp; Communication Technology
 permalink: /departments/ict/
 description: ""
-third_nav_title: Info & Communication Tech
+third_nav_title: Info &amp; Communication Tech
 ---
-### **Information & Communication Technology**
+### **Information &amp; Communication Technology**
 
-<img src="/images/ICTInnovation&CyberwellnessTeam.jpg" style="width:85%">
+<img src="/images/ICTInnovation&amp;CyberwellnessTeam.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
@@ -48,7 +48,7 @@ The Cyber Wellness programme in Westwood uses the Sense-Think-Act approach to de
 Partnership with parents to support them in understanding cyber wellness issues and risks, as well as involving parents in reinforcing cyber wellness principles at home could ensure a more effective inculcation of these principles in pupils.
 
 #### **Integrating Cyber Wellness Core Values into Curriculum**
-*   Leveraging on Assembly and 21st  CC as a platform to share key messages in Cyber Wellness.  
+*   Leveraging on Assembly and 21st&nbsp;&nbsp;CC as a platform to share key messages in Cyber Wellness.  
     
 *   Leveraging on Character and Citizen Education (CCE) to inculcate the right values in cyberspace.
 
@@ -57,14 +57,14 @@ Partnership with parents to support them in understanding cyber wellness issues 
 [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) <br>
 2\. Media Literacy Council  
 [https://www.betterinternet.sg/](https://www.betterinternet.sg/)<br>
-3\. DQ Word for Parents (sign-up for child is required)  
-[https://www.dqworld.net/lang:en\_GB/#!/landing/parents](https://www.dqworld.net/lang:en_GB/#!/landing/parents)
+3\. Cyber Security Agency<br>
+[https://www.csa.gov.sg/information-for/students](https://www.csa.gov.sg/information-for/students)
 
 #### **SLS Info-Site**
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
 
-#### **Information & Communication Technology Committee**
+#### **Information &amp; Communication Technology Committee**
 Ms Li Huili (HOD ICT)<br>
-Mr Ng Zhili Gerard-Christian (SH/ ICT & Data Manager)<br>
+Mr Ng Zhili Gerard-Christian (SH/ ICT &amp; Data Manager)<br>
 Ms Siti Kalsom Zam Zam<br>
 Mdm Azimah
