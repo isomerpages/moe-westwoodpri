@@ -72,7 +72,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>CHIJ St Nicholas Girl’s School</td>
     <td>Saturday, 6th May 2023</td>
     <td>8.30am to 1pm</td>
-    <td>- Visit https://www.chijstnicholasgirls.moe.edu.sg/</td>
+    <td>- Click <a href="https://www.chijstnicholasgirls.moe.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>St. Joseph’s Institution</td>
