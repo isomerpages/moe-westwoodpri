@@ -20,7 +20,7 @@ Click&nbsp;[here](https://go.gov.sg/westories22)&nbsp;to view the 2022 WE Storie
   
 Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
 
-#### **Secondary Open House**
+#### **Secondary Education Open House**
 
 <table>
 <thead>
