@@ -28,6 +28,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
 **River Valley - Saturday, 29th April 2023 from 8.30am to 12.30pm**<br><br>
 **Temasek Junior College - Saturday, 29th April 2023 from 9.30am to 11am**<br> - Mode is in-person at 22 Bedok South Road<br>- Students who are interested in DSA to TJC IP1 can refer to this [link](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/)<br>- Click [here](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) to download and view the Open House E-mailer<br><br>
 **CHIJ St Nicholas Girl's School - Saturday, 6th May 2023 from 8.30am to 1pm**<br><br>
+**NUS High School - Saturday, 20th May 2023 from 9am to 4pm**<br><br>
 **Raffles Girls’ School - Saturday, 20th May 2023 from 8.30am to 1.30pm**<br>- Visit RGS school website in mid-April at [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for details
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
