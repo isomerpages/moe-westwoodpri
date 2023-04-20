@@ -48,31 +48,67 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Methodist Girls’ School</td>
     <td>Saturday, 29th April 2023</td>
     <td>9am to 1pm</td>
-    <td>https://www.mgs.moe.edu.sg/</td>
+    <td>- Visit https://www.mgs.moe.edu.sg/</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Raffles Institution</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>8am to 1pm</td>
+    <td>- Registration link for RI Open House Carnival: https://evnk.co/rioh23</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>River Valley High School</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>8.30am to 12.30pm</td>
+    <td>- Visit https://rivervalleyhigh.moe.edu.sg/</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Temasek Junior College</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>9.30am to 11am</td>
+    <td>- Mode is in-person at 22 Bedok South Road</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>CHIJ St Nicholas Girl’s School</td>
+    <td>Saturday, 6th May 2023</td>
+    <td>8.30am to 1pm</td>
+    <td>- Visit https://www.chijstnicholasgirls.moe.edu.sg/</td>
+  </tr>
+  <tr>
+    <td>St. Joseph’s Institution</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>8.30am to 1.30pm</td>
+    <td>- Online registration opens on 2 May</td>
+  </tr>
+  <tr>
+    <td>NUS High School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 4pm</td>
+    <td>- Visit https://www.nushigh.edu.sg/</td>
+  </tr>
+  <tr>
+    <td>Raffles Girls’ School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>8.30am to 1.30pm</td>
+    <td>- Visit RGS school website in mid-April at https://www.rgs.edu.sg/ for details</td>
+  </tr>
+  <tr>
+    <td>Hwa Chong Institution</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>11.30am to 4pm</td>
+    <td>- Visit https://www.hci.edu.sg/</td>
+  </tr>
+  <tr>
+    <td>National Junior College</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 2pm</td>
+    <td>- Visit https://www.nationaljc.moe.edu.sg/</td>
+  </tr>
+  <tr>
+    <td>Victoria School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 2pm</td>
+    <td>- Visit https://www.victoria.moe.edu.sg/</td>
   </tr>
 </tbody>
 </table>
