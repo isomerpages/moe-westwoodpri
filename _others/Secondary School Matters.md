@@ -54,7 +54,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Raffles Institution</td>
     <td>Saturday, 29th April 2023</td>
     <td>8am to 1pm</td>
-    <td>- Registration link for RI Open House Carnival: https://evnk.co/rioh23</td>
+    <td>- Registration link for RI Open House Carnival: <a href="https://evnk.co/rioh23">here</a> </td>
   </tr>
   <tr>
     <td>River Valley High School</td>
