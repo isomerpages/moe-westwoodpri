@@ -48,7 +48,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Methodist Girls’ School</td>
     <td>Saturday, 29th April 2023</td>
     <td>9am to 1pm</td>
-    <td>- Visit https://www.mgs.moe.edu.sg/</td>
+		<td>- Visit <a href="https://www.mgs.moe.edu.sg/">for more information</a></td>
   </tr>
   <tr>
     <td>Raffles Institution</td>
