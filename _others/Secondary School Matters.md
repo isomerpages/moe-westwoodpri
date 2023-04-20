@@ -39,10 +39,34 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>- Physical event held at the SOTA campus</td>
   </tr>
   <tr>
+    <td>Sports School Open House</td>
+    <td>Saturday, 15th April 2023</td>
+    <td>10am to 11.15am</td>
+    <td>- Sign up via their Eventbrite page at https://whysportsschool.eventbrite.sg</td>
+  </tr>
+  <tr>
+    <td>Methodist Girls’ School</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>9am to 1pm</td>
+    <td>https://www.mgs.moe.edu.sg/</td>
+  </tr>
+  <tr>
     <td></td>
     <td></td>
     <td></td>
-    <td>- Information can be found at sota.edu.sg/oh2023</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td></td>
