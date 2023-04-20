@@ -60,7 +60,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>River Valley High School</td>
     <td>Saturday, 29th April 2023</td>
     <td>8.30am to 12.30pm</td>
-    <td>- Visit https://rivervalleyhigh.moe.edu.sg/</td>
+    <td>- Click <a href="https://rivervalleyhigh.moe.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>Temasek Junior College</td>
