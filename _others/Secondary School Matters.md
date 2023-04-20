@@ -84,7 +84,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>NUS High School</td>
     <td>Saturday, 20th May 2023</td>
     <td>9am to 4pm</td>
-    <td>- Visit https://www.nushigh.edu.sg/</td>
+    <td>- Click <a href="https://www.nushigh.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>Raffles Girls’ School</td>
