@@ -21,6 +21,37 @@ Click&nbsp;[here](https://go.gov.sg/westories22)&nbsp;to view the 2022 WE Storie
 Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
 
 #### **Secondary Open House**
+
+<table>
+<thead>
+  <tr>
+    <th>School</th>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Additional Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>SOTA Open House</td>
+    <td>Saturday, 1st April 2023</td>
+    <td>9am to 3pm</td>
+    <td>- Physical event held at the SOTA campus</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td>- Information can be found at sota.edu.sg/oh2023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody>
+</table>
 **SOTA Open House – Saturday, 1st April 2023 from 9am to 3pm**<br>- Physical event held at the SOTA campus<br>- Information can be found at [sota.edu.sg/oh2023](https://www.sota.edu.sg/whats-on/oh2023)<br><br>
 **Sports School Open House – Saturday, 15th April 2023 from 10am to 11.15pm**<br>- Sign up via their Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br>- Click on [PDF](/files/Sports%20School%20e-Open%20House.pdf) to find out about the Sports School e-Open House.<br><br>
 **Methodist Girls' School - Saturday, 29th April 2023 from 9am to 1pm**<br><br>
