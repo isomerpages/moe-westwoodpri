@@ -96,7 +96,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Hwa Chong Institution</td>
     <td>Saturday, 20th May 2023</td>
     <td>11.30am to 4pm</td>
-    <td>- Visit https://www.hci.edu.sg/</td>
+    <td>- Click <a href="https://www.hci.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>National Junior College</td>
