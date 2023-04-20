@@ -102,7 +102,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>National Junior College</td>
     <td>Saturday, 20th May 2023</td>
     <td>9am to 2pm</td>
-    <td>- Visit https://www.nationaljc.moe.edu.sg/</td>
+    <td>- Click <a href="https://www.nationaljc.moe.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>Victoria School</td>
