@@ -26,8 +26,8 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
 **Raffles Institution - Saturday, 29th April 2023 from 8am to 1pm**<br>- Registration link for *RI Open House Carnival*: [https://evnk.co/rioh23](https://evnk.co/rioh23)<br>- Registration link for *Guided School Tours*: [https://evnk.co/rioh23-tours](https://evnk.co/rioh23-tours)<br>- [RI Open House Letter](/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf)<br>- [RI Open House Programme Sheet](/files/RIOH23%20Programme%20Sheet.pdf)<br><br>
 **Temasek Junior College - Saturday, 29th April 2023 from 9.30am to 11am**<br>
 - Mode is in-person at 22 Bedok South Road<br>
-- Students who are interested in DSA to TJC IP1 can refer to this [link](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/).<br>- Click [here](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) to download and view the Open House E-mailer. 
-**Raffles Girls’ School - Saturday, 20th May 2023 from 8.30am to 1.30pm**- Visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for further details.
+- Students who are interested in DSA to TJC IP1 can refer to this [link](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/)<br>- Click [here](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) to download and view the Open House E-mailer
+**Raffles Girls’ School - Saturday, 20th May 2023 from 8.30am to 1.30pm**<br>- Visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for further details
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
 #### **Secondary 1 Posting**
