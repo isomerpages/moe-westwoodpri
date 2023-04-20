@@ -33,11 +33,8 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
 **NUS High School - Saturday, 20th May 2023 from 9am to 4pm**<br><br>
 **Raffles Girls’ School - Saturday, 20th May 2023 from 8.30am to 1.30pm**<br>- Visit RGS school website in mid-April at [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for details<br><br>
 **Hwa Chong Institution - Saturday, 20th May 2023 from 11.30am to 4pm**<br><br>
-
 **St. Joseph's Institution - Saturday, 20th May 2023 from 8.30am to 1.30pm**<br><br>
-
 **National Junior College - Saturday, 20th May 2023 from 9am to 2pm**<br><br>
-
 **Victoria School - Saturday, 20th May 2023 from 9am to 2pm**
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
