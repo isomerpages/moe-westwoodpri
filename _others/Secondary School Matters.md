@@ -90,7 +90,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Raffles Girls’ School</td>
     <td>Saturday, 20th May 2023</td>
     <td>8.30am to 1.30pm</td>
-		<td>- Visit <a href="https://www.rgs.edu.sg/">RGS school website in mid-April</a> for details</td>
+		<td>- Visit <a href="https://www.rgs.edu.sg/">RGS school website</a> in mid-April for details</td>
   </tr>
   <tr>
     <td>Hwa Chong Institution</td>
