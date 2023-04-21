@@ -20,7 +20,7 @@ Click&nbsp;[here](https://go.gov.sg/westories22)&nbsp;to view the 2022 WE Storie
   
 Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
 
-#### **Secondary Education Open House**
+#### **Information on Secondary Education Open House 2023**
 
 <table>
 <thead>
@@ -112,7 +112,9 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
   </tr>
 </tbody>
 </table>
+
 #### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
+
 #### **Secondary 1 Posting**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
