@@ -69,7 +69,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>- In-person mode at 22 Bedok South Road<br>- Students interested in DSA to TJC IP1 can refer to this <a href="https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/">link</a> for more information<br><a href="/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf">TJC Open House E-Mailer</a></td>
   </tr>
   <tr>
-    <td>CHIJ St Nicholas Girl’s School</td>
+    <td>CHIJ St Nicholas Girls' School</td>
     <td>Saturday, 6th May 2023</td>
     <td>8.30am to 1pm</td>
     <td>- Click <a href="https://www.chijstnicholasgirls.moe.edu.sg/">here</a> for more information</td>
