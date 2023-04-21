@@ -66,7 +66,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Temasek Junior College</td>
     <td>Saturday, 29th April 2023</td>
     <td>9.30am to 11am</td>
-    <td>- Mode is in-person at 22 Bedok South Road</td>
+    <td>- Mode is in-person at 22 Bedok South Road<br>- Click <a href="https://rivervalleyhigh.moe.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>CHIJ St Nicholas Girl’s School</td>
