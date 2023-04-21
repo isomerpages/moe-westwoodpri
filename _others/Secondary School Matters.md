@@ -20,17 +20,101 @@ Click&nbsp;[here](https://go.gov.sg/westories22)&nbsp;to view the 2022 WE Storie
   
 Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
 
-#### **Secondary Open House**
-1.	SOTA Open House – 1 April 2023 <br>**SOTA Open House 2023** will be happening on **Saturday, 1 April 2023** from **9.00am to 3.00pm**. It will be a physical event held at the **SOTA campus**.<br>More information can be found on our website [sota.edu.sg/oh2023](https://www.sota.edu.sg/whats-on/oh2023).
-2.	Sports School Open House – 15 April 2023 <br>Sign up via our Eventbrite page at [https://whysportsschool.eventbrite.sg](https://whysportsschool.eventbrite.sg)<br> Click on [PDF](/files/Sports%20School%20e-Open%20House.pdf) to find out more details about the Sports School E-Open House.
-3.	**Raffles Institution Open House 2023**<br>**29 April 2023 (Saturday)**<br>**8.00 am – 1.00 pm**<br>- Registration link for *RI Open House Carnival*: [https://evnk.co/rioh23](https://evnk.co/rioh23)<br>- Registration link for *Guided School Tours*: [https://evnk.co/rioh23-tours](https://evnk.co/rioh23-tours)<br>- [RI Open House Letter](/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf)<br>- [RI Open House Programme Sheet](/files/RIOH23%20Programme%20Sheet.pdf)
-4.	Temasek JC Open House<br>
-Date: Sat 29 April (end of Week 6)<br>
-Time: 9am – 12noon<br>
-Mode: In-person at 22 Bedok South Road<br>
-Students who are interested in DSA to TJC IP1 can refer to this [LINK](https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/).<br> Click [here](/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf) to download and view the Open House E-mailer. 
-4.	RGS Open House will take place on Saturday 20 May 2023 (Term 2 Week 9), from 8.30 a.m. to 1.30 p.m. Please **visit RGS school website in mid-April at** [https://www.rgs.edu.sg/](https://www.rgs.edu.sg/)&nbsp;for further details of the Open House.
-#### **Presentation Slides for P6 Parents' Engagement Day by principal, Mr Andrew Mah, on PSLE &amp; Secondary School Matters**
+#### **Information on Secondary Education Open House 2023**
+
+<table>
+<thead>
+  <tr>
+    <th>School</th>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Additional Information</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>SOTA Open House</td>
+    <td>Saturday, 1st April 2023</td>
+    <td>9am to 3pm</td>
+    <td>- Physical event held at the SOTA campus<br>- Click <a href="https://www.sota.edu.sg/whats-on/oh2023">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Sports School Open House</td>
+    <td>Saturday, 15th April 2023</td>
+    <td>10am to 11.15am</td>
+		<td>- Sign up via  <a href="https://whysportsschool.eventbrite.sg">Eventbrite</a><br><a href="/files/Sports%20School%20e-Open%20House.pdf">Sports School e-Open House details</a></td>
+  </tr>
+  <tr>
+    <td>Methodist Girls’ School</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>9am to 1pm</td>
+		<td>- Click <a href="https://www.mgs.moe.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Raffles Institution</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>8am to 1pm</td>
+    <td>- <a href="https://evnk.co/rioh23">Register</a> for RI Open House Carnival<br>- <a href="https://evnk.co/rioh23-tours">Register</a> for *Guided School Tours*<br><a href="/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf">RI Open House Letter</a><br><a href="/files/RIOH23%20Programme%20Sheet.pdf">RI Open House Programme Sheet</a></td>
+  </tr>
+  <tr>
+    <td>River Valley High School</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>8.30am to 12.30pm</td>
+    <td>- Click <a href="https://rivervalleyhigh.moe.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Temasek Junior College</td>
+    <td>Saturday, 29th April 2023</td>
+    <td>9.30am to 11am</td>
+    <td>- In-person mode at 22 Bedok South Road<br>- Students interested in DSA to TJC IP1 can refer to this <a href="https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/">link</a> for more information<br><a href="/files/2023%20TJC%20IP%20Open%20House%20E-Mailer.pdf">TJC Open House E-Mailer</a></td>
+  </tr>
+  <tr>
+    <td>CHIJ St Nicholas Girls' School</td>
+    <td>Saturday, 6th May 2023</td>
+    <td>8.30am to 1pm</td>
+    <td>- Click <a href="https://www.chijstnicholasgirls.moe.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>St. Joseph’s Institution</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>8.30am to 1.30pm</td>
+    <td>- Online registration opens on 2 May<br>- Click <a href="https://www.sji.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>NUS High School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 4pm</td>
+    <td>- Click <a href="https://www.nushigh.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Raffles Girls’ School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>8.30am to 1.30pm</td>
+		<td>- Click<a href="https://www.rgs.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Hwa Chong Institution</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>11.30am to 4pm</td>
+    <td>- Click <a href="https://www.hci.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>National Junior College</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 2pm</td>
+    <td>- Click <a href="https://www.nationaljc.moe.edu.sg/">here</a> for more information</td>
+  </tr>
+  <tr>
+    <td>Victoria School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>9am to 2pm</td>
+    <td>- Click <a href="https://www.victoria.moe.edu.sg/">here</a> for more information</td>
+  </tr>
+</tbody>
+</table>
+
+#### **Presentation Slides for P6 Parents' Engagement Day on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
+
 #### **Secondary 1 Posting**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
