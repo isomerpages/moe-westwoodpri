@@ -36,7 +36,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>SOTA Open House</td>
     <td>Saturday, 1st April 2023</td>
     <td>9am to 3pm</td>
-    <td>- Physical event held at the SOTA campus<br>- Visit <a href="https://www.sota.edu.sg/whats-on/oh2023">sota.edu.sg/oh2023</a> for more information</td>
+    <td>- Physical event held at the SOTA campus<br>- Click <a href="https://www.sota.edu.sg/whats-on/oh2023">here</a> for more information</td>
   </tr>
   <tr>
     <td>Sports School Open House</td>
