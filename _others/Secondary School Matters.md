@@ -42,7 +42,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Sports School Open House</td>
     <td>Saturday, 15th April 2023</td>
     <td>10am to 11.15am</td>
-		<td>- Sign up via  <a href="https://whysportsschool.eventbrite.sg">Eventbrite</a><br>- Click on <a href="/files/Sports%20School%20e-Open%20House.pdf">PDF</a> to find out about the Sports School e-Open House</td>
+		<td>- Sign up via  <a href="https://whysportsschool.eventbrite.sg">Eventbrite</a><br>- View <a href="/files/Sports%20School%20e-Open%20House.pdf">PDF</a> to find out about the Sports School e-Open House</td>
   </tr>
   <tr>
     <td>Methodist Girls’ School</td>
