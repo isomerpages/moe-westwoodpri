@@ -66,7 +66,7 @@ Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know 
     <td>Temasek Junior College</td>
     <td>Saturday, 29th April 2023</td>
     <td>9.30am to 11am</td>
-    <td>- Mode is in-person at 22 Bedok South Road<br>- Students who are interested in DSA to TJC IP1 can refer to this <a href="https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/">link</a></td>
+    <td>- Mode is in-person at 22 Bedok South Road<br>- Students who are interested in DSA to TJC IP1 can refer to this <a href="https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/">link</a><br>- Students who are interested in DSA to TJC IP1 can refer to this <a href="https://www.temasekjc.moe.edu.sg/admissions/ip-year-1-dsa-sec/">link</a></td>
   </tr>
   <tr>
     <td>CHIJ St Nicholas Girl’s School</td>
