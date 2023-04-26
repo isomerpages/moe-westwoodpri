@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ### **School Tour by Student Leaders**
 
-We have organized an exclusive tour for parents on 8th and 22nd May, led by our student leaders. Other than exploring our wonderful facilities, parents also had a dialogue session with our school leaders and student leaders to find out what makes learning so meaningful and enjoyable in Westwood Primary School.
+We have organized an exclusive school tour for parents on 8th and 22nd May, led by our student leaders. Other than exploring our wonderful facilities, parents also had a dialogue session with our school leaders and student leaders to find out what makes learning so meaningful and enjoyable in Westwood Primary School.
 
 **Objectives of the School Tour:**
 
