@@ -2,7 +2,6 @@ collections:
   administration:
     output: true
     order:
-      - Example Title.md
       - Canteen Matters.md
       - Service Providers.md
       - School Safety.md
