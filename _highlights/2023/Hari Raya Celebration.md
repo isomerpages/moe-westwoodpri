@@ -6,6 +6,6 @@ third_nav_title: "2023"
 ---
 ### **Hari Raya Celebration**
 
-On 28 April, many of our staff and pupils came in their traditional costumes to celebrate Hari Raya. We have organized Assembly programme, recess and classroom activities to deepen pupils' understanding about Malay culture and values. It was indeed a joyful festive celebration for all Westwoodians.  
+On 28th April, many of our staff and pupils came in their traditional costumes to celebrate Hari Raya. We have organized Assembly programme, recess and classroom activities to deepen pupils' understanding about Malay culture and values. It was indeed a joyful festive celebration for all Westwoodians.  
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRtehqqWbBq5jijiZ0tE5A09j6ALt2cKJ8Q2nYczj6m2wwYAVsOHXXluyM1-g2yx7nSXUtuCtRuExB1/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="800" height="450" allowfullscreen="true"></iframe>
