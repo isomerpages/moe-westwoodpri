@@ -2,7 +2,6 @@ collections:
   administration:
     output: true
     order:
-      - School Canteen Advertisement/Canteen Matters.md
       - School Canteen Advertisement/.keep
       - Service Providers.md
       - School Safety.md
