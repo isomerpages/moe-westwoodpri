@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Canteen Matters.md
-      - School Canteen Advertisement/.keep
       - Service Providers.md
       - School Safety.md
       - Parent Volunteers.md
