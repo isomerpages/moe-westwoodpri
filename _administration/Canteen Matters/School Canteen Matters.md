@@ -1,9 +1,10 @@
 ---
-title: Canteen Matters
-permalink: /administration/canteen-matters/
+title: School Canteen Matters
+permalink: /administration/canteen-matters/school-canteen-matters/
 description: ""
+third_nav_title: Canteen Matters
 ---
-### **Canteen Matters**
+### **School Canteen Matters**
 Health has always been an important aspect of a child’s holistic development. To support the holistic development of our pupils, the Ministry of Education (MOE) and the Health Promotion Board (HPB) have been working closely with schools to implement the Healthy Meals in Schools Programme (HMSP) to promote healthy eating among the children in all schools The objective of the programme is to help schools build a supportive environment to promote healthier eating. The programme provides schools with a set of food service guidelines that aim to reduce the amount of fat, salt and sugar in food preparation, as well as encourage the consumption of fruit and vegetables, and wholegrains.
 
 For more information on the programme, please visit the HMSP webpage.
@@ -23,14 +24,14 @@ There are 8 food stalls in the school canteen.
 
 | Stall Number | Type of Food | Name of Stall owner | Menu and Price List |
 |:---:|:---:|:---:|:---:|
-| 1 | Hot Drinks & Snacks | Mdm Deng Xiu Zhu | [Stall 1.pdf](/files/Canteen_Matters/Stall_1.pdf) |
+| 1 | Hot Drinks &amp; Snacks | Mdm Deng Xiu Zhu | [Stall 1.pdf](/files/Canteen_Matters/Stall_1.pdf) |
 | 2 | Malay Rice | Mr Hairry Bin Ahmad Surbe | [Stall 2.pdf](/files/Canteen_Matters/Stall_2.pdf) |
 | 3 | Malay Noodles | Mdm Hairunnisa Bte Mohamed Amran | [Stall 3.pdf](/files/Canteen_Matters/Stall_3.pdf) |
 | 4 | Chicken Rice | Mdm Rosmah Bte Sudi | [Stall 4.pdf](/files/Canteen_Matters/Stall_4.pdf) |
 | 5 | Western Food | Mdm Hariati Bte Hamid | [Stall 5.pdf](/files/Canteen_Matters/Stall_5.pdf) |
 | 6 | Chinese Noodles | Mdm Angie Ng Beng Hung |   [Stall 6.pdf](/files/Canteen_Matters/Stall_6.pdf) |
 | 7 | Chinese Rice | Mdm Oh Bee Kim | [Stall 7.pdf](/files/Canteen_Matters/Stall_7.pdf) |
-| 8 | Cold Drinks & Fruits | Mr Mohd Razali Bin Marsom | [Stall 8.pdf](/files/Canteen_Matters/Stall_8.pdf) |
+| 8 | Cold Drinks &amp; Fruits | Mr Mohd Razali Bin Marsom | [Stall 8.pdf](/files/Canteen_Matters/Stall_8.pdf) |
 |
 
 #### **Timing for Recess, Snack and Lunch Breaks**

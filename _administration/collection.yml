@@ -2,8 +2,10 @@ collections:
   administration:
     output: true
     order:
+      - Canteen Matters/.keep
+      - Canteen Matters/School Canteen Matters.md
+      - Canteen Matters/School Canteen Advertisement.md
       - Service Providers.md
-      - Canteen Matters.md
       - School Safety.md
       - Parent Volunteers.md
       - Waiting List.md
