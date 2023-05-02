@@ -13,12 +13,13 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 #### **DSA 2022 information**
 Click [here](https://www.moe.gov.sg/secondary/dsa) to learn more about Direct School Admission.
 
-#### **WE Stories**
+#### **WE STories**
 Welcome to browse through this issue of WE Stories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
 
-Click&nbsp;[here](https://go.gov.sg/westories22)&nbsp;to view the 2022 WE Stories publication online.  
-  
-Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
+Browse our 2023 WE-STories publication online.  
+<p><a href="https://go.gov.sg/westories-official">
+<img style="width:45%" src="/images/we%20stories.png">
+</a></p>
 
 #### **Information on Secondary Education Open House 2023**
 
