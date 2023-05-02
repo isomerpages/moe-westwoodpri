@@ -18,8 +18,6 @@ Welcome to browse through this issue of WE Stories, a collection of stories from
 
 Click&nbsp;[here](https://go.gov.sg/westories-official)&nbsp;to view the 2023 WE Stories publication online.  
 
-Here is a useful&nbsp;[link](https://go.gov.sg/introducewestories)&nbsp;to know more about WE Stories and School Finder.
-
 #### **Information on Secondary Education Open House 2023**
 
 <table>
