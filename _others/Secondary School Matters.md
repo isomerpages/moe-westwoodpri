@@ -16,7 +16,10 @@ Click [here](https://www.moe.gov.sg/secondary/dsa) to learn more about Direct Sc
 #### **WE Stories**
 Welcome to browse through this issue of WE Stories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
 
-Click&nbsp;[here](https://go.gov.sg/westories-official)&nbsp;to view the 2023 WE Stories publication online.  
+Click to view the 2023 WE Stories publication online.  
+<p><a href="https://go.gov.sg/westories-official">
+<img style="width:45%" src="/images/we%20stories.png">
+</a></p>
 
 #### **Information on Secondary Education Open House 2023**
 
