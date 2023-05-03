@@ -34,7 +34,7 @@ Immediate to 31 Dec 2023
 * Proposed menu and pricing
 * Photocopy of relevant certificates such as Basic Food Hygiene etc.
 
-**Application Closing Date:** 12 May 2023, Friday 
+**Application Closing Date: 12 May 2023, Friday**<br> 
 
 Only shortlisted applicants will be notified for an interview and food sampling at the school.
 If interested, please contact Mr Michael Khoo (Operation Manager) / Mdm Cecilia Chia (Administration Manager) at 64121690.
