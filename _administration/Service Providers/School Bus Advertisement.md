@@ -26,5 +26,5 @@ Description: The bus fares listed below are the maximum fares for each distance 
 **Bus fares for daily school bus services by distance**<br>
 ![](/images/bus%20fares%20for%20daily%20school%20bus%20services%20by%20distance.png)
 Remarks:
-Include Bus Services for after school activities on designated days and time (i.e. sending students home from school after supplementary lessons
+*Include Bus Services for after school activities on designated days and time (i.e. sending students home from school after supplementary lessons
 /enrichment programmes and Co-Curricular Activities).*
