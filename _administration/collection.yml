@@ -2,6 +2,7 @@ collections:
   administration:
     output: true
     order:
+      - Service Providers/.keep
       - Canteen Matters/.keep
       - Canteen Matters/School Canteen Matters.md
       - Canteen Matters/School Canteen Advertisement.md
