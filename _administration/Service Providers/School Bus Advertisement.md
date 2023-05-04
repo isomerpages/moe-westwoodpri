@@ -16,7 +16,7 @@ JK59 Transport Pte Ltd
 transport@jk59.com
 
 **Contact Details**<br>
-Tel: 64655959
+Tel: 64655959<br>
 Fax: 64665959
 
 
