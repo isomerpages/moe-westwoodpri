@@ -2,6 +2,7 @@
 title: Service Providers
 permalink: /administration/service-providers/
 description: ""
+third_nav_title: Service Providers
 ---
 ### **Service Providers**
 #### **Bookshop Operator / Name Tag Supplier**
@@ -22,7 +23,7 @@ _School uniforms are available for purchase at the school bookshop during the sc
 _Parents are advised to call the Changi retail outlet to check on the availability of items and confirm the operating hours (also available on website) before heading down.<br>
 Operating Hours (during peak periods):<br>
 Weekdays 3pm-8pm / Weekends 10am-4pm;<br>
-Closed on Tuesdays & Public Holidays_
+Closed on Tuesdays &amp; Public Holidays_
 
 #### **Student Care Centre**
 **Little Professors Learning Centre Pte Ltd**<br>

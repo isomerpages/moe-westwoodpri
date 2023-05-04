@@ -75,10 +75,10 @@ links:
   - title: Administration
     url: /administration/service-providers/
     sublinks:
+      - title: Canteen Matters
+        url: /administration/canteen-matters/
       - title: Service Providers
         url: /administration/service-providers/
-      - title: Canteen Matters
-        url: /administration/canteen-matters/school-canteen-matters
       - title: School Safety
         url: /administration/school-safety/
       - title: Parent Volunteers

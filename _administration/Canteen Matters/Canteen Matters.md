@@ -1,10 +1,10 @@
 ---
-title: School Canteen Matters
-permalink: /administration/canteen-matters/school-canteen-matters/
+title: Canteen Matters
+permalink: /administration/canteen-matters/
 description: ""
 third_nav_title: Canteen Matters
 ---
-### **School Canteen Matters**
+### **Canteen Matters**
 Health has always been an important aspect of a child’s holistic development. To support the holistic development of our pupils, the Ministry of Education (MOE) and the Health Promotion Board (HPB) have been working closely with schools to implement the Healthy Meals in Schools Programme (HMSP) to promote healthy eating among the children in all schools The objective of the programme is to help schools build a supportive environment to promote healthier eating. The programme provides schools with a set of food service guidelines that aim to reduce the amount of fat, salt and sugar in food preparation, as well as encourage the consumption of fruit and vegetables, and wholegrains.
 
 For more information on the programme, please visit the HMSP webpage.
