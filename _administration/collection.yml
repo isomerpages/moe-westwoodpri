@@ -2,9 +2,9 @@ collections:
   administration:
     output: true
     order:
-      - Service Providers/School Bus Advertisement.md
-      - Service Providers/Service Providers.md
       - Service Providers/.keep
+      - Service Providers/Service Providers.md
+      - Service Providers/School Bus Advertisement.md
       - Canteen Matters/.keep
       - Canteen Matters/School Canteen Matters.md
       - Canteen Matters/School Canteen Advertisement.md
