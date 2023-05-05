@@ -35,7 +35,7 @@ Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.s
 Contact: 6465 5959 (Monday to Friday, 9.00 a.m. to 5.30 p.m. and Saturday, 9.00 a.m. to 1.00 p.m.)<br>
 Email: [transport@jk59.com](mailto:transport@jk59.com)
 
-To view details of bus operator and bus fares, click 
+To view details of bus operator and bus fares, click [here](/files/school%20bus_fares_wwps.pdf).
 
 #### **Dental Clinic**
 **Dental Clinic @ Westwood Primary**<br>
