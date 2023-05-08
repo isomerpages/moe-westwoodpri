@@ -15,7 +15,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 
 Maris Stella High School DSA Sharing Session
 - 19 May (Friday) 3pm to 5pm 
-- Register via [go.gov.sg/mshs-dsa](go.gov.sg/mshs-dsa)
+- Register via [go.gov.sg/mshs-dsa](https://go.gov.sg/mshs-dsa)
 
 #### **WE STories**
 Welcome to browse through this issue of WE Stories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
