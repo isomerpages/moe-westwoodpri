@@ -80,6 +80,12 @@ Browse our 2023 WE-STories publication online.
     <td>- Click <a href="https://www.chijstnicholasgirls.moe.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
+    <td>Victoria School</td>
+    <td>Saturday, 20th May 2023</td>
+    <td>8am to 1pm</td>
+    <td>- In-person Open House<br>- Click <a href="https://www.victoria.moe.edu.sg/prospective-students/openhouse-2023/">here</a> for more information</td>
+  </tr>
+	<tr>
     <td>St. Joseph’s Institution</td>
     <td>Saturday, 20th May 2023</td>
     <td>8.30am to 1.30pm</td>
