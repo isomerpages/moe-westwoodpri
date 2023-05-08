@@ -11,7 +11,7 @@ As parents, we can be better prepared by finding out the subjects that your chil
 Under this tab, we will update matters on Direct School Admission, Open House for Secondary Schools, Secondary 1 Posting etc.
 
 #### **Direct School Admission for secondary schools (DSA-Sec)**
-Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Click [here](https://www.moe.gov.sg/secondary/dsa) to learn more about DSA-Sec.
+Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
 Maris Stella High School DSA Sharing Session
 - 19 May (Friday) 3pm to 5pm 
