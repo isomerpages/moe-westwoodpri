@@ -1,8 +1,8 @@
 ---
-title: Information &amp; Communication Technology
+title: Information & Communication Technology
 permalink: /departments/ict/
 description: ""
-third_nav_title: Info &amp; Communication Tech
+third_nav_title: Info & Communication Tech
 ---
 ### **Information &amp; Communication Technology**
 
