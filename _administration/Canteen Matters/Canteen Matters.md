@@ -30,7 +30,7 @@ There are 8 food stalls in the school canteen.
 | 4 | Chicken Rice | Mdm Rosmah Bte Sudi | [Stall 4.pdf](/files/Canteen_Matters/Stall_4.pdf) |
 | 5 | Western Food | Mdm Hariati Bte Hamid | [Stall 5.pdf](/files/Canteen_Matters/Stall_5.pdf) |
 | 6 | Chinese Noodles | Mdm Angie Ng Beng Hung |   [Stall 6.pdf](/files/Canteen_Matters/Stall_6.pdf) |
-| 7 | Chinese Rice | Mdm Oh Bee Kim | [Stall 7.pdf](/files/Canteen_Matters/Stall_7.pdf) |
+| 7 | Chinese Rice | vacant | To be updated |
 | 8 | Cold Drinks &amp; Fruits | Mr Mohd Razali Bin Marsom | [Stall 8.pdf](/files/Canteen_Matters/Stall_8.pdf) |
 |
 
