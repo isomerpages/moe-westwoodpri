@@ -116,6 +116,12 @@ Maris Stella High School DSA Sharing Session
 </tbody>
 </table>
 
+#### **Presentation Slides for P6 Parents' Engagement Day on PSLE &amp; Secondary School Matters**
+[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
+
+#### **Secondary 1 Posting**
+Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
+
 #### **WE STories**
 Welcome to browse through this issue of WE STories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
 
@@ -123,9 +129,3 @@ Browse our 2023 WE-STories publication online.
 <p><a href="https://go.gov.sg/westories-official">
 <img style="width:45%" src="/images/we%20stories.png">
 </a></p>
-
-#### **Presentation Slides for P6 Parents' Engagement Day on PSLE &amp; Secondary School Matters**
-[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
-
-#### **Secondary 1 Posting**
-Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
