@@ -17,14 +17,6 @@ Maris Stella High School DSA Sharing Session
 - 19 May (Friday) 3pm to 5pm 
 - Register via [go.gov.sg/mshs-dsa](https://go.gov.sg/mshs-dsa)
 
-#### **WE STories**
-Welcome to browse through this issue of WE Stories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
-
-Browse our 2023 WE-STories publication online.  
-<p><a href="https://go.gov.sg/westories-official">
-<img style="width:45%" src="/images/we%20stories.png">
-</a></p>
-
 #### **Information on Secondary Education Open House 2023**
 
 <table>
@@ -101,7 +93,7 @@ Browse our 2023 WE-STories publication online.
     <td>Raffles Girls’ School</td>
     <td>Saturday, 20th May 2023</td>
     <td>8.30am to 1.30pm</td>
-		<td>- Click<a href="https://www.rgs.edu.sg/">here</a> for more information</td>
+		<td>- Click <a href="https://www.rgs.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>Hwa Chong Institution</td>
@@ -123,6 +115,14 @@ Browse our 2023 WE-STories publication online.
   </tr>
 </tbody>
 </table>
+
+#### **WE STories**
+Welcome to browse through this issue of WE STories, a collection of stories from secondary, specialised and specialised independent schools in the West Zone. Through these narratives, we hope to provide fresh insights on the endeavours of each school and its teachers in delivering student centric, values driven education and partnership with the community to create authentic learning experiences for the secondary students. The stories will be helpful to teachers and parents in guiding primary school pupils in choosing schools that can cater to their interests and strengths.
+
+Browse our 2023 WE-STories publication online.  
+<p><a href="https://go.gov.sg/westories-official">
+<img style="width:45%" src="/images/we%20stories.png">
+</a></p>
 
 #### **Presentation Slides for P6 Parents' Engagement Day on PSLE &amp; Secondary School Matters**
 [2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
