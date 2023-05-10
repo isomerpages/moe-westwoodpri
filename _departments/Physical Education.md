@@ -42,8 +42,8 @@ Programme for Active Learning (PAL) for lower primary pupils focuses on the teac
 Through holistic health education, teachers in Westwood Primary hope to bring out the best in every pupil for them to lead a meaningful and engaged life.
 
 #### **Physical Education Department Members**
-Mr Khairul Abdillah (HOD/PE & CCA)<br>
-Mr Seet Wee Key (SH/Fitness & PAL, HE Coordinator)<br>
-Mr Jonathan Chng<br>
-Mr Chow Zhixian Ariel<br>
-Mr Idris
+Mr Khairul Abdillah Bin Ismail (HOD/PE &amp; CCA)<br>
+Mr Seet Wee Key (SH/Physical Fitness &amp; PAL)<br>
+Mr Jonathan Chng Chin Chuang<br>
+Mr Chow Zhixian, Ariel<br>
+Mr Idris Bin Abdul Rashid
