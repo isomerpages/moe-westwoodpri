@@ -93,7 +93,7 @@ Maris Stella High School DSA Sharing Session
     <td>Raffles Girls’ School</td>
     <td>Saturday, 20th May 2023</td>
     <td>8.30am to 1.30pm</td>
-		<td>- Click<a href="https://www.rgs.edu.sg/">here</a> for more information</td>
+		<td>- Click <a href="https://www.rgs.edu.sg/">here</a> for more information</td>
   </tr>
   <tr>
     <td>Hwa Chong Institution</td>
