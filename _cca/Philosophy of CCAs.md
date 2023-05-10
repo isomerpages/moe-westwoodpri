@@ -15,7 +15,7 @@ At Westwood Primary, with Positive Education as our underlying philosophy, we se
 #### **Classification**
 CCAs are classified into 4 CCA groups. The 4 CCA groups are:<br>
 1\) Clubs &amp; Societies<br>
-2\) Performing Arts<br>
+2\) Visual &amp; Performing Arts<br>
 3\) Physical Sports &amp; Games<br>
 4\) Uniformed Groups
 
