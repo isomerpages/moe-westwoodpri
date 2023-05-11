@@ -70,11 +70,11 @@ An activity that aims to spread the love for reading by recommending interesting
 
 <br clear="left">
 
-### **‘Strategies to help improve Chinese Language results in PSLE’ Online Workshop**
+### **Strategies to Improve on Chinese Language for P6 Pupils**
 
-The Chinese Language Department has held a workshop for selected Primary 6 parents to learn how to help their child improve Chinese Language Results in PSLE. We hope that this workshop can equip you with the necessary skills to bring out the best in your child and maximise his/her potential.
+The Chinese Language Department has conducted a virtual workshop for selected Primary 6 parents, which aims to equip them with the necessary skills in guiding their child to achieve better results for Chinese Language during PSLE.
 
-Click [here](https://chineseinput.net/) to watch or download the Zoom recording.
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/detIu1VzEzc" height="315" width="560"></iframe>
 
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
