@@ -70,6 +70,9 @@ An activity that aims to spread the love for reading by recommending interesting
 
 <br clear="left">
 
+### **‘Strategies to help improve Chinese Language results in PSLE’ Online Workshop**
+<img src="/images/Mother%20Tongue%20Languages%20Department.jpg" style="width:85%">
+
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
 [https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)  
