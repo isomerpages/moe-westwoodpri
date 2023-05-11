@@ -71,6 +71,10 @@ An activity that aims to spread the love for reading by recommending interesting
 <br clear="left">
 
 ### **‘Strategies to help improve Chinese Language results in PSLE’ Online Workshop**
+
+The Chinese Language Department has held a workshop for selected Primary 6 parents to learn how to help their child improve Chinese Language Results in PSLE. We hope that this workshop can equip you with the necessary skills to bring out the best in your child and maximise his/her potential.
+
+Click here to watch or download the Zoom recording.
 <img src="/images/Mother%20Tongue%20Languages%20Department.jpg" style="width:85%">
 
 #### **Useful Links**
