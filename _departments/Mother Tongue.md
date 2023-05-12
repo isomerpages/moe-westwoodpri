@@ -70,6 +70,12 @@ An activity that aims to spread the love for reading by recommending interesting
 
 <br clear="left">
 
+### **P6 Parents Workshop on the Learning of Chinese Language**
+
+The Chinese Language Department has conducted a virtual workshop for selected Primary 6 parents, which aims to equip them with the necessary skills in guiding their child to achieve better results for Chinese Language.
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/detIu1VzEzc" height="315" width="560"></iframe>
+
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
 [https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)  

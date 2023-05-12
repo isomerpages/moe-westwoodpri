@@ -107,12 +107,6 @@ Maris Stella High School DSA Sharing Session
     <td>9am to 2pm</td>
     <td>- Click <a href="https://www.nationaljc.moe.edu.sg/">here</a> for more information</td>
   </tr>
-  <tr>
-    <td>Victoria School</td>
-    <td>Saturday, 20th May 2023</td>
-    <td>9am to 2pm</td>
-    <td>- Click <a href="https://www.victoria.moe.edu.sg/">here</a> for more information</td>
-  </tr>
 </tbody>
 </table>
 
