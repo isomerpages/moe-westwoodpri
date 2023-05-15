@@ -1,5 +1,5 @@
 ---
-title: Football Boys & Girls
+title: Football
 permalink: /cca/physical-sports-and-games/football/
 description: ""
 third_nav_title: Physical Sports & Games

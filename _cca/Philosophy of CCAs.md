@@ -24,7 +24,7 @@ The following CCAs are offered in WWPS:
 
 |  |  |
 |---|---|
-| **Clubs &amp; Societies**<br><br>- Art Club<br>- English Literacy Club<br>- Green Club<br>- Innovation Guild | **Visual &amp; Performing Arts**<br><br>- Brass Band<br>- Chinese Dance<br>- Choir<br>- International Dance<br>- Malay Dance |
+| **Clubs &amp; Societies**<br><br>- Art and Crafts Club<br>- English Language, Drama and Debating<br>- Environmental Science Society<br>- Design and Innovation<br>- Infocomm Technology (Computing) | **Visual &amp; Performing Arts**<br><br>- Brass Band<br>- Chinese Dance<br>- Choir<br>- Modern Dance<br>- Malay Dance |
 | **Physical Sports &amp; Games**<br><br>- Basketball (Boys)<br>- Football (Boys &amp; Girls)<br>- Rhythmic Gymnastics (Girls)<br>- Wushu (Boys &amp; Girls) | **Uniformed Groups**<br><br>- Boys' Brigade<br>- Girls' Brigade |
 |  |  |
 
