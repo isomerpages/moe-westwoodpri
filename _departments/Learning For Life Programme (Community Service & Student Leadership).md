@@ -39,4 +39,4 @@ Our Learning for Life Programme’s goal is for the pupils to “lead responsibl
 
 <br clear="left">
 
-<img src="/images/llp2023.jpg" style="width:85%">
+<img src="/images/llp2023.jpeg" style="width:85%">
