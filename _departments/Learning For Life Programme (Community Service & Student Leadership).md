@@ -3,7 +3,7 @@ title: Learning For Life Programme (Community Service & Student Leadership)
 permalink: /departments/llp/
 description: ""
 ---
-### **Learning For Life Programme (Community Service & Student Leadership)**
+### **Learning For Life Programme (Community Service &amp; Student Leadership)**
 
 <img src="/images/learningforlifeprog.jpg" style="width:85%">
 
@@ -34,9 +34,9 @@ The overall curriculum focus were divided into three key areas which are ‘Posi
 
 Our Learning for Life Programme’s goal is for the pupils to “lead responsible and fulfilled lives, and to contribute to the wider community”. The school has embarked on community projects to benefit various organizations, via an Action Learning approach. By serving others with compassion, pupils discover personal mastery, purpose and engagement, while supporting individual communities to flourish.
 
-<img src="/images/llp2.jpg" style="width:40%;margin-right:15px;" align = "left">
-<img src="/images/llp3.jpg" style="width:40%;margin-left:15px;" align = "right">
+<img src="/images/llp2.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/llp3.jpg" style="width:40%;margin-left:15px;" align="right">
 
 <br clear="left">
 
-<img src="/images/llp4.jpg" style="width:85%">
+<img src="/images/llp2023.jpg" style="width:85%">
