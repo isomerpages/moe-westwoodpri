@@ -4,7 +4,7 @@ permalink: /cca/ug/
 description: ""
 third_nav_title: Uniformed Groups
 ---
-### **Boys Brigade**
+### **Boys' Brigade**
 #### **Brief Description of CCA**
 The Boys' Brigade (BB) is a uniformed youth organisation and is recognised by the Ministry of Education as one of the eight uniformed youth groups. This CCA is open to all races, religions and nationalities as a CCA activity. Our highlights include our weekly parades which focus on character education, games, drills, badge work, learning journey and camps. We also have BB HQ events like the BB Week, etc.
 
