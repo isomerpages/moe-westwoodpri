@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Westwood Primary School
-description: Brief site description here
+description: Westwood Primary School, located at 1 Jurong West Street 73 S(649188).
 image: /images/isomer-logo.svg
 permalink: /
 notification: School Tour by Student Leaders 2023
