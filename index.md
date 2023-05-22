@@ -26,18 +26,9 @@ sections:
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
-      button: "VIEW OR ASK QUESTIONS ON ASK.GOV "
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://go.ask.gov.sg/wwps
       image: /images/westwood-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: School Tour by Student Leaders 2023
-      subtitle: Latest Announcement
-      description: Explore our wonderful facilities and engage in a dialogue session
-        with our school leaders and student leaders.
-      button: Click here for more info
-      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/highlights/2023/school-tour-by-student-leaders/
-      image: /images/westwood school tour.gif
       alt: Image alt text
   - infopic:
       title: Photo and Video Gallery
