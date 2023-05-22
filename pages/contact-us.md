@@ -17,7 +17,8 @@ contacts:
       - email: westwood_ps@moe.edu.sg
       - other: "Facebook:
           <i>https://www.facebook.com/westwood.primary</i><br><br>Instagram<br>\
-          <i>https://www.instagram.com/westwoodprisch</i>"
+          <i>https://www.instagram.com/westwoodprisch</i><br><br>Have A
+          Question?<br><i>https://go.ask.gov.sg/wwps</i>"
     title: General Enquiries & Feedback
   - content:
       - phone: +65 6794 5084
