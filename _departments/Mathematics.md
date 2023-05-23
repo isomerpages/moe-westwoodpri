@@ -53,9 +53,8 @@ Mr Khoo Rong Huang (ST/MA)<br>
 Mr Macus Rouis Quek <br>
 Mr Boo Hong Rui<br>
 Ms Ngiam Wei Ling, Melissa<br>
-Ms <br>
+Ms Khoo Jia Hui<br>
 Mdm Lim Shae Min<br>
 Mrs May Foo<br>
 Mrs Agnes Seah<br>
-Ms Catherine Koh<br>
-Ms Khoo Jia Hui
+Ms Catherine Koh
