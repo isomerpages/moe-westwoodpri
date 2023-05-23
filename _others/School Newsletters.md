@@ -6,3 +6,4 @@ description: ""
 ### **School Newsletters**
 Check out our newsletter, Westwood Buzz issues, from 2013 to present! Find out about the exciting moments at Westwood and how we thrive positively as a school!
 
+![](/images/westwood%20buzz%20shelf.jpg)
