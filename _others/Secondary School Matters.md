@@ -75,7 +75,7 @@ Maris Stella High School DSA Sharing Session
     <td>Dunman High School</td>
     <td>Saturday, 20th May 2023 to Wednesday, 31st May 2023</td>
     <td>Online Only</td>
-    <td>- In-person Open House<br>- Click <a href="https://www.victoria.moe.edu.sg/prospective-students/openhouse-2023/">here</a> for more information</td>
+    <td>- e-Open House <br>- Click <a href="https://dhsopenhouse.com/">here</a> for the microsite</td>
   </tr>
   <tr>
     <td>Victoria School</td>
