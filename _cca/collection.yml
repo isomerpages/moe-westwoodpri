@@ -3,11 +3,11 @@ collections:
     output: true
     order:
       - Philosophy of CCAs.md
+      - Clubs & Societies/.keep
+      - Clubs & Societies/Design and Innovation.md
       - Clubs & Societies/English Language, Drama and Debating.md
       - Clubs & Societies/Environmental Science.md
       - Clubs & Societies/Infocomm Technology (Computing).md
-      - Clubs & Societies/Design and Innovation.md
-      - Clubs & Societies/.keep
       - Visual & Performing Arts/Art and Crafts Club.md
       - Visual & Performing Arts/Brass Band.md
       - Visual & Performing Arts/Chinese Dance.md
