@@ -6,7 +6,7 @@ third_nav_title: Physical Sports & Games
 ---
 ### **Rhythmic Gymnastics (Girls)**
 #### **Brief Description of CCA**
-Rhythmic Gymnastics is a graceful sport containing many dance and ballet characteristics and is&nbsp;performed to music using hand apparatus such as rope, ball, hoop, clubs and ribbon. The training focuses&nbsp;on 4 elements; strength, endurance, splits and flexibility.
+Rhythmic Gymnastics (Girls) is a graceful sport containing many dance and ballet characteristics and is&nbsp;performed to music using hand apparatus such as rope, ball, hoop, clubs and ribbon. The training focuses&nbsp;on 4 elements; strength, endurance, splits and flexibility.
 
 #### **CCA Objectives**
 *   To inculcate values and personal qualities such as sportsmanship, discipline and resilience.
