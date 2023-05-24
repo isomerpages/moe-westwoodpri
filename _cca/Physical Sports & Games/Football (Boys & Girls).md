@@ -4,7 +4,7 @@ permalink: /cca/physical-sports-and-games/football/
 description: ""
 third_nav_title: Physical Sports & Games
 ---
-### **Football Boys &amp; Girls**
+### **Football (Boys &amp; Girls)**
 #### **Brief Description of CCA**
 Football fosters the spirit of teamwork and leadership skills. It also helps to raise the level of participation and awareness for the sport and promotes an active lifestyle. Through football, the school hopes to provide opportunities for the pupils to showcase their talent in the school and community.
 
