@@ -16,9 +16,7 @@ Design and Innovation pupils will:
 
 #### **CCA Teachers-in-charge**
 Ms Murshidah Bte Hassan<br>
-Ms Tong Jin Yi<br>
-Ms Ng Su Chern<br>
-Ms Isabelle Gan Chai Hong
+Ms Tong Jin Yi
 
 #### **Venue**
 Makerspace, ICT lab 1, Science Lab 2

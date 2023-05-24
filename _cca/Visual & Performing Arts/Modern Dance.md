@@ -6,7 +6,7 @@ third_nav_title: Visual & Performing Arts
 ---
 ### **Modern Dance**
 #### **Brief Description of CCA**
-Dance communicates feelings and ideas through purposeful, expressive and rhythmical sequences of movements. International Dance is not just your usual dance CCA. It infuses the elements of modern dance, jazz, ballet and ethnic dance elements. Pupils are exposed to a variety of dance genres and they learn teamwork through collaboration and communication. Look out for our vibrant and energetic Modern Dance pupils in their captivating performances!
+Dance communicates feelings and ideas through purposeful, expressive and rhythmical sequences of movements. Modern Dance is not just your usual dance CCA. It infuses the elements of modern dance, jazz, ballet and ethnic dance elements. Pupils are exposed to a variety of dance genres and they learn teamwork through collaboration and communication. Look out for our vibrant and energetic Modern Dance pupils in their captivating performances!
 
 #### **CCA objectives**
 Modern Dance pupils will be:  

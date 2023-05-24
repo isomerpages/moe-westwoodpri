@@ -4,7 +4,7 @@ permalink: /cca/physical-sports-and-games/
 description: ""
 third_nav_title: Physical Sports & Games
 ---
-### **Basketball**
+### **Basketball (Boys)**
 #### **Brief Description of CCA**
 Westwood Basketball was set up in the year 2017. Our vision is to enable pupils to “Dream, Believe and Achieve”. They will be trained in developing basketball fundamentals, underwent fitness exercises and learnt various basketball skills. We hope through the training, our pupils will be prepared for any challenges mentally and physically.
 

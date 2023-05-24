@@ -4,9 +4,9 @@ permalink: /cca/physical-sports-and-games/wushu/
 description: ""
 third_nav_title: Physical Sports & Games
 ---
-### **Wushu**
+### **Wushu (Boys &amp; Girls)**
 #### **Brief Description of CCA**
-Wushu is a performance sport that improves coordination, flexibility and balance. Pupils cultivate self-discipline, respect, teamwork and resilience in the process of learning. Through school performances and national competitions, pupils develop self-confidence and skills in art.
+Wushu (Boys &amp; Girls) is a performance sport that improves coordination, flexibility and balance. Pupils cultivate self-discipline, respect, teamwork and resilience in the process of learning. Through school performances and national competitions, pupils develop self-confidence and skills in art.
 
 #### **CCA Objectives**
 *   To improve psychomotor skills and fitness
@@ -17,8 +17,7 @@ Wushu is a performance sport that improves coordination, flexibility and balance
 #### **CCA teachers-in-charge**
 Mr Seet Wee Key<br>
 Ms Jasmine Koh Hwee Ling<br>
-Mdm Wei Junying<br>
-Ms Khoo Jia Hui
+Mdm Wei Junying
 
 #### **Venue**
 Indoor Sports Hall
