@@ -8,7 +8,7 @@ third_nav_title: Visual & Performing Arts
 #### **Brief Description of CCA**
 Art is an expression of our thoughts and emotions, but it is even more than that: it's about sharing the way we experience the world through various art mediums and techniques.
 
-In Westwood Primary Art Club, pupils get to explore and grow beyond the boundaries of curriculum, shaping each and every pupil into holistic individuals. Opportunities are afforded to pupils to share their learnt techniques by contributing within school and also to the wider community via various outreach projects.
+In Westwood Primary Art and Crafts Club, pupils get to explore and grow beyond the boundaries of curriculum, shaping each and every pupil into holistic individuals. Opportunities are afforded to pupils to share their learnt techniques by contributing within school and also to the wider community via various outreach projects.
 
 #### **CCA Objectives**
 Art and Crafts Club pupils will:
