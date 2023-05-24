@@ -4,7 +4,7 @@ permalink: /cca/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual & Performing Arts
 ---
-### **Art Club**
+### **Art and Crafts Club**
 #### **Brief Description of CCA**
 Art is an expression of our thoughts and emotions, but it is even more than that: it's about sharing the way we experience the world through various art mediums and techniques.
 
