@@ -22,7 +22,7 @@ Choir pupils will be learning:
 #### **CCA teachers-in-charge**
 Ms Lai Yongxian Elaine<br>
 Ms Ang Hwee Chin<br>
-Ms Chong Xinying
+Ms Zhong Xinying
 
 #### **Venue**
 THRIVE Studio (Dance Room)
