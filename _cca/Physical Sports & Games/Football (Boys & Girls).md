@@ -18,7 +18,7 @@ Football pupils will be:
 Ms Siti Juwani Bte Abd Rahman<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mr Ariel Chow Zhixian<br>
-Mr Macus Rouis Quek Weng Sung
+Mr Yeo Jun Bo
 
 #### **Venue**
 School Field
