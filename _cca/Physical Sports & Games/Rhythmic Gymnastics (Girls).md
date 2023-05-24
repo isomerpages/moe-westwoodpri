@@ -1,5 +1,5 @@
 ---
-title: Rhythmic Gymnastics
+title: Rhythmic Gymnastics (Girls)
 permalink: /cca/physical-sports-and-games/rhythmic-gymnastics/
 description: ""
 third_nav_title: Physical Sports & Games
