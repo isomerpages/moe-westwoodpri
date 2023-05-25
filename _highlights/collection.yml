@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - Highlights.md
       - 2023/Pos Ed Sharing.md
       - 2023/Hari Raya Celebration.md
       - 2023/Sharing with Swedish Educators.md
