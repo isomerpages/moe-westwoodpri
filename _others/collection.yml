@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Highlights.md
       - School Newsletters.md
       - Booklist for 2023.md
       - 2023 P1 Parents.md
