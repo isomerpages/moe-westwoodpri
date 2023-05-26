@@ -12,4 +12,3 @@ Scroll down or scan on the QR Code below to start the virtual tour!
 
 Please use Google Chrome to view the eBook in full screen.
 
-**unsure how to migrate**
