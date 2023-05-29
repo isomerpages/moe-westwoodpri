@@ -49,7 +49,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| Boys playing Captain’s Ball and Dog and Bone<br> during a weekly parade. |  |
+| A group photo of the boys<br> with their teacher. |  |
 
 <img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
 
