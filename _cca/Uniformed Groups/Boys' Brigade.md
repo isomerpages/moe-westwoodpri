@@ -16,8 +16,6 @@ Ms Janice Foo Mei Chien<br>
 Mr Devaraj s/o Nambirajan<br>
 Mr Tan Shi Wei
 
-#### **Venue**
-
 <img src="/images/boysbrigade1.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
 <img src="/images/boysbrigade2.jpg" style="width:370px; height:260px;margin-right:15px" align="right">
 
@@ -25,7 +23,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| The boys training for their Character &amp; Adventure quest. | The Character building lessons which contributing to the character development of the boys. |
+| The boys training for their Character &amp; Adventure quest. | The Character building lessons contribute to the character development of the boys. |
 
 <img src="/images/boysbrigade3.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
 <img src="/images/boysbrigade4.jpg" style="width:370px; height:260px;margin-right:15px" align="right">
@@ -34,7 +32,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|---|
-| Our Boys' Brigade (BB), 107J Company, has achieved<br> the Silver Award for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
+| Our Boys' Brigade (BB), 107J Company, has achieved<br> the High Distinction for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
 
 <img src="/images/boysbrigade5.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/boysbrigade6.jpg" style="width:370px; height:280px;margin-right:15px" align="right">
@@ -43,8 +41,20 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| Boys designing their own tote bag to promote<br> environmental sustainability. |  |
+| Boys designing their own tote bag to promote<br> environmental sustainability. | A group photo of the boys with their teacher. |
 
 <img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
 
 <br clear="left">
+
+|  |  |
+|---|:---:|
+| Another group photo of the boys with their teacher. |  |
+
+<img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
+<img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
+<br clear="left">
+
+|  |  |
+|---|:---:|
+| Boys playing Captain’s Ball and Dog and Bone during a weekly parade. |  |

@@ -10,8 +10,6 @@ English Language, Drama and Debating aims at fostering a love for the English La
 
 With the advent of technology, pupils will learn how to create e-books using ICT tools as well as basic voice recording using iPads.
 
-The CCA will also be introducing a debate module that is suitable for children with no debate background. It aims to encourage critical thinking, foster effective communication and build teamwork.
-
 #### **CCA Objectives**
 
 | Language Skills | Suggested Activities |

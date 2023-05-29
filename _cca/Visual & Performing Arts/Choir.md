@@ -8,7 +8,7 @@ third_nav_title: Visual & Performing Arts
 #### **Brief Description of CCA**
 An aspiring and vibrant choir, Westwood Primary School’s choir was established in 2014. The choir shares a united aspiration; to bring joy to the community and envision themselves to perform on greater platforms. Through their passion &amp; commitment, they attained a Certificate of Accomplishment for the Singapore Youth Festival Arts Presentation in 2016 and 2018.
 
-Westwood Primary School is honoured to have Mr. Hu Zheng as our dearest conductor and Ms. Low Ke Khoon as our assistant instructor with the Westwoodian choir. Through his guidance and dedication, the choir has continually made progress with opportunities to participate in choir exchange programmes and perform for members of the public. These challenges the choir to continually seek to improve themselves and draw closer to their vision.
+Westwood Primary School is honoured to have Ms Jessica as our dearest conductor and Mr Terence as our pianist. Through Ms Jessica's guidance and dedication, the choir has continually made progress with opportunities to participate in choir exchange programmes and perform for members of the public. These challenges the choir to continually seek to improve themselves and reach out to the community.
 
 #### **CCA Objectives**
 Choir pupils will be learning:
@@ -20,7 +20,7 @@ Choir pupils will be learning:
 *   performance etiquette
 
 #### **CCA teachers-in-charge**
-Ms Lai Yongxian Elaine<br>
+Ms Elaine Lai Yongxian<br>
 Ms Ang Hwee Chin<br>
 Ms Zhong Xinying
 
