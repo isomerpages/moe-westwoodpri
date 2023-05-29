@@ -57,4 +57,4 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| Another group photo of the boys with their teacher. |  |
+| Boys playing Captain’s Ball and Dog and Bone during a weekly parade. |  |
