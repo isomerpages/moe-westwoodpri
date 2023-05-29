@@ -20,7 +20,7 @@ Choir pupils will be learning:
 *   performance etiquette
 
 #### **CCA teachers-in-charge**
-Ms Lai Yongxian Elaine<br>
+Ms Elaine Lai Yongxian<br>
 Ms Ang Hwee Chin<br>
 Ms Zhong Xinying
 
