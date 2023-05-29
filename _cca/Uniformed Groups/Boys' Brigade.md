@@ -54,3 +54,7 @@ Mr Tan Shi Wei
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
 <br clear="left">
+
+|  |  |
+|---|:---:|
+| Another group photo of the boys with their teacher. |  |
