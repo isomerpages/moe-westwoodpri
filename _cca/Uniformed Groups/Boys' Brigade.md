@@ -46,3 +46,11 @@ Mr Tan Shi Wei
 <img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
 
 <br clear="left">
+
+|  |  |
+|---|:---:|
+| Boys designing their own tote bag to promote<br> environmental sustainability. |  |
+
+<img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
+
+<br clear="left">
