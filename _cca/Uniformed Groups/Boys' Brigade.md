@@ -49,7 +49,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| A group photo of the boys with their teacher. |  |
+| Another group photo of the boys with their teacher. |  |
 
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 
