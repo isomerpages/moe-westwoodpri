@@ -18,8 +18,9 @@ Environmental Science pupils will:&nbsp;
 Mrs Naseema Ansar<br>
 Mrs Enda Wendy Chan<br>
 Mdm Nai Li Hua<br>
+Ms Hiew Li Tiang<br>
 Ms Khoo Jia Hui<br>
-Ms Hiew Li Tiang
+
 
 #### **Venue**
 Teaching Lab
