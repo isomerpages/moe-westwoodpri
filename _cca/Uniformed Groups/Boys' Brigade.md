@@ -16,8 +16,6 @@ Ms Janice Foo Mei Chien<br>
 Mr Devaraj s/o Nambirajan<br>
 Mr Tan Shi Wei
 
-#### **Venue**
-
 <img src="/images/boysbrigade1.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
 <img src="/images/boysbrigade2.jpg" style="width:370px; height:260px;margin-right:15px" align="right">
 
