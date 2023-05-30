@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2023/.keep
       - 2023/Australian Educators from University of Newcastle.md
       - 2023/Pos Ed Sharing.md
       - 2023/Hari Raya Celebration.md
@@ -13,8 +14,8 @@ collections:
       - 2023/W6 Future of Teaching Symposium.md
       - 2023/Committee of Supply 2023.md
       - 2023/Math Sharing Exchange.md
+      - 2023/Infusion of STEM into Science Curriculum.md
       - 2023/NSMark Gold Award.md
-      - 2023/.keep
       - 2022/.keep
       - 2022/Parents' Engagement Day.md
       - 2022/Breakfast with P1 Parents.md
