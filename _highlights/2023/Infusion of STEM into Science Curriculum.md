@@ -11,4 +11,3 @@ On 14 February 2023, Westwood Primary did a sharing of how STEM is infused into 
 <p><a href="https://heyzine.com/flip-book/f6309a1da3.html">
 <img style="width:100%" src="/images/infusion%20of%20stem%20into%20science%20curriculum%20.jpg">
 </a></p>
-
