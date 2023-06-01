@@ -25,7 +25,7 @@ Mr Tan Shi Wei
 |---|:---:|
 | The boys training for their Character &amp; Adventure quest. | The Character building lessons contribute to the character development of the boys. |
 
-<img src="/images/boysbrigade3.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
+<img src="/images/boysbrigade3.jpeg" style="width:370px; height:260px;margin-left:5px" align="left">
 <img src="/images/boysbrigade4.jpg" style="width:370px; height:260px;margin-right:15px" align="right">
 
 <br clear="left">
