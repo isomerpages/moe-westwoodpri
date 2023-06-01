@@ -49,7 +49,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| They played team station games at Bishan-Ang Mo Kio Park. |  |
+| They played team station games at Bishan-Ang Mo Kio Park. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
 
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
