@@ -35,21 +35,21 @@ Mr Tan Shi Wei
 | Our Boys' Brigade (BB), 107J Company, has achieved<br> the High Distinction for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
 
 <img src="/images/boysbrigade5.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
-<img src="/images/boysbrigade6.jpg" style="width:370px; height:280px;margin-right:15px" align="right">
+<img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
 
 <br clear="left">
 
 |  |  |
 |---|:---:|
-| Boys designing their own tote bag to promote<br> environmental sustainability. | A group photo of the boys with their teacher. |
+| Boys designing their own tote bag to promote<br> environmental sustainability. | Our P6 Boys took part in the 2023 Juniors Programme Adventure Quest. |
 
-<img src="/images/boysbrigade7.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
+<img src="/images/boysbrigade7.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 
 <br clear="left">
 
 |  |  |
 |---|:---:|
-| Another group photo of the boys with their teacher. |  |
+| They played team station games at Bishan-Ang Mo Kio Park. |  |
 
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
