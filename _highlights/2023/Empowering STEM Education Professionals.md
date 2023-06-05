@@ -11,4 +11,3 @@ On 26 May 2023, a team of Westwood Science educators won an award for the STEM l
 In Westwood, we believe that thinking and doing are important aspects of problem solving and idea generation to come up with a product or solution that positively enhances the community.  Engagement in scientific reasoning sharpens students’ abilities to form logical and coherent arguments while applying subject matter knowledge. The team designed the STEM lesson using a design thinking approach beginning with empathy for the user(s). We hope that all Westwoodians will learn to think with both their heads and hearts in their learning journey at Westwood. 
 
 Click on [NIE official site](https://www.meristem.site/esepp) to know more details.
-
