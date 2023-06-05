@@ -13,4 +13,3 @@ In Westwood, we believe that thinking and doing are important aspects of problem
 ![](/images/empowering%20stem%20education%20professionals.jpg)
 
 Click on [NIE official site](https://www.meristem.site/esepp) to know more details.
-
