@@ -5,4 +5,4 @@ description: ""
 ---
 ### **Calendar of Events**
 
-<img src="/images/Term%201%20Calendar%201.jpg" style="width:100%">
+<iframe scrolling="no" frameborder="0" height="600" width="800" style="border: 0" src="https://calendar.google.com/calendar/embed?src=westwoodpsict%40gmail.com&amp;ctz=Asia%2FSingapore"></iframe>
