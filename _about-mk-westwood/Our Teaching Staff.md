@@ -93,8 +93,8 @@ description: ""
 |:---:|:---:|
 | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
 
-<img src="/images/staff23.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/staff24.jpg" style="width:29%;margin-right:85px;" align="right">
+<img src="/images/staff_x.jpg" style="width:30%;margin-left:75px;" align="left">
+<img src="/images/staff_x.jpg" style="width:29%;margin-right:85px;" align="right">
 
 <br clear="left">
 
