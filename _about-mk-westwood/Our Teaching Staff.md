@@ -93,8 +93,8 @@ description: ""
 |:---:|:---:|
 | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
 
-<img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:29%;margin-right:85px;" align="right">
+<img src="/images/MK_Staff/senthil_geetha.jpg" style="width:30%;margin-left:75px;" align="left">
+<img src="/images/MK_Staff/nandini_muthiah.jpg" style="width:29%;margin-right:85px;" align="right">
 
 <br clear="left">
 
