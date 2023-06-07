@@ -54,15 +54,15 @@ description: ""
 |:---:|:---:|:---:|
 | **Renugadevi D/O Rajasegaran**<br>English Language Teacher | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
-<img src="/images/staff14.jpg" style="width:28.5%;margin-right:15px;" align="left">
-<img src="/images/staff15.jpg" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/staff16.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Senthil Geetha**<br>Tamil Language Teacher | **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Nurazilahwati Binte Masahlan**<br>Malay Language Teacher |
+| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Nurazilahwati Binte Masahlan**<br>Malay Language Teacher |
 
 <img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:30%;margin-right:15px;" align="left">
@@ -93,11 +93,11 @@ description: ""
 |:---:|:---:|
 | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
 
-<img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:29%;margin-right:85px;" align="right">
+<img src="/images/MK_Staff/senthil_geetha.jpg" style="width:30%;margin-left:75px;" align="left">
+<img src="/images/MK_Staff/nandini_muthiah.jpg" style="width:29%;margin-right:85px;" align="right">
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher |
+| **Senthil Geetha**<br>Tamil Language Teacher | **Nandini D/O Muthiah**<br>Tamil Language Teacher |
