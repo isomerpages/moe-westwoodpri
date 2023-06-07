@@ -100,4 +100,4 @@ description: ""
 
 |  |  |
 |:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher |
+| **Senthil Geetha**<br>Tamil Language Teacher | **Nandini D/O Muthiah**<br>Tamil Language Teacher |
