@@ -50,7 +50,7 @@ We believe that early success in Mathematics is crucial for developing interest 
 Ms Lam Meng Chee (HOD/Math)<br>
 Ms Elaine Lai Yongxian (LH/MA)<br>
 Mr Khoo Rong Huang (ST/MA)<br>
-Mr Macus Rouis Quek <br>
+Mr Mr Tan Tuan Heng <br>
 Mr Boo Hong Rui<br>
 Ms Ngiam Wei Ling, Melissa<br>
 Ms Khoo Jia Hui<br>
