@@ -22,4 +22,4 @@ LSP Room, Math Room
 
 <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSPDFvd38osJSiFhMj__WEIL9wuelxVCtPnIbnJLzjOigCLtedL62yQ3E5fy6F1-6Dl-GmaNgLEPdWA/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-<iframe allowfullscreen="true" height="800" width="4500" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgmo8ffMz7cbFA-yVeNVZsjabim3FaKfvFhM8wVe9eFRTm_WDOaSB2BvNa2YDhiKqfwE5c9DGj5U-d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQgmo8ffMz7cbFA-yVeNVZsjabim3FaKfvFhM8wVe9eFRTm_WDOaSB2BvNa2YDhiKqfwE5c9DGj5U-d/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
