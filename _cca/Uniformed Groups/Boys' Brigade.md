@@ -41,7 +41,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| Boys designing their own tote bag to promote<br> environmental sustainability. | Our P6 Boys took part in the 2023 Juniors Programme Adventure Quest. |
+| Boys designing their own tote bag to promote<br> environmental sustainability. | They played team station games at Bishan-Ang Mo Kio Park. |
 
 <img src="/images/boysbrigade7.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/boysbrigade8.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
@@ -50,7 +50,7 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|:---:|
-| They played team station games at Bishan-Ang Mo Kio Park. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
+| Our P6 Boys took part in the 2023 Juniors Programme Adventure Quest. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
 
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
