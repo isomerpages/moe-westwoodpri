@@ -44,7 +44,7 @@ Mr Tan Shi Wei
 | Boys designing their own tote bag to promote<br> environmental sustainability. | They played team station games at Bishan-Ang Mo Kio Park. |
 
 <img src="/images/boysbrigade7.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
-<img src="/images/boysbrigade8.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
+<img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
 
 <br clear="left">
 
