@@ -59,12 +59,3 @@ Mr Tan Shi Wei
 |  |  |
 |---|:---:|
 | Boys playing Captain’s Ball and Dog and Bone during a weekly parade. |  |
-
-<br clear="left">
-
-|  |  |
-|---|---|
-| Our Boys' Brigade (BB), 107J Company, achieved<br> the High Distinction for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
-
-<img src="/images/boysbrigade5.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
-<img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
