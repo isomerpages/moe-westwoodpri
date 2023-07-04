@@ -10,7 +10,7 @@ On 4 July 2023, our Student Management &amp; Leadership team had our 7th Student
 
 On this special occasion, we are pleased to have Dr Imelda, Vice-Chairman of School Advisory Committee as our guest of honour, together with the parents of the incoming and outgoing Exco Prefects to grace this meaningful ceremony. 
 
-The theme for this year’s Investiture is ‘United We Thrive’. The theme symbolises the synergistic and united efforts of the 3 groups of leaders; Prefects, CCA Leaders and Peer Support Leaders, who are empowered to serve and lead Westwood Primary School. 
+The theme for this year’s investiture is ‘United We Thrive’. The theme symbolises the synergistic and united efforts of the 3 groups of leaders; Prefects, CCA Leaders and Peer Support Leaders, who are empowered to serve and lead Westwood Primary School. 
 
 It is indeed an memorable event for all Westwood student leaders!
 
