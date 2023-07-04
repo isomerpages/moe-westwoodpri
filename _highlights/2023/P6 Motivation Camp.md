@@ -10,7 +10,7 @@ Our 2023 P6 Motivational Camp was planned by our Alumni, who had put in lots of 
 
 Other than our Alumni, we would also like to express our heartfelt thanks to our dedicated Parent Support Group who has supported us throughout the camp. May our P6 pupils continue to enjoy and embrace a growth mindset in their learning journey ahead!
 
-Click [here](https://drive.google.com/drive/folders/1-XQJsjfkc7B4TCZ9PPGF_8jfslZpQo5Y?usp=sharing) to view the photos and videos (this link will be accessible until 31st July) .
+Click [here](https://drive.google.com/drive/folders/1-XQJsjfkc7B4TCZ9PPGF_8jfslZpQo5Y?usp=sharing) to view the photos and videos taken during the camp (this link will be accessible until 31st July) .
 
 ![](/images/p6%20motivation%20camp_2.jpeg)  <br>
 ![](/images/p6%20motivation%20camp_1.jpeg)  <br>
