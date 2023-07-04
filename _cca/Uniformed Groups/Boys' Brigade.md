@@ -44,13 +44,13 @@ Mr Tan Shi Wei
 | Boys designing their own tote bag to promote<br> environmental sustainability. | They played team station games at Bishan-Ang Mo Kio Park. |
 
 <img src="/images/boysbrigade7.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
-<img src="/images/boysbrigade8.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
+<img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
 
 <br clear="left">
 
 |  |  |
 |---|:---:|
-| Our P6 Boys took part in the 2023 Juniors Programme Adventure Quest. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
+| Our P6 Boys took part in the 2023 Juniors Programme Adventure Quest. | They played team station games at Bishan-Ang Mo Kio Park. |
 
 <img src="/images/captains_ball_bb.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/dog_and_bone_bb.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
@@ -59,3 +59,12 @@ Mr Tan Shi Wei
 |  |  |
 |---|:---:|
 | Boys playing Captain’s Ball and Dog and Bone during a weekly parade. |  |
+
+<img src="/images/boysbrigade3.jpeg" style="width:370px; height:260px;margin-left:5px" align="left">
+<img src="/images/boysbrigade8.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
+
+<br clear="left">
+
+|  |  |
+|---|---|
+| Our Boys' Brigade (BB), 107J Company, achieved the High Distinction for the J M Fraser Award for Excellence. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
