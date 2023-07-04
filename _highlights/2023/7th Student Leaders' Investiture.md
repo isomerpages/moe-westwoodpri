@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ### **7th Student Leaders' Investiture**
 
-On 4 July 2023, our Student Management & Leadership team had our 7th Student Leaders’ Investiture to honour our newly appointed Prefects, Peer Support Leaders and CCA Leaders, as well as to appreciate the great service of our outgoing P6 Prefects, CCA leaders and Peer Support Leaders for their contribution to Westwood Primary. 
+On 4 July 2023, our Student Management &amp; Leadership team had our 7th Student Leaders’ Investiture to honour our newly appointed Prefects, Peer Support Leaders and CCA Leaders, as well as to appreciate the great service of our outgoing P6 Prefects, CCA leaders and Peer Support Leaders for their contribution to Westwood Primary. 
 
 On this special occasion, we are pleased to have Dr Imelda, Vice-Chairman of School Advisory Committee as our guest of honour, together with the parents of the incoming and outgoing Exco Prefects to grace this meaningful ceremony. 
 
@@ -14,4 +14,9 @@ The theme for this year’s Investiture is ‘United We Thrive’. The theme sym
 
 It is indeed an memorable event for all Westwood student leaders!
 
-Click 
+Click [here](https://drive.google.com/drive/folders/1KOgiXxgTk0w808iYhuOVsBVCAxWD8sRu?usp=sharing) to view the photos taken during the ceremony (this link is accessible until 31 July). 
+
+![](/images/leaders'%20investiture%202023_1.JPG)<br>
+![](/images/leaders'%20investiture%202023_4.jpg)<br>
+![](/images/leaders'%20investiture%202023_3.jpg)<br>
+<br>
