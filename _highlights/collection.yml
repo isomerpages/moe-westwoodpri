@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - Highlights.md
+      - 2023/P6 Motivation Camp.md
       - 2023/Empowering STEM Education Professionals.md
       - 2023/.keep
       - 2023/Australian Educators from University of Newcastle.md
