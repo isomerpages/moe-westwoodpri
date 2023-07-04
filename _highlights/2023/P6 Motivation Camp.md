@@ -14,3 +14,4 @@ Other than our Alumni, we would also like to express our heartfelt thanks to our
 ![](/images/p6%20motivation%20camp_1.jpeg)  <br>
 ![](/images/p6%20motivation%20camp_3.jpeg)  <br>
 
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LxMtWPkPiY4" height="450" width="800"></iframe>
