@@ -18,5 +18,4 @@ Click [here](https://drive.google.com/drive/folders/1KOgiXxgTk0w808iYhuOVsBVCAxW
 
 ![](/images/leaders'%20investiture%202023_1.JPG)<br>
 ![](/images/leaders'%20investiture%202023_4.jpg)<br>
-![](/images/leaders'%20investiture%202023_3.jpg)<br>
-<br>
+![](/images/img_7585%20(2).jpg)<br>
