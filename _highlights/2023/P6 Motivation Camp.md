@@ -16,4 +16,4 @@ Click [here](https://drive.google.com/drive/folders/1-XQJsjfkc7B4TCZ9PPGF_8jfslZ
 ![](/images/p6%20motivation%20camp_1.jpeg)  <br>
 ![](/images/p6%20motivation%20camp_3.jpeg)  <br>
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LxMtWPkPiY4" height="450" width="800"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LxMtWPkPiY4" height="410" width="660"></iframe>
