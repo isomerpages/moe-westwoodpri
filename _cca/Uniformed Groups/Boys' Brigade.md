@@ -35,13 +35,13 @@ Mr Tan Shi Wei
 | Our Boys' Brigade (BB), 107J Company, achieved<br> the High Distinction for the J M Fraser Award for Excellence. | The boys learning to make appreciation cards. |
 
 <img src="/images/boysbrigade5.jpg" style="width:370px; height:280px;margin-left:5px" align="left">
-<img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
+<img src="/images/boysbrigade4.jpg" style="width:370px; height:280px;margin-right:15px" align="right">
 
 <br clear="left">
 
 |  |  |
 |---|:---:|
-| Boys designing their own tote bag to promote<br> environmental sustainability. | They played team station games at Bishan-Ang Mo Kio Park. |
+| Boys designing their own tote bag to promote<br> environmental sustainability. | The boys learning to make appreciation cards. |
 
 <img src="/images/boysbrigade7.jpeg" style="width:370px; height:280px;margin-left:5px" align="left">
 <img src="/images/boysbrigade6.jpeg" style="width:370px; height:280px;margin-right:15px" align="right">
