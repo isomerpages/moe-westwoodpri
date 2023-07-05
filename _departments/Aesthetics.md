@@ -11,7 +11,7 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row from left:**<br>
-Mr Zhang Weixiang, Mr Dexter Sim, , Mrs Goh Han Jin, Ms Hazel Chan Lay Mun, Ms Gu Si Yuan, Ms Lee Yeh Chi
+Mr Zhang Weixiang, Mr Dexter Sim, Mrs Goh Han Jin, Ms Hazel Chan Lay Mun, Ms Gu Si Yuan, Ms Lee Yeh Chi
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
@@ -54,4 +54,3 @@ Mr Dexter Sim<br>
 Mrs Goh Han Jin<br>
 Mr Zhang Weixiang (Music Coordinator)<br>
 Ms Gu Si Yuan
-
