@@ -35,6 +35,7 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 * Hari Raya
 * Mid-Autumn Festival
 * Deepavali
+* Pongal Festival
 
 **(II) Mother Tongue Language Fortnight**<br>
 \- During the Mother Tongue Language Fortnight, a series of fun filled cultural and language activities will be conducted to enrich the pupils' experience in the learning of the Mother Tongue Language.
@@ -102,12 +103,12 @@ Ms Zhong Xinying <br>
 Ms Chang Yu Juan Jade 
 
 #### **Malay Language**
-Ms Elna (SH/ML &amp; TL)<br>
+Mdm Elna (SH/ML &amp; TL)<br>
 Ms Nurul Syafiqah Anuar Khan <br>
 Ms Siti Juwani<br>
 Mdm Suriati Bte Djuahir
 
 #### **Tamil Language**
-Ms Venkatachalam Alamu<br>
+Mdm Venkatachalam Alamu<br>
 Ms Thachayani Putaran<br>
 Mr Devaraj S/O Nambirajan

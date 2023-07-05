@@ -21,7 +21,7 @@ Pupils will be able to: <br>
 2\.  Learn knowledge associated with food and nutrition and other health aspects like hygiene, eye-care and dental care.<br>
 3\.  Cultivate a love for both indoor and outdoor activities and keep fit and healthy through regular exercise, while keeping themselves and others safe.
 
-#### **PE Curricuum @ Westwood**
+#### **PE Curriculum @ Westwood**
 Physical Education (PE) for Lower Primary pupils focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in pupils’ performance.
 
 Physical Education (PE) for Upper Primary pupils focuses on more complex combinations of discrete skills and sequences of movements. Pupils also get to join SwimSafer programme to learn about water safety and swimming skills.
