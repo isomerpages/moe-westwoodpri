@@ -9,11 +9,9 @@ third_nav_title: Service Providers
 To apply, please refer to the Service Requirements and the Application Procedure below.
 
 **Service Requirements**
-1.	[Call for Proposal](/files/call%20for%20proposals%20by%20school%20(version%20june%202023)_wwps.pdf)
+1.	[Call for Proposal](/files/call%20for%20proposals%20by%20school%20(version%20june%202023)_wwpsr.pdf)
   
 2.	[Agreement for Appointment of School Bus Operator](/files/agreement%20for%20appointment%20of%20school%20bus%20operator%20(version%20june%202023)annex%20b_wwps.pdf)
-
-3.	[Request for School Bus Services](/files/request%20for%20school%20bus%20services%20(version%20june%202023).pdf)
 
 **Application Procedure**
 
