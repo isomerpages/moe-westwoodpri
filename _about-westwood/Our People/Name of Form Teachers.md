@@ -62,7 +62,7 @@ third_nav_title: Our People
 
 | Class | Name |
 |:---:|---|
-| 5 Confidence | Mr Macus Rouis<br>Ms Tong Jin Yi |
+| 5 Confidence | Mr Tan Tuan Heng<br>Ms Tong Jin Yi |
 | 5 Diligence | Mr Mohamed Rafik Osman Alkhatib<br>Ms Jasmine Koh Hwee Ling |
 | 5 Gratitude | Ms Dawn Sia Pei Fen<br>Mr Ng Zhili Gerard-Christian |
 | 5 Resilience | Mr Boo Hong Rui<br>Ms Yap Hui Tee |
