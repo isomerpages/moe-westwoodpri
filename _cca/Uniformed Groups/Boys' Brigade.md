@@ -58,4 +58,4 @@ Mr Tan Shi Wei
 
 |  |  |
 |---|---|
-| Our Boys' Brigade (BB), 107J Company, achieved the High Distinction for the J M Fraser Award for Excellence. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
+| Our Boys' Brigade (BB), 107J Company, achieved High Distinction for the J M Fraser Award for Excellence. | We had a blast at our combined Boys’ Brigade &amp; Girls’ Brigade camp with South View Primary School in our very own school compound! |
