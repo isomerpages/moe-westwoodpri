@@ -6,6 +6,4 @@ third_nav_title: "2023"
 ---
 ### **ML Motivational Talk**
 
-Westwood Primary School is proud to have Mdm Rahayu Mahzam, Senior Parliamentary Secretary for Ministry of Health and Ministry of Law as our invited speaker for a cluster event. Madam Rahayu shared insights to motivate P6 ML pupils from W6 Cluster schools. Mdm Rahayu was amongst the first Language Ambassadors (Duta Bahasa). She took over the reins as Chairman of the Bulan Bahasa Committee in 2016 and has since dedicated much time and effort to lead the Committee and the Malay Language Month annual initiative.
-
-We hope that our pupils have benefitted from her sharing and are inspired to soar to greater heights.
+Westwood Primary School is proud to have Mdm Rahayu Mahzam, Senior Parliamentary Secretary for Ministry of Health and Ministry of Law as our invited speaker for our ML Motivational Talk. Graduating ML pupils from our cluster schools attended the talk and had gained deep insights on self-motivation to better prepare for their PSLE exams. Our pupils have benefited from her sharing and are inspired to soar to greater heights.
