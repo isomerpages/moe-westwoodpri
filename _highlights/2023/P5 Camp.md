@@ -6,4 +6,5 @@ third_nav_title: "2023"
 ---
 ### **P5 Camp**
 
-Our 3 days 2 nights residential camp for P5 pupils was held at HomeTeamNS@Bukit Batok, between 26 to 28 July. The theme is ‘Yes I Can! Yes You Can!’ to boost confidence and resilience in self and uplift of others.
+We organized a residential camp for P5 pupils, spanning 3 days and 2 nights at HomeTeamNS@Bukit Batok from 26th to 28th July. The camp's theme was 'Yes I Can! Yes You Can!' aimed at enhancing self-confidence, resilience, and promoting uplifting support for one another.
+
