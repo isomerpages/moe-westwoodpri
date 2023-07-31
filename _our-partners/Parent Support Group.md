@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Parent Support Group**
 
-If you are interested to be a part of Westwood Primary Parent Support Group (PSG) to support the school's various activities or be involved in planning or running workshops and events for both parents and students, please sign up via this <a href="https://go.gov.sg/westwoodpri-psg-registration">online form</a>. We look forward to you becoming a member of our PSG!
+If you have a keen interest in joining the Westwood Primary Parent Support Group (PSG) and wish to contribute to the school's activities, or take part in organizing workshops and events for parents and students, we invite you to sign up using this [online form](https://go.gov.sg/westwoodpri-psg-registration). We eagerly anticipate your membership in our PSG!
 
 #### **WWPS PSG Mission Statement**
 The WWPS Parent Support Group (PSG) strives to create a welcoming and inclusive environment for the WWPS family.
