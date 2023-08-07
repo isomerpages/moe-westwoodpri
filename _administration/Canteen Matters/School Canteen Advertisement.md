@@ -37,6 +37,7 @@ From September to 31 December 2023<br>
 * If offered a canteen stall, applicant and assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA).
 
 **Application Procedure**<br>
+
 [Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our school’s General Office by **31st August 2023** with the following documents:
 * Photocopy of the applicant’s NRIC (front and back)
 * Proposed menu and pricing
