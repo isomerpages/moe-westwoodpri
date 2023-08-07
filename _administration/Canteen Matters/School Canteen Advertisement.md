@@ -19,11 +19,11 @@ The canteen operator may be required to operate on other days as required by the
 
 **Contract period**<br>
 
-(1) Chinese Food (rice) stall<br>
+<u>(1) Chinese Food (rice) stall</u><br>
 Immediate to 31 Dec 2023<br>
 (Subsequently, new contract starts from January to December, on a yearly basis).<br>
 
-(2) Hot Drinks &amp; Snacks stall<br>
+<u>(2) Hot Drinks &amp; Snacks stall</u><br>
 From September to 31 December 2023<br>
 (Subsequently, new contract starts from January to December, on a yearly basis).
 
