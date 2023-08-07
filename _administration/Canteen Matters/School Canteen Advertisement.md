@@ -11,13 +11,16 @@ Our School, Westwood Primary, has a vacancy for:<br>
 (2) Hot Drinks &amp; Snacks stall
 
 **School Information**<br>
-Our School has a student population of approximately 1390 students and  a staff strength of about 114 staff. We are a single session school with Student Care Centre.
+Our School has a student population of approximately 1394 students and  a staff strength of about 114 staff. We are a single session school with Student Care Centre.
 
 **Canteen Operating Hours**<br>
 Monday to Friday, 6:30 am to 3 pm during School Term.
 The canteen operator may be required to operate on other days as required by the school.
 
 **Contract period**<br>
+
+(1) Chinese Food (rice) stall
+
 Immediate to 31 Dec 2023
 (Subsequently, new contract starts from January to December, on a yearly basis).
 
