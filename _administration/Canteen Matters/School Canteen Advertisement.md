@@ -24,6 +24,10 @@ The canteen operator may be required to operate on other days as required by the
 Immediate to 31 Dec 2023
 (Subsequently, new contract starts from January to December, on a yearly basis).
 
+(2) Hot Drinks &amp; Snacks stall
+From September to 31 December 2023 
+(Subsequently, new contract starts from January to December, on a yearly basis).
+
 **Application Requirements**<br>
 * Applicant must be a Singapore Citizen or Singapore Permanent Resident.
 * Able to provide good service and quality food at reasonable prices.
