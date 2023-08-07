@@ -6,7 +6,7 @@ third_nav_title: Canteen Matters
 ---
 ### **School Canteen Advertisement**
 
-Our School, Westwood Primary, has a vacancy for:<br>
+Our School, Westwood Primary, has vacancies for:<br>
 (1) Chinese Food (rice) stall<br>
 (2) Hot Drinks &amp; Snacks stall
 
