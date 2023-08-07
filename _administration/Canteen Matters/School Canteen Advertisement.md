@@ -17,7 +17,7 @@ Our School has a student population of approximately 1394 students and  a staff 
 Monday to Friday, 6:30 am to 3 pm during School Term.
 The canteen operator may be required to operate on other days as required by the school.
 
-**Contract period**<br>
+**Contract Period**<br>
 
 <u>(1) Chinese Food (rice) stall</u><br>
 Immediate to 31 Dec 2023<br>
