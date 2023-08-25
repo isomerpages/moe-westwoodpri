@@ -32,7 +32,7 @@ Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.s
 
 #### **School Bus Operator**
 **Say Guan Transport Services**<br>
-To view details of bus operator and bus fares, click 
+To view details of bus operator and bus fares, click [here](/files/school%20bus%20operator%20awarded%202023.pdf)
 
 #### **Dental Clinic**
 **Dental Clinic @ Westwood Primary**<br>
