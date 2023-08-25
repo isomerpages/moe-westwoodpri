@@ -32,7 +32,7 @@ Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.s
 
 #### **School Bus Operator**
 
-**JK95 Transport Pte Ltd**<br>
+**JK59 Transport Pte Ltd**<br>
 Contact: 6465 5959 (Monday to Friday, 9.00 a.m. to 5.30 p.m. and Saturday, 9.00 a.m. to 1.00 p.m.)<br>
 Email: transport@jk59.com
 
