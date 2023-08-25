@@ -31,11 +31,8 @@ Office Contact: 8606 1170 (11.30 a.m. to 7.00 p.m.)<br>
 Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)
 
 #### **School Bus Operator**
-**JK59 Transport Pte Ltd Office**<br>
-Contact: 6465 5959 (Monday to Friday, 9.00 a.m. to 5.30 p.m. and Saturday, 9.00 a.m. to 1.00 p.m.)<br>
-Email: [transport@jk59.com](mailto:transport@jk59.com)
-
-To view details of bus operator and bus fares, click [here](/files/school%20bus_fares_wwps.pdf).
+**Say Guan Transport Services**<br>
+To view details of bus operator and bus fares, click [here](/files/school%20bus%20operator%20awarded%202023.pdf)
 
 #### **Dental Clinic**
 **Dental Clinic @ Westwood Primary**<br>
