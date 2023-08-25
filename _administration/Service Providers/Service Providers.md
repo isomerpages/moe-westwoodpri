@@ -31,7 +31,12 @@ Office Contact: 8606 1170 (11.30 a.m. to 7.00 p.m.)<br>
 Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)
 
 #### **School Bus Operator**
-**Say Guan Transport Services**<br>
+
+**JK95 Transport**<br>
+Contact: 6465 5959 (Monday to Friday, 9.00 a.m. to 5.30 p.m. and Saturday, 9.00 a.m. to 1.00 p.m.)<br>
+Email: transport@jk59.com
+
+**Say Guan Transport Services (from 1 Jan 2024)**<br>
 To view details of bus operator and bus fares, click [here](/files/school%20bus%20operator%20awarded%202023.pdf)
 
 #### **Dental Clinic**
