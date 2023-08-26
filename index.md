@@ -31,6 +31,15 @@ sections:
       image: /images/westwood-askgov.png
       alt: Image alt text
   - infopic:
+      title: “Heart of Gratitude” Wishing Wall
+      subtitle: Teachers’ Day Celebration 2023
+      description: "We are inviting all Westwood parents, pupils and alumni members to
+        pen down words of gratitude for our teachers. "
+      button: Click here
+      url: https://www.westwoodpri.moe.edu.sg/others/highlights/
+      image: /images/wishing wall 2023.png
+      alt: Image alt text
+  - infopic:
       title: Photo and Video Gallery
       subtitle: Westwood Primary School
       description: View Photos and Videos from Westwood Primary & MK @ Westwood
