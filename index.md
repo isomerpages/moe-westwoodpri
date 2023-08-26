@@ -34,9 +34,9 @@ sections:
       title: “Heart of Gratitude” Wishing Wall
       subtitle: Teachers’ Day Celebration 2023
       description: We are inviting all Westwood parents, pupils and alumni members to
-        pen down words of gratitude for our teachers on our Wishing Wall.
+        pen down words of gratitude for their teachers on our Wishing Wall.
       button: Click here
-      url: https://cms.isomer.gov.sg/sites/moe-westwoodpri/folders/highlights/subfolders/2023/editPage/Teachers'%20Day%20Celebration.md
+      url: https://www.westwoodpri.moe.edu.sg/highlights/2023/teachers-day-celebration/
       image: /images/wishing wall 2023.png
       alt: Image alt text
   - infopic:
