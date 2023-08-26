@@ -9,4 +9,6 @@ third_nav_title: "2023"
 
 As Teachers’ Day is round the corner, we would like to invite all parents, pupils and alumni members to pen down words of gratitude for our teachers at our [Wishing Wall](https://go.gov.sg/mrchin), from 25 August (Friday) to 11 September (Monday).
 
-![](/images/wishing%20wall%202023.png)
+<p><a href="https://go.gov.sg/mrchin">
+<img style="width:100%" src="/images/wishing%20wall%202023.png">
+</a></p>
