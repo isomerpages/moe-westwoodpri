@@ -25,3 +25,5 @@ Click to view all the photos taken during the celebration (link is accessible un
 
 ### **Homecoming by Alumni**
 
+Warm appreciation to the Alumni for gracing their teachers with their presence on this special Teachers' Day. The sentiment of 'Once a Westwoodian, always a Westwoodian' embodies the lasting connection, and may you carry the school value of "Yes, I can!" wherever your journey takes you.
+
