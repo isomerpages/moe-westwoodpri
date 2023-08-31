@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ### **“Heart of Gratitude” Wishing Wall for Teachers’ Day 2023**
 
-To celebrate Teachers' Day, we have invited all parents, pupils and alumni members to pen down words of gratitude for their teachers on our Wishing Wall. Please click [here](https://go.gov.sg/wishingwall2023) to view the heartening messages.
+To celebrate Teachers' Day, we have invited all parents, pupils and Alumni members to pen down words of gratitude for their teachers on our Wishing Wall. Please click [here](https://go.gov.sg/wishingwall2023) to view the heartening messages.
 
 <p><a href="https://go.gov.sg/wishingwall2023">
 <img style="width:100%" src="/images/wishing%20wall%202023.png">
