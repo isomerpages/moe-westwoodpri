@@ -14,3 +14,7 @@ To celebrate Teachers' Day, we have invited all parents, pupils and alumni membe
 
 On 31 August, we have hosted the Westwood Superstar Talent Contest, in conjunction with our Teachers' Day celebration. Besides providing students with a wonderful platform to showcase their talents, teachers were genuinely impressed by the performances. Following the contest, teachers enjoyed a buffet lunch before meeting the Alumni members at the canteen. Indeed, the days are long, but the years are short. It's always heartening to see how much our pupils have grown, and they will forever hold a special place in our hearts. Teaching is a calling, and Teachers' Day is a time when we truly appreciate the heartfelt dedication of our teachers' hard work.
 
+![](/images/teachers'%20day%20celebration%202023.jpg)<br>
+![](/images/teachers'%20pledge%202023.jpg)<br>
+![](/images/westwood%20superstar%202023_1.jpg)<br>
+![](/images/cajon%20performance%202023.jpg)<br>
