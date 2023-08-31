@@ -28,6 +28,6 @@ Click [here](https://drive.google.com/drive/folders/17URFeyki5van4LZoY9iDh4Ihpni
 Warm appreciation to the Alumni for gracing their teachers with their presence on this special Teachers' Day. The sentiment of 'Once a Westwoodian, always a Westwoodian' embodies the lasting connection, and may you carry the school value of "Yes, I can!" wherever your journey takes you.
 
 Click [here](https://drive.google.com/drive/folders/1_WH7ITmTxNwc_OzdnE69f6TUPJwSJpBk?usp=sharing) to view the photos taken during Homecoming (link is accessible until 30 Sep). 
-
+![](/images/homecoming%202023_3.jpg)<br>
 ![](/images/homecoming%202023_1.jpg)<br>
 ![](/images/homecoming%202023_2.jpg)<br>
