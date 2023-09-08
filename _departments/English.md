@@ -5,7 +5,7 @@ description: ""
 ---
 ### **English**
 
-<img src="/images/English.jpg" style="width:85%">
+<img src="/images/English_Dept_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
