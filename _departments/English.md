@@ -5,16 +5,13 @@ description: ""
 ---
 ### **English**
 
-<img src="/images/English.jpg" style="width:85%">
+<img src="/images/English_Dept_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First Row from left:**<br>
-Mr Premnath S/O Chandran, Mr Ng Kai Zhe Alan, Ms Janice Foo Mei Chien, Ms Jurveen Kaur, Ms Yong Lee Min, Ms Enda Wendy Chan, Mrs Winnie Teng (Leong), Ms Isabelle Gan Chai Hong, Mr Mohamed Rafik Osman Alkhatib
-
-**Second Row from left:**<br>
-Ms Saranya D/O Asokan, Ms Siti Aisyah Binte Mohamed Yazid, Ms Sarah Chua Ai Tee, Ms Noor Amirah Bte Azman, Ms Viroshini, Ms Nur Diyana Bte Zakariah, Mdm Jamaliah Bte Sulaiman, Mdm Ralleeah Naina Mohamed, Ms Lin Shing Chi, Ms Chong Yoke Ting, Ms Gan Seow Ling
+Ms Sharenya Devarajan, Ms Ng Su Chern, Ms Noor Amirah Bte Azman, Ms Hiew Li Tiang, Ms Yong Lee Min, Mr Mohamed Rafik Osman Alkhatib, Ms Jurveen Kaur Randhawa, Ms Janice Foo Mei Chien, Mrs Winnie Teng (Leong), Ms Nur Diyana Bte Zakariah
 
 #### **Curricular Objectives**
 English is the common language that facilitates bonding amongst the different ethnic and cultural groups in Singapore. At the global level, English allows Singaporeans to tap into a knowledge-based economy where English is the main lingua franca of the Internet, of Science and Technology and of World Trade.
@@ -104,5 +101,4 @@ Mrs Winnie Teng<br>
 Ms Noor Amirah<br>
 Ms Janice Foo Mei Chien<br>
 Ms Sarah Chua Ai Tee <br>
-Ms Ker Bee Lay <br>
 Ms Sharenya D/O Devarajan
