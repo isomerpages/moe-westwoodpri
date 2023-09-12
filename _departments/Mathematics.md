@@ -5,16 +5,13 @@ description: ""
 ---
 ### **Mathematics**
 
-<img src="/images/WWPS_Staff_Photos/Maths_2023.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/maths_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Mr Khoo Rong Huang, Mrs Agnes Seah Kai Leong, Ms Elaine Lai Yongxian, Ms Lam Meng Chee, Mdm Sophia Tan Seok Yee, Mdm Azimah Bte Ghazali, Mdm Suhaila Bte Laip
-
-**Second Row (middle) from left:**<br>
-Mr Boo Hong Rui, Mrs May Foo, Ms Gildabella, Ms Saraswathi Pannirsilvam, Mdm Lim Shae Min, Ms Catherine Koh Joo Tian, Mdm Nora Bte Isnin, Mr Tan Shi Wei
+**First Row from left:**<br>
+Mr Tan Tuan Heng, Mr Boo Hong Rui, Mr Khoo Rong Huang, Ms Elaine Lai Yongxian,  Mdm Lim Shae Min, Ms Ngiam Wei Ling Melissa, Ms Khoo Jia Hui, Ms Lam Meng Chee
 
 #### **Vision**
 Every Westwood pupil is to be a future-ready, anchor-steady Mathematical problem solver
