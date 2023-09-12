@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Mathematics**
 
-<img src="/images/Mathematics.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/Maths_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
