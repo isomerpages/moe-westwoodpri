@@ -6,7 +6,7 @@ description: ""
 ### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
 
-<img src="/images/WWPS_Staff_Photos/student_leadership2023.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/student_leadership_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
