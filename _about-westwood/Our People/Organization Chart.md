@@ -6,6 +6,11 @@ third_nav_title: Our People
 ---
 ### **Organization Chart**
 
+#### **2023**
+<img src="/images/Executive%20Committee.jpg" style="width:85%"><br>
+
+<img src="/images/organizationchart.jpg" style="width:85%">
+
 #### **2022**
 <img src="/images/Executive%20Committee.jpg" style="width:85%"><br>
 
