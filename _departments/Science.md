@@ -10,7 +10,7 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row from left:**<br>
+**First row from left:**<br>
 Mr Clyde Lim Chang Soon, Mr Joel Ong Xuan You, Mr Tan Yeow Heng Ben, Mdm Long Miaw Ying Jennifer, Mdm Naseema Beevi D/O Abd Rehim, Mdm Jane Kang Hui Chin, Ms Goh Ho Laye
 
 #### **Learning Outcome**
