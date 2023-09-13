@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our Teaching Staff**
 
-<img src="/images/ourteachingstaff.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/staff2.jpg" style="width:30%">
