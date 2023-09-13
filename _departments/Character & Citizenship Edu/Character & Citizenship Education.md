@@ -11,7 +11,7 @@ third_nav_title: Character & Citizenship Edu
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
+**First row (bottom) from left:**<br>
 Ms Nurul Syafiqah Bte Anuar Khan, Ms Saraswathi Pannirsilvam, Ms Murshidah Bte Hassan, Ms Lin Shing Chi, Ms Claire Lu Baozhu, Ms Wong Sheang Yun, Mdm Jamaliah Bte Sulaiman
 
 **Second Row (middle) from left:**<br>
