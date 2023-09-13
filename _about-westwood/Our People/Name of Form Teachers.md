@@ -94,7 +94,6 @@ third_nav_title: Our People
 | Mrs May Foo |
 | Ms Sarah Chua Ai Tee |
 | Ms Ang Chye Siang |
-| Ms Ker Bee Lay |
 | Ms Catherine Koh |
 | Mrs Agnes Seah |
 | Mrs Muthu |
