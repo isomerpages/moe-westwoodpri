@@ -9,7 +9,7 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**Third row (top) from left:**<br>
+**Last row (top) from left:**<br>
 Ms Thachayani Putaran, Mrs Tan-Nai Li Hua, Ms Nurul Syafiqah Bte Anuar Khan, Ms Siti Juwani Bte Abd Rahman, Mdm Venkatachalam Alamu
 
 **Middle row from left:**<br>
