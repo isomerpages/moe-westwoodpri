@@ -5,13 +5,13 @@ description: ""
 ---
 ### **Aesthetics**
 
-<img style="width:85%" src="/images/Aesthetics.jpg">
+<img style="width:85%" src="/images/WWPS_Staff_Photos/aesthetics_2023.jpg">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row from left:**<br>
-Mr Zhang Weixiang, Mr Dexter Sim, Mrs Goh Han Jin, Ms Hazel Chan Lay Mun, Ms Gu Si Yuan, Ms Lee Yeh Chi
+**First row from left:**<br>
+Mr Zhang Weixiang, Mr Dexter Sim, Ms Hazel Chan Lay Mun, Mrs Goh Han Jin, Ms Gu Si Yuan
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.

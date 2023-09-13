@@ -6,19 +6,13 @@ third_nav_title: Info & Communication Tech
 ---
 ### **Information &amp; Communication Technology**
 
-<img src="/images/ICTInnovation&amp;CyberwellnessTeam.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Mr Khoo Rong Huang, Ms Jasmine Koh Hwee Ling, Mr Azeri Bin Mustafar, Ms Li Huili, Mdm Azimah Bte Ghazali, Mr Joel Ong Xuan You, Mr Ng Zhili Gerard-Christian
-
-**Second Row (middle) from left:**<br>
-Mdm Suriati Bte Djuahir, Mdm Siti Kalsom Bte Zam Zam, Ms Chong Yoke Ting, Ms Elaine Lai Yongxian, Ms Tan Lay Lian, Ms Saranya D/O Asokan, Ms Yong Lee Min
-
-**Third Row (bottom) from left:**<br>
-Ms Noor Amirah Bte Azman, Ms Lam Meng Chee, Mdm Long Miaw Ying Jennifer, Mdm Kee Suat Har, Ms Elna Bte Hussin
+**First row from left:**<br>
+Mr Azeri Bin Mustafar, Mr Rudy Hairil Bin Adnan, Mr Muhardatsualiff Bin Shamhati, Ms Li Huili, Mdm Siti Kalsom Bte Zam Zam, Mdm Azimah Bte Ghazali
 
 #### **WWPS Pupil ICT Learning Framework**
 

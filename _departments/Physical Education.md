@@ -4,13 +4,13 @@ permalink: /departments/pe/
 description: ""
 ---
 ### **Physical Education**
-<img style="width:85%" src="/images/Physical%20Education.jpg">
+<img style="width:85%" src="/images/WWPS_Staff_Photos/pe_2023.jpg">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row from left:**<br>
-Mr Seet Wee Key, Mr Loh Chee Wei, Mr Ng Zhili Gerard-Christian, Mr Khairul Abdillah Bin Ismail, Mr Jonathan Chng Chin Chuang, Mr Chow Zhixian, Ariel, Mr Idris Bin Abdul Rashid
+**First row from left:**<br>
+Mr Seet Wee Key, Mr Chow Zhixian, Ariel, Mr Khairul Abdillah Bin Ismail, Mr Jonathan Chng Chin Chuang, Mr Yeo Jun Bo
 
 #### **Vision**
 Setting the foundation for healthy minds &amp; bodies through active lifestyles

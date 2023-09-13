@@ -10,7 +10,7 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row from left:**<br>
+**First row from left:**<br>
 Ms Sharenya Devarajan, Ms Ng Su Chern, Ms Noor Amirah Bte Azman, Ms Hiew Li Tiang, Ms Yong Lee Min, Mr Mohamed Rafik Osman Alkhatib, Ms Jurveen Kaur Randhawa, Ms Janice Foo Mei Chien, Mrs Winnie Teng (Leong), Ms Nur Diyana Bte Zakariah
 
 #### **Curricular Objectives**

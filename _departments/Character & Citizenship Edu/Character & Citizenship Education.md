@@ -6,16 +6,13 @@ third_nav_title: Character & Citizenship Edu
 ---
 ### **Character &amp; Citizenship Education**
 
-<img src="/images/cce%20dept.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/cce_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Ms Nurul Syafiqah Bte Anuar Khan, Ms Saraswathi Pannirsilvam, Ms Murshidah Bte Hassan, Ms Lin Shing Chi, Ms Claire Lu Baozhu, Ms Wong Sheang Yun, Mdm Jamaliah Bte Sulaiman
-
-**Second Row (middle) from left:**<br>
-Ms Sandy Lee Lay Kheng, Ms Thachayani Putaran, Ms Nur Diyana Bte Zakariah, Ms Shen Rong, Ms Siti Juwani Bte Abd Rahman, Mdm Venkatachalam Alamu, Ms Janice Foo Mei Chien
+**First row from left:**<br>
+Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah Bte Sulaiman, Ms Claire Lu Baozhu
 
 #### **Character and Citizenship Programmes**
 

@@ -10,7 +10,7 @@ description: ""
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row from left:**<br>
+**First row from left:**<br>
 Mr Tan Tuan Heng, Mr Boo Hong Rui, Mr Khoo Rong Huang, Ms Elaine Lai Yongxian,  Mdm Lim Shae Min, Ms Ngiam Wei Ling Melissa, Ms Khoo Jia Hui, Ms Lam Meng Chee
 
 #### **Vision**
