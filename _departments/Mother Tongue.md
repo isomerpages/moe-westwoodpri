@@ -4,19 +4,19 @@ permalink: /departments/mtl/
 description: ""
 ---
 ### **Mother Tongue**
-<img src="/images/Mother%20Tongue%20Languages%20Department.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/mt_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (top) from left:**<br>
-Mdm Venkatachalam Alamu, Ms Tan Sze Yi, Ms Murshidah Bte Hassan, Ms Elna Bte Hussin, Mdm Kee Suat Har, Ms Teo Shu Ting Cheryl, Ms Li Huili, Mrs Jasmine Wong-Koh Hwee Ling, Mr Devaraj S/O Nambirajan
+**Third row (top) from left:**<br>
+Ms Thachayani Putaran, Mrs Tan-Nai Li Hua, Ms Nurul Syafiqah Bte Anuar Khan, Ms Siti Juwani Bte Abd Rahman, Mdm Venkatachalam Alamu
 
-**Second Row (middle) from left:**<br>
-Ms Wong Sheang Yun, Ms Nurul Syafiqah Bte Anuar Khan, Ms Vivian Lim, Mdm Wei Junying, Ms Zhou Liting, Ms Shen Rong, Ms Sandy Lee Lay Kheng, Ms Ng Ley Huey, Ms Tan Lay Lian, Mdm Siti Kalsom Bte Zam Zam, Mdm Suriati Bte Djuahir
+**Middle row from left:**<br>
+Mdm Wei Junying,  Ms Sandy Lee Lay Kheng, Ms Ng Ley Huey, Mdm Kee Suat Har, Ms Koh Kah Neng,  Ms Vivian Lim, Mrs Ooi Anli
 
-**Third Row (bottom) from left:**<br>
-Ms Koh Kah Neng, Ms Tong Jin Yi, Ms Yap Hui Tee, Ms Claire Lu Baozhu, Mrs Tan-Nai Li Hua, Ms Siti Juwani Bte Abd Rahman, Ms Thachayani Putaran
+**First row (bottom) from left:**<br>
+Mrs Jasmine Wong-Koh Hwee Ling, Ms Nicolia Zhong Xinying, Ms Jade Chang Yu Juan, Mdm Suriati Bte Djuahir, Ms Elna Bte Hussin, Ms Yap Hui Tee, Ms Wong Sheang Yun
 
 #### **Curricular Objective**
 The Mother Tongue Language Department seeks to develop competent Mother Language learners through instilling greater ownership of&nbsp;learning, as well as developing pupils' appreciation and promoting their interest in the learning of Mother Tongue Language and Culture. We believe that every child should strive to excel in the daily use and application of the Mother Tongue Language. Since 2022, we have been offering Higher Mother Tongue Language from Primary 3 to Primary 6. This allows more students to deepen their knowledge and appreciation for these languages and their cultures from an early age. We hope this will encourage students with strong interest and aptitude in Mother Tongue Languages to learn as high a level as they can. 
