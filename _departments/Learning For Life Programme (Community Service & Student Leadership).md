@@ -5,16 +5,13 @@ description: ""
 ---
 ### **Learning For Life Programme (Community Service &amp; Student Leadership)**
 
-<img src="/images/learningforlifeprog.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/cce_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
-**First Row (bottom) from left:**<br>
-Ms Nurul Syafiqah Bte Anuar Khan, Ms Saraswathi Pannirsilvam, Ms Murshidah Bte Hassan, Ms Lin Shing Chi, Ms Claire Lu Baozhu, Ms Wong Sheang Yun, Mdm Jamaliah Bte Sulaiman
-
-**Second Row (top) from left:**<br>
-Ms Sandy Lee Lay Kheng, Ms Thachayani Putaran, Ms Nur Diyana Bte Zakariah, Ms Shen Rong, Ms Siti Juwani Bte Abd Rahman, Mdm Venkatachalam Alamu, Ms Janice Foo Mei Chien
+**First row from left:**<br>
+Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah Bte Sulaiman, Ms Claire Lu Baozhu
 
 #### **Curricular Objectives**
 Westwood Primary’s Learning for Life Programme, “Igniting Young Hearts with a Passion for the Community’, is a whole-school approach to character, citizenship and values education through community involvement and social action.
