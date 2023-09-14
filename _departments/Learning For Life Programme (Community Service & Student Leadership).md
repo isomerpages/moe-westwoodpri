@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Learning For Life Programme (Community Service &amp; Student Leadership)**
 
-<img src="/images/learningforlifeprog.jpg" style="width:85%">
+<img src="/images/WWPS_Staff_Photos/cce_2023.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
