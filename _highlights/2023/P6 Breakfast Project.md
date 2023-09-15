@@ -10,6 +10,4 @@ With the support of our Principal, teachers and Parent Support Group, a group of
 
 Read their fruitful reflections on this journey.
 
-
-                          
-   
+![](/images/p6%20breakfast%20project%20reflections.jpg 
