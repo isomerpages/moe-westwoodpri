@@ -10,4 +10,6 @@ With the support of our Principal, teachers and Parent Support Group, a group of
 
 Read their fruitful reflections on this journey.
 
-![](/images/p6%20breakfast%20project%20reflections.jpg 
+<p><a href="https://heyzine.com/flip-book/4d9d376564.html">
+<img style="width:100%" src="/images/p6%20breakfast%20project%20reflections.jpg">
+</a></p>
