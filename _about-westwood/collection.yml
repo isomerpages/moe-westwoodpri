@@ -3,15 +3,15 @@ collections:
     output: true
     order:
       - The Westwood Story.md
+      - Vision, Mission, Values and Motto.md
       - Our Strategic Plans.md
-      - Mission, Vision, Values and Motto.md
+      - Journey on Positive Education.md
       - School Crest.md
       - School Rules.md
       - Westwood Virtual Tour.md
       - School Song.md
-      - Journey Towards Positive Education.md
-      - Our People/Our School Leaders.md
       - Our People/.keep
+      - Our People/Our School Leaders.md
       - Our People/Organization Chart.md
       - Our People/Name of Form Teachers.md
       - Westwood Photo Gallery/.keep
