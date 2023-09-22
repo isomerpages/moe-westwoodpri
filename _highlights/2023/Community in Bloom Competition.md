@@ -6,7 +6,7 @@ third_nav_title: "2023"
 ---
 ### **Community in Bloom Competition**
 
-Heartiest Congratulations to Gardens@Westwood Primary for being awarded the **'Top 50 CIB Garden'** in the **Community in Bloom** Competition!
+Heartiest congratulations to Gardens@Westwood Primary for being awarded the **'Top 50 CIB Garden'** in the **Community in Bloom** Competition!
 
 Top 50 CIB Garden recognises community gardens that have beautiful and diverse gardens, actively engaging their communities, and are committed to sustainable and environmentally-friendly practices. 
 
