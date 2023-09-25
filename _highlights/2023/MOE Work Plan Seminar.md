@@ -10,4 +10,6 @@ third_nav_title: "2023"
 ![](/images/wps2023_1.jpg)
 ![](/images/wps%202023_2.jpg)
 
-Click [here](https://go.gov.sg/wps2023ministerspeech) for transcript of Minister's full speech. 
+Click [here](https://go.gov.sg/wps2023ministerspeech) to view transcript of Minister's full speech.
+
+Click [here](https://go.gov.sg/wps2023speechinfographic) for summary of Minister's full speech.
