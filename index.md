@@ -31,13 +31,13 @@ sections:
       image: /images/westwood-askgov.png
       alt: Image alt text
   - infopic:
-      title: “Heart of Gratitude” Wishing Wall
-      subtitle: Teachers’ Day Celebration 2023
-      description: We are inviting all Westwood parents, pupils and alumni members to
-        pen down words of gratitude for their teachers on our Wishing Wall.
+      title: Caring Teacher Award 2024
+      subtitle: Nominate your teachers today
+      description: We are inviting all parents and pupils to submit nominations for
+        the Caring Teacher Award 2024. Closing date is 12 January 2024.
       button: Click here
-      url: https://www.westwoodpri.moe.edu.sg/highlights/2023/teachers-day-celebration/
-      image: /images/wishing wall 2023.png
+      url: https://westwoodpri.sg/highlights/2023/caring-teacher-award-2024/
+      image: /images/cta2024.png
       alt: Image alt text
   - infopic:
       title: Photo and Video Gallery
