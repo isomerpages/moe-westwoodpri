@@ -33,8 +33,8 @@ sections:
   - infopic:
       title: Caring Teacher Award 2024
       subtitle: Nominate your teachers today
-      description: "We are inviting all parents and pupils to submit nominations for
-        the Caring Teaching Award 2024. Closing date is 12 January 2024. "
+      description: We are inviting all parents and pupils to submit nominations for
+        the Caring Teacher Award 2024. Closing date is 12 January 2024.
       button: Click here
       url: https://westwoodpri.sg/highlights/2023/caring-teacher-award-2024/
       image: /images/cta2024.png
