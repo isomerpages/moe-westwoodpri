@@ -14,6 +14,5 @@ Click [here](https://heyzine.com/flip-book/9a8e86cb04.html) to view the publicat
 Sharing with you an exceptionally touching tribute to Uncle Ismail, written by Nayef from 4 Synergy.
 
 
-| ![](/images/thrive%20with%20strength_uncle%20ismail%201.png)  | ![](/images/thrive%20with%20strength%20to%20uncle%20ismail.png) |
-
-
+![](/images/thrive%20with%20strength_uncle%20ismail%201.png)<br>
+![](/images/thrive%20with%20strength%20to%20uncle%20ismail.png)
