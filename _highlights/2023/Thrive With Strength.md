@@ -8,4 +8,8 @@ third_nav_title: "2023"
 
 ‘THRIVE WITH STRENGTH’ is our Westwood Primary's 2023 publication put together by our CCE, MT and EL Departments. In this book,  you will find written works from our students and their works are aligned to our THRIVE values.
 
-Sharing with you an exceptionally touching tribute to Uncle Ismail, written by Nayef from 4 Synergy. 
+Click [here](https://heyzine.com/flip-book/9a8e86cb04.html) to view the publication.
+
+
+Sharing with you an exceptionally touching tribute to Uncle Ismail, written by Nayef from 4 Synergy.
+
