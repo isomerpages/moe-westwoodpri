@@ -10,7 +10,7 @@ Our CCE Hub is officially opened on 5 October and we are honoured to have Mr Ken
 <br>
 
 
-<iframe allowfullscreen="true" height="350" width="600" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S1mP86mRA8k?si=u2kM0VyXcTM4e_Q9"></iframe>
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S1mP86mRA8k?si=u2kM0VyXcTM4e_Q9"></iframe>
 
 
 Click [here](https://drive.google.com/drive/folders/11kDRZxLEjY55rQZacPr4A1ENK44Piucd?usp=sharing) to view the photos taken during the opening ceremony (link is accessible until 31 Oct).
