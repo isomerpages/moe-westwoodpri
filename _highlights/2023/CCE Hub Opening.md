@@ -4,11 +4,7 @@ permalink: /highlights/2023/cce-hub-opening/
 description: ""
 third_nav_title: "2023"
 ---
-###**CCE Hub Opening Ceremony**
+### **CCE Hub Opening Ceremony**
 
-The vision behind this Learning Corner is simple yet profound: 
-To create a platform for pupils to express their thoughts about CCE-related matters.
-To provide an opportunity for pupils to initiate and showcase 
-CCE-related works.
-Our CCE Hub is not merely a physical area. 
-it's a haven where ideas, information, and inspiration converge.
+Our CCE Hub is officially opened on 5 October and we are honoured to have Mr Kennth Lim, our SAC Chairman to grace this meaningful occasion. Our CCE Hub is not merely a physical area; it is a haven where ideas, information, and inspiration converge. Pupil are given the opportunities to express their thoughts about CCE-related matters, as well as to initiate and showcase their CCE-related works.
+
