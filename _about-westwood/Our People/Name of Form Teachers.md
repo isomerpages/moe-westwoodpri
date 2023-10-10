@@ -52,7 +52,7 @@ third_nav_title: Our People
 |:---:|---|
 | 4 Confidence | Ms Katherine Chua Cheng Bee<br>Ms Nurul Syafiqah |
 | 4 Diligence | Ms Goh Ho Laye<br>Mdm Naseema Beevi |
-| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi |
+| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Hazel Chan<br> Ms Lin Shing Chi |
 | 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
 | 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
 | 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
