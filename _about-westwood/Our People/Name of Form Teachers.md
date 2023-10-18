@@ -42,7 +42,7 @@ third_nav_title: Our People
 | 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
-| 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying<br>Ms Hazel Chan Lay Mun |
+| 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying |
 | 3 Teamwork | Mr Joel Ong Xuan You<br>Ms Vivian Lim Swee Keng |
 |
 
