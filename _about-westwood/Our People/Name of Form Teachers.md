@@ -42,7 +42,7 @@ third_nav_title: Our People
 | 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
-| 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying<br>Ms Hazel Chan Lay Mun |
+| 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying |
 | 3 Teamwork | Mr Joel Ong Xuan You<br>Ms Vivian Lim Swee Keng |
 |
 
@@ -52,7 +52,7 @@ third_nav_title: Our People
 |:---:|---|
 | 4 Confidence | Ms Katherine Chua Cheng Bee<br>Ms Nurul Syafiqah |
 | 4 Diligence | Ms Goh Ho Laye<br>Mdm Naseema Beevi |
-| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi |
+| 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Hazel Chan<br> Ms Lin Shing Chi |
 | 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
 | 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
 | 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
