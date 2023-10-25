@@ -10,7 +10,7 @@ On 25 October, Westwood Primary hosted a group of STEM educators from Indonesia,
 
 The visitors were hosted by our teachers, who shared their experiences in carrying out Integrated STEM, and were assisted by capable and confident student facilitators. These student facilitators have demonstrated their inventive and creative thinking during the interaction segment. Students effectively communicated how they had worked in groups to design and create their proto-types. It has been a positive experience for everyone.
 
-Click [here](https://drive.google.com/drive/folders/1SXe3OSJHGkt_pl2oJYW6WQvMi8gLAxrm?usp=sharing) to view all photos taken during the visit (link is accessible until 30 Nov).
+Click [here](https://drive.google.com/drive/folders/1SXe3OSJHGkt_pl2oJYW6WQvMi8gLAxrm?usp=sharing) to view all the photos taken during the visit (link is accessible until 30 Nov).
 
 ![](/images/meristem%202023_2.jpg)<br>
 ![](/images/meristem%202023_3.jpg)<br>
