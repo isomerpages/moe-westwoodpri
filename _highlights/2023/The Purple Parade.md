@@ -11,7 +11,7 @@ Westwood Primary supported The Purple Parade's campaign by setting up an encoura
 
 Please click [here](https://drive.google.com/drive/folders/1L2TUIU0rM34DnNb623oAjdK8gtVzKcbr?usp=sharing) to view the photos taken at the encouragement corner (link is accessible until 30 Nov).
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nOZyf6oDlSk?si=5-MyKnSxq4rUqvny" height="315" width="560"></iframe><br>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/nOZyf6oDlSk?si=5-MyKnSxq4rUqvny" height="450" width="800"></iframe><br>
 
 ![](/images/purple%20parade%202023_2.jpg)<br>
 ![](/images/purple%20parade%202023_1.jpg)<br>
