@@ -13,4 +13,4 @@ Before the prize giving, we also recognized outstanding classes from Term 4, awa
 
 The year ended on a high note, leaving everyone inspired and eager for the year ahead.
 
-Click [here](https://drive.google.com/drive/folders/1KTfOYTNq0CDyDg2-5QUjFTVxgtN69-Xf?usp=sharing) to view the photos taken during the prize presentation for Term 4 Outstanding Class Award, School-based Character Strength Award, Science and Math Olympiad Awards.  
+Click [here](https://drive.google.com/drive/folders/1KTfOYTNq0CDyDg2-5QUjFTVxgtN69-Xf?usp=sharing) to view the photos taken during the prize presentation for Term 4 Outstanding Class Award, School-based Character Strength Award, Science and Math Olympiad Awards.
