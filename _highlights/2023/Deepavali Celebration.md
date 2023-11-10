@@ -13,5 +13,6 @@ Another highlight of the celebration was the immersive inter-food cultural learn
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/JA-kOnILv3w?si=Ul1AHL8QMAZoB0Ns" height="450" width="800"></iframe>
 
+![](/images/Deepavali_2023_3.jpg)<br>
 ![](/images/Deepavali_2023_1.jpeg)<br>
-![](/images/Deepavali_2023_2.jpeg)
+![](/images/Deepavali_2023_2.jpeg)<br>
