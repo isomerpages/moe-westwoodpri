@@ -3,6 +3,7 @@ title: P6 Motivation Camp
 permalink: /highlights/2023/p6-motivation-camp/
 description: ""
 third_nav_title: "2023"
+variant: markdown
 ---
 ### **P6 Motivation Camp**
 
@@ -13,7 +14,6 @@ Other than our Alumni, we would also like to express our heartfelt thanks to our
 Click [here](https://drive.google.com/drive/folders/1-XQJsjfkc7B4TCZ9PPGF_8jfslZpQo5Y?usp=sharing) to view the photos and videos taken during the camp (this link will be accessible until 31st July) .
 
 ![](/images/p6%20motivation%20camp_2.jpeg)  <br>
-![](/images/p6%20motivation%20camp_1.jpeg)  <br>
 ![](/images/p6%20motivation%20camp_3.jpeg)  <br>
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/LxMtWPkPiY4" height="410" width="660"></iframe>
