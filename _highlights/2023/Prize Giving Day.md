@@ -14,3 +14,12 @@ Before the prize giving, we also recognized outstanding classes from Term 4, awa
 The year ended on a high note, leaving everyone inspired and eager for the year ahead.
 
 Click [here](https://drive.google.com/drive/folders/1KTfOYTNq0CDyDg2-5QUjFTVxgtN69-Xf?usp=sharing) to view the photos taken during the prize presentation for Term 4 Outstanding Class Award, School-based Character Strength Award, Science and Math Olympiad Awards.
+
+##### **Accolade Video 2023**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SnycxcihoOM?si=ANTwHYosUqq8I_dp" height="450" width="800"></iframe><br>
+
+##### **Flourishing Student Leaders 2023**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gZoXQmVKmNw?si=VHTbje2g6x2gqTcw" height="450" width="800"></iframe><br>
+
+##### **Tribute to Mr Chin 2023**
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lwFbAI6O8SI?si=mZZ0JgBuvJF8Vs-x" height="450" width="800"></iframe>
