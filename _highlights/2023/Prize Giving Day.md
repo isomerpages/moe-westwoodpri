@@ -25,3 +25,4 @@ Click to view the photos taken during the Upper Primary level Prize Giving Day.
 
 ##### **Tribute to Mr Chin 2023**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lwFbAI6O8SI?si=mZZ0JgBuvJF8Vs-x" height="450" width="800"></iframe>
+
