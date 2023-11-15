@@ -7,7 +7,7 @@ third_nav_title: "2023"
 ---
 ### **Prize Giving Day**
 
-This year, our annual prize giving event was a special two-day celebration. On November 15th, we acknowledged the achievements of our P5 and P6 students, and on November 16th, we honored the efforts of our P1 to P4 students. This extended event allowed us to create an inclusive experience, highlighting the pride and happiness of our school community. 
+This year, our annual prize giving event was a special two-day celebration. On November 15th, we acknowledged the achievements of our P5 and P6 students, and on November 16th, we honored the efforts of our P1 to P4 students. This extended event allowed us to create an inclusive experience, highlighting the pride and happiness of our school community. In addition, we had a special segment to pay tribute to Mr. Chin, our Vice-Principal Admin, who will be posted to West Spring Primary School, effective from December 15, 2023. We would like to express our gratitude for his contribution to Westwood Primary, and he will be missed by all. 
 
 Before the prize giving, we also recognized outstanding classes from Term 4, awarded students for their outstanding character, and applauded those who excelled in the Science and Math Olympiad. These awards not only celebrated individual achievements but also demonstrated our school's dedication to a well-rounded education. 
 
