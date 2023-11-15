@@ -15,6 +15,8 @@ The year ended on a high note, leaving everyone inspired and eager for the year 
 
 Click [here](https://drive.google.com/drive/folders/1KTfOYTNq0CDyDg2-5QUjFTVxgtN69-Xf?usp=sharing) to view the photos taken during the prize presentation for Term 4 Outstanding Class Award, School-based Character Strength Award, Science and Math Olympiad Awards.
 
+Click to view the photos taken during the Upper Primary level Prize Giving Day. 
+
 ##### **Accolade Video 2023**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/SnycxcihoOM?si=ANTwHYosUqq8I_dp" height="450" width="800"></iframe><br>
 
