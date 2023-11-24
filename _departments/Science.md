@@ -2,6 +2,7 @@
 title: Science
 permalink: /departments/science/
 description: ""
+variant: markdown
 ---
 ### **Science**
 
@@ -73,7 +74,6 @@ Ultimately, we hope to develop pupils who&nbsp; are innovative, enjoy Science an
 #### **Science Committee**
 Mdm Jennifer Long (HOD/Science)<br>
 Mrs Naseema Ansar (LT/SC)<br>
-Ms Elaine Lew Yi Ling<br>
 Mr Ong Xuan You Joel<br>
 Ms Kang Hui Chin Jane<br>
 Mdm Goh Ho Laye<br>
