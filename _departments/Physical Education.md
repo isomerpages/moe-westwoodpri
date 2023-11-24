@@ -2,6 +2,7 @@
 title: Physical Education
 permalink: /departments/pe/
 description: ""
+variant: markdown
 ---
 ### **Physical Education**
 <img style="width:85%" src="/images/WWPS_Staff_Photos/pe_2023.jpg">
@@ -44,6 +45,5 @@ Through holistic health education, teachers in Westwood Primary hope to bring ou
 #### **Physical Education Department Members**
 Mr Khairul Abdillah Bin Ismail (HOD/PE &amp; CCA)<br>
 Mr Seet Wee Key (SH/Physical Fitness &amp; PAL)<br>
-Mr Jonathan Chng Chin Chuang<br>
 Mr Chow Zhixian, Ariel<br>
 Mr Idris Bin Abdul Rashid
