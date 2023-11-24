@@ -3,6 +3,7 @@ title: Basketball (Boys)
 permalink: /cca/physical-sports-and-games/
 description: ""
 third_nav_title: Physical Sports & Games
+variant: markdown
 ---
 ### **Basketball (Boys)**
 #### **Brief Description of CCA**
@@ -16,7 +17,6 @@ Basketball pupils will be:
 
 #### **CCA Teachers-in-charge**
 Mr Khoo Rong Huang<br>
-Mr Jonathan Chng Chin Chuang<br>
 Mr Loh Chee Wei
 
 #### **Venue**
