@@ -3,6 +3,7 @@ title: Information & Communication Technology
 permalink: /departments/ict/
 description: ""
 third_nav_title: Info & Communication Tech
+variant: markdown
 ---
 ### **Information &amp; Communication Technology**
 
@@ -58,7 +59,6 @@ Partnership with parents to support them in understanding cyber wellness issues 
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
 
 #### **Information &amp; Communication Technology Committee**
-Ms Li Huili (HOD ICT)<br>
-Mr Ng Zhili Gerard-Christian (SH/ ICT &amp; Data Manager)<br>
+Mr Ng Zhili Gerard-Christian (HOD/ ICT covering)<br>
 Ms Siti Kalsom Zam Zam<br>
 Mdm Azimah
