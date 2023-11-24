@@ -2,6 +2,7 @@
 title: Aesthetics
 permalink: /departments/aesthetics/
 description: ""
+variant: markdown
 ---
 ### **Aesthetics**
 
@@ -51,6 +52,5 @@ To provide a vibrant Aesthetics environment for our pupils to be engaged in the 
 #### **Our People**
 Mdm Hazel Chan (HOD/Aesthetics)<br>
 Mr Dexter Sim<br>
-Mrs Goh Han Jin<br>
 Mr Zhang Weixiang (Music Coordinator)<br>
 Ms Gu Si Yuan
