@@ -2,6 +2,7 @@
 title: Student Leadership
 permalink: /departments/student-leadership/
 description: ""
+variant: markdown
 ---
 ### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
@@ -78,4 +79,3 @@ Mr Tan Shi Wei<br>
 Mr Devaraj S/O Nambiraja<br>
 Mr Loh Chee Wei <br>
 Mr Mohamed Ridhwan <br>
-Ms Isabelle Gan
