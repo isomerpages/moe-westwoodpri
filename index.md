@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Westwood Primary School
-      background: /images/PE Lesson.jpg
+      background: /images/banner_photo_2024_1_edited.jpg
       key_highlights:
         - title: Parent Volunteers
           description: ""
@@ -23,6 +23,9 @@ sections:
           description: ""
           url: /others/quicklinks/
       subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
+      variant: floating
+      size: sm
+      backgroundColor: gray
   - infopic:
       title: Get official answers from our Q&A Platform
       subtitle: HAVE A QUESTION
