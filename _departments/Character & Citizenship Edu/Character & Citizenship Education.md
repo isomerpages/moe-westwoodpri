@@ -3,6 +3,7 @@ title: Character & Citizenship Education
 permalink: /departments/cce/
 description: ""
 third_nav_title: Character & Citizenship Edu
+variant: markdown
 ---
 ### **Character &amp; Citizenship Education**
 
@@ -41,8 +42,7 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 
 Ms Lin Shing Chi (HOD/CCE &amp; Pos Ed)<br>
 Ms Tan Sze Yi (SH/CCE)<br>
-Mdm Jamaliah (SH/NESS)<br>
+Mdm Jamaliah (ST/NESS)<br>
 Ms Lu Baozhu Claire <br>
 Ms Chong Yoke Ting <br>
 Ms Tan Lay Lian<br>
-Ms Shen Rong

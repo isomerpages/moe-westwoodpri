@@ -3,6 +3,7 @@ title: Modern Dance
 permalink: /cca/visual-and-performing-arts/modern-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### **Modern Dance**
 #### **Brief Description of CCA**
@@ -16,7 +17,6 @@ Modern Dance pupils will be:
 
 #### **CCA teachers-in-charge**
 Ms Ng Ley Huey<br>
-Ms Khaizuran Bte Supa'at<br>
 Ms Nurul Syafiqah Bte Anuar Khan<br>
 Mdm Elna Bte Hussin<br>
 Ms Sharenya Devarajan

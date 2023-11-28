@@ -2,6 +2,7 @@
 title: Mathematics
 permalink: /departments/mathematics/
 description: ""
+variant: markdown
 ---
 ### **Mathematics**
 
@@ -46,9 +47,7 @@ We believe that early success in Mathematics is crucial for developing interest 
 #### **Mathematics Committee**
 Ms Lam Meng Chee (HOD/Math)<br>
 Ms Elaine Lai Yongxian (LH/MA)<br>
-Mr Khoo Rong Huang (ST/MA)<br>
 Mr Tan Tuan Heng <br>
-Mr Boo Hong Rui<br>
 Ms Ngiam Wei Ling, Melissa<br>
 Ms Khoo Jia Hui<br>
 Mdm Lim Shae Min<br>

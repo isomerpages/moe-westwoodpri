@@ -3,6 +3,7 @@ title: Art and Crafts Club
 permalink: /cca/visual-and-performing-arts/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### **Art and Crafts Club**
 #### **Brief Description of CCA**
@@ -19,7 +20,6 @@ Art and Crafts Club pupils will:
 *   build confidence through participating in various competitions.
 
 #### **CCA Teachers-in-charge**
-Mrs Goh Han Jin<br>
 Mr Dexter Sim Yu Min<br>
 Ms Claire Lu Baozhu
 

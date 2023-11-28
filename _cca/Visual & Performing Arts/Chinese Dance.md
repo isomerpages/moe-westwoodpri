@@ -3,6 +3,7 @@ title: Chinese Dance
 permalink: /cca/visual-and-performing-arts/chinese-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### **Chinese Dance**
 #### **Brief description of CCA**
@@ -20,7 +21,6 @@ Chinese Dance Pupils will be able to learn the following skills through practice
 #### **CCA teachers-in-charge**
 Ms Tan Sze Yi<br>
 Ms Yap Hui Tee<br>
-Mdm Shen Rong
 
 #### **Venue**
 Hall

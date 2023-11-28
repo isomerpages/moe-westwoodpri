@@ -3,6 +3,7 @@ title: Girls' Brigade
 permalink: /cca/ug/gb/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **Girls' Brigade**
 #### **Brief Description of CCA**
@@ -15,7 +16,6 @@ The Girls' Brigade (GB) is a uniformed youth organisation and is recognised by t
 #### **CCA teachers-in-charge**
 Mdm Lim Shae Min<br>
 Ms Viroshini<br>
-Ms Elaine Lew Yi Ling
 
 #### **Venue**
 LSP Room, Math Room

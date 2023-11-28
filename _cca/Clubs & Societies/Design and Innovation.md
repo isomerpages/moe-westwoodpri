@@ -3,6 +3,7 @@ title: Design and Innovation
 permalink: /cca/clubs-and-societies/design-and-innovation/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### **Design and Innovation**
 #### **Brief Description of CCA**
@@ -15,7 +16,6 @@ Design and Innovation pupils will:
 *   have fun learning about designing and the positive impact it can have on our environment and the benefits to our community.
 
 #### **CCA Teachers-in-charge**
-Ms Murshidah Bte Hassan<br>
 Ms Tong Jin Yi<br>
 Mr Tan Tuan Heng
 

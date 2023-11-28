@@ -2,6 +2,7 @@
 title: English
 permalink: /departments/english/
 description: ""
+variant: markdown
 ---
 ### **English**
 
@@ -91,10 +92,10 @@ Pupils came in a costume based on their favourite book. They get to share the lo
 <br clear="left">
 
 #### **English Language Committee**
-Ms Yong Lee Min (HOD/EL)<br>
-Ms Jurveen (LH/EL)<br>
+Ms Jurveen (HOD/EL covering) <br>
+Ms Yong Lee Min (LT/EL covering)<br>
+Ms Hiew Li Tiang (LH/EL covering)<br>
 Mr Mohamed Rafik Osman Alkhatib (School Staff Developer)<br>
-Ms Hiew Li Tiang<br>
 Ms Viroshini <br>
 Ms Nur Diyana<br>
 Mrs Winnie Teng<br>
