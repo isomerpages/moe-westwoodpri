@@ -48,7 +48,7 @@ sections:
       description: View Photos and Videos from Westwood Primary & MK @ Westwood
       button: Click here
       url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-and-video-gallery/
-      image: /images/CCASports.jpg
+      image: /images/DSC_0403.JPG
       alt: Image alt text
   - infopic:
       title: Westwood Facebook Page
