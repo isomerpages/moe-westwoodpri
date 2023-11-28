@@ -57,14 +57,14 @@ sections:
       button: click here
       url: https://www.facebook.com/westwood.primary/
       alt: Image alt text
-      image: /images/infopic2.jpg
+      image: /images/banner_5.jpg
   - infopic:
       title: Westwood Instagram
       subtitle: Connect with us
       description: Connect with us via our photo stories and videos!
       button: click here
       url: https://www.instagram.com/westwoodprisch
-      image: /images/infopic1.jpg
+      image: /images/banner_4.jpg
       alt: Image alt text
   - infopic:
       title: 10th Anniversary
