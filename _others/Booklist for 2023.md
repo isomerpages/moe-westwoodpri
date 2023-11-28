@@ -2,9 +2,10 @@
 title: Booklist for 2023
 permalink: /others/booklist-for-2023/
 description: ""
+variant: markdown
 ---
-### **Booklist for 2023**
-Online purchase of books can be made via [https://www.ihuntforbooks.com](https://www.ihuntforbooks.com).  Please refer to the last page of each booklist for the 2022 year-end sale dates and timing.  No appointment is required for walk-in purchase.
+### **Booklist for 2024**
+Online purchase of books can be made via&nbsp;[https://www.ihuntforbooks.com](https://www.ihuntforbooks.com/).&nbsp; Please refer to the last page of each booklist for the 2023 year-end sale dates and timing. No appointment is required for walk-in purchase.
 
 Primary 1 BookList <br>
 [WW Booklist 2023- P1.pdf](/files/WW%20Booklist%202023%20P1.pdf)
