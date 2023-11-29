@@ -48,7 +48,7 @@ sections:
       description: View Photos and Videos from Westwood Primary & MK @ Westwood
       button: Click here
       url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-and-video-gallery/
-      image: /images/CCASports.jpg
+      image: /images/DSC_0403.JPG
       alt: Image alt text
   - infopic:
       title: Westwood Facebook Page
@@ -57,14 +57,14 @@ sections:
       button: click here
       url: https://www.facebook.com/westwood.primary/
       alt: Image alt text
-      image: /images/infopic2.jpg
+      image: /images/banner_5.jpg
   - infopic:
       title: Westwood Instagram
       subtitle: Connect with us
       description: Connect with us via our photo stories and videos!
       button: click here
       url: https://www.instagram.com/westwoodprisch
-      image: /images/infopic1.jpg
+      image: /images/banner_4.jpg
       alt: Image alt text
   - infopic:
       title: 10th Anniversary
