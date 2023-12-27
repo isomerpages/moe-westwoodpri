@@ -30,7 +30,7 @@ variant: markdown
 | 2 Gratitude | MDM NORA BTE ISNIN<br>MS CHANG YU JUAN, JADE |
 | 2 Hope | MS KWEK WEI TING<br>MS YAP HUI TEE |
 | 2 Kindness | MS SITI AISYAH BINTE MOHAMED YAZID<br>MS CLAIRE LU BAOZHU |
-| 2 Resilience | Mdm Suhaila<br>Mdm Alamu |
+| 2 Resilience | MRS ENDA WENDY CHAN (LIM YEE CHIN)<br>MS THACHAYANI  PUTARAN |
 | 2 Synergy | Mdm Jamaliah<br>Ms Chang Yu Juan Jade |
 | 2 Teamwork | Ms Elaine Lai Yongxian<br>Ms Siti Juwani |
 |
