@@ -3,6 +3,7 @@ title: Name of Form Teachers
 permalink: /about-westwood/our-people/name-of-form-teachers/
 description: ""
 third_nav_title: Our People
+variant: markdown
 ---
 ### **Name of Form Teachers**
 
@@ -10,10 +11,10 @@ third_nav_title: Our People
 
 | Class | Name |
 |:---:|---|
-| 1 Confidence | Mdm Han Jin (Mrs Goh)<br>Mdm Suriati |
-| 1 Diligence | Mdm Ralleeah<br>Mr Loh Chee Wei |
-| 1 Gratitude | Mdm Nora<br>Ms Shen Rong |
-| 1 Hope | Ms Gu Si Yuan<br>Ms Thachayani Putaran |
+| 1 Confidence | MS VIROSHINI D/O K VISVANATHAN<br>MS NURUL SYAFIQAH BTE ANUAR KHAN |
+| 1 Diligence | MR MOHAMAD RIDHWAN BIN JAMAIN<br>MS TEO SHU TING, CHERYL |
+| 1 Gratitude | MS NUR DIYANA BTE ZAKARIAH<br>MDM WEI JUNYING |
+| 1 Hope | MS SHARENYA DEVARAJAN<br>MS NG LEY HUEY |
 | 1 Kindness | Ms Siti Aisyah<br>Ms Claire Lu Baozhu |
 | 1 Resilience | Ms Enda Wendy Chan<br>Mr Seet Wee Key |
 | 1 Synergy | Ms Fathimah Muzamillah<br>Ms Yap Chin Hwee |
