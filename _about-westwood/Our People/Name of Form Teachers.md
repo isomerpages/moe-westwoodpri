@@ -31,8 +31,8 @@ variant: markdown
 | 2 Hope | MS KWEK WEI TING<br>MS YAP HUI TEE |
 | 2 Kindness | MS SITI AISYAH BINTE MOHAMED YAZID<br>MS CLAIRE LU BAOZHU |
 | 2 Resilience | MRS ENDA WENDY CHAN (LIM YEE CHIN)<br>MS THACHAYANI  PUTARAN |
-| 2 Synergy | Mdm Jamaliah<br>Ms Chang Yu Juan Jade |
-| 2 Teamwork | Ms Elaine Lai Yongxian<br>Ms Siti Juwani |
+| 2 Synergy | MS SHERINE YAP CHIN HWEE<br>MR YEO JUN BO<br>MR SEET WEE KEY |
+| 2 Teamwork | MS LIYANNA BTE JOHAN<br>MS ZHONG XINYING |
 |
 
 #### **P3 Form Teachers**
