@@ -25,7 +25,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 2 Confidence | Mr Mohamed Ridhwan<br>Mdm Wei Junying |
+| 2 Confidence | MRS LIM-NG SU CHERN<br>MDM SURIATI BTE DJUAHIR |
 | 2 Diligence | Ms Chong Yoke Ting<br>Ms Elna |
 | 2 Gratitude | Ms Saranya D/O Asokan<br>Ms Ng Ley Huey |
 | 2 Hope | Mrs Winnie Teng (Leong)<br>Ms Li Huili |
