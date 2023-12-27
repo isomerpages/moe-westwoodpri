@@ -15,8 +15,8 @@ variant: markdown
 | 1 Diligence | MR MOHAMAD RIDHWAN BIN JAMAIN<br>MS TEO SHU TING, CHERYL |
 | 1 Gratitude | MS NUR DIYANA BTE ZAKARIAH<br>MDM WEI JUNYING |
 | 1 Hope | MS SHARENYA DEVARAJAN<br>MS NG LEY HUEY |
-| 1 Kindness | Ms Siti Aisyah<br>Ms Claire Lu Baozhu |
-| 1 Resilience | Ms Enda Wendy Chan<br>Mr Seet Wee Key |
+| 1 Kindness | MDM JAMALIAH BTE SULAIMAN<br>MR ZHANG WEIXIANG |
+| 1 Resilience | MRS WINNIE TENG (LEONG)<br>(TO BE UPDATED) |
 | 1 Synergy | Ms Fathimah Muzamillah<br>Ms Yap Chin Hwee |
 | 1 Teamwork | Ms Nur Diyana<br>Mr Zhang Weixiang |
 |
