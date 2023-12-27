@@ -26,8 +26,8 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 2 Confidence | MRS LIM-NG SU CHERN<br>MDM SURIATI BTE DJUAHIR |
-| 2 Diligence | Ms Chong Yoke Ting<br>Ms Elna |
-| 2 Gratitude | Ms Saranya D/O Asokan<br>Ms Ng Ley Huey |
+| 2 Diligence | MDM RALLEEAH NAINA MOHAMED<br>MS ELNA BTE HUSSIN |
+| 2 Gratitude | MDM NORA BTE ISNIN<br>MS CHANG YU JUAN, JADE |
 | 2 Hope | Mrs Winnie Teng (Leong)<br>Ms Li Huili |
 | 2 Kindness | Ms Ng Su Chern<br>Ms Sharenya<br>Ms Cheryl Teo |
 | 2 Resilience | Mdm Suhaila<br>Mdm Alamu |
