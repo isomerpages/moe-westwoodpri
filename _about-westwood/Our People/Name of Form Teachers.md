@@ -39,7 +39,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 3 Confidence | Ms Ngiam Wei Ling, Melissa<br>Mr Premnath |
+| 3 Confidence | MR SUREEN KUMAR<br>MDM SITI KALSOM |
 | 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
