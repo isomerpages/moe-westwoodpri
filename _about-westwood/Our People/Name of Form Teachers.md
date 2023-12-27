@@ -28,8 +28,8 @@ variant: markdown
 | 2 Confidence | MRS LIM-NG SU CHERN<br>MDM SURIATI BTE DJUAHIR |
 | 2 Diligence | MDM RALLEEAH NAINA MOHAMED<br>MS ELNA BTE HUSSIN |
 | 2 Gratitude | MDM NORA BTE ISNIN<br>MS CHANG YU JUAN, JADE |
-| 2 Hope | Mrs Winnie Teng (Leong)<br>Ms Li Huili |
-| 2 Kindness | Ms Ng Su Chern<br>Ms Sharenya<br>Ms Cheryl Teo |
+| 2 Hope | MS KWEK WEI TING<br>MS YAP HUI TEE |
+| 2 Kindness | MS SITI AISYAH BINTE MOHAMED YAZID<br>MS CLAIRE LU BAOZHU |
 | 2 Resilience | Mdm Suhaila<br>Mdm Alamu |
 | 2 Synergy | Mdm Jamaliah<br>Ms Chang Yu Juan Jade |
 | 2 Teamwork | Ms Elaine Lai Yongxian<br>Ms Siti Juwani |
