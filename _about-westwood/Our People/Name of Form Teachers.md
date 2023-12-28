@@ -78,7 +78,7 @@ variant: markdown
 | 6 Confidence | MS JURVEEN KAUR RANDHAWA<br>MS TONG JIN YI |
 | 6 Diligence | MS YONG LEE MIN<br>MS JASMINE KOH HWEE LING |
 | 6 Gratitude | MS DAWN SIA PEI FEN<br>MR NG ZHILI GERARD CHRISTIAN |
-| 6 Resilience | Ms Janice Foo Mei Chien<br>Mr Khoo Rong Huang |
+| 6 Resilience | MR MOHAMED RAFIK OSMAN ALKHATIB<br>MS LAM MENG CHEE |
 | 6 Synergy | Mdm Long Miaw Ying<br>Mdm Siti Kalsom |
 | 6 Teamwork | Ms Tan Sze Yi<br>Mdm Sophia Tan Seok Yee |
 |
