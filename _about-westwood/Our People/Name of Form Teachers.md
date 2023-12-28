@@ -67,8 +67,8 @@ variant: markdown
 | 5 Diligence | MS HIEW LI TIANG<br>MDM KEE SUAT HAR |
 | 5 Gratitude | MS JANE KANG HUI CHIN<br>MDM SOPHIA TAN SEOK YEE |
 | 5 Resilience | MS NOOR AMIRAH BTE AZMAN<br>MS KATHERINE CHUA CHENG BEE |
-| 5 Synergy | Ms Viroshini<br>Ms Murshidah |
-| 5 Teamwork | Ms Hiew Litiang<br>Mdm Lee Lay Kheng, Sandy |
+| 5 Synergy | MS LIN SHING CHI<br>MS SITI JUWANI BTE ABD RAHMAN |
+| 5 Teamwork | MS JANICE FOO MEI CHIEN<br>MS TAN SZE YI |
 |
 
 #### **P6 Form Teachers**
