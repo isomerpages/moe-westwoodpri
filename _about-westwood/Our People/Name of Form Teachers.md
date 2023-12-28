@@ -87,9 +87,9 @@ variant: markdown
 
 |  |
 |:---:|
-| Ms Jane Kang Hui Chin |
-| Ms Zhou Liting |
-| Ms Loh Tze Mui Cindy |
+| MS SHARMI |
+| MS ISABELLE GAN |
+| MS ELAINE LEW |
 | Ms Zakiyah |
 | Ms Nurmalyanah |
 | Mrs May Foo |
