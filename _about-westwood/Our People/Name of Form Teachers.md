@@ -44,7 +44,7 @@ variant: markdown
 | 3 Gratitude | MS GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 | 3 Resilience | MR NG KAI ZHE ALAN<br>MS NURAIN BTE ABDUL RAHEEM |
 | 3 Synergy | MS FATHIMAH MUZAMMILAH<br>MS GU SI YUAN |
-| 3 Teamwork | Mr Joel Ong Xuan You<br>Ms Vivian Lim Swee Keng |
+| 3 Teamwork | MDM LIM SHAE MIN<br>MR KHAIRUL ABDILLAH BIN ISMAIL |
 |
 
 #### **P4 Form Teachers**
