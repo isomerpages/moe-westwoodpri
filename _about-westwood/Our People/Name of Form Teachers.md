@@ -56,7 +56,7 @@ variant: markdown
 | 4 Gratitude | MR TAN SHI WEI<br>MRS TAN-NAI LI HUA |
 | 4 Resilience | MR TAN TUAN HENG<br>MR TAN LAY LIAN |
 | 4 Synergy | MDM HAZEL CHAN<br>MR DEVARAJ S/O NAMBIRAJAN |
-| 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
+| 4 Teamwork | MR JOEL ONG XUAN YOU<br>MS VIVIAN LIM SWEE KENG |
 |
 
 #### **P5 Form Teachers**
