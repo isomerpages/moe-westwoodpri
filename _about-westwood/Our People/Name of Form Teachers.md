@@ -91,13 +91,13 @@ variant: markdown
 | MS ISABELLE GAN |
 | MS ELAINE LEW |
 | MS ZAKIYAH BTE ABDUL RAHIM |
-| Ms Nurmalyanah |
-| Mrs May Foo |
-| Ms Sarah Chua Ai Tee |
-| Ms Ang Chye Siang |
-| Ms Catherine Koh |
-| Mrs Agnes Seah |
-| Mrs Muthu |
-| Mr Idris |
-| Ms Koh Kah Neng |
+| MS NURMALYANAH BTE MOSSADATS |
+| MDM CINDY LOH TZE MUI |
+| MS SARAH CHUA AI TEE |
+| MS ANG CHYE SIANG |
+| MRS AGNES SEAH KAI LEONG |
+| MDM SAGUNTHALA  (MRS MUTHU) |
+| MR IDRIS BIN ABDUL RASHID |
+| MR CLYDE LIM CHANG SOON |
+| MRS MAY FOO - KONG SWEE WAH |
 |
