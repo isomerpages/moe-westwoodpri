@@ -55,7 +55,7 @@ variant: markdown
 | 4 Diligence | MS SARANYA ASOKAN<br>MS WONG SHEANG YUN |
 | 4 Gratitude | MR TAN SHI WEI<br>MRS TAN-NAI LI HUA |
 | 4 Resilience | MR TAN TUAN HENG<br>MR TAN LAY LIAN |
-| 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
+| 4 Synergy | MDM HAZEL CHAN<br>MR DEVARAJ S/O NAMBIRAJAN |
 | 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
 |
 
