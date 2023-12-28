@@ -40,7 +40,7 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 3 Confidence | MR SUREEN KUMAR<br>MDM SITI KALSOM |
-| 3 Diligence | Mr Jonathan Chng Chin Chuang<br>Ms Khaizuran |
+| 3 Diligence | MS CHONG YOKE TING<br>MS ELAINE LAI YONGXIAN |
 | 3 Gratitude | Mr Tan Shi Wei<br>Mrs Tan-Nai Li Hua |
 | 3 Resilience | Mr Chow Zixian, Ariel<br>Ms Tan Lay Lian |
 | 3 Synergy | Mdm Azimah<br>Ms Zhong Xinying |
