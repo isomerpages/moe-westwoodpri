@@ -54,7 +54,7 @@ variant: markdown
 | 4 Confidence | MR PREMNATH S/O CHANDRAN<br>MR LOH CHEE WEI |
 | 4 Diligence | MS SARANYA ASOKAN<br>MS WONG SHEANG YUN |
 | 4 Gratitude | MR TAN SHI WEI<br>MRS TAN-NAI LI HUA |
-| 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
+| 4 Resilience | MR TAN TUAN HENG<br>MR TAN LAY LIAN |
 | 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
 | 4 Teamwork | Ms Khoo Jia Hui<br>Mr Devaraj S/O Nambirajan |
 |
