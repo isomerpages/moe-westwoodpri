@@ -64,7 +64,7 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 5 Confidence | MDM AZIMAH BTE GHAZALI<br>MR DEXTER SIM YU MIN |
-| 5 Diligence | Mr Mohamed Rafik Osman Alkhatib<br>Ms Jasmine Koh Hwee Ling |
+| 5 Diligence | MS HIEW LI TIANG<br>MDM KEE SUAT HAR |
 | 5 Gratitude | Ms Dawn Sia Pei Fen<br>Mr Ng Zhili Gerard-Christian |
 | 5 Resilience | Mr Boo Hong Rui<br>Ms Yap Hui Tee |
 | 5 Synergy | Ms Viroshini<br>Ms Murshidah |
