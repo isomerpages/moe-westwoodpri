@@ -52,7 +52,7 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 4 Confidence | MR PREMNATH S/O CHANDRAN<br>MR LOH CHEE WEI |
-| 4 Diligence | Ms Goh Ho Laye<br>Mdm Naseema Beevi |
+| 4 Diligence | MS SARANYA ASOKAN<br>MS WONG SHEANG YUN |
 | 4 Gratitude | Mr Dexter Sim Yu Min<br>Ms Lin Shing Chi<br> Ms Hazel Chan |
 | 4 Resilience | Ms Jurveen Kaur Randhawa<br>Mdm Lim Shae Min |
 | 4 Synergy | Mr Ng Kai Zhe Alan<br>Ms Ang Hwee Chin |
