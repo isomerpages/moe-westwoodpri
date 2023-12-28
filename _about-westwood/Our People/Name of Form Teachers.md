@@ -75,7 +75,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 6 Confidence | Ms Yong Lee Min<br>Mr Khairul Abdillah |
+| 6 Confidence | MS JURVEEN KAUR RANDHAWA<br>MS TONG JIN YI |
 | 6 Diligence | Ms Noor Amirah<br>Mdm Kee Suat Har |
 | 6 Gratitude | Ms Lam Meng Chee<br>Ms Yao Anli |
 | 6 Resilience | Ms Janice Foo Mei Chien<br>Mr Khoo Rong Huang |
