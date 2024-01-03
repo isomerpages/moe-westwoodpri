@@ -1,0 +1,133 @@
+logo: /images/logo.png
+links:
+  - title: About Westwood
+    url: /about-westwood/
+    sublinks:
+      - title: The Westwood Story
+        url: /about-westwood/
+      - title: Vision,Mission, Values & Motto
+        url: /about-westwood/vision-mission-values-motto/
+      - title: Our Strategic Plans
+        url: /about-westwood/strategic-plans/
+      - title: Journey on Positive Education
+        url: /about-westwood/journey-on-positive-education/
+      - title: School Crest
+        url: /about-westwood/school-crest/
+      - title: School Rules
+        url: /about-westwood/school-rules/
+      - title: Westwood Virtual Tour
+        url: /about-westwood/virtual-tour/
+      - title: School Song
+        url: /about-westwood/school-song/
+      - title: Our People
+        url: /about-westwood/Our-People/Our-School-Leaders/
+      - title: Photo and Video Gallery
+        url: /about-westwood/Photo-Gallery/2023/
+  - title: Departments
+    url: /departments/english/
+    sublinks:
+      - title: English
+        url: /departments/english/
+      - title: Mathematics
+        url: /departments/mathematics/
+      - title: Science
+        url: /departments/science/
+      - title: Mother Tongue
+        url: /departments/mtl/
+      - title: Character & Citizenship Edu
+        url: /departments/cce/
+      - title: Info & Communication Tech
+        url: /departments/ict/
+      - title: Aesthetics
+        url: /departments/aesthetics/
+      - title: Physical Education
+        url: /departments/pe/
+      - title: Student Leadership
+        url: /departments/student-leadership/
+      - title: Applied Learning Programme
+        url: /departments/alp/
+      - title: Learning for Life Programme
+        url: /departments/llp/
+  - title: CCA
+    url: /cca/
+    sublinks:
+      - title: Philosophy of CCAs
+        url: /cca/
+      - title: Clubs & Societies
+        url: /cca/clubs-and-societies/
+      - title: Visual & Performing Arts
+        url: /cca/visual-and-performing-arts/
+      - title: Physical Sports & Games
+        url: /cca/physical-sports-and-games/
+      - title: Uniformed Groups
+        url: /cca/ug/
+  - title: Our Partners
+    url: /our-partners/school-advisory-committee/
+    sublinks:
+      - title: School Advisory Committee
+        url: /our-partners/school-advisory-committee/
+      - title: Parent Support Group
+        url: /our-partners/psg/
+      - title: The Young Student Programme
+        url: /our-partners/young-student-programme/
+      - title: Resources to Support Parents
+        url: /our-partners/resources-to-support-parents/
+  - title: Administration
+    url: /administration/service-providers/
+    sublinks:
+      - title: Canteen Matters
+        url: /administration/canteen-matters/
+      - title: Service Providers
+        url: /administration/service-providers/
+      - title: School Safety
+        url: /administration/school-safety/
+      - title: Parent Volunteers
+        url: /administration/parent-volunteers/
+      - title: Waiting List
+        url: /administration/waiting-list/
+  - title: MK @ Westwood
+    url: /mk-westwood/
+    sublinks:
+      - title: About MK @ Westwood
+        url: /mk-westwood/
+      - title: Our Learning Environment
+        url: /mk-westwood/our-learning-environment/
+      - title: Our Teaching Staff
+        url: /mk-westwood/our-teaching-staff/
+      - title: Total MK Curriculum
+        url: /mk-westwood/total-mk-curriculum/
+      - title: Photo Gallery
+        url: /mk-westwood/photo-gallery/2023/
+      - title: Highlights
+        url: /mk-westwood/highlights/2023/
+      - title: Useful Information / Links
+        url: /mk-westwood/useful-information-links/
+  - title: Others
+    url: /others/school-newsletters/
+    sublinks:
+      - title: School Newsletters
+        url: /others/school-newsletters/
+      - title: Booklist for 2024
+        url: /others/booklist-for-2024/
+      - title: 2024 P1 Parents
+        url: /others/2024-p1-parents/
+      - title: Joy of Learning Flipbook
+        url: /others/p1-and-p2-flipbook/
+      - title: Highlights
+        url: /others/highlights/
+      - title: Quicklinks
+        url: /others/quicklinks/
+      - title: Wishing Wall for Teachers' Day
+        url: /others/wishing-wall/
+      - title: High-5! Day
+        url: /others/high5-day/
+      - title: 10Years of Positively Westwood
+        url: /others/10-years-of-positively-westwood/
+      - title: Biodiversity@Westwood Gardens
+        url: /others/biodiversity-at-westwood-gardens/
+      - title: Thriving WWPS
+        url: /others/thriving-wwps/
+      - title: Secondary School Matters
+        url: /others/sec-sch-matters/
+      - title: Contact Us
+        url: /contact-us/

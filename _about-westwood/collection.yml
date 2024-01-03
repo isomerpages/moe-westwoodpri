@@ -1,0 +1,22 @@
+collections:
+  about-westwood:
+    output: true
+    order:
+      - The Westwood Story.md
+      - Vision, Mission, Values and Motto.md
+      - Our Strategic Plans.md
+      - Journey on Positive Education.md
+      - School Crest.md
+      - School Rules.md
+      - Westwood Virtual Tour.md
+      - School Song.md
+      - Our People/.keep
+      - Our People/Our School Leaders.md
+      - Our People/Organization Chart.md
+      - Our People/Name of Form Teachers.md
+      - Westwood Photo Gallery/.keep
+      - Westwood Photo Gallery/Photo and Video Gallery.md
+      - Westwood Photo Gallery/2023.md
+      - Westwood Photo Gallery/2022.md
+      - Westwood Photo Gallery/2021.md
+      - Westwood Photo Gallery/2020.md
