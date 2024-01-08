@@ -3,6 +3,7 @@ title: Boys' Brigade
 permalink: /cca/ug/
 description: ""
 third_nav_title: Uniformed Groups
+variant: markdown
 ---
 ### **Boys' Brigade**
 #### **Brief Description of CCA**
@@ -12,9 +13,8 @@ The Boys' Brigade (BB) is a uniformed youth organisation and is recognised by th
 We aim to guide and instill discipline in boys, facilitating the development of various life skills and competencies, thereby contributing to the character development of the boys. We want them to have a healthy boyhood and hope that every boy will benefit from the BB programme.
 
 #### **CCA teachers-in-charge**
-Ms Janice Foo Mei Chien<br>
 Mr Devaraj s/o Nambirajan<br>
-Mr Tan Shi Wei
+ELSCPGDE
 
 <img src="/images/boysbrigade1.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
 <img src="/images/boysbrigade2.jpg" style="width:370px; height:260px;margin-right:15px" align="right">
