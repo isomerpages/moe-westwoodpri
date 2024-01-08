@@ -17,9 +17,8 @@ Modern Dance pupils will be:
 
 #### **CCA teachers-in-charge**
 Ms Ng Ley Huey<br>
-Ms Nurul Syafiqah Bte Anuar Khan<br>
-Mdm Elna Bte Hussin<br>
-Ms Sharenya Devarajan
+Mrs Winnie Teng<br>
+Mdm Elna Bte Hussin
 
 #### **Venue**
 Music Room

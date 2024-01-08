@@ -3,6 +3,7 @@ title: Rhythmic Gymnastics (Girls)
 permalink: /cca/physical-sports-and-games/rhythmic-gymnastics/
 description: ""
 third_nav_title: Physical Sports & Games
+variant: markdown
 ---
 ### **Rhythmic Gymnastics (Girls)**
 #### **Brief Description of CCA**
@@ -13,9 +14,9 @@ Rhythmic Gymnastics (Girls) is a graceful sport containing many dance and ballet
 *   To fulfil each member’s potential and identify pupils who are keen to move on to competitive level.
 
 #### **CCA teachers-in-charge**
-Ms Saranya D/O Asokan<br>
 Ms Tan Lay Lian<br>
-Ms Nur Diyana Bte Zakariah
+Ms Saranya D/O Asokan<br>
+Mdm Liyanna Bte Johan
 
 #### **Venue**
 School Hall
