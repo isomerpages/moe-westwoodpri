@@ -3,6 +3,7 @@ title: Choir
 permalink: /cca/visual-and-performing-arts/choir/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### **Choir**
 #### **Brief Description of CCA**
@@ -20,9 +21,9 @@ Choir pupils will be learning:
 *   performance etiquette
 
 #### **CCA teachers-in-charge**
-Ms Elaine Lai Yongxian<br>
 Ms Ang Hwee Chin<br>
-Ms Zhong Xinying
+Ms Zhong Xinying<br>
+Ms Elaine Lai Yongxian
 
 #### **Venue**
 THRIVE Studio (Dance Room)
