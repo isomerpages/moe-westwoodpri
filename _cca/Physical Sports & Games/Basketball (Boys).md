@@ -16,8 +16,9 @@ Basketball pupils will be:
 *   Taught the value of sportsmanship, teamwork and having a resilient mind set.
 
 #### **CCA Teachers-in-charge**
-Mr Khoo Rong Huang<br>
-Mr Loh Chee Wei
+Mr Loh Chee Wei<br>
+Mr Sureen Kumar Valautham<br>
+PE BT
 
 #### **Venue**
 Basketball Court, Indoor Sports Hall
