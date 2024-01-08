@@ -21,7 +21,8 @@ Art and Crafts Club pupils will:
 
 #### **CCA Teachers-in-charge**
 Mr Dexter Sim Yu Min<br>
-Ms Claire Lu Baozhu
+Ms Wydre Kwek Wei Ting<br>
+Ms Sharmi Lisa Obanor
 
 #### **Venue**
 Art Rooms
