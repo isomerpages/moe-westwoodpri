@@ -3,6 +3,7 @@ title: Wushu (Boys & Girls)
 permalink: /cca/physical-sports-and-games/wushu/
 description: ""
 third_nav_title: Physical Sports & Games
+variant: markdown
 ---
 ### **Wushu (Boys &amp; Girls)**
 #### **Brief Description of CCA**
@@ -15,9 +16,9 @@ Wushu (Boys &amp; Girls) is a performance sport that improves coordination, flex
 *   Early talent identification through enrichment programme on Saturday mornings
 
 #### **CCA teachers-in-charge**
-Mr Seet Wee Key<br>
 Ms Jasmine Koh Hwee Ling<br>
-Mdm Wei Junying
+Mdm Wei Junying<br>
+Mr Seet Wee Key<br>
 
 #### **Venue**
 Indoor Sports Hall
