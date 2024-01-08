@@ -7,7 +7,9 @@ variant: markdown
 ---
 ### **Design and Innovation**
 #### **Brief Description of CCA**
-Innovation Club aims to develop creative and innovative thinking skills in pupils.&nbsp;Innovation Club pupils are given hands-on opportunities to design, experiment and invent as they engage in STEAM and MAKER activities. They are also given opportunities to participate in events and activities at various platforms (both within and outside school) with their innovation such as Celebration of Positivity (Maker and Thrive Fiesta), Makerspace and also Destination Imagination Competition.
+Innovation Club aims to develop creative and innovative thinking skills in pupils.&nbsp;Innovation Club pupils are given hands-on opportunities to design, experiment and invent as they engage in STEAM and MAKER activities. They are also given opportunities to participate in events and activities at various platforms (both within and outside school) with their innovation such as Celebration of Positivity (Maker and Thrive Fiesta), Makerspace and also Destination Imagination Competition.<br>
+
+**Note: For 2024, this CCA has been merged with Design and Innovation.**
 
 #### **CCA Objectives**
 Design and Innovation pupils will:
