@@ -3,6 +3,7 @@ title: Malay Dance
 permalink: /cca/visual-and-performing-arts/malay-dance/
 description: ""
 third_nav_title: Visual & Performing Arts
+variant: markdown
 ---
 ### **Malay Dance**
 #### **Brief Description of CCA**
@@ -16,9 +17,9 @@ Malay Dance pupils will be:
 *   trained to put up performances and benchmark themselves through exposure and competitions
 
 #### **CCA teachers-in-charge**
+Mdm Suriati Bte Djuahir<br>
 Mdm Siti Kalsom Bte Zam Zam<br>
-Mdm Nora Bte Isnin<br>
-Mdm Suriati Bte Djuahir
+Ms Nurain Binte Abdul Raheem
 
 #### **Venue**
 Westwood Cove 1
