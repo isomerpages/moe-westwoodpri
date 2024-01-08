@@ -21,8 +21,10 @@ Infocomm Technology pupils will:
 
 #### **CCA Teachers-in-charge**
 Ms Tong Jin Yi<br>
+Ms Fathimah Muzammilah<br>
 Ms Thachayani Putaran<br>
-Ms Fathimah Muzammilah
+Ms Khoo Jia Hui<br>
+Mr Sureen Kumar Valautham
 
 #### **Venue**
 ICT Lab 2 &amp; 3
