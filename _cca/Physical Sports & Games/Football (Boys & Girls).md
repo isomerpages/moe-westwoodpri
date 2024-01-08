@@ -3,6 +3,7 @@ title: Football (Boys & Girls)
 permalink: /cca/physical-sports-and-games/football/
 description: ""
 third_nav_title: Physical Sports & Games
+variant: markdown
 ---
 ### **Football (Boys &amp; Girls)**
 #### **Brief Description of CCA**
@@ -15,9 +16,9 @@ Football pupils will be:
 *   Taught on the basic technique such as ball control, passing and shooting.
 
 #### **CCA Teachers-in-charge**
-Ms Siti Juwani Bte Abd Rahman<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mr Ariel Chow Zhixian<br>
+Ms Siti Juwani Bte Abd Rahman<br>
 Mr Yeo Jun Bo
 
 #### **Venue**
