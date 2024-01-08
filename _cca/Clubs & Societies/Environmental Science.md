@@ -3,6 +3,7 @@ title: Environmental Science
 permalink: /cca/clubs-and-societies/environmental-science/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### **Environmental Science**
 #### **Brief Description of CCA**
@@ -15,12 +16,9 @@ Environmental Science pupils will:&nbsp;
 *   Have fun learning about nature and the environment.
 
 #### **CCA Teachers-in-charge**
-Mrs Naseema Ansar<br>
 Mrs Enda Wendy Chan<br>
 Mdm Nai Li Hua<br>
-Ms Hiew Li Tiang<br>
-Ms Khoo Jia Hui<br>
-
+Ms Wong Sheang Yun
 
 #### **Venue**
 Teaching Lab
