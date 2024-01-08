@@ -20,7 +20,7 @@ Infocomm Technology pupils will:
 *   experience the elements of art in photography &amp; photography composition rules.
 
 #### **CCA Teachers-in-charge**
-Mr Ng Zhili Gerard-Christian<br>
+Ms Tong Jin Yi<br>
 Ms Thachayani Putaran<br>
 Ms Fathimah Muzammilah
 
