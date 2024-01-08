@@ -3,8 +3,10 @@ title: Infocomm Technology (Computing)
 permalink: /cca/clubs-and-societies/computing/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### **Infocomm Technology (Computing)**
+#### **Note: For 2024, CCA has been merged with Design and Innovation**
 #### **Brief Description of CCA**
 Infocomm Technology (Computing) pupils are given opportunities to explore, learn and work on projects using the ICT skills taught during the CCA session. On top of that, pupils will also act as student ambassadors of Cyber Wellness, advocating safe and responsible use of the Internet.
 
@@ -28,8 +30,8 @@ ICT Lab 2 &amp; 3
 
 #### **Scratch Animation**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/ridAc8ADIN4" title="An Animation on Myopia by Tan Jia Yee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/ridAc8ADIN4" title="An Animation on Myopia by Tan Jia Yee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 #### **Scratch Game**
 
-<iframe width="700" height="350" src="https://www.youtube.com/embed/_x-Z8BlneQM" title="10th anniversary game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="350" src="https://www.youtube.com/embed/_x-Z8BlneQM" title="10th anniversary game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
