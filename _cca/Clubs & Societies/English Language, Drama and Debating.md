@@ -3,6 +3,7 @@ title: English Language, Drama and Debating
 permalink: /cca/clubs-and-societies/
 description: ""
 third_nav_title: Clubs & Societies
+variant: markdown
 ---
 ### **English Language, Drama and Debating**
 #### **Brief Description of CCA**
@@ -20,10 +21,10 @@ With the advent of technology, pupils will learn how to create e-books using ICT
 |
 
 #### **CCA Teachers-in-charge**
-Ms Noor Amirah Bte Azman<br>
 Ms Siti Aisyah Binte Mohamed Yazid<br>
-Ms Jurveen Kaur Randhawa<br>
-Mrs Winnie Teng
+Ms Noor Amirah Bte Azman<br>
+Ms Claire Lu Baozhu<br>
+Ms Sharenya Devarajan
 
 #### **Venue**
 Media Resource Library
