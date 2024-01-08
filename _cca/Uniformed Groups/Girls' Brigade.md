@@ -14,8 +14,8 @@ The Girls' Brigade (GB) is a uniformed youth organisation and is recognised by t
 *   Girls are to complete the Junior STAR Programme by end of Primary 6
 
 #### **CCA teachers-in-charge**
-Mdm Lim Shae Min<br>
 Ms Viroshini<br>
+Ms Yong Lee Min
 
 #### **Venue**
 LSP Room, Math Room
