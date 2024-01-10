@@ -17,8 +17,7 @@ Basketball pupils will be:
 
 #### **CCA Teachers-in-charge**
 Mr Loh Chee Wei<br>
-Mr Sureen Kumar Valautham<br>
-PE BT
+Ms Fathimah Muzammilah
 
 #### **Venue**
 Basketball Court, Indoor Sports Hall
