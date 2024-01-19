@@ -12,15 +12,13 @@ Our School, Westwood Primary, has a vacancy for Chinese Food (rice).
 (Other food choice e.g. Japanese; Korean cuisine are welcome too.)
 
 **School Information**<br>
-Our School has a student population of approximately 1394 students and a staff strength of about 114 staff. We are a single session school with Student Care Centre.
+Our School has a student population of approximately 1395 students and a staff strength of about 116 staff. We are a single session school with Student Care Centre.
 
 **Canteen Operating Hours**<br>
 Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may be required to operate on other days as required by the school.
 
 **Contract Period**<br>
-<u>(1) Chinese Food (rice) stall</u><br>
-(2) Malay Food (noodle) (halal) stall<br>
-From 2 January to 31 December 2024 (yearly basis).<br>
+From immediate to 31 December 2024 (yearly basis).
 
 **Application Requirements**<br>
 * Applicant must be a Singapore Citizen or Singapore Permanent Resident.
