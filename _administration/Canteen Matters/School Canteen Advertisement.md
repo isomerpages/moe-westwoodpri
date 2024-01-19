@@ -9,7 +9,7 @@ variant: markdown
 
 Our School, Westwood Primary, has a vacancy for Chinese Food (rice).
 
-(Other food choice e.g. Japanese; Korean cuisine are welcome too.)
+Other food choices such as Japanese and Korean cuisine are welcome too.
 
 **School Information**<br>
 Our School has a student population of approximately 1395 students and a staff strength of about 116 staff. We are a single session school with Student Care Centre.
