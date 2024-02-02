@@ -2,7 +2,6 @@ collections:
   others:
     output: true
     order:
-      - Parents Engagement Session.md
       - School Newsletters.md
       - Booklist for 2024.md
       - 2024 P1 Parents.md
@@ -13,6 +12,7 @@ collections:
       - 10 Years of Positively Westwood.md
       - Biodiversity @ Westwood Gardens.md
       - Thriving WWPS.md
+      - Parents Engagement Session.md
       - Secondary School Matters.md
       - Contact Us/.keep
       - Contact Us/Location.md
