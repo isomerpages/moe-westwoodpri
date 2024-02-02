@@ -21,10 +21,10 @@ P4 Parents Engagement Day Slides<br>
 P5 Parents Engagement Day Slides<br>
 [Download slides](/files/2024_P5_Parents_Engagement_Day_Slides.pdf)
 
-P6 Parents Engagement Day Slides<br>
+P6 Parents Engagement Day<br>
 [Download slides](/files/2024_P6_Parents_Engagement_Day_Slides.pdf)
 
-P5 and P6 Parents Engagement Session Slides by Mr Mah<br>
+P5 and P6 Parents Engagement Session by Mr Mah<br>
 [Download slides](/files/P5_and_P6_Parents_Engagement_Session_Slides_by_Mr_Mah.pdf)
 
 
