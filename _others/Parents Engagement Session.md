@@ -9,7 +9,7 @@ description: ""
 P1 Parents Engagement Day<br>
 [Download slides](/files/2024_P1_Parents_Engagement_Day_Slides.pdf)
 
-P2 Parents Engagement Day Slides<br>
+P2 Parents Engagement Day<br>
 [Download slides](/files/2024_P2_Parents_Engagement_Day_Slides.pdf)
 
 P3 Parents Engagement Day<br>
