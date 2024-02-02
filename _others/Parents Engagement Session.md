@@ -6,20 +6,25 @@ description: ""
 ---
 ### **2024 Parents Engagement Session**
 
-P1 Parents Engagement Day Slides<br>
-[WWPS Booklist 2024 P1](/files/WW_Booklist_2024_P1.pdf)
+P1 Parents Engagement Day<br>
+[Download slides](/files/2024_P1_Parents_Engagement_Day_Slides.pdf)
 
 P2 Parents Engagement Day Slides<br>
-[WWPS Booklist 2024 P2](/files/WW_Booklist_2024_P2.pdf)
+[Download slides](/files/2024_P2_Parents_Engagement_Day_Slides.pdf)
 
 P3 Parents Engagement Day Slides<br>
-[WWPS Booklist 2024 P3](/files/WW_Booklist_2024_P3.pdf)
+[Download slides](/files/2024_P3_Parents_Engagement_Day_Slides.pdf)
 
 P4 Parents Engagement Day Slides<br>
-[WWPS Booklist 2024 P4](/files/WW_Booklist_2024_P4.pdf)
+[Download slides](/files/2024_P4_Parents_Engagement_Day_Slides.pdf)
 
 P5 Parents Engagement Day Slides<br>
-[WWPS Booklist 2024 P5](/files/WW_Booklist_2024_P5.pdf)
+[Download slides](/files/2024_P5_Parents_Engagement_Day_Slides.pdf)
 
-Primary 6 Booklist<br>
-[WWPS Booklist 2024 P6](/files/WW_Booklist_2024_P6.pdf)
+P6 Parents Engagement Day Slides<br>
+[Download slides](/files/2024_P6_Parents_Engagement_Day_Slides.pdf)
+
+P5 and P6 Parents Engagement Session Slides by Mr Mah<br>
+[Download slides](/files/P5_and_P6_Parents_Engagement_Session_Slides_by_Mr_Mah.pdf)
+
+
