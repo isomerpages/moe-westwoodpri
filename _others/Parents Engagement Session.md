@@ -5,21 +5,20 @@ variant: markdown
 description: ""
 ---
 ### **2024 Parents Engagement Session**
-Online purchase of books can be made via&nbsp;[https://www.ihuntforbooks.com](https://www.ihuntforbooks.com/).&nbsp; Please refer to the last page of each booklist for the 2023 year-end sale dates and timing. 
 
-Primary 1 BookList <br>
+P1 Parents Engagement Day Slides<br>
 [WWPS Booklist 2024 P1](/files/WW_Booklist_2024_P1.pdf)
 
-Primary 2 Booklist <br>
+P2 Parents Engagement Day Slides<br>
 [WWPS Booklist 2024 P2](/files/WW_Booklist_2024_P2.pdf)
 
-Primary 3 Booklist <br>
+P3 Parents Engagement Day Slides<br>
 [WWPS Booklist 2024 P3](/files/WW_Booklist_2024_P3.pdf)
 
-Primary 4 Booklist <br>
+P4 Parents Engagement Day Slides<br>
 [WWPS Booklist 2024 P4](/files/WW_Booklist_2024_P4.pdf)
 
-Primary 5 Booklist <br>
+P5 Parents Engagement Day Slides<br>
 [WWPS Booklist 2024 P5](/files/WW_Booklist_2024_P5.pdf)
 
 Primary 6 Booklist<br>
