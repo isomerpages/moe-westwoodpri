@@ -17,9 +17,7 @@ Application for our 2024 Parent Volunteer Scheme (for 2025 P1 Registration and 2
 | -------- | 
 | Download the [PV Application Form ](https://go.gov.sg/2023pvapplication) and email the completed form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).   | <br>
 
-| **Between Feb to May 2023**| 
-| -------- | 
-| Shortlisted applicants will be contacted for interviews. Unsuccessful applicants will be notified by email.| <br>
+Shortlisted applicants will be contacted for interviews. Unsuccessful applicants will be notified by email.<br>
 
 
 
