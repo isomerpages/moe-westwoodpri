@@ -19,6 +19,5 @@ Download the [Parent Volunteer Application Form](/files/2024/WWPS_2024_PV_Applic
 Shortlisted applicants will be contacted for interviews.<br>
 Unsuccessful applicants will be notified by email.<br>
 
-| **Between 24 June 2024 to 30 June 2025** | 
-| -------- | 
-| Commencement and completion of at least 40 hours of voluntary service as required by the school.&nbsp; Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2025 P1 Registration Exercise.&nbsp; Please note that a place for your child through Phase 2B is&nbsp;**not&nbsp;guaranteed**.  | <br>
+**Between 24 June 2024 to 30 June 2025**<br><br>
+Commencement and completion of at least 40 hours of voluntary service as required by the school. Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2025 P1 Registration Exercise. Please note that a place for your child through Phase 2B is **not&nbsp;guaranteed**.<br>
