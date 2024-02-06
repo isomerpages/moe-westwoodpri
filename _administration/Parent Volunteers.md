@@ -7,7 +7,7 @@ variant: markdown
 ### **Parent Volunteers**
 Dear Parents,  
 
-You may apply to be our Parent Volunteers if your child is a Singapore Citizen or Singapore Permanent Resident born between 2 January 2019 and 1 January 2020 (both dates inclusive).
+You may apply to be our Parent Volunteer if your child is a Singapore Citizen or Singapore Permanent Resident born between 2 January 2019 and 1 January 2020 (both dates inclusive).
 
 Application for our 2024 Parent Volunteer Scheme (for 2025 P1 Registration and 2026 Admission) will open from 8 Feb 2024 to 10 May 2024.
 
