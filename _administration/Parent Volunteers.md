@@ -13,7 +13,7 @@ Application for our 2024 Parent Volunteer Scheme (for 2025 P1 Registration and 2
 
 #### **Timeline for Parent Volunteers Application**
 
-| **By 10 May 2024**| 
+**By 10 May 2024**
 | -------- | 
 | Download the [PV Application Form ](/files/2024/WWPS_2024_PV_Application.pdf) and email the completed form to [westwood\_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).   | <br>
 
