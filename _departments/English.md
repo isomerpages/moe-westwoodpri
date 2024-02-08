@@ -70,6 +70,11 @@ These are the various aspects of EL literacy:
 
 <img src="/images/eng9.png" style="width:85%">
 
+#### **Reading Toolkit**
+Dear Parents,
+
+Embark on a thrilling journey of reading, where each page brings new discoveries and enchanting tales to life. The National Library Board has put together a collection of library guides, suggested reads, and interactive activities to ignite your child's passion for reading. Among these, there's a coloring activity designed for you and your child to enjoy together. Do check it out and set sail on this endless voyage of learning and reading!
+
 #### **Our Pupils' Work: The Creative Ink**
 ‘The Creative Ink’ is an online compendium of wonderful writing pieces from our Westwoodians. This initiative aims to nurture budding writers in their creative expression and hone their critical thinking skills.
 
