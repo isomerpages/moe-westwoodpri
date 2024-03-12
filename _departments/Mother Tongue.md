@@ -78,7 +78,9 @@ The Chinese Language Department has conducted a virtual workshop for selected Pr
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pEgxTu_3V5A" height="315" width="560"></iframe>
 
-P6_Parents_Workshop_CL_Slides_2024
+P6 Parents CL Workshop 2024<br>
+[Download slides](/files/P6_Parents_Workshop_CL_Slides_2024.pdf)
+
 
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
