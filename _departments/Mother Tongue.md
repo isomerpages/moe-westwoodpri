@@ -81,7 +81,6 @@ The Chinese Language Department has conducted a virtual workshop for selected Pr
 P6 Parents CL Workshop 2024<br>
 [Download slides](/files/P6_Parents_Workshop_CL_Slides_2024.pdf)
 
-
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
 [https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)  
