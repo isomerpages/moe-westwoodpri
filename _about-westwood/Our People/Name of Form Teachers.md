@@ -40,11 +40,11 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 3 Confidence | MR SUREEN KUMAR<br>MDM SITI KALSOM |
-| 3 Diligence | MS CHONG YOKE TING<br>MS ELAINE LAI YONGXIAN |
+| 3 Diligence | MR KHAIRUL ABDILLAH BIN ISMAIL<br>MS ELAINE LAI YONGXIAN |
 | 3 Gratitude | MS GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 | 3 Resilience | MR NG KAI ZHE ALAN<br>MS NURAIN BTE ABDUL RAHEEM |
 | 3 Synergy | MS FATHIMAH MUZAMMILAH<br>MS GU SI YUAN |
-| 3 Teamwork | MDM LIM SHAE MIN<br>MR KHAIRUL ABDILLAH BIN ISMAIL |
+| 3 Teamwork | MDM LIM SHAE MIN |
 |
 
 #### **P4 Form Teachers**
