@@ -1,9 +1,8 @@
 ---
 title: School Canteen Advertisement
 permalink: /administration/canteen-matters/school-canteen-advertisement/
-description: ""
-third_nav_title: Canteen Matters
 variant: markdown
+description: ""
 ---
 ### **School Canteen Advertisement**
 
