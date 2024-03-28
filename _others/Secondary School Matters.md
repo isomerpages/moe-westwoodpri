@@ -36,12 +36,6 @@ Maris Stella High School DSA Sharing Session
     <td>8.30am to 12.30pm</td>
     <td>- Address: 121 Dover Road, Singapore 139650<br><a href="/files/RIOH23%20Programme%20Sheet.pdf">RI Open House Programme Sheet</a></td>
   </tr>
-  <tr>
-    <td>National Junior College</td>
-    <td>Saturday, 20th May 2023</td>
-    <td>9am to 2pm</td>
-    <td>- Click <a href="https://www.nationaljc.moe.edu.sg/">here</a> for more information</td>
-  </tr>
 </tbody>
 </table>
 
