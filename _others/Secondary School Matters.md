@@ -14,10 +14,6 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 #### **Direct School Admission for secondary schools (DSA-Sec)**
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
-Maris Stella High School DSA Sharing Session
-- 19 May (Friday) 3pm to 5pm 
-- Register via [go.gov.sg/mshs-dsa](https://go.gov.sg/mshs-dsa)
-
 #### **Information on Secondary Education Open House 2024**
 
 <table>
@@ -38,9 +34,6 @@ Maris Stella High School DSA Sharing Session
   </tr>
 </tbody>
 </table>
-
-#### **Presentation Slides for P6 Parents' Engagement Day on PSLE &amp; Secondary School Matters**
-[2023 P6 Parents Engagement Information](/files/2023%20P6%20Parents%20Engagement%20Information.pdf)
 
 #### **Secondary 1 Posting**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
