@@ -32,9 +32,9 @@ Maris Stella High School DSA Sharing Session
 <tbody>
   <tr>
     <td>Anglo-Chinese School (Independent)</td>
-    <td>Saturday, 29th April 2023</td>
-    <td>8am to 1pm</td>
-    <td>- <a href="https://evnk.co/rioh23">Register</a> for RI Open House Carnival<br>- <a href="https://evnk.co/rioh23-tours">Register</a> for *Guided School Tours*<br><a href="/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf">RI Open House Letter</a><br><a href="/files/RIOH23%20Programme%20Sheet.pdf">RI Open House Programme Sheet</a></td>
+    <td>Saturday, 13th April 2024</td>
+    <td>8.30am to 12.30pm</td>
+    <td>- Address: 121 Dover Road, Singapore 139650<br><a href="/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf">RI Open House Letter</a><br><a href="/files/RIOH23%20Programme%20Sheet.pdf">RI Open House Programme Sheet</a></td>
   </tr>
   <tr>
     <td>National Junior College</td>
