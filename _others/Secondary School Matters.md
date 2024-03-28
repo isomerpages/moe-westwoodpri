@@ -18,7 +18,7 @@ Maris Stella High School DSA Sharing Session
 - 19 May (Friday) 3pm to 5pm 
 - Register via [go.gov.sg/mshs-dsa](https://go.gov.sg/mshs-dsa)
 
-#### **Information on Secondary Education Open House 2023**
+#### **Information on Secondary Education Open House 2024**
 
 <table>
 <thead>
@@ -31,7 +31,7 @@ Maris Stella High School DSA Sharing Session
 </thead>
 <tbody>
   <tr>
-    <td>Raffles Institution</td>
+    <td>Anglo-Chinese School (Independent)</td>
     <td>Saturday, 29th April 2023</td>
     <td>8am to 1pm</td>
     <td>- <a href="https://evnk.co/rioh23">Register</a> for RI Open House Carnival<br>- <a href="https://evnk.co/rioh23-tours">Register</a> for *Guided School Tours*<br><a href="/files/RI200%20Open%20House%20Letter%20to%20P6%20Parents.pdf">RI Open House Letter</a><br><a href="/files/RIOH23%20Programme%20Sheet.pdf">RI Open House Programme Sheet</a></td>
