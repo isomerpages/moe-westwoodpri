@@ -30,7 +30,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Anglo-Chinese School (Independent)</td>
     <td>Saturday, 13th April 2024</td>
     <td>8.30am to 12.30pm</td>
-    <td>- Address: 121 Dover Road, Singapore 139650<br><a href="/files/ACS(I)_2024_Open_House.pdf">ACS(I) 2024 Open House invitation letter and brochure</a></td>
+    <td>- Address: 121 Dover Road, Singapore 139650<br><a href="/files/ACS_I__2024_Open_House.pdf">ACS(I) 2024 Open House invitation</a></td>
   </tr>
 </tbody>
 </table>
