@@ -35,7 +35,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 	 <tr>
     <td>Methodist Girls’ School</td>
     <td>Saturday, 27th April 2024</td>
-    <td>8.30am to 12.30pm</td>
+    <td>9.00am to 1.00pm</td>
     <td>MGS Open House Portal: https://go.gov.sg/mgoh24</td>
   </tr>
 </tbody>
