@@ -32,6 +32,12 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>8.30am to 12.30pm</td>
     <td>Located at 121 Dover Road, Singapore 139650<br><a href="/files/ACS_I__2024_Open_House.pdf">ACS(I) 2024 Open House invitation</a></td>
   </tr>
+	 <tr>
+    <td>Methodist Girls’ School</td>
+    <td>Saturday, 27th April 2024</td>
+    <td>9.00am to 1.00pm</td>
+    <td>MGS Open House Portal: https://go.gov.sg/mgoh24</td>
+  </tr>
 </tbody>
 </table>
 
