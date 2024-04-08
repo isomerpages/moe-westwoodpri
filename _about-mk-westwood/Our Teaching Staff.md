@@ -13,7 +13,7 @@ variant: markdown
 
 |  |
 |:---:|
-| **Ms Shalomi Shalini Rishabaraj**<br>Centre Head |
+| **Ms Lucia Chan Mun Foong**<br>Centre Head |
 
 <img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align="left">
