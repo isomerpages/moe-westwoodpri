@@ -2,17 +2,18 @@
 title: Our Teaching Staff
 permalink: /mk-westwood/our-teaching-staff/
 description: ""
+variant: markdown
 ---
 ### **Our Teaching Staff**
 
 <img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/staff2.jpg" style="width:30%">
+<img src="/images/MK_Staff/lucia.jpg" style="width:30%">
 
 |  |
 |:---:|
-| **Ms Shalomi Shalini Rishabaraj**<br>Centre Head |
+| **Ms Lucia Chan Mun Foong**<br>Centre Head |
 
 <img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align="left">
