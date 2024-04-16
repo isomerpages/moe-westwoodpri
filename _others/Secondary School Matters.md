@@ -42,7 +42,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Raffles Girls' School</td>
     <td>Saturday, 18th May 2024</td>
     <td>8.30am to 1.30pm</td>
-    <td><a href="/images/2024%RGS%Open%House.png">RGS 2024 Open House Infographic</a></td>
+    <td><a href="/images/2024 RGS Open House.png">RGS 2024 Open House Infographic</a></td>
   </tr>
 </tbody>
 </table>
