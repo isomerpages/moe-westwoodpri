@@ -53,7 +53,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 	  <tr>
     <td>HCIS Year 1 Admission Information Session</td>
     <td>Thursday, 23th May 2024</td>
-    <td>7.00pm to 08.30pm</td>
+    <td>7.00pm to 8.30pm</td>
     <td>Located at 121 Dover Road, Singapore 139650<br><a href="/images/2024_RGS_Open_House.png">RGS 2024 Open House Infographic</a></td>
   </tr>
 </tbody>
