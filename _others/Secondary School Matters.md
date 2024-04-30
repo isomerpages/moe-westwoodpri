@@ -42,7 +42,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>NUS High School</td>
     <td>Saturday, 11th May 2024</td>
     <td>9.00am to 1.30pm</td>
-    <td><a href="/files/NUSHS_DSA_Brochure_2024.pdf">NUSHS_DSA_Brochure_2024</a></td>
+    <td><a href="/files/NUSHS_DSA_Brochure_2024.pdf">NUSHS DSA Brochure 2024</a></td>
   </tr>
 	<tr>
     <td>Raffles Girls' School</td>
@@ -54,7 +54,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>HCIS Year 1 Admission Information Session</td>
     <td>Thursday, 23th May 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td><a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">2025_Y1_ADMISSION_INFO_SESSION__MAY</a></td>
+    <td><a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">2025 Y1 ADMISSION INFO SESSION MAY</a></td>
   </tr>
 </tbody>
 </table>
