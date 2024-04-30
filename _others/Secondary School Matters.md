@@ -37,12 +37,24 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Saturday, 27th April 2024</td>
     <td>9.00am to 1.00pm</td>
     <td>MGS Open House Portal: <a href="https://go.gov.sg/mgoh24">https://go.gov.sg/mgoh24</a></td>
-  </tr>  
+  </tr>
+		<tr>
+    <td>NUS High School</td>
+    <td>Saturday, 11th May 2024</td>
+    <td>9.00am to 1.30pm</td>
+    <td><a href="/files/ACS_I__2024_Open_House.pdf">ACS(I) 2024 Open House Invitation</a></td>
+  </tr>
 	<tr>
     <td>Raffles Girls' School</td>
     <td>Saturday, 18th May 2024</td>
     <td>8.30am to 1.30pm</td>
     <td><a href="/images/2024_RGS_Open_House.png">RGS 2024 Open House Infographic</a></td>
+  </tr>
+	  <tr>
+    <td>Anglo-Chinese School (Independent)</td>
+    <td>Saturday, 13th April 2024</td>
+    <td>8.30am to 12.30pm</td>
+    <td>Located at 121 Dover Road, Singapore 139650<br><a href="/images/2024_RGS_Open_House.png">RGS 2024 Open House Infographic</a></td>
   </tr>
 </tbody>
 </table>
