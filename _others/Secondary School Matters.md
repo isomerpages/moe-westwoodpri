@@ -42,7 +42,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>NUS High School</td>
     <td>Saturday, 11th May 2024</td>
     <td>9.00am to 1.30pm</td>
-    <td><a href="/files/ACS_I__2024_Open_House.pdf">ACS(I) 2024 Open House Invitation</a></td>
+    <td><a href="/files/NUSHS_DSA_Brochure_2024.pdf">ACS(I) 2024 Open House Invitation</a></td>
   </tr>
 	<tr>
     <td>Raffles Girls' School</td>
