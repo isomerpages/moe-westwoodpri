@@ -50,8 +50,14 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>8.30am to 1.30pm</td>
     <td><a href="/images/2024_RGS_Open_House.png">RGS 2024 Open House Infographic</a></td>
   </tr>
+		  <tr>
+			<td>St. Joseph's Institution</td>
+    <td>Saturday, 18th May 2024</td>
+    <td>8.30am to 4.00pm</td>
+    <td>Located at 38 Malcolm Road, Singapore 308274<br><a href="/images/sji_open_house.jpg">SJI 2024 Open House Invitation</a></td>
+  </tr>
 	  <tr>
-    <td>HCIS Year 1 Admission Information Session</td>
+    <td>Hwa Chong International School</td>
     <td>Thursday, 23th May 2024</td>
     <td>7.00pm to 8.30pm</td>
     <td>Online Only - <a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">May 2025 Y1 Admission Info Session</a></td>
