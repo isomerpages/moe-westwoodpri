@@ -67,7 +67,7 @@ View SST Open House Microsite
     <td>School of Science and Technology, Singapore</td>
     <td>Saturday, 25th May 2024</td>
     <td>9.00am to 1.00pm</td>
-    <td>Located at 1 Technology Drive, Singapore 138572 <a href="https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes">SST Open House Microsite</a></td></tr>
+    <td>Located at 1 Technology Drive, Singapore 138572<br><a href="https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes">Visit SST Open House Microsite</a></td></tr>
 </tbody>
 </table>
 
