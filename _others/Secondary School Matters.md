@@ -62,6 +62,12 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>7.00pm to 8.30pm</td>
     <td>Online Only - <a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">May 2025 Y1 Admission Info Session</a></td>
   </tr>
+	 <tr>
+    <td>School of Science and Technology, Singapore</td>
+    <td>Saturday, 27th April 2024</td>
+    <td>9.00am to 1.00pm</td>
+    <td>MGS Open House Portal: <a href="https://go.gov.sg/mgoh24">https://go.gov.sg/mgoh24</a></td>
+  </tr>
 </tbody>
 </table>
 
