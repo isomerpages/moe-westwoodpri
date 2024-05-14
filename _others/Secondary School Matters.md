@@ -16,7 +16,8 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 
 #### **Information on Secondary Education Open House 2024**
 
-<table>
+View SST Open House Microsite
+  <table>
 <thead>
   <tr>
     <th>School</th>
@@ -64,10 +65,9 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
   </tr>
 	 <tr>
     <td>School of Science and Technology, Singapore</td>
-    <td>Saturday, 27th April 2024</td>
+    <td>Saturday, 25th May 2024</td>
     <td>9.00am to 1.00pm</td>
-    <td>MGS Open House Portal: <a href="https://go.gov.sg/mgoh24">https://go.gov.sg/mgoh24</a></td>
-  </tr>
+    <td>Located at 1 Technology Drive, Singapore 138572 <a href="https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes">SST Open House Microsite</a></td></tr>
 </tbody>
 </table>
 
