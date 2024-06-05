@@ -33,7 +33,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tan Pei Qi**<br>English Language Teacher | **Tan Hui Yin**<br>English Language Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Tan Hui Yin**<br>English Language Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
 
 <img src="/images/staff8.jpg" style="width:33%;margin-right:15px;" align="left">
 <img src="/images/staff9.jpg" style="width:28.5%;margin-right:15px;" align="left">
@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Zakiyah Binte Basheir**<br>English Language Teacher | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
+| **Zakiyah Binte Basheir**<br>Level Coordinator | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
 
 <img src="/images/staff11.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
@@ -73,7 +73,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Chu Yanan**<br>Chinese Language Teacher | **Cai Luqi**<br>Chinese Language Teacher |
+| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Chu Yanan**<br>Senior Teacher | **Cai Luqi**<br>Chinese Language Teacher |
 
 <img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">
