@@ -7,7 +7,7 @@ variant: markdown
 ### **Total MK Curriculum**
 
 <a href="https://www.flipsnack.com/6AD66566AED/total-mk-curriculum.html"><img src="/images/totalmk1.jpg" style="width:49%" align="left"></a>
-<a href="https://www.flipsnack.com/6AD66566AED/centre-based-programmes-v7cehzz2gx.html"><img src="//images/totalmk2.jpg" style="width:49%" align="right"></a>
+<a href="https://www.flipsnack.com/6AD66566AED/centre-based-programmes-v7cehzz2gx.html"><img src="/images/totalmk2.jpg" style="width:49%" align="right"></a>
 
 <br clear="left">
 
