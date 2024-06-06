@@ -27,7 +27,7 @@ variant: markdown
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
-<img src="/images/staff7.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -45,7 +45,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **-**<br>- | **-**<br>- | **K Vishnupriyah**<br>English Language Teacher |
 
-<img src="/images/staff11.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/staff13.jpg" style="width:28.5%;margin-right:15px;" align="left">
 
@@ -57,7 +57,7 @@ variant: markdown
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/nur_aqilah.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/staff16.jpg" style="width:31.5%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -66,14 +66,14 @@ variant: markdown
 | **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **-**<br>- |
 
 <img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff18.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff19.jpg" style="width:29%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Chu Yanan**<br>Senior Teacher | **Cai Luqi**<br>Chinese Language Teacher |
+| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **-**<br>- | **Cai Luqi**<br>Chinese Language Teacher |
 
 <img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">

@@ -9,7 +9,7 @@ variant: markdown
 <img src="/images/mkwestwood.png" style="width:85%">
 
 #### **Centre Information**
-Programmes Available: K1, K2, KCare  
+Programmes Available: K1, K2, KCare
 
 *   Morning Session: 8.00 am – 12.00 pm
 *   Afternoon Session: 1.00 pm – 5.00 pm
@@ -20,7 +20,7 @@ For more information on MOE Kindergarten Website, please visit&nbsp;[www.moe.gov
 
 For information on fees, financial assistance and uniform expenses, please refer to: [www.moe.gov.sg/preschool/moe-kindergarten/fees](https://www.moe.gov.sg/preschool/moe-kindergarten/fees).
 
-Enrolment is all-year-round, please email us to indicate interest to enrol or be placed on waitlist.
+Enrolment is all-year-round, please [email](mailto:mk_westwood@moe.edu.sg) us to indicate interest to enrol or be placed on waitlist.
 
 #### **Contact Us:**
 * Contact Number: 6316 0211
