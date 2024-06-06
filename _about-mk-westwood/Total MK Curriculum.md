@@ -5,10 +5,19 @@ description: ""
 variant: markdown
 ---
 ### **Total MK Curriculum**
-<p><a href="https://www.flipsnack.com/6AD66566AED/total-mk-curriculum.html">
-<img style="width:30%" src="/images/totalmk1.jpg">
-</a></p>
 
-<p><a href="https://www.flipsnack.com/6AD66566AED/centre-based-programmes-v7cehzz2gx.html">
+<a href="https://www.flipsnack.com/6AD66566AED/total-mk-curriculum.html"><img src="/images/totalmk1.jpg" style="width:49%" align="left"></a>
+<a href="https://www.flipsnack.com/6AD66566AED/centre-based-programmes-v7cehzz2gx.html"><img src="//images/totalmk2.jpg" style="width:49%" align="right"></a>
+
+<br clear="left">
+
+|  |  |
+|:---:|:---:|
+| **Classroom 1** | **Classroom 2** |
+<p>
+<img style="width:30%" src="/images/totalmk1.jpg">
+</p>
+
+<p>
 <img style="width:30%" src="/images/totalmk2.jpg">
-</a></p>
+</p>
