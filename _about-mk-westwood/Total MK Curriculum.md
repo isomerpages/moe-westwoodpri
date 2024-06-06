@@ -32,3 +32,5 @@ variant: markdown
 |  |  |
 |:---:|:---:|
 | **K2 WOW Project** | **K2 WOW Project w/PS** |
+
+![](/images/MK/MK_testimonial.png)
