@@ -10,7 +10,7 @@ variant: markdown
 [K1 Daily Schedule (AM Session).pdf](/files/MK/K1_Daily_Schedule__AM_Session_.pdf)<br>
 [K2 Daily Schedule (PM Session).pdf](/files/MK/K2_Daily_Schedule__PM_Session_.pdf)
 
-#### **Sample Timetable**
-[K1 Daily Schedule (AM Session).pdf](/files/MK/K1_Daily_Schedule__AM_Session_.pdf)
+#### **Snack Menu**
+[2024 Snack Menu.pdf](/files/MK/MK_Snack_2024.pdf)
 
 For more information on MOE Kindergarten, please visit&nbsp;[www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
