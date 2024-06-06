@@ -26,16 +26,16 @@ variant: markdown
 | **Ms Beins Vicki Maryanne**<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Zakiyah Binte Basheir**<br>Level Coordinator |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff6.jpg" style="width:29.5%;margin-right:15px;" align="left">
+<img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff7.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Tan Hui Yin**<br>English Language Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
 
-<img src="/images/staff8.jpg" style="width:33%;margin-right:15px;" align="left">
+<img src="/images/staff6.jpg" style="width:33%;margin-right:15px;" align="left">
 <img src="/images/staff9.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/staff10.jpg" style="width:30%;margin-right:15px;" align="left">
 
