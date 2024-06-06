@@ -63,7 +63,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Nurazilahwati Binte Masahlan**<br>Malay Language Teacher |
+| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **-**<br>- |
 
 <img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:30%;margin-right:15px;" align="left">
