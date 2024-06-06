@@ -2,6 +2,7 @@
 title: Useful Information and Links
 permalink: /mk-westwood/useful-information-links/
 description: ""
+variant: markdown
 ---
 ### **Useful Information / Links**
 
@@ -10,9 +11,9 @@ Download our handbook to know more about MOE Kindergarten.<br>
 [2022 MOE Kindergarten Family Handbook.pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
 
 #### **MOE Kindergarten Waitlist Application**
-Please fill out this [waitlist](https://form.gov.sg/#!/61d5052947f7c60013fb11bb) if you would like to register your child for 2022/2023 K1/K2 class.
+Please fill out this&nbsp;[waitlist](https://form.gov.sg/#!/61d5052947f7c60013fb11bb)&nbsp;if you would like to register your child for 2022/2023 K1/K2 class.
 
-<img src="/images/waitlist%20qr.png" style="width:25%" align=left>
+<img src="/images/waitlist%20qr.png" style="width:25%" align="left">
 
 <br clear="left">
 
@@ -36,4 +37,6 @@ KiFAS subsidies are available for families where their household income (HHI) do
 For more information on KiFAS, you may visit:<br>[https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS](https://www.ecda.gov.sg/Pages/Subsidies-and-Financial-Assistance.aspx#KIFAS)
 
 #### **Authorisation Pass Application**
-Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit an e-mail to [mk\_westwood@moe.edu.sg](mailto:mk_westwood@moe.edu.sg) , subject to approval.
+Authorisation Passes are required for Parents/Guardians/Caregivers who frequently fetch the child from the MOE Kindergarten or KCare. Each child is entitled to 2 Authorisation Passes. If you require more than 2 passes, please submit an e-mail to&nbsp;[mk\_westwood@moe.edu.sg](mailto:mk_westwood@moe.edu.sg)&nbsp;, subject to approval.
+
+For more information on MOE Kindergarten, please visit&nbsp;[www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
