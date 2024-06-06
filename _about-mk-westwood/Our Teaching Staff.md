@@ -73,7 +73,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Chu Yanan**<br>Senior Teacher | **Cai Luqi**<br>Chinese Language Teacher |
+| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **-**<br>- | **Cai Luqi**<br>Chinese Language Teacher |
 
 <img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">
