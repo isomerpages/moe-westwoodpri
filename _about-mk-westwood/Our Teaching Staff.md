@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **-**<br>- | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
+| **-**<br>- | **-**<br>- | **K Vishnupriyah**<br>English Language Teacher |
 
 <img src="/images/staff11.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
