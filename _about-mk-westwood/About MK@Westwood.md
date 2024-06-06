@@ -16,9 +16,9 @@ Programmes Available: K1, K2, KCare
 
 Gate Opening Hours: 7.00 am – 7.00 pm (for KCare service)  
 
-For more information on MOE Kindergarten Website, please visit&nbsp;[www.moe.gov.sg/mk](http://www.moe.gov.sg/mk)
+For more information on MOE Kindergarten Website, please visit&nbsp;[www.moe.gov.sg/mk](http://www.moe.gov.sg/mk).
 
-For information on fees, financial assistance and uniform expenses, please refer to: [https://www.moe.gov.sg/preschool/moe-kindergarten/fees] (https://www.moe.gov.sg/preschool/moe-kindergarten/fees)
+For information on fees, financial assistance and uniform expenses, please refer to: [www.moe.gov.sg/preschool/moe-kindergarten/fees](https://www.moe.gov.sg/preschool/moe-kindergarten/fees).
 
 Enrolment is all-year-round, please email us to indicate interest to enrol or be placed on waitlist.
 

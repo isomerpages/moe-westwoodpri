@@ -26,16 +26,16 @@ variant: markdown
 | **Ms Beins Vicki Maryanne**<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Zakiyah Binte Basheir**<br>Level Coordinator |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff6.jpg" style="width:29.5%;margin-right:15px;" align="left">
+<img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff7.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Tan Hui Yin**<br>English Language Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **-**<br>- |
 
-<img src="/images/staff8.jpg" style="width:33%;margin-right:15px;" align="left">
+<img src="/images/staff6.jpg" style="width:33%;margin-right:15px;" align="left">
 <img src="/images/staff9.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/staff10.jpg" style="width:30%;margin-right:15px;" align="left">
 
@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Placeholder**<br>Placeholder | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
+| **-**<br>- | **-**<br>- | **K Vishnupriyah**<br>English Language Teacher |
 
 <img src="/images/staff11.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
@@ -53,7 +53,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Renugadevi D/O Rajasegaran**<br>English Language Teacher | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
+| **-**<br>- | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/nur_aqilah.jpg" style="width:31%;margin-right:15px;" align="left">
@@ -63,7 +63,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Nurazilahwati Binte Masahlan**<br>Malay Language Teacher |
+| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **-**<br>- |
 
 <img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:30%;margin-right:15px;" align="left">
