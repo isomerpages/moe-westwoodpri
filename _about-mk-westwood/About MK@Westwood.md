@@ -9,7 +9,7 @@ variant: markdown
 <img src="/images/mkwestwood.png" style="width:85%">
 
 #### **Centre Information**
-Programmes Available: K1, K2, KCare  
+Programmes Available: K1, K2, KCare
 
 *   Morning Session: 8.00 am – 12.00 pm
 *   Afternoon Session: 1.00 pm – 5.00 pm
