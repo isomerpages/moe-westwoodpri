@@ -6,9 +6,9 @@ variant: markdown
 ---
 ### **Useful Information / Links**
 
-#### **MOE Kindergarten Family Handbook**
-Download our handbook to know more about MOE Kindergarten.<br>
-[2022 MOE Kindergarten Family Handbook.pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
+#### **Sample Timetable**
+[K1 Daily Schedule (AM Session).pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)<br>
+[K2 Daily Schedule (PM Session).pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
 
 #### **MOE Kindergarten Waitlist Application**
 Please fill out this&nbsp;[waitlist](https://form.gov.sg/#!/61d5052947f7c60013fb11bb)&nbsp;if you would like to register your child for 2022/2023 K1/K2 class.
