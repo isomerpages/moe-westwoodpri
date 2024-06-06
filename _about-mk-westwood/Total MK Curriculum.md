@@ -14,10 +14,3 @@ variant: markdown
 |  |  |
 |:---:|:---:|
 | **Total MK Curriculum** | **MK@Westwood Centre Based Programmes** |
-<p>
-<img style="width:30%" src="/images/totalmk1.jpg">
-</p>
-
-<p>
-<img style="width:30%" src="/images/totalmk2.jpg">
-</p>
