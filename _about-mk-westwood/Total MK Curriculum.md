@@ -13,7 +13,7 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Classroom 1** | **Classroom 2** |
+| **Total MK Curriculum** | **MK@Westwood Centre Based Programmes** |
 <p>
 <img style="width:30%" src="/images/totalmk1.jpg">
 </p>
