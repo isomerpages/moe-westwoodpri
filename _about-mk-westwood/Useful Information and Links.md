@@ -7,8 +7,8 @@ variant: markdown
 ### **Useful Information / Links**
 
 #### **Sample Timetable**
-[K1 Daily Schedule (AM Session).pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)<br>
-[K2 Daily Schedule (PM Session).pdf](/files/2022%20MOE%20Kindergarten%20Family%20Handbook.pdf)
+[K1 Daily Schedule (AM Session).pdf](/files/MK/K1_Daily_Schedule__AM_Session_.pdf)<br>
+[K2 Daily Schedule (PM Session).pdf](/files/MK/K2_Daily_Schedule__PM_Session_.pdf)
 
 #### **MOE Kindergarten Waitlist Application**
 Please fill out this&nbsp;[waitlist](https://form.gov.sg/#!/61d5052947f7c60013fb11bb)&nbsp;if you would like to register your child for 2022/2023 K1/K2 class.
