@@ -33,7 +33,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **Nur Qistina Izzati Binte Jumadi**<br>English Language Teacher |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **-**<br>- |
 
 <img src="/images/staff6.jpg" style="width:33%;margin-right:15px;" align="left">
 <img src="/images/staff9.jpg" style="width:28.5%;margin-right:15px;" align="left">
@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Placeholder**<br>Placeholder | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
+| **-**<br>- | **Nur Syahidah Bte Mohamed Kairudin**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher |
 
 <img src="/images/staff11.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
