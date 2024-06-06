@@ -22,4 +22,4 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Total MK Curriculum** | **MK@Westwood Centre Based Programmes** |
+| **K1 Learning Journey** | **K2 Learning Journey** |
