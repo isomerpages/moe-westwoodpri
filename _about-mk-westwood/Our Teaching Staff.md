@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **-**<br>- | **-**<br>- | **K Vishnupriyah**<br>English Language Teacher |
+| **Haryati Binte Ali**<br>Teacher | **Lim Siew Eng**<br>Teacher | **K Vishnupriyah**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
