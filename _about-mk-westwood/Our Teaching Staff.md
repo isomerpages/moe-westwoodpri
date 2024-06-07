@@ -35,8 +35,8 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **Maria Binte Baharuddin**<br>Teacher |
 
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:33%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:28.5%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/haryati_ali.png" style="width:33%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/lim_siew_eng.png" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/staff10.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
