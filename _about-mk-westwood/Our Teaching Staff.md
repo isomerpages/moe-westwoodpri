@@ -9,7 +9,7 @@ variant: markdown
 <img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/MK_Staff/lucia.jpg" style="width:30%">
+<img src="/images/MK_Staff/lucia_chan.jpg" style="width:30%">
 
 |  |
 |:---:|
@@ -17,7 +17,7 @@ variant: markdown
 
 <img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/staff8.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/zakiyah_basheir.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -27,13 +27,13 @@ variant: markdown
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/Maria_Baharuddin.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **-**<br>- |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **Maria Binte Baharuddin**<br>Teacher |
 
 <img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:33%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:28.5%;margin-right:15px;" align="left">
