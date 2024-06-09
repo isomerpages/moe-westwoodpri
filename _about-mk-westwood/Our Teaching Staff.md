@@ -65,16 +65,6 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Tang Lai Peng**<br>English Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Cai Luqi**<br>Chinese Language Teacher  |
 
-<img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff19.jpg" style="width:29%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Photo Coming Soon**<br>Incoming Staff | **Cai Luqi**<br>Chinese Language Teacher |
-
 <img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">
 <img src="/images/staff22.jpg" style="width:30%;margin-right:15px;" align="left">
