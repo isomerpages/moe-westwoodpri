@@ -45,7 +45,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Haryati Binte Ali**<br>Teacher | **Lim Siew Eng**<br>Teacher | **K Vishnupriyah**<br>English Language Teacher |
 
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/staff13.jpg" style="width:28.5%;margin-right:15px;" align="left">
 
@@ -53,27 +53,17 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Photo Comming Soon**<br>Incoming Staff | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
+| **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:31.5%;margin-right:15px;" align="left">
+<img src="/images/staff17.jpg" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/staff19.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Photo Coming Soon**<br>Incoming Staff |
-
-<img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff19.jpg" style="width:29%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Photo Coming Soon**<br>Incoming Staff | **Cai Luqi**<br>Chinese Language Teacher |
+| **Tang Lai Peng**<br>English Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Cai Luqi**<br>Chinese Language Teacher  |
 
 <img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
 <img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">
