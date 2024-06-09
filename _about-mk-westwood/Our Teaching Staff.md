@@ -63,7 +63,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Photo Coming Soon**<br>Incoming Staff |
+| **Tang Lai Peng**<br>English Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Photo Coming Soon**<br>Incoming Staff |
 
 <img src="/images/staff17.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:30%;margin-right:15px;" align="left">
