@@ -11,26 +11,5 @@ variant: markdown
 
 <br clear="left">
 
-|  |  |
-|:---:|:---:|
-| **Total MK Curriculum** | **MK@Westwood Centre Based Programmes** |
-<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/PzHtp61eD60" height="243" width="412"></iframe>&nbsp;
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/Wd_26YHX9yo" height="243" width="412"></iframe>
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **K1 Learning Journey** | **K2 Learning Journey** |
-<br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtube.com/shorts/V1RJqyFKLkQ" height="243" width="412"></iframe>&nbsp;
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/VjoI_UvUrik" height="243" width="412"></iframe>
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **K2 WOW Project** | **K2 WOW Project w/PS** |
 
 ![](/images/MK/MK_testimonial.png)
