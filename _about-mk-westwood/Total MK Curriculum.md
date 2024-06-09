@@ -24,7 +24,7 @@ variant: markdown
 |:---:|:---:|
 | **K1 Learning Journey** | **K2 Learning Journey** |
 <br>
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pEgxTu_3V5A" height="243" width="412"></iframe>&nbsp;&nbsp;
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtube.com/shorts/V1RJqyFKLkQ" height="243" width="412"></iframe>&nbsp;&nbsp;
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://youtu.be/VjoI_UvUrik" height="243" width="412"></iframe>
 
 <br clear="left">
