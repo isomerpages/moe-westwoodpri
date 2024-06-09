@@ -53,7 +53,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Photo Comming Soon**<br>Incoming Staff | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
+| **Photo Coming Soon**<br>Incoming Staff | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/nur_aqilah.jpg" style="width:31%;margin-right:15px;" align="left">
