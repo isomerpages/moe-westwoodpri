@@ -57,7 +57,7 @@ variant: markdown
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/staff17.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff_photo_coming_soon.jpg" style="width:31.5%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/staff19.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
