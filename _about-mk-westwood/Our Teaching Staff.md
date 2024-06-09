@@ -56,8 +56,8 @@ variant: markdown
 | **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff17.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/staff19.jpg" style="width:31.5%;margin-right:15px;" align="left">
+<img src="/images/staff17.jpg" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/staff19.jpg" style="width:31.5%;margin-right:15px;" align="left">
 
 <br clear="left">
 
