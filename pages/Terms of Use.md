@@ -27,26 +27,26 @@ review this Web Site Privacy Statement.</p>
 <p>Restrictions on Use of Materials</p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
-distributed in any way, without the prior written permission of ________________
-(school name). To use any parts of the contents of this Site, the user
+distributed in any way, without the prior written permission of Westwood
+Primary School. To use any parts of the contents of this Site, the user
 must seek permission in writing, stating the contents for use; intent of
 use; manner of use; time frame of use and identity of the user. MOE reserves
 the right to refuse permission without declaring reason(s); and/or if information
 submitted by user is deemed insufficient.</p>
 <p>7. Modification of any of the Contents or use of the Contents for any
-other purpose will be a violation of ________________ (school name)’s copyright
+other purpose will be a violation of Westwood Primary School’s copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
-in any manner without written permission of ________________ (school name).</p>
+in any manner without written permission of Westwood Primary School.</p>
 <p>Right of Access</p>
-<p>8. ________________ (school name) reserves all rights to deny or restrict
-access to this Web Site to any particular person, or to block access from
-a particular external address to this Web Site, at any time, without ascribing
-any reasons whatsoever.</p>
+<p>8. Westwood Primary School reserves all rights to deny or restrict access
+to this Web Site to any particular person, or to block access from a particular
+external address to this Web Site, at any time, without ascribing any reasons
+whatsoever.</p>
 <p>Disclaimer of Warranties and Liability</p>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
-warranties of any kind. To the fullest extent permitted by law, ________________
-(school name) does not warrant and hereby disclaims any warranty:</p>
+warranties of any kind. To the fullest extent permitted by law, Westwood
+Primary School does not warrant and hereby disclaims any warranty:</p>
 <p>(a) as to the accuracy, correctness, reliability, timeliness, non-infringement,
 title, merchantability or fitness for any particular purpose of the Contents
 of this Web Site;</p>
@@ -54,45 +54,44 @@ of this Web Site;</p>
 associated therewith will be uninterrupted or error-free, or that defects
 will be corrected or that this Web Site and the server is and will be free
 of all viruses and/or other harmful elements.</p>
-<p>10. ________________ (school name) shall also not be liable for any damage
-or loss of any kind caused as a result (direct or indirect) of the use
-of the Web Site, including but not limited to any damage or loss suffered
+<p>10. Westwood Primary School shall also not be liable for any damage or
+loss of any kind caused as a result (direct or indirect) of the use of
+the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
 <p>Links from This Web Site to Other Web Sites</p>
 <p>11. This Web Site contains hyperlinks to web sites which are not maintained
-________________ (school name). ________________ (school name) is not responsible
-for the contents of those web sites and shall not be liable for any damages
+Westwood Primary School. Westwood Primary School is not responsible for
+the contents of those web sites and shall not be liable for any damages
 or loss arising from access to those web sites. Use of the hyperlinks and
 access to such web sites are entirely at your own risk.</p>
 <p>12. Hyperlinks to other web sites are provided as a convenience. In no
-circumstances shall ________________ (school name) be considered to be
-associated or affiliated with any trade or service marks, logos, insignia
-or other devices used or appearing on web sites to which this Web Site
-is linked.</p>
+circumstances shall Westwood Primary School be considered to be associated
+or affiliated with any trade or service marks, logos, insignia or other
+devices used or appearing on web sites to which this Web Site is linked.</p>
 <p>Links to This Web Site from Other Web Sites</p>
 <p>13. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
-<p>14. You must secure permission from ________________ (school name) prior
-to hyperlinking to, or framing, this Web Site or any of the Contents, or
-engaging in similar activities. ________________ (school name) reserves
-the right to impose conditions when permitting any hyperlinking to, or
-framing of this Web Site or any of the Contents.</p>
+<p>14. You must secure permission from Westwood Primary School prior to hyperlinking
+to, or framing, this Web Site or any of the Contents, or engaging in similar
+activities. Westwood Primary School reserves the right to impose conditions
+when permitting any hyperlinking to, or framing of this Web Site or any
+of the Contents.</p>
 <p>15. Your linking to, or framing any part of this Web Site or its Contents
 constitute acceptance of these Terms of Use. This is deemed to be the case
 even after the posting of any changes or modifications to these Terms of
 Use. If you do not accept these Terms of Use, you must discontinue linking
 to, or framing of this Web Site or any of the Contents.</p>
-<p>16. In no circumstances shall ________________ (school name) be considered
-to be associated or affiliated in whatever manner with any trade or service
+<p>16. In no circumstances shall Westwood Primary School be considered to
+be associated or affiliated in whatever manner with any trade or service
 marks, logos, insignia or other devices used or appearing on web sites
 that link to this Web Site or any of the Contents.</p>
-<p>17. ________________ (school name) reserves all rights to disable any
-links to, or frames of any site containing inappropriate, profane, defamatory,
-infringing, obscene, indecent or unlawful topics, names, material or information,
-or material or information that violates any written law, any applicable
-intellectual property, proprietary, privacy or publicity rights.</p>
-<p>18. ________________ (school name) reserves the right to disable any unauthorised
+<p>17. Westwood Primary School reserves all rights to disable any links to,
+or frames of any site containing inappropriate, profane, defamatory, infringing,
+obscene, indecent or unlawful topics, names, material or information, or
+material or information that violates any written law, any applicable intellectual
+property, proprietary, privacy or publicity rights.</p>
+<p>18. Westwood Primary School reserves the right to disable any unauthorised
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
