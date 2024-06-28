@@ -4,16 +4,18 @@ permalink: /terms-of-use/
 variant: tiptap
 description: ""
 ---
-<p>Thank you for visiting <a href="http://www.westwoodpri.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">www.westwoodpri.moe.edu.sg</a>.
-By accessing and using this Web Site, you shall be deemed to have accepted
-to be legally bound by these Terms of Use. If you do not agree to these
-Terms of Use, please do not use this Web Site.</p>
-<p>General</p>
+<p>Thank you for visiting <a href="http://westwoodpri.moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">westwoodpri.moe.edu.sg</a>. By accessing
+and using this Web Site, you shall be deemed to have accepted to be legally
+bound by these Terms of Use. If you do not agree to these Terms of Use,
+please do not use this Web Site.</p>
+<p><strong>General</strong>
+</p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
 posted on this page and your use of this Web Site after such changes have
 been posted will constitute your agreement to the modified Terms of Use
 and all of the changes.</p>
-<p>Proprietary Rights</p>
+<p><strong>Proprietary Rights</strong>
+</p>
 <p>3. This Web Site is maintained by Westwood Primary School. It is owned
 by Westwood Primary School.</p>
 <p>4. The materials located on this Web Site including the information and
@@ -21,10 +23,12 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Westwood Primary
 School.</p>
-<p>Privacy Policy</p>
+<p><strong>Privacy Policy</strong>
+</p>
 <p>5. Click <a href="https://www.westwoodpri.moe.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
-<p>Restrictions on Use of Materials</p>
+<p><strong>Restrictions on Use of Materials</strong>
+</p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
 distributed in any way, without the prior written permission of Westwood
@@ -38,12 +42,14 @@ other purpose will be a violation of Westwood Primary School’s copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Westwood Primary School.</p>
-<p>Right of Access</p>
+<p><strong>Right of Access</strong>
+</p>
 <p>8. Westwood Primary School reserves all rights to deny or restrict access
 to this Web Site to any particular person, or to block access from a particular
 external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
-<p>Disclaimer of Warranties and Liability</p>
+<p><strong>Disclaimer of Warranties and Liability</strong>
+</p>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Westwood
 Primary School does not warrant and hereby disclaims any warranty:</p>
@@ -59,7 +65,8 @@ loss of any kind caused as a result (direct or indirect) of the use of
 the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
-<p>Links from This Web Site to Other Web Sites</p>
+<p><strong>Links from This Web Site to Other Web Sites</strong>
+</p>
 <p>11. This Web Site contains hyperlinks to web sites which are not maintained
 Westwood Primary School. Westwood Primary School is not responsible for
 the contents of those web sites and shall not be liable for any damages
@@ -69,7 +76,8 @@ access to such web sites are entirely at your own risk.</p>
 circumstances shall Westwood Primary School be considered to be associated
 or affiliated with any trade or service marks, logos, insignia or other
 devices used or appearing on web sites to which this Web Site is linked.</p>
-<p>Links to This Web Site from Other Web Sites</p>
+<p><strong>Links to This Web Site from Other Web Sites</strong>
+</p>
 <p>13. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
 <p>14. You must secure permission from Westwood Primary School prior to hyperlinking
@@ -95,7 +103,8 @@ property, proprietary, privacy or publicity rights.</p>
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
-<p>Governing Law</p>
+<p><strong>Governing Law</strong>
+</p>
 <p>19. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>
 <p></p>
