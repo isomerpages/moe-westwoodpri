@@ -34,7 +34,7 @@ sections:
       image: /images/westwood-askgov.png
       alt: Image alt text
   - infopic:
-      title: Teacher's Day Wishes 2024
+      title: Teachers' Day Wishes 2024
       subtitle: Pen down words of appreciation
       description: Hi Westwoodians! Please use the following link to send your well
         wishes to your teachers! Thank you for your Heart of Gratitude!
