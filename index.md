@@ -34,12 +34,12 @@ sections:
       image: /images/westwood-askgov.png
       alt: Image alt text
   - infopic:
-      title: Caring Teacher Award 2024
-      subtitle: Nominate your teachers today
-      description: We are inviting all parents and pupils to submit nominations for
-        the Caring Teacher Award 2024. Closing date is 12 January 2024.
+      title: Teacher's Day Wishes 2024
+      subtitle: Pen down words of appreciation
+      description: Hi Westwoodians! Please use the following link to send your well
+        wishes to your teachers! Thank you for your Heart of Gratitude!
       button: Click here
-      url: https://www.westwoodpri.moe.edu.sg/highlights/2023/caring-teacher-award-2024/
+      url: https://go.gov.sg/wwps-teachers-day-wishes-2024
       image: /images/cta2024.png
       alt: Image alt text
   - infopic:
