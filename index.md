@@ -40,7 +40,7 @@ sections:
         wishes to your teachers! Thank you for your Heart of Gratitude!
       button: Click here
       url: https://go.gov.sg/wwps-teachers-day-wishes-2024
-      image: /images/cta2024.png
+      image: /images/thank_a_teacher.jpg
       alt: Image alt text
   - infopic:
       title: Photo and Video Gallery
