@@ -9,7 +9,7 @@ variant: markdown
 <img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/MK_Staff/lucia_chan.jpg" style="width:30%">
+<img src="/images/MK_Staff/2024/lucia.png" style="width:30%">
 
 |  |
 |:---:|
