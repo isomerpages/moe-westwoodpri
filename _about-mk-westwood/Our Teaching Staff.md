@@ -9,11 +9,11 @@ variant: markdown
 <img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
 
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/MK_Staff/lucia_chan.jpg" style="width:30%">
+<img src="/images/MK_Staff/2024/lucia.png" style="width:30%">
 
 |  |
 |:---:|
-| **Ms Lucia Chan Mun Foong**<br>Centre Head |
+| **Chan Mun Foong Lucia**<br>Centre Head |
 
 <img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align="left">
