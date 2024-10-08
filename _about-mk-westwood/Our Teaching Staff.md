@@ -65,9 +65,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher  |
 
-<img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
