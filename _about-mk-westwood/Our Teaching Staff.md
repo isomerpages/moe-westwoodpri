@@ -73,7 +73,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Liu Bing**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
+| **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
 
 <img src="/images/staff23.jpg" style="width:30%;margin-left:75px;" align="left">
 <img src="/images/staff24.jpg" style="width:29%;margin-right:85px;" align="right">
