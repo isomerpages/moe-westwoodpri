@@ -16,7 +16,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 
 #### **Information on Secondary Education Open House 2024**
 
-View SST Open House Microsite
+<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/">Open House for Secondary Schools 2024</a>
   <table>
 <thead>
   <tr>
