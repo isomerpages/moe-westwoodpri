@@ -23,72 +23,72 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
+| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
 
-<img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/maria_baharuddin.png" style="width:30%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Tan Pei Qi**<br>Senior Teacher, Child Development | **Chu Yanan**<br>Senior Teacher | **Maria Binte Baharuddin**<br>Teacher |
-
-<img src="/images/MK_Staff/haryati_ali.png" style="width:33%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/lim_siew_eng.png" style="width:28.5%;margin-right:15px;" align="left">
-<img src="/images/staff10.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Aqilah.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Haryati Binte Ali**<br>Teacher | **Lim Siew Eng**<br>Teacher | **K Vishnupriyah**<br>English Language Teacher |
+| **Zakiyah Binte Bashier**<br>Level Coordinator, English Language 	 | **K Vishnupriyah**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher |
 
-<img src="/images/MK_Staff/nur_aqilah.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/staff12.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/staff13.jpg" style="width:28.5%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Nur Aqilah Binte Nirwan**<br>English Language Teacher | **Zarifah Binte Ithnin**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
-
-<img src="/images/MK_Staff/tang_lai_peng.jpg" style="width:28.5%;margin-right:15px;" align="left">
-<img src="/images/staff17.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/staff19.jpg" style="width:31.5%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Tang_Lai_Peng.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Nadiah.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Cai Luqi**<br>Chinese Language Teacher  |
+| **Zarifah Binte Ithnin**<br>English Language Teacher | **Tang Lai Peng**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
-<img src="/images/staff20.jpg" style="width:29.5%;margin-right:15px;" align="left">
-<img src="/images/staff21.jpg" style="width:29%;margin-right:15px;" align="left">
-<img src="/images/staff22.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Goh_Pei_Yu.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lim_Siew_Eng.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Mohammed_Indra.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Liu Bing**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
+| **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Lim Siew Eng**<br>English Language Teacher (FAJT) | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher |
 
-<img src="/images/staff23.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/staff24.jpg" style="width:29%;margin-right:85px;" align="right">
+<img src="/images/MK_Staff/2024/Haryati_Ali.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Maria_Baharuddin.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Senthil_Geetha.png" style="width:30%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher |
+
+<img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:30%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
+
+<img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zhou_Hong.png" style="width:30%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Liu Bing**<br>Chinese Language Teacher | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
+
+<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:30%;margin-left:75px;" align="left">
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
-| **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
-
-<img src="/images/MK_Staff/senthil_geetha.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/MK_Staff/nandini_muthiah.jpg" style="width:29%;margin-right:85px;" align="right">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **Senthil Geetha**<br>Tamil Language Teacher | **Nandini D/O Muthiah**<br>Tamil Language Teacher |
+| **Yu Zihan**<br>Chinese Language Teacher |
