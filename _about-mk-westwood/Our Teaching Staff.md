@@ -85,10 +85,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Liu Bing**<br>Chinese Language Teacher | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
 
-<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:30%;margin-left:75px;" align="left">
+<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:30%;" align="left">
 
 <br clear="left">
 
 |  |  |
-|:---:|:---:|
 | **Yu Zihan**<br>Chinese Language Teacher | | |
