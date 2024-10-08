@@ -15,15 +15,15 @@ variant: markdown
 |:---:|
 | **Chan Mun Foong Lucia**<br>Centre Head |
 
-<img src="/images/staff222.jpg" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/staff3.jpg" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/zakiyah_basheir.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Beins Vicki Maryanne**<br>Deputy Centre Head	 | **Nor Fariha Binte Mohd Ferdaus**<br>Level Head | **Zakiyah Binte Basheir**<br>Level Coordinator |
+| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
 
 <img src="/images/staff5.jpg" style="width:30%;margin-right:15px;" align="left">
 <img src="/images/staff18.jpg" style="width:29.5%;margin-right:15px;" align="left">
