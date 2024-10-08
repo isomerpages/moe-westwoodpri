@@ -63,7 +63,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Tang Lai Peng**<br>English Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher | **Cai Luqi**<br>Chinese Language Teacher  |
+| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher  |
 
 <img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
