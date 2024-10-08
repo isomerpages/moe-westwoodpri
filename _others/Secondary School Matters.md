@@ -32,7 +32,10 @@ Open House for Secondary Schools 2024 -
     <td>Hwa Chong International School</td>
     <td>Thursday, 23th May 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td>Online Only - <a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">May 2025 Y1 Admission Info Session</a></td>
+    <td>•	(ONSITE at HCIS Campus) 19 Oct 2024 (Sat) 10AM – 11:30AM
+•	(ONLINE via Zoom) 15 Nov 2024 (Fri) 7PM – 8:30PM
+•	(ONLINE via Zoom) 21 Nov 2024 (Thu) 7PM – 8:30PM
+</td>
   </tr>
 </tbody>
 </table>
