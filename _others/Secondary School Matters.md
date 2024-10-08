@@ -28,47 +28,12 @@ Open House for Secondary Schools 2024 -
   </tr>
 </thead>
 <tbody>
-  <tr>
-    <td>Anglo-Chinese School (Independent)</td>
-    <td>Saturday, 13th April 2024</td>
-    <td>8.30am to 12.30pm</td>
-    <td>Located at 121 Dover Road, Singapore 139650<br><a href="/files/ACS_I__2024_Open_House.pdf">ACS(I) 2024 Open House Invitation</a></td>
-  </tr>
-	 <tr>
-    <td>Methodist Girls’ School</td>
-    <td>Saturday, 27th April 2024</td>
-    <td>9.00am to 1.00pm</td>
-    <td>MGS Open House Portal: <a href="https://go.gov.sg/mgoh24">https://go.gov.sg/mgoh24</a></td>
-  </tr>
-		<tr>
-    <td>NUS High School</td>
-    <td>Saturday, 11th May 2024</td>
-    <td>9.00am to 1.30pm</td>
-    <td><a href="/files/NUSHS_DSA_Brochure_2024.pdf">NUSHS DSA Brochure 2024</a></td>
-  </tr>
-	<tr>
-    <td>Raffles Girls' School</td>
-    <td>Saturday, 18th May 2024</td>
-    <td>8.30am to 1.30pm</td>
-    <td><a href="/images/2024_RGS_Open_House.png">RGS 2024 Open House Infographic</a></td>
-  </tr>
-		  <tr>
-			<td>St. Joseph's Institution</td>
-    <td>Saturday, 18th May 2024</td>
-    <td>8.30am to 4.00pm</td>
-    <td>Located at 38 Malcolm Road, Singapore 308274<br><a href="/images/sji_open_house.jpg">SJI 2024 Open House Invitation</a></td>
-  </tr>
 	  <tr>
     <td>Hwa Chong International School</td>
     <td>Thursday, 23th May 2024</td>
     <td>7.00pm to 8.30pm</td>
     <td>Online Only - <a href="/images/2025_Y1_ADMISSION_INFO_SESSION__MAY_.jpg">May 2025 Y1 Admission Info Session</a></td>
   </tr>
-	 <tr>
-    <td>School of Science and Technology, Singapore</td>
-    <td>Saturday, 25th May 2024</td>
-    <td>9.00am to 1.00pm</td>
-    <td>Located at 1 Technology Drive, Singapore 138572<br><a href="https://sites.google.com/sst.edu.sg/2024sstopenhouse/open-house-programmes">Visit SST Open House Microsite</a></td></tr>
 </tbody>
 </table>
 
