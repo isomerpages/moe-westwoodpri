@@ -37,21 +37,3 @@ variant: markdown
 |  |  |  |
 |:---:|:---:|:---:|
 | **Playground** | **Water and Sand Play** | **Sensory Garden** |
-
-<img src="/images/learningenvironment8.jpg" style="width:49%" align="left">
-<img src="/images/learningenvironment9.jpg" style="width:49%" align="right">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **Hopscotch** | **Garden Symphony** |
-
-<img src="/images/learningenvironment10.jpg" style="width:49%" align="left">
-<img src="/images/learningenvironment11.jpg" style="width:49%" align="right">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **Excavation Site** | **Water Works** |
