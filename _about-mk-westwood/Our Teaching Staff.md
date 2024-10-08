@@ -43,7 +43,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Zarifah Binte Ithnin**<br>English Language Teacher | **Tang Lai Peng**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>Tan Pei Qi |
+| **Zarifah Binte Ithnin**<br>English Language Teacher | **Tang Lai Peng**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
