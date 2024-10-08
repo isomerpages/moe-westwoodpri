@@ -23,7 +23,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
+| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
 
 <img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
@@ -33,10 +33,10 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Zakiyah Binte Bashier**<br>Level Coordinator, English Language 	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
+| **Zakiyah Binte Bashier**<br>Level Coordinator, English Language 	 | **K Vishnupriyah**<br>English Language Teacher | **Senior Teacher, Child Development**<br>Tan Pei Qi |
 
-<img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
