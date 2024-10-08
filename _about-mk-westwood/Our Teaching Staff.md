@@ -63,7 +63,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher  |
+| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher |
 
 <img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
@@ -75,8 +75,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
 
-<img src="/images/staff23.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/staff24.jpg" style="width:29%;margin-right:85px;" align="right">
+<img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
