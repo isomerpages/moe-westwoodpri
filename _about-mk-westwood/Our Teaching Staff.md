@@ -77,19 +77,18 @@ variant: markdown
 
 <img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zhou_Hong.png" style="width:30%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Liu Bing**<br>Chinese Language Teacher | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
+
+<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:30%;margin-left:75px;" align="left">
 
 <br clear="left">
 
 |  |  |
 |:---:|:---:|
-| **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Yu Zihan**<br>Chinese Language Teacher |
-
-<img src="/images/MK_Staff/senthil_geetha.jpg" style="width:30%;margin-left:75px;" align="left">
-<img src="/images/MK_Staff/nandini_muthiah.jpg" style="width:29%;margin-right:85px;" align="right">
-
-<br clear="left">
-
-|  |  |
-|:---:|:---:|
-| **Senthil Geetha**<br>Tamil Language Teacher | **Nandini D/O Muthiah**<br>Tamil Language Teacher |
+| **Yu Zihan**<br>Chinese Language Teacher |
