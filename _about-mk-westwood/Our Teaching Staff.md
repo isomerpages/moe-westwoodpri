@@ -36,14 +36,14 @@ variant: markdown
 | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language 	 | **K Vishnupriyah**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Tang_Lai_Peng.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Nadiah.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Zarifah Binte Ithnin**<br>English Language Teacher | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
+| **Zarifah Binte Ithnin**<br>English Language Teacher | **Tang Lai Peng**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>Tan Pei Qi |
 
 <img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
