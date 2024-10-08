@@ -28,9 +28,9 @@ variant: markdown
 
 ##### **Our Outdoor Learning Environment**
 
-<img src="/images/learningenvironment5.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/learningenvironment6.jpg" style="width:30%;margin-right:15px;" align="left">
-<img src="/images/learningenvironment7.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK/playground.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK/water_sand_play.jpg" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK/sensory_garden.jpg" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
