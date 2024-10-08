@@ -46,14 +46,14 @@ variant: markdown
 | **Zarifah Binte Ithnin**<br>English Language Teacher | **Tang Lai Peng**<br>English Language Teacher | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2024/Goh_Pei_Yu.png" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lim_Siew_Eng.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Senior Teacher, Child Development**<br>Tan Pei Qi |
+| **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Lim Siew Eng**<br>English Language Teacher (FAJT) | **Senior Teacher, Child Development**<br>Tan Pei Qi |
 
 <img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
