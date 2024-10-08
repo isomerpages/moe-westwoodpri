@@ -56,8 +56,8 @@ variant: markdown
 | **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Lim Siew Eng**<br>English Language Teacher (FAJT) | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher |
 
 <img src="/images/MK_Staff/2024/Haryati_Ali.png" style="width:32%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Maria_Baharuddin.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Senthil_Geetha.png" style="width:30%;margin-right:15px;" align="left">
 
 <br clear="left">
 
