@@ -50,6 +50,10 @@ Open House for Secondary Schools 2024 -
 </tbody>
 </table>
 
+<a href="https://go.gov.sg/westories-official"></a>
+<a href="https://go.gov.sg/westories-official"></a>
+
+
 #### **Secondary 1 Posting**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
 
