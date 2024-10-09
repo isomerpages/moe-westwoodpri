@@ -51,7 +51,7 @@ Open House for Secondary Schools 2024 -
 </table>
 <b>HCIS 2025 Year 1 Admission Information Sessions</b><br><br>
 Signups for the HCIS 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotion poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
-Read [Letter for Parents](/files/2024/Letter_for_Parents_HCIS_2025_Y1_admission.pdf)<br>
+Read <a href="/files/2024/Letter_for_Parents_HCIS_2025_Y1_admission.pdf">Letter for Parents</a><br>
 View <a href="https://go.gov.sg/westories-official">Promotion Poster</a>
 
 #### **Secondary 1 Posting**
