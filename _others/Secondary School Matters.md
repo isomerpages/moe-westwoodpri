@@ -51,9 +51,8 @@ Open House for Secondary Schools 2024 -
 </table>
 **HCIS 2025 Year 1 Admission Information Sessions**<br><br>
 Signups for the HCIS 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotion poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
-<a href="https://go.gov.sg/westories-official">Read Letter for Parents_HCIS 2025 Y1 admission</a><br>
-<a href="https://go.gov.sg/westories-official">2025 Year 1 Admission Information Session</a>
-Add pdf letter to parents as well as their promotion poster
+Read <a href="https://go.gov.sg/westories-official">Letter for Parents</a><br>
+View <a href="https://go.gov.sg/westories-official">Promotion Poster</a>
 
 #### **Secondary 1 Posting**
 Most students are placed in secondary schools through the S1 posting process, which takes place once the PSLE results are released. Click [here](https://www.moe.gov.sg/secondary/s1-posting) to learn more about the process.
