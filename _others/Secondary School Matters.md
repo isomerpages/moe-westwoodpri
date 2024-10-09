@@ -32,26 +32,26 @@ Open House for Secondary Schools 2024 -
     <td>Hwa Chong International School</td>
     <td>Saturday, 19th Oct 2024</td>
     <td>10.00am to 11.30am</td>
-    <td>•	ONSITE at HCIS Campus
+    <td>ONSITE at HCIS Campus
 </td>
   </tr>
 	<tr>
     <td></td>
     <td>Friday, 15th Nov 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td>•	ONLINE via Zoom</td>
+    <td>ONLINE via Zoom</td>
   </tr>
 	<tr>
     <td></td>
     <td>Thursday, 21th Nov 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td>•	ONLINE via Zoom</td>
+    <td>ONLINE via Zoom</td>
   </tr>
 </tbody>
 </table>
 
-<a href="https://go.gov.sg/westories-official"></a>
-<a href="https://go.gov.sg/westories-official"></a>
+<a href="https://go.gov.sg/westories-official">placeholder 1</a><br>
+<a href="https://go.gov.sg/westories-official">placeholder 2</a>
 
 
 #### **Secondary 1 Posting**
