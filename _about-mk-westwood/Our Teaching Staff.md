@@ -90,4 +90,4 @@ variant: markdown
 <br clear="left">
 
 |  |  |
-|&nbsp;&nbsp;**Yu Zihan**<br>Chinese Language Teacher | | |
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yu Zihan**<br>Chinese Language Teacher | | |
