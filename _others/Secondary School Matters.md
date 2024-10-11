@@ -17,8 +17,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
 #### **Information on Secondary Education Open House 2024**
 
 Open House for Secondary Schools 2024 -
-<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/">Click here to view Schoolbag's full list</a><br><br>
-<b>Hwa Chong International School 2025 Year 1 Admission Information Sessions</b><br>
+<a href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/">Click here to view Schoolbag's full list</a>
   <table>
 <thead>
   <tr>
@@ -50,7 +49,7 @@ Open House for Secondary Schools 2024 -
   </tr>
 </tbody>
 </table>
-Signups for the HCIS 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotional poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
+Signups for the Hwa Chong International School 2025 Year 1 Admission (HCIS) 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotional poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
 Read <a href="/files/2024/Letter_for_Parents_HCIS_2025_Y1_admission.pdf">Letter for Parents</a><br>
 View <a href="/files/2024/2025_Year_1_Admission_Information_Session.pdf">Promotional Poster</a>
 
