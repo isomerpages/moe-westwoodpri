@@ -51,7 +51,7 @@ Partnership with parents to support them in understanding cyber wellness issues 
 1\. MOE Practising Cyber Wellness  
 [https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness) <br>
 2\. Media Literacy Council  
-[https://www.betterinternet.sg/](https://www.betterinternet.sg/)<br>
+[https://www.mlc.sg/](https://www.mlc.sg/)<br>
 3\. Cyber Security Agency<br>
 [https://www.csa.gov.sg/information-for/students](https://www.csa.gov.sg/information-for/students)
 
