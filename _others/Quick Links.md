@@ -9,7 +9,7 @@ variant: markdown
 
 | ![](/images/qlt1.jpg) | ![](/images/qlt2.png) | ![](/images/qlt3.jpg) | ![](/images/qlt4.jpg) |
 |:---:|:---:|:---:|:---:|
-| [MOE Intranet](http://intranet.moe.gov.sg/Pages/Home.aspx) | [iCON Email](https://workspace.google.com/dashboard) | [HRP](https://www.hrp.gov.sg/hrp/#/) | [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F) |
+| [MOE Intranet](https://intranet.moe.gov.sg/Pages/Home.aspx) | [iCON Email](https://workspace.google.com/dashboard) | [HRP](https://www.hrp.gov.sg/hrp/#/) | [OPAL 2.0](https://idm.opal2.moe.edu.sg/account/login?returnUrl=%2F) |
 |  |  |  |  |
 
 | <img src="/images/qlt5.png" style="width:100%"> | <img src="/images/quicklinks2.png" style="width:75%"> | <img src="/images/qlt7.png" style="width:70%" align="left"> | <img src="/images/quicklinks3.png" style="width:100%" align="left"> |
