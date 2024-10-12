@@ -10,9 +10,6 @@ variant: markdown
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UjKMJdOMi80"></iframe>
 </div>
-<h5><strong>Supporting Your Child in Primary One (by Mr Chua Sze Siong, Chief Counsellor)</strong></h5>
-<p>Click <a href="https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view" rel="noopener noreferrer nofollow" target="_blank">here</a> to
-watch the video.</p>
 <h5><strong>Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wcuylbb6m3M"></iframe>
