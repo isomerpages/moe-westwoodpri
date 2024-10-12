@@ -3,6 +3,7 @@ title: Parents' Engagement Day
 permalink: /others/highlights/2022/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
 ### **Parents' Engagement Day**
 ##### **Parents’ Engagement Day 2022**
@@ -23,8 +24,6 @@ third_nav_title: "2022"
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" frameborder="0" title="2022 Sharing to P4 Parents" src="https://www.youtube.com/embed/J2GjcmeBm8E" height="443" width="787"></iframe>
 
 #### **Primary 5 &amp; 6**
-
-Please click [here](https://drive.google.com/file/d/1PCJox9QjZ5QxLVwLGJrTKU_SFOB8CQ98/view) to watch the video.
 
 [P1 Parents Engagement Class Briefing slides_2022.pdf](/files/Parents%20Engagement%20Class%20Briefing%20slides%20P1.pdf)<br>
 [P2 Parents Engagement Class Briefing slides_2022.pdf](/files/Parents%20Engagement%20Class%20Briefing%20slides%20P2.pdf)<br>

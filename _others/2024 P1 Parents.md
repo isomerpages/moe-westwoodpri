@@ -2,126 +2,142 @@
 title: 2024 P1 Parents
 permalink: /others/2024-p1-parents/
 description: ""
-variant: tiptap
+variant: markdown
 ---
-### **2023 P1 Parents**
-#### **P1 Induction**
-##### **Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/UjKMJdOMi80" title="Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Supporting Your Child in Primary One (by Mr Chua Sze Siong, Chief Counsellor)**
-
-Click [here](https://drive.google.com/file/d/1OwUSusrbO-yrNz_XWgSpl6HViYj5dPaN/view) to watch the video.
-
-##### **Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/Wcuylbb6m3M" title="Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Developing Children's Mathematical Skills (by Ms Lam Meng Chee)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/91WBtbhqdE0" title="Developing Children's Mathematical Skills (by Ms Lam Meng Chee)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE &amp; CCA)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/RMid5hMiv5o" title="Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE &amp; CCA)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/_rwTd8f6KDM" title="Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/-Gt_qLBJE3c" title="Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Cultivating A Love for Chinese Language (by Mdm Kee Suat Har, HOD MTL)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/TXDdbYZ2enU" title="Cultivating A Love for Chinese Language (by Mdm Kee Suat Har, HOD MTL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Cultivating A Love for Malay Language (by Ms Elna Binte Hussin, SH ML &amp; TL)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/oil4sZFYNdM" title="Cultivating A Love for Malay Language (by Ms Elna Binte Hussin, SH ML &amp; TL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Cultivating A Love for Tamil Language (by Ms Venkatachalam Alamu, TL Teacher)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/o8NsZZLXFAI" title="Cultivating A Love for Tamil Language (by Ms Venkatachalam Alamu, TL Teacher)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **Briefing on Pupil Dismissal Procedures (by Mr Premnath, Year Head Middle Primary)**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/WHXbt7dydK4" title="Briefing on Pupil Dismissal Procedures (by Mr Premnath, Year Head Middle Primary)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-##### **P1 Orientation Virtual School Tour**
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/fNOnX8wlUgQ" title="P1 Orientation Virtual School Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### **Information for Parents**
-**P1 Orientation Slides (Click [here](https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing) to view)**<br>
-**Frequently Asked Questions (Click [here](/files/FAQs.pdf) to view)**<br>
-**Enquiries from 2023 P1 Parents [Click [here](https://go.gov.sg/2023p1query) to view]**<br>
-**[MOE Parent Kit] Guiding Our Children Through Their P1 Transition (Click [here](https://go.gov.sg/guiding-our-children-p1-transition) to view)**<br>
-**Photos taken at the Photo Booth on 3 Jan 2023 (Click [here](https://drive.google.com/drive/folders/1twdxg5pLEVxBsKLLL2eFT10oSEKguYj6?usp=sharing) to view)**
-
-#### **Useful Links**
-##### **1\) Bookshop Operator**
-**HB Book Centre**<br>
-Operation Hours: Monday to Friday, 8:00 a.m. to 2:00 p.m.<br>
-(Excluding public and school holidays)<br>
-Office Contact: 6270 1060<br>
-(Weekdays - 9:00 a.m. to 5:00 p.m.)<br>
-Website:&nbsp;[https://ihuntforbooks.com/](https://ihuntforbooks.com/)<br>
-Email:&nbsp;[hb.bk.ctr@gmail.com](mailto:hb.bk.ctr@gmail.com)
-
-##### **2\) Uniform Supplier / Shoes Supplier**
-**My Uniform Shop (ASIA) Pte Ltd** <br>
-209, New Upper Changi Road #03-651<br>
-Singapore 460209<br>
-Office Contact: 6276 6689<br>
-Website:&nbsp;[https://www.myuniformshop.com.sg](https://www.myuniformshop.com.sg/)<br>
-Email:&nbsp;[myuniformshop@yahoo.com](mailto:myuniformshop@yahoo.com)
-
-##### **3) School-based SCC**
-**Little Professors Learning Centre Pte. Ltd.** <br>
-Office Contact: 8606 1170 (11:30 a.m. to 7:00 p.m.)<br>
-Email:&nbsp;[westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)<br>
-
-[Little Professors Slides\_For Circualtion\_Westwood\_13 Oct 22.pdf](/files/usefulpdf1.pdf)<br>
-[SCC FAQs\_Westwood\_For Circulation\_13 Oct 22.pdf](/files/usefulpdf2.pdf)
-
-Please register via&nbsp;[https://forms.gle/Jm8yGGjaKqFfeV1c8](https://forms.gle/Jm8yGGjaKqFfeV1c8)
-
-##### **4\) School Bus Operator**
-[Westwood Pri\_Request for School Bus Services\_Year 2022 Final.docx](/files/usefuldoc.pdf)
-
-**JK59 Transport Pte Ltd**<br>
-Tel: 6465 5959 (Weekdays 9am-5:30pm / Sat 9am-1pm)<br>
-Email:&nbsp;[transport@jk59.com](mailto:transport@jk59.com)
-
-##### **5\) MOE Forms**
-
-**GIRO**<br>
-Child Development Account under Baby Bonus Scheme cannot be used for payment of fees.<br>
-[giro\_application\_form\_oct 2021.pdf](/files/usefulpdf3.pdf)
-
-**DBS / POSB**<br>
-Via FormSG at&nbsp;[https://go.gov.sg/moe-giro-dbs-posb](https://go.gov.sg/moe-giro-dbs-posb)&nbsp;using SingPass
-
-**DBS / POSB / OCBC**
-* via online banking portals
-* Select billing organisation: 
-	* 'MOE' for DBS/POSB accounts.
-	* 'Ministry of Education' for OCBC accounts.
-* Use Birth Certificate / Entry Permit No. as Direct Debit Authorisation reference no. 
-* Do not set any deduction limit
-
-**Other Banks**<br>
-Please request for a hardcopy form and submit original to school by Fri, 12 Nov 2021.
-
-**Edusave**<br>
-Pupils who are Singapore Citizens may choose to pay the second-tier miscellaneous fees ($6.50) from their Edusave accounts.
-
-Please complete the online Edusave Standing Order form with either parent's SingPass login.<br>[https://go.gov.sg/moe-edusave-standing-order](https://go.gov.sg/moe-edusave-standing-order)
-
-**Pupil Data Collection**<br>
-To be done via Student Details Form portal from 10am on Mon, 28 Nov 2022 via
-[https://pg.moe.edu.sg/forms/sdf](https://pg.moe.edu.sg/forms/sdf)<br>
-Submission by Thu, 29 Dec 2022
+<h3><strong>2024 P1 Parents</strong></h3>
+<h4><strong>P1 Induction</strong></h4>
+<h5><strong>Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UjKMJdOMi80"></iframe>
+</div>
+<h5><strong>Developing Children's Literacy Skills (by Ms Yong Lee Min, HOD EL)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/Wcuylbb6m3M"></iframe>
+</div>
+<h5><strong>Developing Children's Mathematical Skills (by Ms Lam Meng Chee)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/91WBtbhqdE0"></iframe>
+</div>
+<h5><strong>Developing Healthy and Resilient Children (by Mr Khairul Abdillah, HOD PE &amp; CCA)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RMid5hMiv5o"></iframe>
+</div>
+<h5><strong>Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_rwTd8f6KDM"></iframe>
+</div>
+<h5><strong>Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Gt_qLBJE3c"></iframe>
+</div>
+<h5><strong>Cultivating A Love for Chinese Language (by Mdm Kee Suat Har, HOD MTL)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/TXDdbYZ2enU"></iframe>
+</div>
+<h5><strong>Cultivating A Love for Malay Language (by Ms Elna Binte Hussin, SH ML &amp; TL)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/oil4sZFYNdM"></iframe>
+</div>
+<h5><strong>Cultivating A Love for Tamil Language (by Ms Venkatachalam Alamu, TL Teacher)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/o8NsZZLXFAI"></iframe>
+</div>
+<h5><strong>Briefing on Pupil Dismissal Procedures (by Mr Premnath, Year Head Middle Primary)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/WHXbt7dydK4"></iframe>
+</div>
+<h5><strong>P1 Orientation Virtual School Tour</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/fNOnX8wlUgQ"></iframe>
+</div>
+<h4><strong>Information for Parents</strong></h4>
+<p><strong>P1 Orientation Slides (Click <a href="https://drive.google.com/file/d/1zzHi8V1F8AHBOFzwBZDX6T0cpHmjCHF7/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to view)</strong>
+<br><strong>Frequently Asked Questions (Click <a href="/files/FAQs.pdf" rel="noopener noreferrer nofollow" target="_blank">here</a> to view)</strong>
+<br><strong>Enquiries from 2023 P1 Parents [Click <a href="https://go.gov.sg/2023p1query" rel="noopener noreferrer nofollow" target="_blank">here</a> to view]</strong>
+<br><strong>[MOE Parent Kit] Guiding Our Children Through Their P1 Transition (Click <a href="https://go.gov.sg/guiding-our-children-p1-transition" rel="noopener noreferrer nofollow" target="_blank">here</a> to view)</strong>
+<br><strong>Photos taken at the Photo Booth on 3 Jan 2023 (Click <a href="https://drive.google.com/drive/folders/1twdxg5pLEVxBsKLLL2eFT10oSEKguYj6?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">here</a> to view)</strong>
+</p>
+<h4><strong>Useful Links</strong></h4>
+<h5><strong>1) Bookshop Operator</strong></h5>
+<p><strong>HB Book Centre</strong>
+<br>Operation Hours: Monday to Friday, 8:00 a.m. to 2:00 p.m.
+<br>(Excluding public and school holidays)
+<br>Office Contact: 6270 1060
+<br>(Weekdays - 9:00 a.m. to 5:00 p.m.)
+<br>Website:&nbsp;<a href="https://ihuntforbooks.com/" rel="noopener noreferrer nofollow" target="_blank">https://ihuntforbooks.com/</a>
+<br>Email:&nbsp;<a href="mailto:hb.bk.ctr@gmail.com" rel="noopener noreferrer nofollow" target="_blank">hb.bk.ctr@gmail.com</a>
+</p>
+<h5><strong>2) Uniform Supplier / Shoes Supplier</strong></h5>
+<p><strong>My Uniform Shop (ASIA) Pte Ltd</strong> 
+<br>209, New Upper Changi Road #03-651
+<br>Singapore 460209
+<br>Office Contact: 6276 6689
+<br>Website:&nbsp;<a href="https://www.myuniformshop.com.sg/" rel="noopener noreferrer nofollow" target="_blank">https://www.myuniformshop.com.sg</a>
+<br>Email:&nbsp;<a href="mailto:myuniformshop@yahoo.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshop@yahoo.com</a>
+</p>
+<h5><strong>3) School-based SCC</strong></h5>
+<p><strong>Little Professors Learning Centre Pte. Ltd.</strong> 
+<br>Office Contact: 8606 1170 (11:30 a.m. to 7:00 p.m.)
+<br>Email:&nbsp;<a href="mailto:westwood@littleprofessors.com.sg" rel="noopener noreferrer nofollow" target="_blank">westwood@littleprofessors.com.sg</a>
+<br>
+</p>
+<p><a href="/files/usefulpdf1.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Professors Slides_For Circualtion_Westwood_13 Oct 22.pdf</a>
+<br><a href="/files/usefulpdf2.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC FAQs_Westwood_For Circulation_13 Oct 22.pdf</a>
+</p>
+<p>Please register via&nbsp;<a href="https://forms.gle/Jm8yGGjaKqFfeV1c8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/Jm8yGGjaKqFfeV1c8</a>
+</p>
+<h5><strong>4) School Bus Operator</strong></h5>
+<p><a href="/files/usefuldoc.pdf" rel="noopener noreferrer nofollow" target="_blank">Westwood Pri_Request for School Bus Services_Year 2022 Final.docx</a>
+</p>
+<p><strong>JK59 Transport Pte Ltd</strong>
+<br>Tel: 6465 5959 (Weekdays 9am-5:30pm / Sat 9am-1pm)
+<br>Email:&nbsp;<a href="mailto:transport@jk59.com" rel="noopener noreferrer nofollow" target="_blank">transport@jk59.com</a>
+</p>
+<h5><strong>5) MOE Forms</strong></h5>
+<p><strong>GIRO</strong>
+<br>Child Development Account under Baby Bonus Scheme cannot be used for payment
+of fees.
+<br><a href="/files/usefulpdf3.pdf" rel="noopener noreferrer nofollow" target="_blank">giro_application_form_oct 2021.pdf</a>
+</p>
+<p><strong>DBS / POSB</strong>
+<br>Via FormSG at&nbsp;<a href="https://go.gov.sg/moe-giro-dbs-posb" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-giro-dbs-posb</a>&nbsp;using
+SingPass</p>
+<p><strong>DBS / POSB / OCBC</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>via online banking portals</p>
+</li>
+<li>
+<p>Select billing organisation:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>'MOE' for DBS/POSB accounts.</p>
+</li>
+<li>
+<p>'Ministry of Education' for OCBC accounts.</p>
+</li>
+</ul>
+</li>
+<li>
+<p>Use Birth Certificate / Entry Permit No. as Direct Debit Authorisation
+reference no.</p>
+</li>
+<li>
+<p>Do not set any deduction limit</p>
+</li>
+</ul>
+<p><strong>Other Banks</strong>
+<br>Please request for a hardcopy form and submit original to school by Fri,
+12 Nov 2021.</p>
+<p><strong>Edusave</strong>
+<br>Pupils who are Singapore Citizens may choose to pay the second-tier miscellaneous
+fees ($6.50) from their Edusave accounts.</p>
+<p>Please complete the online Edusave Standing Order form with either parent's
+SingPass login.
+<br><a href="https://go.gov.sg/moe-edusave-standing-order" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-edusave-standing-order</a>
+</p>
+<p><strong>Pupil Data Collection</strong>
+<br>To be done via Student Details Form portal from 10am on Mon, 28 Nov 2022
+via <a href="https://pg.moe.edu.sg/forms/sdf" rel="noopener noreferrer nofollow" target="_blank">https://pg.moe.edu.sg/forms/sdf</a>
+<br>Submission by Thu, 29 Dec 2022</p>
