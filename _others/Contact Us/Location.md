@@ -3,12 +3,14 @@ title: Location
 permalink: /contact-us/
 description: ""
 third_nav_title: Contact Us
+variant: markdown
 ---
 ### **Location**
 
 **Address**: 1 Jurong West Street 73 S(649188)<br>
 **Contact Number**: 64121690<br>
-**Fax Number**: 67945084
+**Fax Number**: 67945084<br>
+**E-mail**: [westwood_ps@moe.edu.sg](westwood_ps@moe.edu.sg)
 
 **Have a question?**  
 Ask and get answered on our [Q&amp;A Page](https://ask.gov.sg/wwps)
