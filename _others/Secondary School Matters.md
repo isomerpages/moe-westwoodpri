@@ -57,7 +57,7 @@ Open House for Secondary Schools 2024 -
     <td>Temasek Junior College</td>
     <td>Friday, 22th Nov 2024</td>
     <td>5.00pm</td>
-    <td>ONLINE via Zoom<br>View to sign-up</td>
+    <td>ONLINE via Zoom<br>View e-poster for details on IP Admissions Talk (for 2025 intake)</td>
   </tr>
 </tbody>
 </table>
