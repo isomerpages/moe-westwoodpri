@@ -36,20 +36,32 @@ Open House for Secondary Schools 2024 -
 </td>
   </tr>
 	<tr>
-    <td></td>
+    <td>Hwa Chong International School</td>
     <td>Friday, 15th Nov 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td>ONLINE via Zoom</td>
+    <td>*ONLINE via Zoom</td>
+  </tr>
+		<tr>
+    <td>Fairfield Methodist School (Secondary)</td>
+    <td>Wednesday, 20th Nov 2024</td>
+    <td>12.30pm to 4.30pm</td>
+    <td>ONSITE @ 102 Dover Road, Singapore 139699<br>View to sign-up</td>
   </tr>
 	<tr>
-    <td></td>
-    <td>Thursday, 21th Nov 2024</td>
+    <td>Hwa Chong International School</td>
+    <td>Thursday, 21st Nov 2024</td>
     <td>7.00pm to 8.30pm</td>
-    <td>ONLINE via Zoom</td>
+    <td>*ONLINE via Zoom</td>
+  </tr>
+		<tr>
+    <td>Temasek Junior College</td>
+    <td>Friday, 22th Nov 2024</td>
+    <td>5.00pm</td>
+    <td>ONLINE via Zoom<br>View to sign-up</td>
   </tr>
 </tbody>
 </table>
-Signups for the Hwa Chong International School 2025 Year 1 Admission (HCIS) 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotional poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
+*Signups for the Hwa Chong International School 2025 Year 1 Admission (HCIS) 2025 Year 1 Admission Information Sessions can be done via the QR code in the promotional poster below, or by following this <a href="https://forms.gle/b9FBv2ewLxggHed86">link</a>.<br><br>
 Read <a href="/files/2024/Letter_for_Parents_HCIS_2025_Y1_admission.pdf">Letter for Parents</a><br>
 View <a href="/files/2024/2025_Year_1_Admission_Information_Session.pdf">Promotional Poster</a>
 
