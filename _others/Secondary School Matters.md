@@ -45,7 +45,7 @@ Open House for Secondary Schools 2024 -
     <td>Fairfield Methodist School (Secondary)</td>
     <td>Wednesday, 20th Nov 2024</td>
     <td>12.30pm to 4.30pm</td>
-    <td>ONSITE @ 102 Dover Road, Singapore 139699<br>View to sign-up</td>
+    <td>ONSITE @ 102 Dover Road, Singapore 139699<br>Scan QR code in <a target="_blank" href="images\2024\fairfield_flyer.jpg">e-flyer</a> to register</td>
   </tr>
 	<tr>
     <td>Hwa Chong International School</td>
@@ -57,7 +57,7 @@ Open House for Secondary Schools 2024 -
     <td>Temasek Junior College</td>
     <td>Friday, 22th Nov 2024</td>
     <td>5.00pm</td>
-    <td>ONLINE via Zoom<br>View to sign-up</td>
+    <td>ONLINE via Zoom<br>View <a target="_blank" href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools-2024/">e-poster</a> for details on IP Admissions Talk (for 2025 intake)</td>
   </tr>
 </tbody>
 </table>
