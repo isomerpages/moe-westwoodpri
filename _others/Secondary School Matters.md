@@ -45,7 +45,7 @@ Open House for Secondary Schools 2024 -
     <td>Fairfield Methodist School (Secondary)</td>
     <td>Wednesday, 20th Nov 2024</td>
     <td>12.30pm to 4.30pm</td>
-    <td>ONSITE @ 102 Dover Road, Singapore 139699<br>View to sign-up</td>
+    <td>ONSITE @ 102 Dover Road, Singapore 139699<br>Scan QR code in e-flyer to register</td>
   </tr>
 	<tr>
     <td>Hwa Chong International School</td>
