@@ -54,7 +54,7 @@ Open House for Secondary Schools 2024 -
     <td>Bukit Panjang Government High School</td>
     <td>Saturday, 16th Nov 2024</td>
     <td>9.00am to 12.30pm</td>
-    <td>- ONSITE at BPGHS Campus </td>
+    <td>- ONSITE @ 7 Choa Chu Kang Ave 4, Singapore 689809 </td>
   </tr>
 		<tr>
     <td>Fairfield Methodist School (Secondary)</td>
