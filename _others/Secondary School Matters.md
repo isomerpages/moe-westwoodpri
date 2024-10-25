@@ -32,15 +32,14 @@ Open House for Secondary Schools 2024 -
     <td>Hwa Chong International School</td>
     <td>Saturday, 19th Oct 2024</td>
     <td>10.00am to 11.30am</td>
-    <td>- ONSITE at HCIS Campus
+    <td>- ONSITE @ 663 Bukit Timah Road, Singapore 269783
 </td>
   </tr>
 		<tr>
     <td>NUS High School</td>
     <td>Friday, 25th Oct 2024</td>
     <td>5.30pm to 6.30pm</td>
-    <td>- Supplementary Intake Exercise (SIE) 2024<br>
-			- Online Information Session<br>
+    <td>- Supplementary Intake Exercise (SIE) 2024 Online Information Session<br>
 			- Scan QR Code in <a target="_blank" href="/files/2024/nushs.pdf">e-brochure</a> to register
 			</td>
   </tr>
