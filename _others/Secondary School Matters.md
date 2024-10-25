@@ -41,7 +41,7 @@ Open House for Secondary Schools 2024 -
     <td>5.30pm to 6.30pm</td>
     <td>- Supplementary Intake Exercise (SIE) 2024<br>
 			- Online Information Session<br>
-			- Scan QR Code in e-brochure to register
+			- Scan QR Code in [e-brochure](/files/2024/nushs.pdf) to register
 			</td>
   </tr>
 	<tr>
