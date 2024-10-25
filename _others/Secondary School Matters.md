@@ -51,6 +51,12 @@ Open House for Secondary Schools 2024 -
     <td>- ONLINE via Zoom*</td>
   </tr>
 		<tr>
+    <td>Bukit Panjang Government High School</td>
+    <td>Saturday, 16th Nov 2024</td>
+    <td>9.00am to 12.30pm</td>
+    <td>- ONSITE at BPGHS Campus </td>
+  </tr>
+		<tr>
     <td>Fairfield Methodist School (Secondary)</td>
     <td>Wednesday, 20th Nov 2024</td>
     <td>12.30pm to 4.30pm</td>
