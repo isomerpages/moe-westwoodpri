@@ -35,6 +35,15 @@ Open House for Secondary Schools 2024 -
     <td>- ONSITE at HCIS Campus
 </td>
   </tr>
+		<tr>
+    <td>NUS High School</td>
+    <td>Friday, 25th Oct 2024</td>
+    <td>5.30pm to 6.30pm</td>
+    <td>- Supplementary Intake Exercise (SIE) 2024<br>
+			- Online Information Session<br>
+			- Scan QR Code in e-brochure to register
+			</td>
+  </tr>
 	<tr>
     <td>Hwa Chong International School</td>
     <td>Friday, 15th Nov 2024</td>
