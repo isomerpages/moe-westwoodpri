@@ -35,11 +35,26 @@ Open House for Secondary Schools 2024 -
     <td>- ONSITE at HCIS Campus
 </td>
   </tr>
+		<tr>
+    <td>NUS High School</td>
+    <td>Friday, 25th Oct 2024</td>
+    <td>5.30pm to 6.30pm</td>
+    <td>- Supplementary Intake Exercise (SIE) 2024<br>
+			- Online Information Session<br>
+			- Scan QR Code in <a target="_blank" href="/files/2024/nushs.pdf">e-brochure</a> to register
+			</td>
+  </tr>
 	<tr>
     <td>Hwa Chong International School</td>
     <td>Friday, 15th Nov 2024</td>
     <td>7.00pm to 8.30pm</td>
     <td>- ONLINE via Zoom*</td>
+  </tr>
+		<tr>
+    <td>Bukit Panjang Government High School</td>
+    <td>Saturday, 16th Nov 2024</td>
+    <td>9.00am to 12.30pm</td>
+    <td>- ONSITE @ 7 Choa Chu Kang Ave 4, Singapore 689809</td>
   </tr>
 		<tr>
     <td>Fairfield Methodist School (Secondary)</td>
