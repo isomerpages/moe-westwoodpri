@@ -32,7 +32,7 @@ Open House for Secondary Schools 2024 -
     <td>Hwa Chong International School</td>
     <td>Saturday, 19th Oct 2024</td>
     <td>10.00am to 11.30am</td>
-    <td>- ONSITE at HCIS Campus
+    <td>- ONSITE @ 663 Bukit Timah Road, Singapore 269783
 </td>
   </tr>
 		<tr>
