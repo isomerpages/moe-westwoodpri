@@ -4,8 +4,8 @@ permalink: /others/booklist-for-2024/
 description: ""
 variant: markdown
 ---
-### **Booklist for 2024**
-Online purchase of books can be made via&nbsp;[https://www.ihuntforbooks.com](https://www.ihuntforbooks.com/).&nbsp; Please refer to the last page of each booklist for the 2023 year-end sale dates and timing. 
+### **Booklist for 2025**
+Online purchase of books can be made via&nbsp;[https://www.ihuntforbooks.com](https://www.ihuntforbooks.com/).&nbsp; Please refer to the last page of each booklist for the 2024 year-end sale dates and timing. 
 
 Primary 1 BookList <br>
 [WWPS Booklist 2024 P1](/files/WW_Booklist_2024_P1.pdf)
