@@ -2,8 +2,9 @@ collections:
   highlights:
     output: true
     order:
-      - 2024/.keep
       - Highlights.md
+      - 2024/.keep
+      - 2023/.keep
       - 2023/P1 Orientation.md
       - 2023/Celebration of Positivity.md
       - 2023/Inter House Sports Competition.md
@@ -31,7 +32,6 @@ collections:
       - 2023/7th Student Leaders' Investiture.md
       - 2023/P6 Motivation Camp.md
       - 2023/Empowering STEM Education Professionals.md
-      - 2023/.keep
       - 2023/Australian Educators from University of Newcastle.md
       - 2023/Pos Ed Sharing.md
       - 2023/Hari Raya Celebration.md
