@@ -5,9 +5,9 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
-### **Prize Giving Day**
+### **Prize Giving Days 2024**
 
-This year, our annual prize giving event was a special two-day celebration. On November 15th, we acknowledged the achievements of our P5 and P6 students, and on November 16th, we honored the efforts of our P1 to P4 students. This extended event allowed us to create an inclusive experience, highlighting the pride and happiness of our school community. In addition, we had a special segment to pay tribute to Mr. Chin, our Vice-Principal Admin, who will be posted to West Spring Primary School, effective from December 15, 2023. We would like to express our gratitude for his contribution to Westwood Primary, and he will be missed by all. The year ended on a high note, leaving everyone inspired and eager for the year ahead.
+This year’s Prize Giving Day at Westwood Primary was a joyful celebration of our students’ achievements, spread across three memorable days to honor the unique milestones of each cohort. The Lower Primary Prize Giving Day highlighted the budding talents and efforts of our youngest learners, celebrating their positive attitudes. The Middle Primary Prize Giving Day celebrated the achievements of students in both academic and non-academic domains, reflecting the resilience and growth mindset of our middle primary students, encouraging them to continue striving for excellence in all areas of their lives. Finally, the Upper Primary Prize Giving Day paid tribute to the dedication and perseverance of our senior students as the Primary 6s prepared to embark on new journeys. Each event was filled with captivating performances and heartwarming moments that reflected our school’s commitment to nurturing future-ready confidence, a resilient mindset, a heart of gratitude, passion for community, focusing on the holistic development of each student.
 
 | Upper Primary Prize Giving Day | Middle Primary Prize Giving Day | Lower Primary Prize Giving Day | All Prize Recipients (by professional photographer) |
 | -------- | -------- | -------- | -------- |
