@@ -2,6 +2,7 @@ collections:
   highlights:
     output: true
     order:
+      - 2024/.keep
       - Highlights.md
       - 2023/P1 Orientation.md
       - 2023/Celebration of Positivity.md
