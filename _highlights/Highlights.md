@@ -52,4 +52,4 @@ variant: markdown
 #### **President's Visit**
 <br clear="left">
 	
-[Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit/)</b></b></b></b></b></b></b></b>
+[Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit/) </b></b></b></b></b></b></b></b>
