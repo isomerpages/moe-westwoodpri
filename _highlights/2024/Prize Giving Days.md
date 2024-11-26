@@ -11,7 +11,7 @@ This year’s Prize Giving Day at Westwood Primary was a joyful celebration of o
 
 | Upper Primary Prize Recipients | Middle Primary Prize Recipients | Lower Primary Prize Recipients |
 | -------- | -------- | -------- |
-| Photos  [link](https://drive.google.com/drive/folders/1XmeDrbKVc20xiJHOrwhLA1zJQSUZJfjD?usp=sharing) | Photos [link](https://drive.google.com/drive/folders/1AR9BM0VRZ1iNGD4yRRCBfwJxy026_iDy?usp=sharing)     | Photos [link](https://drive.google.com/drive/folders/1u8wyP0hbMtPraT9Hk3igxh3jvfsoitsr?usp=sharing)     |
+| Photos  [link](https://drive.google.com/drive/folders/19aBjNRGkVKwmPFIu0olWN_gPxy1reovN?usp=sharing) | Photos [link](https://drive.google.com/drive/folders/1AR9BM0VRZ1iNGD4yRRCBfwJxy026_iDy?usp=sharing)     | Photos [link](https://drive.google.com/drive/folders/1u8wyP0hbMtPraT9Hk3igxh3jvfsoitsr?usp=sharing)     |
 
 *All links are accessible until 30 Dec 2024.*
 
