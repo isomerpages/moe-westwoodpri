@@ -5,16 +5,23 @@ description: ""
 variant: markdown
 ---
 ### **Highlights**
-
+<p>
 <img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
 #### **Prize Giving Days 2024**
-	
+
+<br>
+</p>
+
 [Read More...](https://www.westwoodpri.moe.edu.sg/highlights/2024/prize-giving-days/)	
 	
-	
-<img src="/images/highlights2.jpg" style="width:10%;margin-right:15px;" align="left"><b>
+<p>
+<img src="/images/highlights2.jpg" style="width:10%;margin-right:15px;" align="left">
 #### **Cyber Week**
-</b>	
+
+<br>
+
+
+</p>
 
 [Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2022/cyber-week/)	
 	
