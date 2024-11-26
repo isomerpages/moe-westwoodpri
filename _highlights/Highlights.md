@@ -5,9 +5,9 @@ description: ""
 variant: markdown
 ---
 ### **Highlights**
-<img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"><b>
+
+<img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
 #### **Prize Giving Days 2024**
-</b>
 	
 [Read More...](https://www.westwoodpri.moe.edu.sg/highlights/2024/prize-giving-days/)	
 	
@@ -52,4 +52,4 @@ variant: markdown
 #### **President's Visit**
 </b>
 	
-[Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit/) 
+[Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2019/presidents-visit/)
