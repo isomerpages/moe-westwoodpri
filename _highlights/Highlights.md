@@ -6,8 +6,7 @@ variant: markdown
 ---
 ### **Highlights**
 
-<p>
-<img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
+<p><img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
 </p><h4><b>Prize Giving Days 2024 </b></h4>
 <br>
 <p></p>
