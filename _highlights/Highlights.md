@@ -6,16 +6,13 @@ variant: markdown
 ---
 ### **Highlights**
 <p>
-<img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
-#### **Prize Giving Days 2024**
+<img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> #### **Prize Giving Days 2024**
 </p>
 
 [Read More...](https://www.westwoodpri.moe.edu.sg/highlights/2024/prize-giving-days/)	
 	
 <p>
-<img src="/images/highlights2.jpg" style="width:10%;margin-right:15px;" align="left">
-#### **Cyber Week**
-
+<img src="/images/highlights2.jpg" style="width:10%;margin-right:15px;" align="left">#### **Cyber Week**
 </p>
 
 [Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2022/cyber-week/)	
