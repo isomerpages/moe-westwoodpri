@@ -2,6 +2,7 @@
 title: Highlights
 permalink: /others/highlights/
 description: ""
+variant: markdown
 ---
 ### **Highlights**
 <img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"><b>
