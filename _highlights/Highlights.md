@@ -6,9 +6,11 @@ variant: markdown
 ---
 ### **Highlights**
 
+<div>
 <img src="/images/highlights1.jpg" style="width:10%;margin-right:15px;" align="left"> 
 <h4><b>Prize Giving Days 2024 </b></h4>
 <br>
+</div>
 	
 [Read More...](https://www.westwoodpri.moe.edu.sg/highlights/2024/prize-giving-days/)	
 	
