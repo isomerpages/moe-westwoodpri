@@ -18,9 +18,6 @@ This year’s Prize Giving Day at Westwood Primary was a joyful celebration of o
 ##### **Accolade Video 2024**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vWKmbpbf46c?si=v8nF_6yXT39TRUTu" height="450" width="800"></iframe><br>
 
-##### **Flourishing Student Leaders 2023**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gZoXQmVKmNw?si=VHTbje2g6x2gqTcw" height="450" width="800"></iframe><br>
-
 ##### **Tribute to Mr Chin 2023**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lwFbAI6O8SI?si=mZZ0JgBuvJF8Vs-x" height="450" width="800"></iframe>
 
