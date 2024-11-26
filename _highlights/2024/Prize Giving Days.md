@@ -18,11 +18,5 @@ This year’s Prize Giving Day at Westwood Primary was a joyful celebration of o
 ##### **Accolade Video 2024**
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vWKmbpbf46c?si=v8nF_6yXT39TRUTu" height="450" width="800"></iframe><br>
 
-##### **Tribute to Mr Chin 2023**
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lwFbAI6O8SI?si=mZZ0JgBuvJF8Vs-x" height="450" width="800"></iframe>
-
-![](/images/Uper_Pri_Prize_Giving_2023_2.jpg)<br>
-![](/images/Upper_Pri_Prize_Giving_2023_1.jpg)<br>
-![](/images/Middle_Primary_Prize_Giving_Day_2023_1.jpg)<br>
-![](/images/Middle_Primary_Prize_Giving_Day_2023.jpg)<br>
-![](/images/Lower_Primary_Prize_Giving_2023.jpg)<br>
+##### **Performances**
+<iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/19vBv-Y7_GlMTBbP1cZHCEvJHRhvq-1vXcgQ4XAi2LXc/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
