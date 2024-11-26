@@ -5,7 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: "2024"
 ---
-### **Prize Giving Days 2024**
+### **Prize Giving Days**
 
 This year’s Prize Giving Day at Westwood Primary was a joyful celebration of our students’ achievements, spread across three memorable days to honor the unique milestones of each cohort. The Lower Primary Prize Giving Day highlighted the budding talents and efforts of our youngest learners, celebrating their positive attitudes. The Middle Primary Prize Giving Day celebrated the achievements of students in both academic and non-academic domains, reflecting the resilience and growth mindset of our middle primary students, encouraging them to continue striving for excellence in all areas of their lives. Finally, the Upper Primary Prize Giving Day paid tribute to the dedication and perseverance of our senior students as the Primary 6s prepared to embark on new journeys. Each event was filled with captivating performances and heartwarming moments that reflected our school’s commitment to nurturing future-ready confidence, a resilient mindset, a heart of gratitude, passion for community, focusing on the holistic development of each student.
 
