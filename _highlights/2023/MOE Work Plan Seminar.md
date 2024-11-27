@@ -1,8 +1,9 @@
 ---
 title: MOE Work Plan Seminar
-permalink: /highlights/2023/moe-work-plan-seminar/
+permalink: /others/highlights/2023/moe-work-plan-seminar/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **Work Plan Seminar**
 

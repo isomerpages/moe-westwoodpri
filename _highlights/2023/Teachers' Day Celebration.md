@@ -1,8 +1,9 @@
 ---
 title: Teachers' Day Celebration
-permalink: /highlights/2023/teachers-day-celebration/
+permalink: /others/highlights/2023/teachers-day-celebration/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **“Heart of Gratitude” Wishing Wall for Teachers’ Day 2023**
 

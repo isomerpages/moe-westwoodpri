@@ -1,6 +1,6 @@
 ---
 title: Celebration of Positivity
-permalink: /highlights/2023/celebration-of-positivity/
+permalink: /others/highlights/2023/celebration-of-positivity/
 variant: markdown
 description: ""
 third_nav_title: "2023"

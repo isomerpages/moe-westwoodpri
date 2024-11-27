@@ -3,6 +3,7 @@ title: NSMark Gold Award
 permalink: /others/highlights/2023/nsmark-gold-award/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **NSMark Gold Award**<img src="/images/NSmark%20Gold%20Logo.png" style="width:30%">
 

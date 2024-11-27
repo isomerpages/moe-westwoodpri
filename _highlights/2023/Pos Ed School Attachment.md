@@ -1,8 +1,9 @@
 ---
 title: Pos Ed School Attachment
-permalink: /highlights/2023/pos-ed-school-attachment/
+permalink: /others/highlights/2023/pos-ed-school-attachment/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **Pos Ed School Attachment @WWPS**
 

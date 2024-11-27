@@ -1,8 +1,9 @@
 ---
 title: Opening of CCE Hub
-permalink: /highlights/2023/opening-of-cce-hub/
+permalink: /others/highlights/2023/opening-of-cce-hub/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **CCE Hub Opening Ceremony**
 

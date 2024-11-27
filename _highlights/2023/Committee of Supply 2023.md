@@ -1,8 +1,9 @@
 ---
 title: Committee of Supply 2023
-permalink: /highlights/2023/committee-of-supply-2023/
+permalink: /others/highlights/2023/committee-of-supply-2023/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **Learn for Life: Forging Our Collective Future**
 

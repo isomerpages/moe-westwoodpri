@@ -1,8 +1,9 @@
 ---
 title: Japanese School Visit
-permalink: /highlights/2023/japanese-school-visit/
+permalink: /others/highlights/2023/japanese-school-visit/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **Japanese School Visit**
 

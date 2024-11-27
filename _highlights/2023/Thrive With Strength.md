@@ -1,8 +1,9 @@
 ---
 title: Thrive With Strength
-permalink: /highlights/2023/thrive-with-strength/
+permalink: /others/highlights/2023/thrive-with-strength/
 description: ""
 third_nav_title: "2023"
+variant: tiptap
 ---
 ### **Thrive With Strength Publication**
 
