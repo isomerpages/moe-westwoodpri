@@ -1,6 +1,6 @@
 ---
 title: P1 Orientation
-permalink: /highlights/2023/p1-orientation/
+permalink: /others/highlights/2023/p1-orientation/
 variant: markdown
 description: ""
 third_nav_title: "2023"

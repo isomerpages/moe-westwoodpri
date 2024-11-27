@@ -1,6 +1,6 @@
 ---
 title: Prize Giving Days
-permalink: /highlights/2024/prize-giving-days/
+permalink: /others/highlights/2024/prize-giving-days/
 variant: markdown
 description: ""
 third_nav_title: "2024"
