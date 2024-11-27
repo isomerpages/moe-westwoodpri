@@ -22,25 +22,17 @@ sections:
         - title: Quicklinks
           description: ""
           url: /others/quicklinks/
-      subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
+      subtitle: A Positive Education School that nurtures thriving teachers and
+        flourishing pupils
       variant: floating
       size: sm
       backgroundColor: gray
   - infopic:
       title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
+      subtitle: HAVE A QUESTION ?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/wwps
       image: /images/westwood-askgov.png
-      alt: Image alt text
-  - infopic:
-      title: Teachers' Day Wishes 2024
-      subtitle: Pen down words of appreciation
-      description: Hi Westwoodians! Please use the following link to send your well
-        wishes to your teachers! Thank you for your Heart of Gratitude!
-      button: Click here
-      url: https://go.gov.sg/wwps-teachers-day-wishes-2024
-      image: /images/thank_a_teacher.jpg
       alt: Image alt text
   - infopic:
       title: Photo and Video Gallery
