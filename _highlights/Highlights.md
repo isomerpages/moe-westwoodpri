@@ -12,7 +12,7 @@ variant: markdown
 <br>
 </div>
 	
-[Read More...](https://www.westwoodpri.moe.edu.sg/highlights/2024/prize-giving-days/)	
+[Read More...](https://www.westwoodpri.moe.edu.sg/others/highlights/2024/prize-giving-days/)	
 
 <div>
 <img src="/images/highlights2.jpg" style="width:10%;margin-right:15px;" align="left">
