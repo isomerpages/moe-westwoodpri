@@ -66,13 +66,4 @@ sections:
       url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
       image: /images/10th anniversary.jpg
       alt: 10th
-  - infopic:
-      title: Teachers' Day Wishes 2024
-      subtitle: Pen down words of appreciation
-      description: Hi Westwoodians! Please use the following link to send your well
-        wishes to your teachers! Thank you for your Heart of Gratitude!
-      button: Click here
-      url: https://go.gov.sg/wwps-teachers-day-wishes-2024
-      image: /images/thank_a_teacher.jpg
-      alt: Image alt text
 ---
