@@ -22,7 +22,8 @@ sections:
         - title: Quicklinks
           description: ""
           url: /others/quicklinks/
-      subtitle: A Pos Ed School that nurtures thriving teachers and flourishing pupils
+      subtitle: A Positive Education School that nurtures thriving teachers and
+        flourishing pupils
       variant: floating
       size: sm
       backgroundColor: gray
