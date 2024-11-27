@@ -29,7 +29,7 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION
+      subtitle: HAVE A QUESTION ?
       button: VIEW OR ASK QUESTIONS ON ASK.GOV
       url: https://ask.gov.sg/wwps
       image: /images/westwood-askgov.png
