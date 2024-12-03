@@ -25,7 +25,7 @@ Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may b
 •	Able to provide good service and quality food at reasonable prices
 •	Able to observe high standard of food sand personal hygiene
 •	Must be in personal attendance at the stall during operation hours
-•	Must comply with the Healthy Eating in Schools Programme Guidelines set by the Health Promotion Board (https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme.
+•	Must comply with the Healthy Eating in Schools Programme Guidelines set by the [Health Promotion Board](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
 •	Preferably have experience in running a school canteen or catering experience
 •	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
 •	Successful applicant and stall assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA)
