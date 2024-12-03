@@ -22,14 +22,14 @@ Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may b
 (Jan - Dec 2025)
 
 **Requirements**<br>
-•	Applicant must be a Singapore Citizen or Singapore Permanent Resident
-•	Able to provide good service and quality food at reasonable prices
-•	Able to observe high standard of food sand personal hygiene
-•	Must be in personal attendance at the stall during operation hours
-•	Must comply with the Healthy Eating in Schools Programme Guidelines set by the [Health Promotion Board](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).
-•	Preferably have experience in running a school canteen or catering experience
-•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)
-•	Successful applicant and stall assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA)
+•	Applicant must be a Singapore Citizen or Singapore Permanent Resident<br>
+•	Able to provide good service and quality food at reasonable prices<br>
+•	Able to observe high standard of food sand personal hygiene<br>
+•	Must be in personal attendance at the stall during operation hours<br>
+•	Must comply with the Healthy Eating in Schools Programme Guidelines set by the [Health Promotion Board](https://www.hpb.gov.sg/schools/school-programmes/healthy-meals-in-schools-programme).<br>
+•	Preferably have experience in running a school canteen or catering experience<br>
+•	Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA)<br>
+•	Successful applicant and stall assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA)<br>
 
 **Application Procedure**<br>
 [Application Form](/files/School_Application_for_canteen_stall.pdf) must be completed and submitted to our School’s General Office by **Friday, 20th Dec 2024** with the following documents:
