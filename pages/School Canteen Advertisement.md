@@ -31,7 +31,7 @@ Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may b
 •	Successful applicant and stall assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA)
 
 **Application Procedure**<br>
-[Application Form](/files/application%20for%20canteen%20stall%20in%20existing%20school.pdf) must be completed and submitted to our School’s General Office by **Fri, 20 Dec 2024** with the following documents:
+[Application Form](/files/School Application for canteen stall.pdf) must be completed and submitted to our School’s General Office by **Fri, 20 Dec 2024** with the following documents:
 * Proposed menu and pricing
 * Photocopy of the applicant’s NRIC (front and back)
 * Photocopy of relevant certificates such as Basic Food Hygiene, etc.
