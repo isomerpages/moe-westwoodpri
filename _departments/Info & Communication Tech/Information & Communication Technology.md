@@ -9,11 +9,7 @@ variant: markdown
 
 <img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
 
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Azeri Bin Mustafar, Mr Rudy Hairil Bin Adnan, Mr Muhardatsualiff Bin Shamhati, Ms Li Huili, Mdm Siti Kalsom Bte Zam Zam, Mdm Azimah Bte Ghazali
+Mr Azeri Bin Mustafar, Mr Rudy Hairil Bin Adnan, Mr Muhardatsualiff Bin Shamhati, Mr Gerard Ng, Mdm Siti Kalsom Bte Zam Zam, Mdm Azimah Bte Ghazali
 
 #### **WWPS Pupil ICT Learning Framework**
 
@@ -59,6 +55,6 @@ Partnership with parents to support them in understanding cyber wellness issues 
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
 
 #### **Information &amp; Communication Technology Committee**
-Mr Ng Zhili Gerard-Christian (HOD/ ICT covering)<br>
+Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
 Ms Siti Kalsom Zam Zam<br>
 Mdm Azimah
