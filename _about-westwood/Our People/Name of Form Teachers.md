@@ -25,7 +25,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 2 Confidence | MRS LIM-NG SU CHERN<br>MDM SURIATI BTE DJUAHIR |
+| 2 Confidence | MS CHEN JIA HUI<br>MS NURUL SYAFIQAH BINTE ANUAR KHAN |
 | 2 Diligence | MDM RALLEEAH NAINA MOHAMED<br>MS ELNA BTE HUSSIN |
 | 2 Gratitude | MS CHEN JIA HUI<br>MS CHANG YU JUAN, JADE |
 | 2 Hope | MS WYDRE KWEK WEI TING<br>MS YAP HUI TEE |
