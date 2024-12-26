@@ -8,15 +8,16 @@ variant: markdown
 ### **ICT &amp; Data Management**
 
 <img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
-**ICT Department**
-1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)
-2.	Mr Muhardatsualiff Bin Shamhati (ICT Manager)
-3.	Mr Mohamad Ridhwan Bin Jamain
-4.	Mdm Siti Kalsom Bte Zam Zam
-5.	Ms Khoo Jiahui
-6.	Ms Lin Qianting
-7.	Mr Azeri Bin Mustafar
-8.	Mr Rudy Hairil Bin Adnan
+
+**ICT Department**<br>
+1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
+2.	Mr Muhardatsualiff Bin Shamhati (ICT Manager)<br>
+3.	Mr Mohamad Ridhwan Bin Jamain<br>
+4.	Mdm Siti Kalsom Bte Zam Zam<br>
+5.	Ms Khoo Jiahui<br>
+6.	Ms Lin Qianting<br>
+7.	Mr Azeri Bin Mustafar<br>
+8.	Mr Rudy Hairil Bin Adnan<br>
 
 #### **WWPS Pupil ICT Learning Framework**
 
