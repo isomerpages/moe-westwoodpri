@@ -51,7 +51,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 4 Confidence | MR PREMNATH S/O CHANDRAN<br>MR LOH CHEE WEI |
+| 4 Confidence | MR SUREEN KUMAR VALAUTHAM<br>MR LOH CHEE WEI |
 | 4 Diligence | MS SARANYA ASOKAN<br>MS WONG SHEANG YUN |
 | 4 Gratitude | MR TAN SHI WEI<br>MRS TAN-NAI LI HUA |
 | 4 Resilience | MR TAN TUAN HENG<br>MR TAN LAY LIAN |
