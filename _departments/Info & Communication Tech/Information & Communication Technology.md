@@ -22,7 +22,9 @@ variant: markdown
 **School Cockpit Committee**<br>
 1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
 2.	Ms Yap Hui Tee (Assistant School Cockpit Coordinator)<br>
-3.	Mr Mohamad Ridhwan Bin Jamain<br>
+3.	Ms Yao Anli<br>
+4.	Mdm Suriati Bte Djuahir<br>
+5.	Ms Lin Qianting<br>
 
 #### **WWPS Pupil ICT Learning Framework**
 
