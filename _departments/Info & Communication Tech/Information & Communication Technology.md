@@ -19,6 +19,11 @@ variant: markdown
 7.	Mr Azeri Bin Mustafar<br>
 8.	Mr Rudy Hairil Bin Adnan
 
+**School Cockpit Committee**<br>
+1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
+2.	Ms Yap Hui Tee (Assistant School Cockpit Coordinator)<br>
+3.	Mr Mohamad Ridhwan Bin Jamain<br>
+
 #### **WWPS Pupil ICT Learning Framework**
 
 <img src="/images/ict2.jpg" style="width:85%">
