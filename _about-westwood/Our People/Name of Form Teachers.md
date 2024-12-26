@@ -32,7 +32,7 @@ variant: markdown
 | 2 Kindness | MDM JAMALIAH BTE SULAIMAN<br>MS THACHAYANI  PUTARAN |
 | 2 Resilience | MDM LEONG WINNIE<br>MS NATHANIA LAM MUN YEUNG |
 | 2 Synergy | MS KHOO JIA HUI<br>MS LEE LAY KHENG (SANDY) |
-| 2 Teamwork | MR YEO JUN BO<br>MS ZHONG XINYING |
+| 2 Teamwork | MDM SUHAILA BINTE MD LAIP<br>MS ASYIRA BINTI ISMAWI |
 |
 
 #### **P3 Form Teachers**
