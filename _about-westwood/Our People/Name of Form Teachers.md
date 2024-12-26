@@ -43,8 +43,8 @@ variant: markdown
 | 3 Diligence | MDM LIM SHAE MIN<br>MDM NAI LI HUA (MRS TAN) |
 | 3 Gratitude | MR MUHAMMAD SYAFIQ BIN AWANG<br>MDM ANG HWEE CHIN |
 | 3 Resilience | MR TAN TUAN HENG<br>MDM LIM SWEE KENG ( VIVIAN) |
-| 3 Synergy | MS FATHIMAH MUZAMMILAH<br>MS GU SI YUAN |
-| 3 Teamwork | MDM LIM SHAE MIN |
+| 3 Synergy | MR ONG XUAN YOU JOEL<br>MS GU SI YUAN |
+| 3 Teamwork | MR ZHANG WEIXIANG<br>MS ANEESHA BEEVI BTE AMSSAH |
 |
 
 #### **P4 Form Teachers**
