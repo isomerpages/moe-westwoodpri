@@ -53,8 +53,8 @@ variant: markdown
 |:---:|---|
 | 4 Confidence | MR SUREEN KUMAR VALAUTHAM<br>MS ZHONG XINYING (NICHOLIA) |
 | 4 Diligence | MS CHONG YOKE TING<br>MR DEXTER SIM YU MIN |
-| 4 Gratitude | MR TAN SHI WEI<br>MRS TAN-NAI LI HUA |
-| 4 Resilience | MR TAN TUAN HENG<br>MR TAN LAY LIAN |
+| 4 Gratitude | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
+| 4 Resilience | MS LAM MENG CHEE<br>MR TAN LAY LIAN |
 | 4 Synergy | MDM HAZEL CHAN<br>MR DEVARAJ S/O NAMBIRAJAN |
 | 4 Teamwork | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 |
