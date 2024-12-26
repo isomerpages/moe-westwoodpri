@@ -56,7 +56,7 @@ variant: markdown
 | 4 Gratitude | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 | 4 Resilience | MS LAM MENG CHEE<br>MDM KANG HUI CHIN JANE |
 | 4 Synergy | MR NG KAI ZHE ALAN<br>CHANG YU JUAN, JADE |
-| 4 Teamwork | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
+| 4 Teamwork | SHARMI LISA OBANOR<br>MR CHOW ZHIXIAN ARIEL |
 |
 
 #### **P5 Form Teachers**
