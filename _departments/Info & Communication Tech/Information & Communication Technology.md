@@ -17,7 +17,7 @@ variant: markdown
 5.	Ms Khoo Jiahui<br>
 6.	Ms Lin Qianting<br>
 7.	Mr Azeri Bin Mustafar<br>
-8.	Mr Rudy Hairil Bin Adnan<br>
+8.	Mr Rudy Hairil Bin Adnan
 
 #### **WWPS Pupil ICT Learning Framework**
 
