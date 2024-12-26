@@ -18,7 +18,7 @@ variant: markdown
 | 1 Kindness | MS YAP CHIN HWEE (SHERINE)<br> |
 | 1 Resilience | MDM LIM YEE CHIN(MRS ENDA WENDY CHAN)<br>MDM SURIATI BTE DJUAHIR | 
 | 1 Synergy | MS TAN HUI YIN<br>MDM SURIATI BTE DJUAHIR |
-| 1 Teamwork | MS SUHAILA BTE LAIP<br>MS ANG HWEE CHIN |
+| 1 Teamwork | MDM SITI AISYAH BINTE MOHAMED YAZID<br>MDM CHAN LAY MUN (HAZEL) |
 |
 
 #### **P2 Form Teachers**
