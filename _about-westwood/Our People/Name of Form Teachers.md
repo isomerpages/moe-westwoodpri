@@ -63,7 +63,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 5 Confidence | MS VIROSHINI D/O K VISVANATHAN<br>MS TONG JIN YI |
+| 5 Confidence | MS JURVEEN KAUR RANDHAWA<br>MS TAN LAY LIAN |
 | 5 Diligence | MS VIROSHINI D/O K VISVANATHAN<br>MS TONG JIN YI |
 | 5 Gratitude | MS JANE KANG HUI CHIN<br>MDM SOPHIA TAN SEOK YEE |
 | 5 Resilience | MS NOOR AMIRAH BTE AZMAN<br>MS KATHERINE CHUA CHENG BEE |
