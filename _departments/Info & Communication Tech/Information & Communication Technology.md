@@ -24,7 +24,7 @@ variant: markdown
 2.	Ms Yap Hui Tee (Assistant School Cockpit Coordinator)<br>
 3.	Ms Yao Anli<br>
 4.	Mdm Suriati Bte Djuahir<br>
-5.	Ms Lin Qianting<br>
+5.	Ms Lin Qianting
 
 #### **WWPS Pupil ICT Learning Framework**
 
