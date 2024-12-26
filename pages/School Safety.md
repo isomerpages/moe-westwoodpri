@@ -4,7 +4,7 @@ permalink: /administration/school-safety/
 description: ""
 ---
 ### **School Safety**
-#### **School Safety & Security**
+#### **School Safety &amp; Security**
 Ensuring that Westwood Primary is safe and secure is an utmost priority to us. Parents, pupils and all our stakeholders also play a vital role in keeping the school safe and secure. We seek the partnership of parents, pupils and all stakeholders to practise good hygiene and road safety habits as we work together towards creating a safe and secure environment for learning.
 
 ![](/images/Safety%20Comm%20Org%20Chart%202023%20With%20Photo.jpg)
@@ -40,7 +40,7 @@ As part of pupil safety and security, the school has also put in place procedure
 * Burns and scalds - deep with white or charred skin, or spanning a large area bigger than the size of a hand, or covering the face.
 * Any burn caused by electric shock or by lightning.
 
-#### **Safety Tips for Participation in Sports & Game**
+#### **Safety Tips for Participation in Sports &amp; Game**
 Participation in sports and games has immense benefits for people across ages. For the case of children and youths, sports provide the unique opportunity for participants to increase their physical activity and develop pertinent social and physical skills.
 
 As with all physical activities, sporting or otherwise, there is always an inherent element of risk. As such, one should always ensure that these risks are minimized before the start of each activity. In many instances, accidents and injuries could be avoided if one adheres to safety practices.
