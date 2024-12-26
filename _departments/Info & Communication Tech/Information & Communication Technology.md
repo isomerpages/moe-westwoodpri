@@ -61,8 +61,3 @@ Partnership with parents to support them in understanding cyber wellness issues 
 
 #### **SLS Info-Site**
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
-
-#### **Information &amp; Communication Technology Committee**
-Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
-Ms Siti Kalsom Zam Zam<br>
-Mdm Azimah
