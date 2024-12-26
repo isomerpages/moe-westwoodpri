@@ -39,7 +39,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 3 Confidence | MR SUREEN KUMAR<br>MDM SITI KALSOM |
+| 3 Confidence | MR PREMNATH S/O CHANDRAN<br>MS NURAIN BTE ABDUL RAHEEM |
 | 3 Diligence | MR KHAIRUL ABDILLAH BIN ISMAIL<br>MS ELAINE LAI YONG XIAN |
 | 3 Gratitude | MS GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 | 3 Resilience | MR NG KAI ZHE ALAN<br>MS NURAIN BTE ABDUL RAHEEM |
