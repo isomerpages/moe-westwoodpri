@@ -5,11 +5,26 @@ description: ""
 third_nav_title: Info & Communication Tech
 variant: markdown
 ---
-### **Information &amp; Communication Technology**
+### **ICT &amp; Data Management**
 
 <img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
 
-Mr Azeri Bin Mustafar, Mr Rudy Hairil Bin Adnan, Mr Muhardatsualiff Bin Shamhati, Mr Gerard Ng, Mdm Siti Kalsom Bte Zam Zam, Mdm Azimah Bte Ghazali
+**ICT Department**<br>
+1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
+2.	Mr Muhardatsualiff Bin Shamhati (ICT Manager)<br>
+3.	Mr Mohamad Ridhwan Bin Jamain<br>
+4.	Mdm Siti Kalsom Bte Zam Zam<br>
+5.	Ms Khoo Jiahui<br>
+6.	Ms Lin Qianting<br>
+7.	Mr Azeri Bin Mustafar<br>
+8.	Mr Rudy Hairil Bin Adnan
+
+**School Cockpit Committee**<br>
+1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
+2.	Ms Yap Hui Tee (Assistant School Cockpit Coordinator)<br>
+3.	Ms Yao Anli<br>
+4.	Mdm Suriati Bte Djuahir<br>
+5.	Ms Lin Qianting
 
 #### **WWPS Pupil ICT Learning Framework**
 
@@ -53,8 +68,3 @@ Partnership with parents to support them in understanding cyber wellness issues 
 
 #### **SLS Info-Site**
 [www.learning.moe.edu.sg](http://www.learning.moe.edu.sg/)
-
-#### **Information &amp; Communication Technology Committee**
-Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
-Ms Siti Kalsom Zam Zam<br>
-Mdm Azimah
