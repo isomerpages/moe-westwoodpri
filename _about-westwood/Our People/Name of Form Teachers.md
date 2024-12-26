@@ -41,7 +41,7 @@ variant: markdown
 |:---:|---|
 | 3 Confidence | MR PREMNATH S/O CHANDRAN<br>MS NURAIN BTE ABDUL RAHEEM |
 | 3 Diligence | MDM LIM SHAE MIN<br>MDM NAI LI HUA (MRS TAN) |
-| 3 Gratitude | MS GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
+| 3 Gratitude | MR MUHAMMAD SYAFIQ BIN AWANG<br>MDM ANG HWEE CHIN |
 | 3 Resilience | MR NG KAI ZHE ALAN<br>MS NURAIN BTE ABDUL RAHEEM |
 | 3 Synergy | MS FATHIMAH MUZAMMILAH<br>MS GU SI YUAN |
 | 3 Teamwork | MDM LIM SHAE MIN |
