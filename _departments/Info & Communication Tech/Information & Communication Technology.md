@@ -5,11 +5,18 @@ description: ""
 third_nav_title: Info & Communication Tech
 variant: markdown
 ---
-### **Information &amp; Communication Technology**
+### **ICT &amp; Data Management**
 
 <img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
-
-Mr Azeri Bin Mustafar, Mr Rudy Hairil Bin Adnan, Mr Muhardatsualiff Bin Shamhati, Mr Gerard Ng, Mdm Siti Kalsom Bte Zam Zam, Mdm Azimah Bte Ghazali
+**ICT Department**
+1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)
+2.	Mr Muhardatsualiff Bin Shamhati (ICT Manager)
+3.	Mr Mohamad Ridhwan Bin Jamain
+4.	Mdm Siti Kalsom Bte Zam Zam
+5.	Ms Khoo Jiahui
+6.	Ms Lin Qianting
+7.	Mr Azeri Bin Mustafar
+8.	Mr Rudy Hairil Bin Adnan
 
 #### **WWPS Pupil ICT Learning Framework**
 
