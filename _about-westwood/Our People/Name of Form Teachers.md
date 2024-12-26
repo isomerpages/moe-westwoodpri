@@ -63,7 +63,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 5 Confidence | MDM AZIMAH BTE GHAZALI<br>MR DEXTER SIM YU MIN |
+| 5 Confidence | MS JURVEEN KAUR RANDHAWA<br>MS TAN LAY LIAN |
 | 5 Diligence | MS HIEW LI TIANG<br>MDM KEE SUAT HAR |
 | 5 Gratitude | MS JANE KANG HUI CHIN<br>MDM SOPHIA TAN SEOK YEE |
 | 5 Resilience | MS NOOR AMIRAH BTE AZMAN<br>MS KATHERINE CHUA CHENG BEE |
