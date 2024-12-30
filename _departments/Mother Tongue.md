@@ -90,6 +90,10 @@ P6 Parents CL Workshop 2024<br>
 \-&nbsp;[https://chineseinput.net/](https://chineseinput.net/)<br>
 \-&nbsp;[https://issuu.com/wwpspublication/docs/wwps\_publication\_sfs](https://issuu.com/wwpspublication/docs/wwps_publication_sfs)
 
+#### **Mother Tongue Language**
+Mdm Kee Suat Har (HOD/MTL)<br>
+Mdm Elna (SH/ML &amp; TL)
+
 #### **Chinese Language**
 Mdm Kee Suat Har (HOD/MTL)<br>
 Ms Yao Anli  (LH/CL)<br>
