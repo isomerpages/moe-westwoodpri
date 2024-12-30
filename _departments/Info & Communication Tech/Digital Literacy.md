@@ -22,7 +22,7 @@ In Westwood Primary, the Digital Literacy programme comprises of&nbsp;**ICT Base
 #### **Overview of ICT Baseline Literacy Programme**
 Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every Westwood pupil with the essential ICT skills for the 21st Century, to become self-directed and collaborative learners. We will be showcasing our pupils’ work by levels via this Google Site. You are strongly encouraged to take a look at your child’s/ward’s work and write some “Words of Encouragement” for him/her using the Padlet links. We hope this will help parents better understand their child/ward’s learning in school. Partner us in nurturing our pupils to be future-ready and anchor-steady.
 
-**ICT Baseline Literacy Programme**
+**ICT &amp; Coding Baseline Literacy Programme**
 
 | **Level** | **Timeline** | **ICT Enrichment**	 | **ICT Baseline**	 | **View Students' Workpieces**|
 |:---:|:---:|:---:|:---:|:---:|
