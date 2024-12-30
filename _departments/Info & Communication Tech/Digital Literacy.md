@@ -31,7 +31,7 @@ Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every
 | Primary 3 | Term 4 | Scratch 3.0 SLS HBL | Google Slides and Sites | [Click Here](https://sites.google.com/moe.edu.sg/p3-g-slides/home?pli=1) |
 | Primary 4 | Term 4 | Sphero Block Programming (IMDA) | AI for Fun (IMDA) | [Click Here](https://sites.google.com/moe.edu.sg/p4-pw-2022/home) |
 | Primary 5 | Term 2 | Microbit Block Programming | Microbit Block Programming | [Click Here](https://sites.google.com/moe.edu.sg/digital-literacy-p5-2022/home) |
-| Primary 6 | Term 4 | Code-for-Fun by MOE | Video Maker | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/6ox61mh5s8uh6up2) |
+| Primary 6 | Term 4 | Video Maker | Video Maker | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/6ox61mh5s8uh6up2) |
 |
 
 <img src="/images/dl2.jpg" style="width:49%" align="left">
