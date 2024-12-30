@@ -61,7 +61,7 @@ During the Mother Tongue Language Fortnight, a series of fun filled cultural and
 <br clear="left">
 
 **(III) MTL SOAR**<br>
-An activity that aims to spread the love for reading by recommending interesting Mother Tongue storybooks every week.
+MTL SOAR aims to instill students’ love for reading in MTL, to Spark interest, Open minds, Appreciate cultural roots, and Rise as a bilingual reader. Starting from 2025, P1 and P2 students will have 30 minutes of their MTL curriculum time ringfenced for reading and library-related activities. Teachers will use age-appropriate readers from the curriculum. There will be reading passports which contain fun activities for students to complete after reading books.
 
 <img src="/images/mtl9.jpg" style="width:55%" align="left">
 <img src="/images/mtl10.jpg" style="width:44%" align="right">
