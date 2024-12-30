@@ -95,9 +95,8 @@ Mdm Kee Suat Har (HOD/MTL)<br>
 Mdm Elna (SH/ML &amp; TL)
 
 #### **Chinese Language**
-Mdm Kee Suat Har (HOD/MTL)<br>
-Ms Yao Anli  (LH/CL)<br>
-Ms Jasmine Koh Hwee Ling (ST/CL)<br>
+Ms Yao Anli  (LH/CL Covering)<br>
+Ms Jasmine Koh Hwee Ling (ST/CL) &amp; EdTech Coach<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mrs Tan-Nai Li Hua<br>
 Ms Wong Sheang Yun<br>
