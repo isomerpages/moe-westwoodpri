@@ -105,7 +105,9 @@ Mdm Wei Junying <br>
 Ms Tan Lay Lian<br>
 Ms Ng Ley Huey<br>
 Ms Yap Hui Tee<br>
-Ms Wong Sheang Yun
+Ms Wong Sheang Yun<br>
+Ms Ang Chye Siang (FAJT)<br>
+Ms Koh Kah Neng (FAJT)
 
 #### **Malay Language**
 Mdm Elna (SH/ML &amp; TL)<br>
