@@ -96,7 +96,7 @@ Mdm Elna (SH/ML &amp; TL)
 
 #### **Chinese Language**
 Ms Yao Anli  (LH/CL Covering)<br>
-Ms Jasmine Koh Hwee Ling (ST/CL) &amp; EdTech Coach<br>
+Ms Jasmine Koh Hwee Ling (ST/CL &amp; EdTech Coach)<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mrs Tan-Nai Li Hua<br>
 Ms Wong Sheang Yun<br>
