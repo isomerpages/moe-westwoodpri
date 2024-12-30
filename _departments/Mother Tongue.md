@@ -31,7 +31,7 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 
 #### **Cultural Activities**
 **(I) Celebrations of major ethnic events**<br>
-\- To promote racial harmony and cohesion, the Mother Tongue Department will anchor the celebration of the four major ethnic events:
+To promote racial harmony and cohesion, the Mother Tongue Department will anchor the celebration of the four major ethnic events:
 * Chinese New Year
 * Hari Raya
 * Mid-Autumn Festival
@@ -39,7 +39,7 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 * Pongal Festival
 
 **(II) Mother Tongue Language Fortnight**<br>
-\- During the Mother Tongue Language Fortnight, a series of fun filled cultural and language activities will be conducted to enrich the pupils' experience in the learning of the Mother Tongue Language.
+During the Mother Tongue Language Fortnight, a series of fun filled cultural and language activities will be conducted to enrich the pupils' experience in the learning of the Mother Tongue Language.
 
 <img src="/images/mtl2.jpg" style="width:51%" align="left">
 <img src="/images/mtl3.jpg" style="width:47%" align="right">
@@ -60,8 +60,8 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 
 <br clear="left">
 
-**(III) A Mother Tongue storybook A Week**<br>
-An activity that aims to spread the love for reading by recommending interesting Mother Tongue storybooks every week.
+**(III) MTL SOAR**<br>
+MTL SOAR aims to instill students’ love for reading in MTL, to Spark interest, Open minds, Appreciate cultural roots, and Rise as a bilingual reader. Starting from 2025, P1 and P2 students will have 30 minutes of their MTL curriculum time ringfenced for reading and library-related activities. Teachers will use age-appropriate readers from the curriculum. There will be reading passports which contain fun activities for students to complete after reading books.
 
 <img src="/images/mtl9.jpg" style="width:55%" align="left">
 <img src="/images/mtl10.jpg" style="width:44%" align="right">
@@ -90,27 +90,29 @@ P6 Parents CL Workshop 2024<br>
 \-&nbsp;[https://chineseinput.net/](https://chineseinput.net/)<br>
 \-&nbsp;[https://issuu.com/wwpspublication/docs/wwps\_publication\_sfs](https://issuu.com/wwpspublication/docs/wwps_publication_sfs)
 
-#### **Chinese Language**
+#### **Mother Tongue Language**
 Mdm Kee Suat Har (HOD/MTL)<br>
-Ms Yao Anli  (LH/CL)<br>
-Ms Jasmine Koh Hwee Ling (ST/CL)<br>
+Mdm Elna (SH/ML &amp; TL)
+
+#### **Chinese Language**
+Ms Yao Anli  (LH/CL Covering)<br>
+Ms Jasmine Koh Hwee Ling (ST/CL &amp; EdTech Coach)<br>
+Ms Tong Jin Yi (CL Coordinator)<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mrs Tan-Nai Li Hua<br>
-Ms Wong Sheang Yun<br>
 Ms Vivian Lim Swee Keng<br>
 Mdm Wei Junying <br>
-Ms Yap Hui Tee<br>
+Ms Tan Lay Lian<br>
 Ms Ng Ley Huey<br>
-Ms Ang Chye Siang <br>
-Ms Koh Kah Neng  <br>
-Ms Zhong Xinying <br>
-Ms Chang Yu Juan Jade 
+Ms Yap Hui Tee<br>
+Ms Wong Sheang Yun<br>
+Ms Ang Chye Siang (FAJT)<br>
+Ms Koh Kah Neng (FAJT)
 
 #### **Malay Language**
-Mdm Elna (SH/ML &amp; TL)<br>
-Ms Nurul Syafiqah Anuar Khan <br>
 Ms Siti Juwani<br>
-Mdm Suriati Bte Djuahir
+Mdm Suriati Bte Djuahir<br>
+Ms Nurain
 
 #### **Tamil Language**
 Mdm Venkatachalam Alamu<br>
