@@ -110,10 +110,9 @@ Ms Ang Chye Siang (FAJT)<br>
 Ms Koh Kah Neng (FAJT)
 
 #### **Malay Language**
-Mdm Elna (SH/ML &amp; TL)<br>
-Ms Nurul Syafiqah Anuar Khan <br>
 Ms Siti Juwani<br>
-Mdm Suriati Bte Djuahir
+Mdm Suriati Bte Djuahir<br>
+Ms Nurain
 
 #### **Tamil Language**
 Mdm Venkatachalam Alamu<br>
