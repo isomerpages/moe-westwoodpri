@@ -31,7 +31,7 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 
 #### **Cultural Activities**
 **(I) Celebrations of major ethnic events**<br>
-\- To promote racial harmony and cohesion, the Mother Tongue Department will anchor the celebration of the four major ethnic events:
+To promote racial harmony and cohesion, the Mother Tongue Department will anchor the celebration of the four major ethnic events:
 * Chinese New Year
 * Hari Raya
 * Mid-Autumn Festival
@@ -39,7 +39,7 @@ The Mother Tongue Language Department seeks to develop competent Mother Language
 * Pongal Festival
 
 **(II) Mother Tongue Language Fortnight**<br>
-\- During the Mother Tongue Language Fortnight, a series of fun filled cultural and language activities will be conducted to enrich the pupils' experience in the learning of the Mother Tongue Language.
+During the Mother Tongue Language Fortnight, a series of fun filled cultural and language activities will be conducted to enrich the pupils' experience in the learning of the Mother Tongue Language.
 
 <img src="/images/mtl2.jpg" style="width:51%" align="left">
 <img src="/images/mtl3.jpg" style="width:47%" align="right">
