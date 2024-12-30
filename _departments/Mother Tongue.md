@@ -60,7 +60,7 @@ During the Mother Tongue Language Fortnight, a series of fun filled cultural and
 
 <br clear="left">
 
-**(III) A Mother Tongue storybook A Week**<br>
+**(III) MTL SOAR**<br>
 An activity that aims to spread the love for reading by recommending interesting Mother Tongue storybooks every week.
 
 <img src="/images/mtl9.jpg" style="width:55%" align="left">
