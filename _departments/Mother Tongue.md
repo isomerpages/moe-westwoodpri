@@ -100,15 +100,12 @@ Ms Jasmine Koh Hwee Ling (ST/CL &amp; EdTech Coach)<br>
 Ms Tong Jin Yi (CL Coordinator)<br>
 Mdm Lee Lay Kheng, Sandy<br>
 Mrs Tan-Nai Li Hua<br>
-Ms Wong Sheang Yun<br>
 Ms Vivian Lim Swee Keng<br>
 Mdm Wei Junying <br>
-Ms Yap Hui Tee<br>
+Ms Tan Lay Lian<br>
 Ms Ng Ley Huey<br>
-Ms Ang Chye Siang <br>
-Ms Koh Kah Neng  <br>
-Ms Zhong Xinying <br>
-Ms Chang Yu Juan Jade 
+Ms Yap Hui Tee<br>
+Ms Wong Sheang Yun
 
 #### **Malay Language**
 Mdm Elna (SH/ML &amp; TL)<br>
