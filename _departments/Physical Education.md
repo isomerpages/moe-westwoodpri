@@ -18,9 +18,9 @@ Setting the foundation for healthy minds &amp; bodies through active lifestyles
 
 #### **Curricular Objectives**
 Pupils will be able to: <br>
-1\.  Develop the fundamental movements and manipulative skills to enjoy a variety of activities so as to encourage pupils to have a healthier and better life through the impactful experience of sports. <br>
-2\.  Learn knowledge associated with food and nutrition and other health aspects like hygiene, eye-care and dental care.<br>
-3\.  Cultivate a love for both indoor and outdoor activities and keep fit and healthy through regular exercise, while keeping themselves and others safe.
+1.  Develop the fundamental movements and manipulative skills to enjoy a variety of activities so as to encourage pupils to have a healthier and better life through the impactful experience of sports. <br>
+2.  Learn knowledge associated with food and nutrition and other health aspects like hygiene, eye-care and dental care.<br>
+3.  Cultivate a love for both indoor and outdoor activities and keep fit and healthy through regular exercise, while keeping themselves and others safe.
 
 #### **PE Curriculum @ Westwood**
 Physical Education (PE) for Lower Primary pupils focuses on mastery of fundamental motor skills such as locomotor, non-locomotor and manipulative skills with application of movement concepts to develop efficiency, effectiveness and versatility in pupils’ performance.
@@ -29,7 +29,7 @@ Physical Education (PE) for Upper Primary pupils focuses on more complex combina
 
 <iframe allowfullscreen="true" height="450" width="800" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTPM_iuQEC10Che_oDk7grS8PtVKbxPxYL7Iq2XAxIQF6RCkongFT2O1SIiKGDdrPTQvHigy-H0lBV8/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-Physical Health &amp; Fitness (PHF) is explicitly taught via the Health Education (HE) journal, ‘An Active &amp; Healthy Me’. It provides an insight of good health practices in exercise, safety and hygiene. It also encourages pupils’ interest in physical activity through meaningful experiential learning.
+Physical Health &amp; Safety (PHS) is explicitly taught via the Health Education (HE) journal, ‘An Active &amp; Healthy Me’. It provides an insight of good health practices in exercise, safety and hygiene. It also encourages pupils’ interest in physical activity through meaningful experiential learning.
 
 Play@Recess programmes ensure that pupils get opportunities every day to play, stretch and be active.&nbsp;Pupils can use this opportunities to strengthen their bond with their peers.
 
@@ -44,6 +44,9 @@ Through holistic health education, teachers in Westwood Primary hope to bring ou
 
 #### **Physical Education Department Members**
 Mr Khairul Abdillah Bin Ismail (HOD/PE &amp; CCA)<br>
-Mr Seet Wee Key (SH/Physical Fitness &amp; PAL)<br>
-Mr Chow Zhixian, Ariel<br>
-Mr Idris Bin Abdul Rashid
+Mr Seet Wee Key (Physical Fitness, PAL &amp; HE Coordinator)<br>
+Mr Chow Zhixian, Ariel (PE Coordinator)<br>
+Ms Nathania Lam Mun Yeung<br>
+Mr Muhammad Syafiq Bin Awang<br>
+Mr Idris Bin Abdul Rashid<br>
+Mr Colin Chua Wen Jun
