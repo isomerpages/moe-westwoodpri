@@ -26,8 +26,8 @@ Our Baseline ICT Standard Literacy Programme and Project Work aim to equip every
 
 | **Level** | **Timeline** | **ICT Enrichment**	 | **ICT Baseline**	 | **View Students' Workpieces**|
 |:---:|:---:|:---:|:---:|:---:|
-| Primary 1 | Term 2 | - | Touch-typing and MS Word | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/4o7dos77iddh042s) |
-| Primary 2 | Term 3 | Scratch Junior | MS Powerpoint and Email | [Click Here]( https://sites.google.com/moe.edu.sg/digital-literacy-p2/home) |
+| Primary 1 | Term 1 | Scratch Junior | Touch-typing and MS Word | [Click Here](https://westwoodpri.padlet.org/ng_zhili_gerard_christian/4o7dos77iddh042s) |
+| Primary 2 | Term 1 | Scratch 3.0 Beginner | MS Powerpoint | [Click Here]( https://sites.google.com/moe.edu.sg/digital-literacy-p2/home) |
 | Primary 3 | Term 3 | Scratch 3.0 | **Google Slides and Google Sheets** | [Click Here](https://sites.google.com/moe.edu.sg/p3-g-slides/home?pli=1) |
 | Primary 4 | Term 1 and Term 3 | **Code-For-Fun by MOE** | **Block Programming using Micro-bits** | [Click Here](https://sites.google.com/moe.edu.sg/p4-pw-2022/home) |
 | Primary 5 | Term 2 | App Coding using Thunkable | **Project Work on Positive Design**<br>Webpage Creation using Google sites | [Click Here](https://sites.google.com/moe.edu.sg/digital-literacy-p5-2022/home) |
