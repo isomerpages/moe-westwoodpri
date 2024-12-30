@@ -7,6 +7,7 @@ variant: markdown
 ---
 ### **Digital Literacy**
 #### **Curricular Objectives**
+
 Every Westwood pupil will become:  
 
 *   Self-directed learners in technology&nbsp;
