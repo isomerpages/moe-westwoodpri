@@ -11,7 +11,7 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First row from left:**<br>
-Mr Seet Wee Key, Mr Chow Zhixian, Ariel, Mr Khairul Abdillah Bin Ismail, Mr Jonathan Chng Chin Chuang, Mr Yeo Jun Bo
+Mr Seet Wee Key, Mr Chow Zhixian, Ariel, Mr Khairul Abdillah Bin Ismail
 
 #### **Vision**
 Setting the foundation for healthy minds &amp; bodies through active lifestyles
