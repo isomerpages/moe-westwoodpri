@@ -59,12 +59,3 @@ Opportunities &amp; Pathway for Personal Leadership of a Westwood Student:<br>
 P1 to P6:<br>
 
 <img src="/images/sl6.png" style="width:100%">
-
-#### **Student Leadership Team**
-Mr Premnath S/O Chandran (Year Head for Middle Primary &amp; Pupil Management)<br>
-Mr Khairul Abdillah (HOD/PE &amp; CCA)<br>
-Mr Ng Kai Zhe Alan (Assistant Year Head for Middle Primary)<br>
-Mr Tan Shi Wei<br>
-Mr Devaraj S/O Nambiraja<br>
-Mr Loh Chee Wei <br>
-Mr Mohamed Ridhwan <br>
