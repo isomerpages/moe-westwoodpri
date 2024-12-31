@@ -7,13 +7,13 @@ variant: markdown
 ### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
 
-<img src="/images/WWPS_Staff_Photos/student_leadership_2023.jpg" style="width:85%">
+**Student Leadership Department**<br>
+1.	Mr Ng Kai Zhe Alan (Assist Year Head (Middle Pri) &amp; Student Leadership)<br>
+2.	Mdm Wei Junying<br>
+3.	Ms Nurul Syafiqah Binte Anuar Khan<br>
+4.	Ms Chang Yu Juan Jade<br>
+5.	Ms Zhong Xinying<br>
 
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Loh Chee Wei, Mr Ng Kai Zhe Alan, Mr Devaraj S/O Nambirajan, Ms Isabelle Gan Chai Hong, Mr Tan Shi Wei, Mr Premnath S/O Chandran, Mr Khairul Abdillah Bin Ismail
 
 
 #### **Curricular Objectives**
