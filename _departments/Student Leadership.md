@@ -56,7 +56,7 @@ The School’s Student Leadership Structure comprises these different tiers:<br>
 From 2024 onwards, the Student Leadership Structure has been further re-defined to provide equal opportunities &amp; statuses to Prefects, CCA Leaders and Peer Support Leaders.
 
 Opportunities &amp; Pathway for Personal Leadership of a Westwood Student:<br>
-P1 to P6:<br>
+P1 to P6:<br>yu
 
 <img src="/images/2025/sl_pathways_1.png" style="width:100%">
 <img src="/images/2025/sl_pathways_2.png" style="width:100%">
