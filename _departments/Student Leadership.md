@@ -31,7 +31,7 @@ WWPS has been aligning the criteria and development journey of a Student Leader 
 |  Values-driven Action | - I step forward to lead my friends with a gracious heart.<br>- I lead and serve with my hearts.   |
 |
 
-#### **Prefects being the Apex of WWPS Pupil Leaders**
+#### **Student Council Exco being the Apex of WWPS Pupil Leaders**
 Every year, WWPS holds a Prefects’ Investiture Ceremony at the beginning of Term 3 to appoint selected pupils in the school as Prefects. These newly-appointed Prefects have gone through on-the-job training for two terms and have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team (Prefectorial Board) for exemplifying and role-modelling the following values:
 
 *   Good Conduct&nbsp;
