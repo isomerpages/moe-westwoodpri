@@ -51,7 +51,7 @@ Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning o
 *   Integrity
 *   Leadership Quality
 
-The school’s Prefectorial Board’s Structure comprises these different levels:<br>
+The School’s Student Leadership Structure comprises these different tiers:<br>
 Level 1: Acting Prefects&nbsp;<br>
 Level 2: Junior Prefects (P3)<br>
 Level 3: Prefects (P4)<br>
