@@ -58,4 +58,5 @@ From 2024 onwards, the Student Leadership Structure has been further re-defined 
 Opportunities &amp; Pathway for Personal Leadership of a Westwood Student:<br>
 P1 to P6:<br>
 
-<img src="/images/sl6.png" style="width:100%">
+<img src="/images/2025/sl_pathways_1.png" style="width:100%">
+<img src="/images/2025/sl_pathways_2.png" style="width:100%">
