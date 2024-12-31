@@ -18,8 +18,7 @@ Our School has a student population of approximately 1410 students and a staff s
 Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may be required to operate on other days as required by the school.
 
 **Contract Period**<br>
-1 year<br>
-(Jan - Dec 2025)
+1 year (Jan - Dec 2025)
 
 **Requirements**<br>
 •	Applicant must be a Singapore Citizen or Singapore Permanent Resident<br>
@@ -32,10 +31,10 @@ Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may b
 •	Successful applicant and stall assistant must complete the Basic Food Hygiene Course conducted by SkillsFuture Singapore’s accredited training providers and then apply for hawker licence from the Singapore Food Agency (SFA)<br>
 
 **Application Procedure**<br>
-[Application Form](/files/School_Application_for_canteen_stall.pdf) must be completed and submitted to our School’s General Office by **Friday, 20th Dec 2024** with the following documents:
+[Application Form](/files/School_Application_for_canteen_stall.pdf) must be completed and submitted to our School’s General Office by **Friday, 24th Jan 2024** with the following documents:
 * Proposed menu and pricing
 * Photocopy of the applicant’s NRIC (front and back)
 * Photocopy of relevant certificates such as Basic Food Hygiene, etc.
 
-**Application Closing Date: Friday, 20th Dec 2024**<br> 
+**Application Closing Date: Friday, 24th Jan 2024**<br> 
 Only shortlisted applicants will be notified for an interview and food sampling at the school. For further queries, please contact Mr Michael Khoo (Operation Manager) / Mdm Cecilia Chia (Administration Manager) at 6412 1690.

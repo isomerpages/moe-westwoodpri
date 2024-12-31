@@ -4,30 +4,21 @@ permalink: /departments/student-leadership/
 description: ""
 variant: markdown
 ---
-### **Student Leadership**
+**### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
 
-<img src="/images/WWPS_Staff_Photos/student_leadership_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Loh Chee Wei, Mr Ng Kai Zhe Alan, Mr Devaraj S/O Nambirajan, Ms Isabelle Gan Chai Hong, Mr Tan Shi Wei, Mr Premnath S/O Chandran, Mr Khairul Abdillah Bin Ismail
-
+**Student Leadership Department**<br>
+1.	Mr Ng Kai Zhe Alan (Assist Year Head (Middle Pri) &amp; Student Leadership)<br>
+2.	Mdm Wei Junying<br>
+3.	Ms Nurul Syafiqah Binte Anuar Khan<br>
+4.	Ms Chang Yu Juan Jade<br>
+5.	Ms Zhong Xinying<br>
 
 #### **Curricular Objectives**
-The Westwood Primary Positive Learning for Life Programme seeks to develop our pupils to be Future-Ready and Anchor-Steady, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader.
+The Westwood Primary Positive Learning for Life Programme seeks to develop our students to be Student Advocates, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader. We encourage our Student Leaders to lead their peers in serving the school and the community.
 
-#### **Background**
-Since 2019, WWPS has redefined the vision of the core Student Leadership Team (Prefectorial Board), with an aim to develop each Prefect into a Peer Educator, Change Maker and Pupil Advocate:<br>
-1\. Peer Educator – to educate our fellow Westwoodian to do the right things and lead them to have future ready confidence, heart of gratitude, resilient mind-set and a passion for community.&nbsp;We would want our Prefects to influence, inspire and impact their peers via their actions by being a Peer Educator.<br>
-2\. Change Maker – to bring out positive changes to the school that will benefit the school environment that includes the pupils, teaching and non-teaching staff.&nbsp;We would our Prefects to be create a change in the school environment that would create a positive environment for all.<br>
-3\. Pupil Advocate – to empower others to do the right things and to have the right values, to serve, to lead and to excel by being a role model.
-
-We would want our Prefects to serve, lead and excel in their various capacities by being a good role model.
-
-In addition to the above three core values required, WWPS has also aligned the criteria and development journey of a pupil leader to the school’s THRIVE Framework:
+#### **Brief Overview**
+WWPS has been aligning the criteria and development journey of a Student Leader to the school’s THRIVE Framework:
 
 |  |  |
 |---|---|
@@ -38,44 +29,33 @@ In addition to the above three core values required, WWPS has also aligned the c
 |  Values-driven Action | - I step forward to lead my friends with a gracious heart.<br>- I lead and serve with my hearts.   |
 |
 
-#### **Prefects being the Apex of WWPS Pupil Leaders**
-Every year, WWPS holds a Prefects’ Investiture Ceremony at the beginning of Term 3 to appoint selected pupils in the school as Prefects. These newly-appointed Prefects have gone through on-the-job training for two terms and have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team (Prefectorial Board) for exemplifying and role-modelling the following values:
+Starting 2024, in line with the Emerging 21st Century Competencies (E21CC) by MOE,<br>
+We aim to develop our Student Leaders into Connectors, Contributors &amp; Creators:<br>
 
-*   Good Conduct&nbsp;
+•	A. *Connectors*: Empowering student leaders to bridge connections between diverse groups within the school community. They facilitate collaboration, empower others to find common ground, and build a strong network of support for collective problem-solving.<br>
+•	B. *Contributors*: Emphasizing the importance of active contributions from student leaders. They are encouraged to identify opportunities for improvement, engage in meaningful projects, and make a positive impact on the school community.<br>
+•	C. *Creators*: Challenges student leaders to think creatively, identify innovative solutions, and embrace experimentation. They become agents of change, creating new possibilities for Westwood Primary School.<br>
+
+To enhance their E21CC, student leaders are trained to create, contribute &amp; connect effectively through Student Leadership Programmes:<br>
+
+#### **Student Council Exco being the Apex of WWPS Pupil Leaders**
+
+Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning of Term 3 to officially appoint deserving Student Leaders as Prefects, Peer Support Leaders and/or CCA Leaders. These newly-appointed Student Leaders have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team for exemplifying and role-modelling the following values:
+
+*   Good Conduct
 *   Character Strengths
-*   Community Involvement&nbsp; &nbsp; &nbsp; &nbsp;
-*   Responsibility&nbsp;
-*   Integrity&nbsp;
+*   Community Involvement
+*   Responsibility
+*   Integrity
 *   Leadership Quality
 
-The school’s Prefectorial Board’s Structure comprises these different levels:<br>
-Level 1: Acting Prefects&nbsp;<br>
-Level 2: Junior Prefects (P3)<br>
-Level 3: Prefects (P4)<br>
-Level 4: Senior Prefects (P5 &amp; P6)
-
-<img src="/images/sl2.png" style="width:30%" align="left">
-<img src="/images/sl3.png" style="width:53%" align="right">
-
-<br clear="left">
-
-<img src="/images/sl4.png" style="width:85%">
+The School’s Student Leadership Structure comprises these different tiers:<br>
 
 <img src="/images/sl5.jpg" style="width:85%">
 
-From 2021 onwards, the Student Leadership Structure has been re-defined to include the CCA Leaders and the Student Peer Supporters.
+From 2024 onwards, the Student Leadership Structure has been further re-defined to provide equal opportunities &amp; statuses to Prefects, CCA Leaders and Peer Support Leaders.
 
-Overview of Personal Leadership Journey of a WWPS Pupil&nbsp;<br>
-Opportunities &amp; Pathway for Personal Leadership of a Westwood Pupil:<br>
-P1 to P6:
+Opportunities &amp; Pathway for Personal Leadership of a Westwood Student:<br>
+P1 to P6:<br>
 
 <img src="/images/sl6.png" style="width:100%">
-
-#### **Student Leadership Team**
-Mr Premnath S/O Chandran (Year Head for Middle Primary &amp; Pupil Management)<br>
-Mr Khairul Abdillah (HOD/PE &amp; CCA)<br>
-Mr Ng Kai Zhe Alan (Assistant Year Head for Middle Primary)<br>
-Mr Tan Shi Wei<br>
-Mr Devaraj S/O Nambiraja<br>
-Mr Loh Chee Wei <br>
-Mr Mohamed Ridhwan <br>
