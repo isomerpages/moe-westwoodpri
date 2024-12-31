@@ -33,7 +33,7 @@ WWPS has been aligning the criteria and development journey of a Student Leader 
 
 #### **Student Council Exco being the Apex of WWPS Pupil Leaders**
 
-Every year, WWPS holds a Prefects’ Investiture Ceremony at the beginning of Term 3 to appoint selected pupils in the school as Prefects. These newly-appointed Prefects have gone through on-the-job training for two terms and have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team (Prefectorial Board) for exemplifying and role-modelling the following values:
+Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning of Term 3 to officially appoint deserving Student Leaders as Prefects, Peer Support Leaders and/or CCA Leaders. These newly-appointed Student Leaders have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team for exemplifying and role-modelling the following values:
 
 *   Good Conduct&nbsp;
 *   Character Strengths
