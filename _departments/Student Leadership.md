@@ -52,21 +52,10 @@ Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning o
 *   Leadership Quality
 
 The School’s Student Leadership Structure comprises these different tiers:<br>
-Level 1: Acting Prefects&nbsp;<br>
-Level 2: Junior Prefects (P3)<br>
-Level 3: Prefects (P4)<br>
-Level 4: Senior Prefects (P5 &amp; P6)
-
-<img src="/images/sl2.png" style="width:30%" align="left">
-<img src="/images/sl3.png" style="width:53%" align="right">
-
-<br clear="left">
-
-<img src="/images/sl4.png" style="width:85%">
 
 <img src="/images/sl5.jpg" style="width:85%">
 
-From 2021 onwards, the Student Leadership Structure has been re-defined to include the CCA Leaders and the Student Peer Supporters.
+From 2024 onwards, the Student Leadership Structure has been further re-defined to provide equal opportunities &amp; statuses to Prefects, CCA Leaders and Peer Support Leaders.
 
 Overview of Personal Leadership Journey of a WWPS Pupil&nbsp;<br>
 Opportunities &amp; Pathway for Personal Leadership of a Westwood Pupil:<br>
