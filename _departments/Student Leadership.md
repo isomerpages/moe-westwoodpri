@@ -35,11 +35,11 @@ WWPS has been aligning the criteria and development journey of a Student Leader 
 
 Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning of Term 3 to officially appoint deserving Student Leaders as Prefects, Peer Support Leaders and/or CCA Leaders. These newly-appointed Student Leaders have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team for exemplifying and role-modelling the following values:
 
-*   Good Conduct&nbsp;
+*   Good Conduct
 *   Character Strengths
-*   Community Involvement&nbsp; &nbsp; &nbsp; &nbsp;
-*   Responsibility&nbsp;
-*   Integrity&nbsp;
+*   Community Involvement
+*   Responsibility
+*   Integrity
 *   Leadership Quality
 
 The school’s Prefectorial Board’s Structure comprises these different levels:<br>
