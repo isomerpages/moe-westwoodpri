@@ -19,15 +19,8 @@ variant: markdown
 #### **Curricular Objectives**
 The Westwood Primary Positive Learning for Life Programme seeks to develop our students to be Student Advocates, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader. We encourage our Student Leaders to lead their peers in serving the school and the community.
 
-#### **Background**
-Since 2019, WWPS has redefined the vision of the core Student Leadership Team (Prefectorial Board), with an aim to develop each Prefect into a Peer Educator, Change Maker and Pupil Advocate:<br>
-1\. Peer Educator – to educate our fellow Westwoodian to do the right things and lead them to have future ready confidence, heart of gratitude, resilient mind-set and a passion for community.&nbsp;We would want our Prefects to influence, inspire and impact their peers via their actions by being a Peer Educator.<br>
-2\. Change Maker – to bring out positive changes to the school that will benefit the school environment that includes the pupils, teaching and non-teaching staff.&nbsp;We would our Prefects to be create a change in the school environment that would create a positive environment for all.<br>
-3\. Pupil Advocate – to empower others to do the right things and to have the right values, to serve, to lead and to excel by being a role model.
-
-We would want our Prefects to serve, lead and excel in their various capacities by being a good role model.
-
-In addition to the above three core values required, WWPS has also aligned the criteria and development journey of a pupil leader to the school’s THRIVE Framework:
+#### **Brief Overview**
+WWPS has been aligning the criteria and development journey of a Student Leader to the school’s THRIVE Framework:
 
 |  |  |
 |---|---|
