@@ -14,8 +14,6 @@ variant: markdown
 4.	Ms Chang Yu Juan Jade<br>
 5.	Ms Zhong Xinying<br>
 
-
-
 #### **Curricular Objectives**
 The Westwood Primary Positive Learning for Life Programme seeks to develop our students to be Student Advocates, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader. We encourage our Student Leaders to lead their peers in serving the school and the community.
 
@@ -57,9 +55,8 @@ The School’s Student Leadership Structure comprises these different tiers:<br>
 
 From 2024 onwards, the Student Leadership Structure has been further re-defined to provide equal opportunities &amp; statuses to Prefects, CCA Leaders and Peer Support Leaders.
 
-Overview of Personal Leadership Journey of a WWPS Pupil&nbsp;<br>
-Opportunities &amp; Pathway for Personal Leadership of a Westwood Pupil:<br>
-P1 to P6:
+Opportunities &amp; Pathway for Personal Leadership of a Westwood Student:<br>
+P1 to P6:<br>
 
 <img src="/images/sl6.png" style="width:100%">
 
