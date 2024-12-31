@@ -4,7 +4,7 @@ permalink: /departments/student-leadership/
 description: ""
 variant: markdown
 ---
-### **Student Leadership**
+**### **Student Leadership**
 #### **Learning for Life Programme: Student Leadership**
 
 **Student Leadership Department**<br>
@@ -34,9 +34,9 @@ WWPS has been aligning the criteria and development journey of a Student Leader 
 Starting 2024, in line with the Emerging 21st Century Competencies (E21CC) by MOE,<br>
 We aim to develop our Student Leaders into Connectors, Contributors &amp; Creators:<br>
 
-•	A. Connectors: Empowering student leaders to bridge connections between diverse groups within the school community. They facilitate collaboration, empower others to find common ground, and build a strong network of support for collective problem-solving.<br>
-•	B. Contributors: Emphasizing the importance of active contributions from student leaders. They are encouraged to identify opportunities for improvement, engage in meaningful projects, and make a positive impact on the school community.<br>
-•	C. Creators: Challenges student leaders to think creatively, identify innovative solutions, and embrace experimentation. They become agents of change, creating new possibilities for Westwood Primary School.<br>
+•	A. *Connectors*: Empowering student leaders to bridge connections between diverse groups within the school community. They facilitate collaboration, empower others to find common ground, and build a strong network of support for collective problem-solving.<br>
+•	B. *Contributors*: Emphasizing the importance of active contributions from student leaders. They are encouraged to identify opportunities for improvement, engage in meaningful projects, and make a positive impact on the school community.<br>
+•	C. *Creators*: Challenges student leaders to think creatively, identify innovative solutions, and embrace experimentation. They become agents of change, creating new possibilities for Westwood Primary School.<br>
 
 To enhance their E21CC, student leaders are trained to create, contribute &amp; connect effectively through Student Leadership Programmes:<br>
 
