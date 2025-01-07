@@ -10,10 +10,11 @@ variant: markdown
 
 **Student Leadership Department**<br>
 1.	Mr Ng Kai Zhe Alan (Assist Year Head (Middle Pri) &amp; Student Leadership)<br>
-2.	Mdm Wei Junying<br>
-3.	Ms Nurul Syafiqah Binte Anuar Khan<br>
-4.	Ms Chang Yu Juan Jade<br>
-5.	Ms Zhong Xinying<br>
+2.	Ms Ng Ley Huey<br>
+3.	Mdm Wei Junying<br>
+4.	Ms Nurul Syafiqah Binte Anuar Khan<br>
+5.	Ms Chang Yu Juan Jade<br>
+6.	Ms Zhong Xinying<br>
 
 #### **Curricular Objectives**
 The Westwood Primary Positive Learning for Life Programme seeks to develop our students to be Student Advocates, demonstrating the attributes of a self-directed learner, confident person, concerned citizen and compassionate leader. We encourage our Student Leaders to lead their peers in serving the school and the community.
