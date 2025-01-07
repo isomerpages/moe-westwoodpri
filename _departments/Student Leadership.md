@@ -4,7 +4,8 @@ permalink: /departments/student-leadership/
 description: ""
 variant: markdown
 ---
-**### **Student Leadership**
+### **Student Leadership**
+
 #### **Learning for Life Programme: Student Leadership**
 
 **Student Leadership Department**<br>
