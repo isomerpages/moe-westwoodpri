@@ -39,4 +39,4 @@ MOH has launched a new advisory on screen use for children up to 12 years of age
 
 <img src="/images/Guidance%20on%20Screen%20Use%20in%20Children.png" style="width:65%">
 
-[Download the Advisory](https://www.moh.gov.sg/docs/librariesprovider5/resources-statistics/guidelines/for-upload-guidance-on-screen-use-in-children-17-aug-2023.pdf?sfvrsn=168c49ce_0)
+[Download the Advisory](https://isomer-user-content.by.gov.sg/3/213920f8-25d2-45ba-ad6e-dfd8c627960f/for-upload-guidance-on-screen-use-in-children-17-aug-2023.pdf)
