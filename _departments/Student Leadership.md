@@ -39,6 +39,8 @@ We aim to develop our Student Leaders into Connectors, Contributors &amp; Creato
 
 To enhance their E21CC, student leaders are trained to create, contribute &amp; connect effectively through Student Leadership Programmes:<br>
 
+<img src="/images/2025/slp_2025.png" style="width:85%">
+
 #### **Student Council Exco being the Apex of WWPS Pupil Leaders**
 
 Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning of Term 3 to officially appoint deserving Student Leaders as Prefects, Peer Support Leaders and/or CCA Leaders. These newly-appointed Student Leaders have been selected by their previous and current year Form Teachers, Subject Teachers and the core Student Leadership Team for exemplifying and role-modelling the following values:
