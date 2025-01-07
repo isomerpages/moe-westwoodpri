@@ -53,6 +53,7 @@ Every year, WWPS holds a Student Leaders Investiture Ceremony at the beginning o
 *   Leadership Quality
 
 The School’s Student Leadership Structure comprises these different tiers:<br>
+<img src="/images/2025/sls_tiers.png" style="width:85%">
 
 <img src="/images/sl5.jpg" style="width:85%">
 
