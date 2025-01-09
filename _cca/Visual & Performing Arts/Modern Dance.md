@@ -6,14 +6,14 @@ third_nav_title: Visual & Performing Arts
 variant: markdown
 ---
 ### **Modern Dance**
-#### **Brief Description of CCA**
-Dance communicates feelings and ideas through purposeful, expressive and rhythmical sequences of movements. Modern Dance is not just your usual dance CCA. It infuses the elements of modern dance, jazz, ballet and ethnic dance elements. Pupils are exposed to a variety of dance genres and they learn teamwork through collaboration and communication. Look out for our vibrant and energetic Modern Dance pupils in their captivating performances!
+#### **CCA Description: Modern Dance**
+Modern Dance is a dynamic and expressive art form that communicates feelings and ideas through purposeful, rhythmic and captivating movements. More than just a typical dance CCA, Modern Dance blends elements of modern dance, jazz, ballet and ethnic influences, creating a unique and versatile experience for our pupils. Through exposure to various dance genres, students not only develop their technical skills but also foster teamwork, collaboration and effective communication. Be sure to catch our vibrant Modern Dance performers in action, as they bring energy and passion to every stage with their stunning and unforgettable performances!
 
-#### **CCA objectives**
-Modern Dance pupils will be:  
-*   inculcated the love and appreciation for dance during and beyond their school years.
-*   provided opportunities to give their best and to have a sense of achievement
-*   trained and nurtured to be a confident and future-ready generation.
+#### **CCA Objectives**
+Modern Dance pupils will:  
+* develop a lifelong love and appreciation for dance that extends beyond their school years.
+* be provided with opportunities to strive for excellence and experience a sense of accomplishment.
+* be trained and nurtured to become confident individuals who are prepared for the future.
 
 #### **CCA teachers-in-charge**
 Ms Ng Ley Huey<br>
