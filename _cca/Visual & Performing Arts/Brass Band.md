@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **Brass Band**
 #### **Brief Description of CCA**
-Our Westwood Brass Band is a musical ensemble consisting of brass instruments. During band practices, band members will learn music theory, sight-reading and learn how to play brass instruments such as cornets, euphoniums and horns. Through playing music together as an ensemble, band members also learn the important skills of teamwork.
+Our Westwood Brass Band is a musical ensemble consisting of brass and percussion instruments. During band practices, band members will learn music theory, sight-reading and learn how to play brass instruments such as cornets, euphoniums and horns. Through playing music together as an ensemble, band members also learn the important skills of teamwork.
 
 #### **CCA Objectives**
 Brass Band pupils will be learning:
@@ -21,7 +21,7 @@ Brass Band pupils will be learning:
 #### **CCA teachers-in-charge**
 Ms Yao Anli<br>
 Mr Zhang Weixiang<br>
-Ms Gu Si Yuan
+Ms Jade Chang Yu Juan
 
 #### **Venue**
 Band Room
