@@ -17,11 +17,11 @@ Malay Dance pupils will be:
 *   trained to put up performances and benchmark themselves through exposure and competitions
 
 #### **CCA teachers-in-charge**
-Mdm Suriati Bte Djuahir<br>
 Mdm Siti Kalsom Bte Zam Zam<br>
-Ms Nurain Binte Abdul Raheem
+Mdm Suriati Bte Djuahir<br>
+Ms Nurul Syafiqah Bte Anuar Khan
 
 #### **Venue**
 Westwood Cove 1
 
-<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTowCGERyAQulw8kX9eazWHbPmJksGADFaWsdxgbM7YNksNdP6NUVqmrFMHwnLR1YzGhoxN-qH2DVmR/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/1keTLppk3DzaWO1r11KqjERLxTHXhacc6MGciGf3NfZs/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
