@@ -16,9 +16,10 @@ Modern Dance pupils will:
 * be trained and nurtured to become confident individuals who are prepared for the future.
 
 #### **CCA teachers-in-charge**
-Ms Ng Ley Huey<br>
+
 Mrs Winnie Teng<br>
-Mdm Elna Bte Hussin
+Mdm Elna Bte Hussin<br>
+Ms Ng Ley Huey
 
 #### **Venue**
 Music Room
