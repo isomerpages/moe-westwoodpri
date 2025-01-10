@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-### **Name of Form Teachers**
+### **Teaching Staff**
 
 #### **P1 Form Teachers**
 
