@@ -1,11 +1,11 @@
 ---
-title: Name of Form Teachers
-permalink: /about-westwood/our-people/name-of-form-teachers/
+title: Teaching Staff
+permalink: /about-westwood/our-people/teaching-staff/
 description: ""
 third_nav_title: Our People
 variant: markdown
 ---
-### **Name of Form Teachers**
+### **Teaching Staff**
 
 #### **P1 Form Teachers**
 
