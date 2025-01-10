@@ -19,9 +19,10 @@ Brass Band pupils will be learning:
 *   instruments-playing
 
 #### **CCA teachers-in-charge**
-Ms Yao Anli<br>
+
 Mr Zhang Weixiang<br>
-Ms Jade Chang Yu Juan
+Ms Yao Anli<br>
+Ms Chang Yu Juan Jade
 
 #### **Venue**
 Band Room
