@@ -1,0 +1,105 @@
+---
+title: Teaching Staff
+permalink: /about-westwood/our-people/teaching-staff/
+description: ""
+third_nav_title: Our People
+variant: markdown
+---
+### **Name of Form Teachers**
+
+#### **P1 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 1 Confidence | MDM NORA BTE ISNIN<br>MDM LU BAOZHU (CLAIRE) |
+| 1 Diligence | MR SEET WEE KEY<br>MDM FATHIMAH MUZAMMILAH BINTE ABDUL SALAM |
+| 1 Gratitude | MDM LIYANNA BTE JOHAN<br>MS YAP HUI TEE |
+| 1 Hope | MDM RALLEEAH NAINA MOHAMED<br>MR NG ZHILI GERARD-CHRISTIAN |
+| 1 Kindness | MS YAP CHIN HWEE (SHERINE)<br> |
+| 1 Resilience | MDM LIM YEE CHIN(MRS ENDA WENDY CHAN)<br>MDM SURIATI BTE DJUAHIR | 
+| 1 Synergy | MS TAN HUI YIN<br>MDM SURIATI BTE DJUAHIR |
+| 1 Teamwork | MDM SITI AISYAH BINTE MOHAMED YAZID<br>MDM CHAN LAY MUN (HAZEL) |
+|
+
+#### **P2 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 2 Confidence | MS CHEN JIA HUI<br>MS NURUL SYAFIQAH BINTE ANUAR KHAN |
+| 2 Diligence | MR MOHAMAD RIDHWAN BIN JAMAIN<br>MDM YAO ANLI (MRS OOI) |
+| 2 Gratitude | MDM NUR DIYANA BTE ZAKARIAH<br>MDM WEI JUNYING |
+| 2 Hope | MS SHARENYA DEVARAJAN<br>MS NG LEY HUEY |
+| 2 Kindness | MDM JAMALIAH BTE SULAIMAN<br>MS THACHAYANI  PUTARAN |
+| 2 Resilience | MDM LEONG WINNIE<br>MS NATHANIA LAM MUN YEUNG |
+| 2 Synergy | MS KHOO JIA HUI<br>MS LEE LAY KHENG (SANDY) |
+| 2 Teamwork | MDM SUHAILA BINTE MD LAIP<br>MS ASYIRA BINTI ISMAWI |
+|
+
+#### **P3 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 3 Confidence | MR PREMNATH S/O CHANDRAN<br>MS NURAIN BTE ABDUL RAHEEM |
+| 3 Diligence | MDM LIM SHAE MIN<br>MDM NAI LI HUA (MRS TAN) |
+| 3 Gratitude | MR MUHAMMAD SYAFIQ BIN AWANG<br>MDM ANG HWEE CHIN |
+| 3 Resilience | MR TAN TUAN HENG<br>MDM LIM SWEE KENG ( VIVIAN) |
+| 3 Synergy | MR ONG XUAN YOU JOEL<br>MS GU SI YUAN |
+| 3 Teamwork | MR ZHANG WEIXIANG<br>MS ANEESHA BEEVI BTE AMSSAH |
+|
+
+#### **P4 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 4 Confidence | MR SUREEN KUMAR VALAUTHAM<br>MS ZHONG XINYING (NICOLIA) |
+| 4 Diligence | MS CHONG YOKE TING<br>MR DEXTER SIM YU MIN |
+| 4 Gratitude | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
+| 4 Resilience | MS LAM MENG CHEE<br>MDM KANG HUI CHIN JANE |
+| 4 Synergy | MR NG KAI ZHE ALAN<br>MS CHANG YU JUAN JADE |
+| 4 Teamwork | MS SHARMI LISA OBANOR<br>MDM LIN QIANTING |
+|
+
+#### **P5 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 5 Confidence | MS JURVEEN KAUR RANDHAWA<br>MS TAN LAY LIAN |
+| 5 Diligence | MS VIROSHINI D/O K VISVANATHAN<br>MS TONG JIN YI |
+| 5 Gratitude | MS SIA PEI FEN DAWN<br>MS YEW HEW MEI |
+| 5 Resilience | MDM NASEEMA BEEVI D/O ABDUL REHIM<br>MS JASMINE KOH HWEE LING |
+| 5 Synergy |  MS SARANYA  D/O ASOKAN<br>MS ELAINE LAI YONGXIAN |
+| 5 Teamwork | MS LIN SHING CHI<br>MR DEVARAJ S/O NAMBIRAJAN |
+|
+
+#### **P6 Form Teachers**
+
+| Class | Name |
+|:---:|---|
+| 6 Confidence | MR MOHAMED RAFIK B OSMAN ALKHATIB<br>MDM AZIMAH BINTE GHAZALI |
+| 6 Diligence | MS HIEW LI TIANG<br>MDM KEE SUAT HAR |
+| 6 Gratitude | MS YONG LEE MIN<br>MR KHAIRUL ABDILLAH BIN ISMAIL |
+| 6 Resilience | MS NOOR AMIRAH BTE AZMAN<br>MDM CHUA CHENG BEE (KATHERINE) |
+| 6 Synergy | MS GAN CHAI HONG ISABELLE<br>MS SITI JUWANI BTE ABD RAHMAN |
+| 6 Teamwork | MS JANICE FOO MEI CHIEN<br>MDM TAN SZE YI |
+|
+
+#### **Other Teaching Staff**
+
+|  |
+|:---:|
+| MS TEO CHEONG CHEONG |
+| MDM CINDY LOH TZE MUI |
+| MS ZAKIYAH BTE ABDUL RAHIM |
+| MS NURMALYANAH BTE MOSSADATS |
+| MS CHUA TIAN LI |
+| MS SARAH CHUA AI TEE |
+| MS ANG CHYE SIANG |
+| MS KOH KAH NENG |
+| MS CATHERINE KOH JOO TIAN |
+| MDM SAGUNTHALA  (MRS MUTHU) |
+| MR IDRIS BIN ABDUL RASHID |
+| MDM SAGUNTHALA (MRS MUTHU) |
+| MRS MAY FOO - KONG SWEE WAH |
+| MR CLYDE LIM CHANG SOON |
+| MDM GOH HUI CHIN |
+|
