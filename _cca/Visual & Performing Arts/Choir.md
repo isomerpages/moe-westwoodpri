@@ -9,7 +9,7 @@ variant: markdown
 #### **Brief Description of CCA**
 An aspiring and vibrant choir, Westwood Primary School’s choir was established in 2014. The choir shares a united aspiration; to bring joy to the community and envision themselves to perform on greater platforms. Through their passion &amp; commitment, they attained a Certificate of Accomplishment for the Singapore Youth Festival Arts Presentation in 2016, 2018 and 2024.
 
-Westwood Primary School is honoured to have Ms Jessica as our dearest conductor and Mr Terence as our pianist. Through Ms Jessica's guidance and dedication, the choir has continually made progress with opportunities to participate in choir exchange programmes and perform for members of the public. These challenges the choir to continually seek to improve themselves and reach out to the community.
+Westwood Primary School is honoured to have Mr Kong Li as our dearest conductor and Mr Ben Fung as our pianist. Through Mr Kong's guidance and dedication, the choir has continually made progress with opportunities to participate in choir exchange programmes and perform for members of the public. These challenges the choir to continually seek to improve themselves and reach out to the community.
 
 #### **CCA Objectives**
 Choir pupils will be learning:
