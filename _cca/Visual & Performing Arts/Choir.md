@@ -28,4 +28,4 @@ Mdm Nai Li Hua
 #### **Venue**
 THRIVE Studio (Dance Room)
 
-<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTdLOsQatXrHWE7A95yu-ogjF58-Te6SIhAgE61juIpVGvArHgz8O0ru_fxIstismU7sjJc9dCE91qQ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/1tUV85E5secEba8YGu2__DT0F9GPZSsYlqetKgfykl9g/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
