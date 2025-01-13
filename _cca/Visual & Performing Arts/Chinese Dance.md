@@ -20,7 +20,8 @@ Chinese Dance Pupils will be able to learn the following skills through practice
 
 #### **CCA teachers-in-charge**
 Ms Yap Hui Tee<br>
-Ms Tan Sze Yi
+Ms Tan Sze Yi<br>
+Ms Zhu Yuning
 
 #### **Venue**
 School Hall
