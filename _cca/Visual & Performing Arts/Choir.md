@@ -21,9 +21,9 @@ Choir pupils will be learning:
 *   performance etiquette
 
 #### **CCA teachers-in-charge**
-Ms Ang Hwee Chin<br>
 Ms Zhong Xinying<br>
-Ms Elaine Lai Yongxian
+Ms Ang Hwee Chin<br>
+Mdm Nai Li Hua
 
 #### **Venue**
 THRIVE Studio (Dance Room)
