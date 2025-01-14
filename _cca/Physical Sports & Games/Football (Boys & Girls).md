@@ -16,10 +16,10 @@ Football pupils will be:
 *   Taught on the basic technique such as ball control, passing and shooting.
 
 #### **CCA Teachers-in-charge**
-Mdm Lee Lay Kheng, Sandy<br>
 Mr Ariel Chow Zhixian<br>
 Ms Siti Juwani Bte Abd Rahman<br>
-Mr Yeo Jun Bo
+Mdm Lee Lay Kheng, Sandy<br>
+Ms Nurain Binte Abdul Raheem
 
 #### **Venue**
 School Field
