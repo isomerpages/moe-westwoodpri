@@ -29,34 +29,25 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 | Learning Journeys aligned to Social Studies themes and National Education<br>CCE Ambassadors Programme and training (P3 to P6) <br>Commemoration of NE Events (Total Defence Day, International Friendship Day, Racial Harmony Day and National Day)<br>NE Show<br><br>|
 |
 
-![](/images/cce2.jpg)
-![](/images/cce3.jpg)
-
 <figure>
-<img src="/images/cce4.jpeg" style="width:90%">
-	<figcaption>After two years, our P5 pupils had the privilege to attend 2022 NE Show.
- </figcaption>
-</figure>
-
-<figure>
-<img src="/images/2025/cce_2025_1.jpg" style="width:90%">
+<img src="/images/2025/cce_2025_1.jpg" style="width:85%">
 	<figcaption>Our pupils had fun completing a range of National Day activities.</figcaption>
 </figure>
 
 <figure>
-<img src="/images/2025/cce_2025_2.jpg" style="width:90%">
+<img src="/images/2025/cce_2025_2.jpg" style="width:85%">
 	<figcaption>Primary Three pupils shared their Values-In-Action ideas with their peers.</figcaption>
 </figure>
 
 <figure>
-<img src="/images/2025/cce_2025_3.jpg" style="width:90%">
-<img src="/images/2025/cce_2025_4.jpg" style="width:90%">
+<img src="/images/2025/cce_2025_3.jpg" style="width:40%">
+<img src="/images/2025/cce_2025_4.jpg" style="width:40%">
 	<figcaption>Our pupils had a chance to experience various food heritage and culture in school.</figcaption>
 </figure>
 
 <figure>
-<img src="/images/2025/cce_2025_5.jpg" style="width:90%">
-<img src="/images/2025/cce_2025_6.png" style="width:90%">
+<img src="/images/2025/cce_2025_5.jpg" style="width:40%">
+<img src="/images/2025/cce_2025_6.png" style="width:40%">
 	<figcaption>Various engaging NE Commerative Events were organised for our pupils.</figcaption>
 </figure>
 
