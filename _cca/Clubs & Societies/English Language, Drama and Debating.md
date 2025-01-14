@@ -21,10 +21,10 @@ With the advent of technology, pupils will learn how to create e-books using ICT
 |
 
 #### **CCA Teachers-in-charge**
-Ms Siti Aisyah Binte Mohamed Yazid<br>
 Ms Noor Amirah Bte Azman<br>
-Ms Claire Lu Baozhu<br>
-Ms Sharenya Devarajan
+Ms Hiew Li Tiang<br>
+Mrs Sharmi Lisa Obanor<br>
+Ms Tan Hui Yin
 
 #### **Venue**
 Media Resource Library
