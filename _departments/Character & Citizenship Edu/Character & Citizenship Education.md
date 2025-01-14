@@ -20,7 +20,7 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 |  |
 |---|
 | **Building Teacher-Student Relationship and Student-Student Relationship** |
-| Interactions during THRIVE Periods <br>PRe-Assembly Moments (PRAM) by teachers and pupils <br>Weekly What Went Well Moments <br>Positive Moments Journals <br>Gratitude Cards and Letters <br>Buddy Programme (P1 and P4) <br>CCE Buzz <br><br>|
+| Interactions during THRIVE Periods<br>PRe-Assembly Moments (PRAM) by teachers and pupils<br>Weekly What Went Well Moments<br>Positive Moments Journals<br>Gratitude Cards and Letters<br>Buddy Programme (P1 and P4)<br>CCE Buzz<br>Food Cultural Experiences<br>Education and Career Guidance Activities<br><br>|
 | **Values-In Action Project Experiences** |
 | Visit to Senior Activity Centres<br>Donation Drives <br>Staff Appreciation Day<br>Project Love <br>Project Care <br>Project Lead <br><br>|
 | **Character and Citizenship Education (CCE) lessons in Mother Tongue** |
