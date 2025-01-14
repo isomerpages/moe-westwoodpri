@@ -44,7 +44,7 @@ variant: markdown
 | 3 Gratitude | MR MUHAMMAD SYAFIQ BIN AWANG<br>MDM ANG HWEE CHIN |
 | 3 Resilience | MR TAN TUAN HENG<br>MDM LIM SWEE KENG ( VIVIAN) |
 | 3 Synergy | MR ONG XUAN YOU JOEL<br>MS GU SI YUAN |
-| 3 Teamwork | MR ZHANG WEIXIANG<br>MS ANEESHA BEEVI BTE AMSSAH |
+| 3 Teamwork | MR ZHANG WEIXIANG<br>MS ANEESAH BEEVI BTE AMSSAH |
 |
 
 #### **P4 Form Teachers**
