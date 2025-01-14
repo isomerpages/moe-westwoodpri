@@ -16,9 +16,10 @@ Wushu (Boys &amp; Girls) is a performance sport that improves coordination, flex
 *   Early talent identification through enrichment programme on Saturday mornings
 
 #### **CCA teachers-in-charge**
+Mr Seet Wee Key<br>
 Ms Jasmine Koh Hwee Ling<br>
 Mdm Wei Junying<br>
-Mr Seet Wee Key
+Mr Colin Chua Wen Jun
 
 #### **Venue**
 Indoor Sports Hall

@@ -14,9 +14,9 @@ Rhythmic Gymnastics (Girls) is a graceful sport containing many dance and ballet
 *   To fulfil each member’s potential and identify pupils who are keen to move on to competitive level.
 
 #### **CCA teachers-in-charge**
-Ms Tan Lay Lian<br>
 Ms Saranya D/O Asokan<br>
-Mdm Liyanna Bte Johan
+Ms Tan Lay Lian<br>
+Ms Khoo Jia Hui
 
 #### **Venue**
 School Hall

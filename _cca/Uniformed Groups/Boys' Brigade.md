@@ -13,6 +13,7 @@ The Boys' Brigade (BB) is a uniformed youth organisation and is recognised by th
 We aim to guide and instill discipline in boys, facilitating the development of various life skills and competencies, thereby contributing to the character development of the boys. We want them to have a healthy boyhood and hope that every boy will benefit from the BB programme.
 
 #### **CCA teachers-in-charge**
+Ms Chen Jia Hui<br>
 Mr Devaraj s/o Nambirajan
 
 <img src="/images/boysbrigade1.jpg" style="width:370px; height:260px;margin-left:5px" align="left">
