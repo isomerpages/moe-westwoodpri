@@ -34,13 +34,13 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 
 <figure>
 <img src="/images/cce4.jpeg" style="width:90%">
-	<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+	<figcaption>After two years, our P5 pupils had the privilege to attend 2022 NE Show.
  </figcaption>
 </figure>
 
 <figure>
 <img src="/images/2025/cce_2005_1.jpg" style="width:90%">
-	<figcaption>  After two years, our P5 pupils had the privilege to attend 2022 NE Show.
+	<figcaption>Our pupils had fun completing a range of National Day activities.
  </figcaption>
 </figure>
 
