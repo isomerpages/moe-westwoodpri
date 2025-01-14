@@ -16,8 +16,9 @@ Basketball pupils will be:
 *   Taught the value of sportsmanship, teamwork and having a resilient mind set.
 
 #### **CCA Teachers-in-charge**
-Mr Loh Chee Wei<br>
-Ms Fathimah Muzammilah
+Ms Nathania Lam Mun Yeung<br>
+Mr Muhammad Syafiq Bin Awang<br>
+Mr Adli Faiz Bin Anwar
 
 #### **Venue**
 Basketball Court, Indoor Sports Hall
