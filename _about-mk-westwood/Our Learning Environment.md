@@ -7,8 +7,8 @@ variant: markdown
 ### **Our Learning Environment**
 ##### **Our Indoor Learning Environment**
 
-<img src="/images/learningenvironment1.jpg" style="width:49%" align="left">
-<img src="/images/learningenvironment2.jpg" style="width:49%" align="right">
+<img src="/images/MK/2025/Classroom_1.jpg" style="width:49%" align="left">
+<img src="/images/MK/2025/classroom_2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
