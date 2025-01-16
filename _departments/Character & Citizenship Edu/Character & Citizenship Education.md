@@ -54,13 +54,13 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 	<figcaption>Various engaging NE Commerative Events were organised for our pupils.</figcaption>
 </figure>
 
-  mak kau<table><thead>
+  <table><thead>
   <tr>
     <td><img src="/images/2025/cce_2025_5.jpg" style="width:50%" align="left"></td>
     <td><img src="/images/2025/cce_2025_6.png" style="width:50%" align="left"></td>
-	</tr><tr></tr>
+	</tr>
   
-  <tr></tr>
+  <tr><td>haha</td></tr>
 </thead>
 </table>
 	
