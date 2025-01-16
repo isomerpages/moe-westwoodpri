@@ -4,10 +4,6 @@ permalink: /mk-westwood/our-teaching-staff/
 description: ""
 variant: markdown
 ---
-### **Our Teaching Staff**
-
-<img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
-
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:30%">
 
