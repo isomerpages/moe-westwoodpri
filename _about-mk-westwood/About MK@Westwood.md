@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **About MK@Westwood**
 
-<img src="/images/mkwestwood.png" style="width:85%">
+<img src="/images/MK/2025/About_MK_Westwood.jpg" style="width:85%">
 
 #### **Centre Information**
 Programmes Available: K1, K2, KCare
