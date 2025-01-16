@@ -19,7 +19,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
 
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
