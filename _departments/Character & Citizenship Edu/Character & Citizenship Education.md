@@ -31,7 +31,7 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 
 <figure>
 <img src="/images/2025/cce_2025_1.jpg" style="width:85%">
-	<figcaption>Our pupils had fun completing a range of National Day activities.</figcaption>
+	<figcaption>**Our pupils had fun completing a range of National Day activities.**</figcaption>
 </figure>
 
 <figure>
