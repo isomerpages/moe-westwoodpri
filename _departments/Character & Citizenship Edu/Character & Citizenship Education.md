@@ -36,7 +36,7 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 
 <figure>
 <img src="/images/2025/cce_2025_2.jpg" style="width:85%">
-	<figcaption><b>Primary Three pupils shared their Values-In-Action ideas with their peers.</b></figcaption>
+Primary Three pupils shared their Values-In-Action ideas with their peers.
 </figure>
 
 <img src="/images/2025/cce_3and4.png" style="width:85%">
