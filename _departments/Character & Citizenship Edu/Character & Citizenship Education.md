@@ -54,6 +54,8 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 	<br>
 	<figcaption>Various engaging NE Commerative Events were organised for our pupils.</figcaption>
 </figure>
+
+<img src="/images/2025/cce_4and5.png" style="width:85%">
 	
 #### **Character &amp; Citizensip Education Committee**
 
