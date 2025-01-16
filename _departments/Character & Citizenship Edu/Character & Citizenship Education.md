@@ -31,26 +31,16 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 
 <figure>
 <img src="/images/2025/cce_2025_1.jpg" style="width:85%">
-	<figcaption>Our pupils had fun completing a range of National Day activities.</figcaption>
+	<br><b><i>Our pupils had fun completing a range of National Day activities.</i></b>
 </figure>
 
 <figure>
 <img src="/images/2025/cce_2025_2.jpg" style="width:85%">
-	<figcaption>Primary Three pupils shared their Values-In-Action ideas with their peers.</figcaption>
+<br><b><i>Primary Three pupils shared their Values-In-Action ideas with their peers.</i></b>
 </figure>
 
-<figure>
-<img src="/images/2025/cce_2025_3.jpg" style="width:50%" align="left">
-<img src="/images/2025/cce_2025_4.jpg" style="width:50%" align="left">
-	<br><br>
-	<figcaption>Our pupils had a chance to experience various food heritage and culture in school.</figcaption>
-</figure>
-
-<figure>
-<img src="/images/2025/cce_2025_5.jpg" style="width:50%" align="left">
-<img src="/images/2025/cce_2025_6.png" style="width:50%" align="left">
-	<figcaption>Various engaging NE Commerative Events were organised for our pupils.</figcaption>
-</figure>
+<img src="/images/2025/cce_3and4.png" style="width:85%">
+<img src="/images/2025/cce_5and6.png" style="width:85%">
 	
 #### **Character &amp; Citizensip Education Committee**
 

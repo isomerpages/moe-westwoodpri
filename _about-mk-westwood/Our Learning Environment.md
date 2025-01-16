@@ -5,11 +5,10 @@ description: ""
 variant: markdown
 ---
 ### **Our Learning Environment**
-#### **A Virtual Tour Around MK**
 ##### **Our Indoor Learning Environment**
 
-<img src="/images/learningenvironment1.jpg" style="width:49%" align="left">
-<img src="/images/learningenvironment2.jpg" style="width:49%" align="right">
+<img src="/images/MK/2025/Classroom_1.jpg" style="width:49%" align="left">
+<img src="/images/MK/2025/classroom_2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 
@@ -17,8 +16,8 @@ variant: markdown
 |:---:|:---:|
 | **Classroom 1** | **Classroom 2** |
 
-<img src="/images/learningenvironment3.jpg" style="width:49%" align="left">
-<img src="/images/learningenvironment4.jpg" style="width:49%" align="right">
+<img src="/images/MK/2025/Music_Room_1.jpg" style="width:49%" align="left">
+<img src="/images/MK/2025/Music_Room_2.jpg" style="width:49%" align="right">
 
 <br clear="left">
 

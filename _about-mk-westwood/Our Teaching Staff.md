@@ -4,10 +4,6 @@ permalink: /mk-westwood/our-teaching-staff/
 description: ""
 variant: markdown
 ---
-### **Our Teaching Staff**
-
-<img src="/images/WWPS_Staff_Photos/mk_2023.jpg" style="width:85%">
-
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:30%">
 
@@ -15,7 +11,7 @@ variant: markdown
 |:---:|
 | **Chan Mun Foong Lucia**<br>Centre Head |
 
-<img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
 
@@ -23,7 +19,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nor Fariha Binte Mohd Ferdaus**<br>Level Head	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
+| **Tan Pei Qi**<br>Senior Teacher, Child Development	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Tan Pei Qi**<br>Senior Teacher, Child Development |
 
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
