@@ -59,7 +59,6 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
     <td><img src="/images/2025/cce_2025_5.jpg" style="width:50%" align="left"></td>
     <td><img src="/images/2025/cce_2025_6.png" style="width:50%" align="left"></td>
 	</tr>
-  
   <tr><td>haha</td></tr>
 </thead>
 </table>
