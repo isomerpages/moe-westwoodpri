@@ -39,6 +39,7 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 	<figcaption>Primary Three pupils shared their Values-In-Action ideas with their peers.</figcaption>
 </figure>
 
+
 <figure>
 <img src="/images/2025/cce_2025_3.jpg" style="width:45%" align="left">
 	&nbsp;&nbsp;
@@ -53,15 +54,6 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 	<br>
 	<figcaption>Various engaging NE Commerative Events were organised for our pupils.</figcaption>
 </figure>
-
-  <table><thead>
-  <tr>
-    <td><img src="/images/2025/cce_2025_5.jpg" style="width:50%" align="left"></td>
-    <td><img src="/images/2025/cce_2025_6.png" style="width:50%" align="left"></td>
-	</tr>
-  <tr><td>haha</td></tr>
-</thead>
-</table>
 	
 #### **Character &amp; Citizensip Education Committee**
 
