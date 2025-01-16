@@ -5,7 +5,6 @@ description: ""
 variant: markdown
 ---
 ### **Our Learning Environment**
-#### **A Virtual Tour Around MK**
 ##### **Our Indoor Learning Environment**
 
 <img src="/images/learningenvironment1.jpg" style="width:49%" align="left">
