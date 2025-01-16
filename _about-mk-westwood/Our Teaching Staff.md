@@ -11,7 +11,7 @@ variant: markdown
 |:---:|
 | **Chan Mun Foong Lucia**<br>Centre Head |
 
-<img src="/images/MK_Staff/2024/Nor_Fariha.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:30%;margin-right:15px;" align="left">
 
