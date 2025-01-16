@@ -40,8 +40,8 @@ Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah B
 </figure>
 
 <figure>
-<img align="left" style="width:50%;margin-right:15px;" src="src=">
-<img align="left" style="width:50%;margin-right:15px;" src="src=">
+<img align="left" style="width:50%;margin-right:15px;" src="/images/2025/cce_2025_1.jpg">
+<img align="left" style="width:50%;margin-right:15px;" src="/images/2025/cce_2025_2.jpg">
 	<figcaption>Our pupils had a chance to experience various food heritage and culture in school.</figcaption>
 </figure>
 
