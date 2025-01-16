@@ -37,7 +37,6 @@ We believe that early success in Mathematics is crucial for developing interest 
 ![](/images/math2.jpg)
 ![](/images/math3.jpg)
 <img src="/images/math4.jpg" style="width:50%" align="left">
-
 <br clear="left">
 
 #### **Useful Links**
