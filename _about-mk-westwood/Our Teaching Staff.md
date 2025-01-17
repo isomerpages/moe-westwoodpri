@@ -5,7 +5,7 @@ description: ""
 variant: markdown
 ---
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:30%">
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%">
 
 |  |
 |:---:|
@@ -21,9 +21,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Tan Pei Qi**<br>Senior Teacher, Child Development	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language |
 
-<img src="/images/MK_Staff/2024/Khoo_Shih_Jia.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Khoo_Shih_Jia.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Nur_Aqilah.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Aqilah.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
@@ -31,9 +31,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Khoo Shih Jia**<br>English Language Teacher | **K Vishnupriyah**<br>English Language Teacher | **Nur Aqilah Binte Nirwan**<br>English Language Teacher |
 
-<img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Zarifah_Ithnin.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Tang_Lai_Peng.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Nur_Nadiah.png" style="width:30%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Nadiah.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
