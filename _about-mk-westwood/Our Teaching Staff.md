@@ -21,7 +21,7 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Tan Pei Qi**<br>Senior Teacher, Child Development	 | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language |
 
-<img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Khoo_Shih_Jia.png" style="width:32%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Nur_Aqilah.png" style="width:30%;margin-right:15px;" align="left">
 
