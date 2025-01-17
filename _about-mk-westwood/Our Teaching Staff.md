@@ -43,33 +43,33 @@ variant: markdown
 
 <img src="/images/MK_Staff/2024/Goh_Pei_Yu.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Lim_Siew_Eng.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Lim_Leqi.png" style="width:31%;margin-right:15px;" align="left">
+
+<br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Lim Siew Eng**<br>English Language Teacher (FAJT) | **Lim Leqi**<br>English Language Teacher (FAJT) |
+
+<img src="/images/MK_Staff/2024/Haryati_Ali.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Maria_Binte_Baharuddin.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Mohammed_Indra.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Goh Pei Yu, Jeslyn**<br>English Language Teacher | **Lim Siew Eng**<br>English Language Teacher (FAJT) | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher |
-
-<img src="/images/MK_Staff/2024/Haryati_Ali.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Maria_Binte_Baharuddin.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Senthil_Geetha.png" style="width:31%;margin-right:15px;" align="left">
-
-<br clear="left">
-
-|  |  |  |
-|:---:|:---:|:---:|
-| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher |
+| **Haryati Binte Ali**<br>Malay Language Teacher | **Maria Binte Baharuddin**<br>Malay Language Teacher | **Mohammed Indra Bin Hamzah**<br>Malay Language Teacher |
 
 <img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Senthil_Geetha.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
+| **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
 
 <img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
@@ -81,9 +81,11 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Liu Bing**<br>Chinese Language Teacher | **Shirley Lee Pei Ling**<br>Chinese Language Teacher | **Zhou Hong**<br>Chinese Language Teacher |
 
-<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:31%;" align="left">
+<img src="/images/MK_Staff/2024/Yu_Zihan.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
-|  |  |
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Yu Zihan**<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chinese Language Teacher | | |
+|  |  |  |
+|:---:|:---:|:---:|
+| **Yu Zihan**<br>Chinese Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **<font color="white">Placeholder Placeholder</font>**<br><font color="white">Placeholder Placeholder Placeholder</font> |
