@@ -11,9 +11,9 @@ variant: markdown
 |:---:|
 | **Chan Mun Foong Lucia**<br>Centre Head |
 
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:32%;margin-right:12px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:32%;margin-right:12px;" align="left">
-<img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:32%;margin-right:12px;" align="left">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%;margin-right:12px;" align="left">
+<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:12px;" align="left">
+<img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:31%;margin-right:12px;" align="left">
 
 <br clear="left">
 
