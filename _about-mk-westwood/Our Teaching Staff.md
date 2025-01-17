@@ -88,4 +88,4 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Yu Zihan**<br>Chinese Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | **Placeholder**<br>Placeholder |
+| **Yu Zihan**<br>Chinese Language Teacher | **Cai Luqi**<br>Chinese Language Teacher | <p style="color:white;">**Placeholder Placeholder**<br>Placeholder Placeholder Placeholder</p> |
