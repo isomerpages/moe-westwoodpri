@@ -32,3 +32,12 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 | Mdm Kelly Kin | Mr Alvin Ang  | Mr Kelvin Lim  |
 |
 ##### **2025 PSG Executive Committee Members**
+Mr Koh Weixiong<br>
+Mdm Seah Yi Lin<br>
+Mdm Rosamund<br>
+Mdm Joy<br>
+Mr Vincent<br>
+Mdm Tiffany<br>
+Mdm Melody<br>
+Mdm Cecilia<br>
+Mdm Evonne
