@@ -2,6 +2,7 @@
 title: Parent Support Group
 permalink: /our-partners/psg/
 description: ""
+variant: markdown
 ---
 ### **Parent Support Group**
 
@@ -24,33 +25,19 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 
 <iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTk7krTrhLgHeDAcyPUEn1LmqucZW9Uy5qj8rCXjnwDezxaoqiAsgTicQcufU457SAxsX6wuXJly3Ns/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
-##### **2022 PSG Executive Committee Structure**
+##### **2025 PSG Executive Committee Structure**
 
 | Chairperson | Vice-Chairperson | Vice-Chairperson |
 |:---:|:---:|:---:|
-| Mr Lim Teck Boon | Mr Raymond Tan  | Mdm Rohana Ramlan  |
+| Mdm Kelly Kin | Mr Alvin Ang  | Mr Kelvin Lim  |
 |
-
-|  |  |
-|---|---|
-| **Secretary** | Mdm Norashiqin Binte Norain |
-| **Treasurer** | Mdm Siti Juliyana Binte Yusoff |
-| **Head Publicity IC1** | Mdm Tan Shu Hui |
-| **Head Publicity IC2** | Mr Adrian Ng |
-| **Internal Events IC1** | Mr Koh Wei Xiong |
-| **Internal Events IC2** | Mdm Fang Fang |
-| **External Events IC1** | Mdm Melody Lim Geok Ling |
-| **External Events IC2** | Mdm Kumaresan Shanmugapriya |
-|
-
-##### **2023 PSG Partnership/Stakeholder Engagement Team**
-Ms Tan Sze Yi <br>
-Mr Mohamed Rafik Osman Alkhatib<br>
-Ms Chong Yoke Ting<br>
-Ms Ngiam Wei Ling, Melissa
-
-##### **2022 PSG Newsletter**
-
-<p><a href="https://www.flipsnack.com/huili/wwps-psg-newsletter-2022.html">
-<img style="width:45%" src="/images/psgflip.jpg">
-</a></p>
+##### **2025 PSG Executive Committee Members**
+Mr Koh Weixiong<br>
+Mdm Seah Yi Lin<br>
+Mdm Rosamund<br>
+Mdm Joy<br>
+Mr Vincent<br>
+Mdm Tiffany<br>
+Mdm Melody<br>
+Mdm Cecilia<br>
+Mdm Evonne
