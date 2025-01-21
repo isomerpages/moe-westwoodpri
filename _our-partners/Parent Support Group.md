@@ -23,7 +23,7 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 *   Initiate and implement programmes that promote student well-being
 *   Uphold the image and interest of the school
 
-<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/1aGseTzmNGK0lSY8PeodY1KdFvkxLH5X0kLkfULHtChE/edit?usp=sharingembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/1aGseTzmNGK0lSY8PeodY1KdFvkxLH5X0kLkfULHtChE/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### **2025 PSG Executive Committee Structure**
 
