@@ -12,7 +12,7 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First row from left:**<br>
-Mr Zhang Weixiang, Mr Dexter Sim, Ms Hazel Chan Lay Mun, Mrs Goh Han Jin, Ms Gu Si Yuan
+Mr Zhang Weixiang, Mr Dexter Sim, Mr Low Min Chye, Mdm Hazel Chan Lay Mun, Ms Asyira Binti Ismawi, Ms Gu Si Yuan
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
