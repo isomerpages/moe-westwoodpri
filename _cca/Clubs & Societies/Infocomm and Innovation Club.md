@@ -14,10 +14,10 @@ Beyond acquiring technical skills, pupils serve as ambassadors for Cyber Wellnes
 #### **CCA Objectives**
 Infocomm Technology pupils will:
 
-•	Explore emerging technologies such as AI and AR to enhance their learning experience.
-•	Apply multimedia skills in content creation projects that integrate innovation and creativity.
-•	Develop creative problem-solving abilities through the Design Thinking process.
-•	Learn the elements of art and photography composition rules to create visually compelling content.
+•	Explore emerging technologies such as AI and AR to enhance their learning experience.<br>
+•	Apply multimedia skills in content creation projects that integrate innovation and creativity.<br>
+•	Develop creative problem-solving abilities through the Design Thinking process.<br>
+•	Learn the elements of art and photography composition rules to create visually compelling content.<br>
 
 #### **CCA Teachers-in-charge**
 Ms Tong Jin Yi<br>
