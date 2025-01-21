@@ -40,7 +40,7 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 
 Follow us on our Aesthetics Online Gallery at&nbsp;[https://www.instagram.com/arts_wwps/profilecard/?igsh=MTJoZ2h3a3Nvb2hqMA==)
 
-<img style="width:25%" src="/images/aesthetics6.jpg">
+<img style="width:25%" src="/images/2025/arts_wwps_qr.jpg">
 
 #### **Our Art and Music Teachers**
 Ms Ang Hwee Chin<br>
