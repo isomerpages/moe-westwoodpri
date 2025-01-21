@@ -28,8 +28,6 @@ Students had a blast learning about the different types of dinosaurs, digging fo
 
 Here’s a reflection video to hear what the students enjoyed most at Dinoland!
 
-#### **2025**
-
 #### **CCA Teachers-in-charge**
 Mdm Nora Bte Isnin<br>
 Ms Gu Si Yuan
