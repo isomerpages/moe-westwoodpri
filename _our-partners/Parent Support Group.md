@@ -23,7 +23,7 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 *   Initiate and implement programmes that promote student well-being
 *   Uphold the image and interest of the school
 
-<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTk7krTrhLgHeDAcyPUEn1LmqucZW9Uy5qj8rCXjnwDezxaoqiAsgTicQcufU457SAxsX6wuXJly3Ns/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/1aGseTzmNGK0lSY8PeodY1KdFvkxLH5X0kLkfULHtChE/edit?usp=sharingembed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 ##### **2025 PSG Executive Committee Structure**
 
@@ -31,6 +31,7 @@ We envision&nbsp; to develop a caring and encouraging environment for all&nbsp; 
 |:---:|:---:|:---:|
 | Mdm Kelly Kin | Mr Alvin Ang  | Mr Kelvin Lim  |
 |
+
 ##### **2025 PSG Executive Committee Members**
 Mr Koh Weixiong<br>
 Mdm Seah Yi Lin<br>
