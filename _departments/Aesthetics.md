@@ -38,7 +38,7 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 | **Music** | Music Fundamentals | Music Fundamentals | Recorder | Ukulele | Kalimba | Garageband |
 |
 
-Follow us on our Aesthetics Online Gallery on [Instagram](https://www.instagram.com/arts_wwps/profilecard/?igsh=MTJoZ2h3a3Nvb2hqMA==)
+Follow our Aesthetics Online Gallery on [Instagram](https://www.instagram.com/arts_wwps/profilecard/?igsh=MTJoZ2h3a3Nvb2hqMA==)
 
 <img style="width:50%" src="/images/2025/arts_wwps_qr.jpg">
 
