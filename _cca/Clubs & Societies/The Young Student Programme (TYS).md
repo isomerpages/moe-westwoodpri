@@ -24,9 +24,9 @@ Exploring the prehistoric world during the learning journey to Dinoland!
 ![7](/images/2025/tys7.jpg)
 Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!
 
-
-
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xWTnhimhlZI?si=wwtjOnFrXf8iyuuW" height="315" width="560"></iframe>
+
+Here’s a reflection video to hear what the students enjoyed most at Dinoland!
 
 #### **2025**
 
