@@ -9,10 +9,7 @@ variant: markdown
 #### **Brief Description of CCA**
 The Infocomm &amp; Innovation Club provides pupils with a vibrant platform to explore, learn, and engage in projects that integrate ICT and innovation skills taught during CCA sessions. Pupils will also develop their problem-solving capabilities through the design thinking process, fostering creativity and empathy in addressing real-world challenges.<br>
 
-Beyond acquiring technical skills, pupils serve as ambassadors for Cyber Wellness and Design Thinking. They promote safe and responsible Internet use while fostering creative problem-solving through the Design Thinking process
-<br>
-
-**Note: For 2024, this CCA has been merged with Design and Innovation.**
+Beyond acquiring technical skills, pupils serve as ambassadors for Cyber Wellness and Design Thinking. They promote safe and responsible Internet use while fostering creative problem-solving through the Design Thinking process.
 
 #### **CCA Objectives**
 Infocomm Technology pupils will:
