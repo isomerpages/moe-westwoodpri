@@ -17,11 +17,12 @@ Coding Workshop facilitated by Secondary 4 HCI students.
 ![2](/images/2025/tys2.jpg)
 P1 &amp; 2 Students learn coding through “Scratch” – A visual programming website that allows students to create their own interactive stories, games and animations.
 ![3](/images/2025/tys3.jpg)
+Exploring the prehistoric world during the learning journey to Dinoland!
 ![4](/images/2025/tys4.jpg)
 ![5](/images/2025/tys5.jpg)
 ![6](/images/2025/tys6.jpg)
 ![7](/images/2025/tys7.jpg)
-
+Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!
 
 
 
