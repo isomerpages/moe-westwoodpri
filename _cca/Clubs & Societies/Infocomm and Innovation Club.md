@@ -5,9 +5,11 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### **Infocomm Technology (Computing)**
+### **Infocomm &amp; Innovation Club**
 #### **Brief Description of CCA**
-Infocomm Technology (Computing) pupils are given opportunities to explore, learn and work on projects using the ICT skills taught during the CCA session. On top of that, pupils will also act as student ambassadors of Cyber Wellness, advocating safe and responsible use of the Internet.<br>
+The Infocomm &amp; Innovation Club provides pupils with a vibrant platform to explore, learn, and engage in projects that integrate ICT and innovation skills taught during CCA sessions. Pupils will also develop their problem-solving capabilities through the design thinking process, fostering creativity and empathy in addressing real-world challenges.<br><br>
+Beyond acquiring technical skills, pupils serve as ambassadors for Cyber Wellness and Design Thinking. They promote safe and responsible Internet use while fostering creative problem-solving through the Design Thinking process
+<br>
 
 **Note: For 2024, this CCA has been merged with Design and Innovation.**
 
