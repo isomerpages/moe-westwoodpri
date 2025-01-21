@@ -14,16 +14,16 @@ Beyond acquiring technical skills, pupils serve as ambassadors for Cyber Wellnes
 #### **CCA Objectives**
 Infocomm Technology pupils will:
 
-*   experience simple animation through the use of Scratch and basic video editing skills.
-*   apply the multimedia skills that they have acquired to work on projects.
-*   brainstorm creative ideas so as to become confident presenters who can lead student community in the area of Cyber Wellness.
-*   experience the elements of art in photography &amp; photography composition rules.
+•	Explore emerging technologies such as AI and AR to enhance their learning experience.
+•	Apply multimedia skills in content creation projects that integrate innovation and creativity.
+•	Develop creative problem-solving abilities through the Design Thinking process.
+•	Learn the elements of art and photography composition rules to create visually compelling content.
 
 #### **CCA Teachers-in-charge**
 Ms Tong Jin Yi<br>
 Ms Thachayani Putaran<br>
-Ms Khoo Jia Hui<br>
-Mr Sureen Kumar Valautham
+Mr Sureen Kumar Valautham<br>
+Ms Lin Qianting
 
 #### **Venue**
 ICT Lab 2 &amp; 3
