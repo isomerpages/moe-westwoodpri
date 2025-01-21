@@ -21,6 +21,5 @@ variant: markdown
 “The fact that Roanne enjoys going to MK (from K1 to K2!) everyday does speak a lot about the school! She's always sharing with us what she has learnt in school, the activities they have, and what she always talks to her teachers about. Appreciate the efforts of all teachers who helped make the MK's experience such an amazing one.”<br>
 ~Jennifer Loh, parent of 2024 K2 child.<br>
 
-“Thanks MK and MK staff for being a source of inspiration and guidance to our son. Your influence has extended beyond the classroom, shaping him into a compassionate and thoughtful individual.” 
-
+“Thanks MK and MK staff for being a source of inspiration and guidance to our son. Your influence has extended beyond the classroom, shaping him into a compassionate and thoughtful individual.”<br>
 ~Seh Kin Wai, parent of 2024 K2 child.
