@@ -34,7 +34,7 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 
 |  | P1 | P2 | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|---|
-| **Art** | Create a Toy: It’s Playtime! | Design and Build with Strawbees | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with 3D Pens |
+| **Art** | Create a Toy: It’s Playtime! | Design and Build with Strawbees | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with Digital Photography |
 | **Music** | Music Fundamentals | Music Fundamentals | Recorder | Ukulele | Kalimba | Garageband |
 |
 
