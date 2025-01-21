@@ -2,7 +2,8 @@
 title: School Advisory Committee
 permalink: /our-partners/school-advisory-committee/
 description: ""
+variant: markdown
 ---
 ### **School Advisory Committee**
 
-<img src="/images/SAC 2023.jpg" style="width:85%">
+<img src="/images/2025/SAC 2025.jpg" style="width:85%">
