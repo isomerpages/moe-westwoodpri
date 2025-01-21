@@ -28,6 +28,7 @@ Our Learning for Life Programme’s goal is for the pupils to “lead responsibl
 **Values in Action Service Learning (From 2023)**<br>
 **(Learning for Life Programme – Community Service)**
 
+<img src="/images/2025/llp_table.png" style="width:85%">
 
 <img src="/images/2025/llp1.jpg" style="width:40%;margin-right:15px;" align="left">
 <img src="/images/2025/llp2.jpg" style="width:40%;margin-left:15px;" align="right">
