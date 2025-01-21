@@ -24,6 +24,11 @@ The overall curriculum focus were divided into three key areas which are ‘Posi
 
 Our Learning for Life Programme’s goal is for the pupils to “lead responsible and fulfilled lives, and to contribute to the wider community”. The school has embarked on community projects to benefit various organizations, via an Action Learning approach. By serving others with compassion, pupils discover personal mastery, purpose and engagement, while supporting individual communities to flourish.
 
+
+**Values in Action Service Learning (From 2023)**<br>
+**(Learning for Life Programme – Community Service)**
+
+
 <img src="/images/2025/llp1.jpg" style="width:40%;margin-right:15px;" align="left">
 <img src="/images/2025/llp2.jpg" style="width:40%;margin-left:15px;" align="right">
 
