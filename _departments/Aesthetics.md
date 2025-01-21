@@ -12,7 +12,7 @@ Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
 **First row from left:**<br>
-Mr Zhang Weixiang, Mr Dexter Sim, Ms Hazel Chan Lay Mun, Mrs Goh Han Jin, Ms Gu Si Yuan
+Mr Zhang Weixiang, Mr Dexter Sim, Mr Low Min Chye, Mdm Hazel Chan Lay Mun, Ms Asyira Binti Ismawi, Ms Gu Si Yuan
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
@@ -34,23 +34,19 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 
 |  | P1 | P2 | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|---|
-| **Art (ALP)<br>Positive Design** | Create a Toy: It’s Playtime! | Design and Build with Strawbees<br> | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with 3D Pens |
-| **Music<br>Exposure to Musical Instruments and Genres** | Music Fundamentals | Music Movement | Orff Instrumental Ensemble Level 1<br> | Orff Instrumental Ensemble Level 2<br><br>Ukulele | Ethnic Percussion | Garageband |
+| **Art** | Create a Toy: It’s Playtime! | Design and Build with Strawbees | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with Digital Photography |
+| **Music** | Music Fundamentals | Music Fundamentals | Recorder | Ukulele | Kalimba | Garageband |
 |
 
-Follow us on our Aesthetics Online Gallery at&nbsp;[https://go.gov.sg/wwps-aesthetics](https://go.gov.sg/wwps-aesthetics)
+Follow us on our Aesthetics Online Gallery at&nbsp;[https://www.instagram.com/arts_wwps/profilecard/?igsh=MTJoZ2h3a3Nvb2hqMA==)
 
-<img style="width:25%" src="/images/aesthetics6.jpg">
+<img style="width:25%" src="/images/2025/arts_wwps_qr.jpg">
 
-<iframe allowfullscreen="true" width="800" height="450" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTqdL-nAuWSfvXrhWrl4f6RkkzL8Sxfq7GLuZO492WPpigc06d5dIvQgYerpRutOACvqkWAMcf7PzJN/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
-
-#### **Our Dedicated Arts Spaces**
-To provide a vibrant Aesthetics environment for our pupils to be engaged in the Arts, our spaces include two Art rooms, an Art Gallery, two Music rooms, THRIVE Studio, and the Band Room. In 2020, we set up two more dedicated Arts spaces, our Art Hive and Artistes’ Space!
-
-<img style="width:45%" src="/images/aesthetics7.jpg">
-
-#### **Our People**
-Mdm Hazel Chan (HOD/Aesthetics)<br>
+#### **Our Art and Music Teachers**
+Ms Ang Hwee Chin<br>
+Ms Asyira Binte Ismawi<br>
 Mr Dexter Sim<br>
-Mr Zhang Weixiang (Music Coordinator)<br>
-Ms Gu Si Yuan
+Ms Gu Si Yuan<br>
+Mdm Hazel Chan (HOD/Aesthetics)<br>
+Mdm Sherine Yap<br>
+Mr Zhang Weixiang (Music Coordinator)
