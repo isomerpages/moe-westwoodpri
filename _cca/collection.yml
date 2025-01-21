@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Philosophy of CCAs.md
-      - Clubs & Societies/The Young Student Programme (TYS).md
       - Clubs & Societies/.keep
       - Clubs & Societies/English Language, Drama and Debating.md
       - Clubs & Societies/Environmental Science.md
