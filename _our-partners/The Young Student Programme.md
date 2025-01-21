@@ -15,12 +15,12 @@ Mdm Nora Bte Isnin<br>
 Ms Gu Si Yuan
 
 #### **2024**
-![1](/images/2025/tys1.jpg)
-Coding Workshop facilitated by Secondary 4 HCI students.
-![2](/images/2025/tys2.jpg)
-P1 &amp; 2 Students learn coding through “Scratch” – A visual programming website that allows students to create their own interactive stories, games and animations.
-![3](/images/2025/tys3.jpg)
-Exploring the prehistoric world during the learning journey to Dinoland!
+![1](/images/2025/tys1.jpg)<br>
+Coding Workshop facilitated by Secondary 4 HCI students.<br>
+![2](/images/2025/tys2.jpg)<br>
+P1 &amp; 2 Students learn coding through “Scratch” – A visual programming website that allows students to create their own interactive stories, games and animations.<br>
+![3](/images/2025/tys3.jpg)<br>
+Exploring the prehistoric world during the learning journey to Dinoland!<br>
 ![4](/images/2025/tys4.jpg)
 ![5](/images/2025/tys5.jpg)
 ![6](/images/2025/tys6.jpg)
@@ -28,6 +28,8 @@ Exploring the prehistoric world during the learning journey to Dinoland!
 Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/xWTnhimhlZI?si=wwtjOnFrXf8iyuuW" height="315" width="560"></iframe>
+
+Here’s a reflection video to hear what the students enjoyed most at Dinoland!
 
 #### **2021**
 
