@@ -34,8 +34,8 @@ Through Aesthetics education, we aim to cultivate in our pupils, an enjoyment of
 
 |  | P1 | P2 | P3 | P4 | P5 | P6 |
 |:---:|:---:|:---:|:---:|:---:|:---:|---|
-| **Art** | Create a Toy: It’s Playtime! | Design and Build with Strawbees<br> | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with 3D Pens |
-| **Music** | Music Fundamentals | Music Fundamentals | Orff Instrumental Ensemble Level 1<br> | Orff Instrumental Ensemble Level 2<br><br>Ukulele | Ethnic Percussion | Garageband |
+| **Art** | Create a Toy: It’s Playtime! | Design and Build with Strawbees | Digital Animation | Design a Museum Experience | Design Thinking &amp; Prototyping | Exploring Creations with 3D Pens |
+| **Music** | Music Fundamentals | Music Fundamentals | Recorder | Orff Instrumental Ensemble Level 2<br><br>Ukulele | Ethnic Percussion | Garageband |
 |
 
 Follow us on our Aesthetics Online Gallery at&nbsp;[https://go.gov.sg/wwps-aesthetics](https://go.gov.sg/wwps-aesthetics)
