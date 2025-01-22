@@ -37,7 +37,7 @@ Ms Gu Si Yuan
 
 <img src="/images/2025/tys6.jpg" style="width:49%" align="left">
 <img src="/images/2025/tys7.jpg" style="width:49%" align="right">
-<br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 <figure>
 <figcaption>Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!</figcaption>  
 </figure>
