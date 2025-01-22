@@ -30,13 +30,13 @@ Ms Gu Si Yuan
 <figcaption>Exploring the prehistoric world during the learning journey to Dinoland!</figcaption>  
 </figure>
 
-<img src="/images/2025/tys4.jpg" style="width:40%" align="left">
-<img src="/images/2025/tys5.jpg" style="width:40%" align="right">
+<img src="/images/2025/tys4.jpg" style="width:45%" align="left">
+<img src="/images/2025/tys5.jpg" style="width:45%" align="right">
 
 <br clear="left">
 
-<img src="/images/2025/tys6.jpg" style="width:40%" align="left">
-<img src="/images/2025/tys7.jpg" style="width:40%" align="right">
+<img src="/images/2025/tys6.jpg" style="width:45%" align="left">
+<img src="/images/2025/tys7.jpg" style="width:45%" align="right">
 <br>
 
 Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!
