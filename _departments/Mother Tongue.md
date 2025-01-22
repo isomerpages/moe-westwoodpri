@@ -83,7 +83,7 @@ P6 Parents CL Workshop 2024<br>
 
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
-[https://www.seab.gov.sg/home/examinations/approved-dictionaries](https://www.seab.gov.sg/home/examinations/approved-dictionaries)  
+[https://www.seab.gov.sg/psle/](https://www.seab.gov.sg/psle/)  
 
 
 **Useful Websites:**<br>
