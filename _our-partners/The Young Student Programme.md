@@ -37,7 +37,7 @@ Ms Gu Si Yuan
 
 <img src="/images/2025/tys6.jpg" style="width:49%" align="left">
 <img src="/images/2025/tys7.jpg" style="width:49%" align="right">
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <figure>
 <figcaption>Students had a blast learning about the different types of dinosaurs, digging for fossils and riding in a minecart!</figcaption>  
 </figure>
@@ -111,7 +111,7 @@ A glimpse into what we do at TYS, and a special tribute to our partners - whose 
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/CxzPhGQ_1-4" title="The Young Student Programme (TYS) 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-**2018 Gardenasia LJ**
+**Gardenasia LJ**
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/myBAmaH6tp0" title="Gardenasia Learning Journey on 21 November 18" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
@@ -119,7 +119,7 @@ A glimpse into what we do at TYS, and a special tribute to our partners - whose 
 
 <iframe height="450" width="800" src="https://www.youtube.com/embed/8t1p-RLbnAM" title="The Young Student Programme (TYS) 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
-#### **The photos were taken in 2013, the first year of the programme.**
+#### **2013 (First year of the programme)**
 
 <img src="/images/tysp11.jpg" style="width:85%">
 
