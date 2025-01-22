@@ -31,11 +31,11 @@ Ms Gu Si Yuan
 </figure>
 
 <figure>  
-<img src="/images/2025/tys4.jpg" style="width:45%">
+<img src="/images/2025/tys4.jpg" style="width:40%">
 </figure>
 
 <figure>  
-<img src="/images/2025/tys5.jpg" style="width:45%">
+<img src="/images/2025/tys5.jpg" style="width:40%">
 </figure>
 
 <figure>  
