@@ -9,13 +9,6 @@ The Parenting Support Programme (PSP) is an initiative by the Ministry of Social
 
 <img src="/images/2025/PSP_Calendar_2025_Primary.png" style="width:100%">
 
-Dear Parents,
-
-Please refer to the poster below for the registration details if you are interested.
-
-<img src="/images/psp2_2023.png" style="width:65%">
-
-
 ### **Ways To Boost Your Child’s Well-Being**
 
  A child’s holistic well-being is important to support their overall development and learning. Children with high levels of well-being will be better able to face and overcome the various challenges that life may bring. They will also be better able to build positive relationships with other children, adults and the community as a whole. Therefore, we have compiled an array of resources that will be useful in enhancing and strengthening parents’ knowledge and skills to boost and support our children’s well-being. We hope that these resources will be beneficial in helping parents to build their children’s resilience and overall cognitive, emotional and social well-being.
