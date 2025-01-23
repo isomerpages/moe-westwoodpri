@@ -17,7 +17,7 @@ With the advent of technology, pupils will use ICT tools to create engaging reso
 |:---:|:---:|
 | - Speaking | - Drama techniques<br>- Readers’ Theatre<br>- Skits |
 | - Reading and Writing | - Book Club<br>- Creating and designing resources for school-wide events like Reading Bugs Day<br>- Crafting posters and brochures to promote reading initiatives<br>-Organizing book-themed quizzes and trivia sessions<br>-Collaborate with the community library to set up a static display |
-| - Outdoor Experiential Activities and Service to Community | - Watching dramas and plays<br>- Participating in literary competitions<br>- Storytelling to MOE Kindergarten children |
+| - Outdoor Experiential Activities and Service to Community | - Watching dramas and plays<br>- Participating in literary competitions<br>- Storytelling to MOE Kindergarten children<br>-Learning journey to community library |
 |
 
 #### **CCA Teachers-in-charge**
