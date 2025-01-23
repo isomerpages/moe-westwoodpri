@@ -13,7 +13,7 @@ Football fosters the spirit of teamwork and leadership skills. It also helps to 
 Football pupils will be:
 
 *   Trained in the areas of ABCS (Agility, Balance, Control and Speed)
-*   Taught on the basic technique such as ball control, passing and shooting.
+*   Taught to utilise basic techniques that include ball control, passing and shooting in game situations
 
 #### **CCA Teachers-in-charge**
 Mr Ariel Chow Zhixian<br>
