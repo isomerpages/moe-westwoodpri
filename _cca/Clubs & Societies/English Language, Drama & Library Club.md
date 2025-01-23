@@ -1,11 +1,11 @@
 ---
-title: English Language, Drama and Debating
-permalink: /cca/clubs-and-societies/english-language-drama-and-debating/
+title: English Language, Drama & Library Club
+permalink: /cca/clubs-and-societies/english-language-drama-and-library-club/
 description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### **English Language, Drama and Debating**
+### **English Language, Drama &amp; Library Club**
 #### **Brief Description of CCA**
 English Language, Drama and Debating aims at fostering a love for the English Language through the wide spectrum of literary activities. Pupils will have a chance to put up Readers Theatre performances and skits for school wide events. These opportunities enable pupils to learn the skills of speaking, reading and presenting in a fun and engaging manner.
 
@@ -24,7 +24,7 @@ With the advent of technology, pupils will learn how to create e-books using ICT
 Ms Noor Amirah Bte Azman<br>
 Ms Hiew Li Tiang<br>
 Mrs Sharmi Lisa Obanor<br>
-Ms Tan Hui Yin
+Ms Zhu Yuning
 
 #### **Venue**
 Media Resource Library
