@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Clubs & Societies
 variant: markdown
 ---
-### **English Language, Drama and Debating**
+### **English Language, Drama &amp; Library Club**
 #### **Brief Description of CCA**
 English Language, Drama and Debating aims at fostering a love for the English Language through the wide spectrum of literary activities. Pupils will have a chance to put up Readers Theatre performances and skits for school wide events. These opportunities enable pupils to learn the skills of speaking, reading and presenting in a fun and engaging manner.
 
