@@ -14,6 +14,7 @@ Football pupils will be:
 
 *   Trained in the areas of ABCS (Agility, Balance, Control and Speed)
 *   Taught to utilise basic techniques that include ball control, passing and shooting in game situations
+*   Instilled with values such as discipline and responsibility that helps in character building
 
 #### **CCA Teachers-in-charge**
 Mr Ariel Chow Zhixian<br>
