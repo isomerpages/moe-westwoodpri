@@ -17,7 +17,7 @@ Environmental Science pupils will:&nbsp;
 
 #### **CCA Teachers-in-charge**
 Mrs Enda Wendy Chan<br>
-Ms Aneesah Bevi Binte Amssah<br>
+Ms Aneesah Beevi Binte Amssah<br>
 Ms Yew Hew Mei<br>
 Mr Chua Zhen Hao
 
