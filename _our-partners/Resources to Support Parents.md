@@ -22,9 +22,9 @@ The Parenting Support Programme (PSP) is an initiative by the Ministry of Social
 
 **For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**<br>
 
-|Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  | Ms Nurmalyanah Mossadats (Special Educational Needs Officer) |
-| -------- | -------- | -------- |
-| Email Address: loh_tze_mui_cindy@schools.gov.sg | Email Address: zakiyah_abd_rahim@schools.gov.sg | Email Address: nurmalyanah_mossadats@schools.gov.sg |
+|Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  | Ms Nurmalyanah Mossadats (Special Educational Needs Officer) | Ms Chua Tian Li |
+| -------- | -------- | -------- | -------- |
+| Email Address: loh_tze_mui_cindy@schools.gov.sg | Email Address: zakiyah_abd_rahim@schools.gov.sg | Email Address: nurmalyanah_mossadats@schools.gov.sg | Email Address: chua_tian_li@schools.gov.sg |
 
 ### **Guidance on Screen Use in Children**
 
