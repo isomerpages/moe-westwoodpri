@@ -19,7 +19,7 @@ The Parenting Support Programme (PSP) is an initiative by the Ministry of Social
 <img style="width:85%" src="/images/Student%20Well%20Being.jpg">
 </a></p><br>
 
-**For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):**<br>
+For further clarification on ways to support your child’s well-being, you may reach out to our school counselor and Special Educational Needs Officers (SENO):<br>
 
 |Ms Loh Tze Mui Cindy (School Counselor)  | Ms Zakiyah Abdul Rahim (Special Educational Needs Officer)  |
 | -------- | -------- |
