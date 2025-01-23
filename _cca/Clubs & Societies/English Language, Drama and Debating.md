@@ -24,7 +24,7 @@ With the advent of technology, pupils will learn how to create e-books using ICT
 Ms Noor Amirah Bte Azman<br>
 Ms Hiew Li Tiang<br>
 Mrs Sharmi Lisa Obanor<br>
-Ms Tan Hui Yin
+Ms Zhu Yuning
 
 #### **Venue**
 Media Resource Library
