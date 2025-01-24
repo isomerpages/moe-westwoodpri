@@ -66,9 +66,15 @@ These are the various aspects of EL literacy:
 
 <img src="/images/eng8.png" style="width:85%">
 
-##### **STELLAR 1.0: Primary 4 to 6**
+<img src="/images/2025/stellar_2_1.png" style="width:85%">
 
-<img src="/images/eng9.png" style="width:85%">
+<img src="/images/2025/stellar_2_2.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_3.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_4.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_5.png" style="width:85%">
 
 #### **National Library Board's Reading Toolkit**
 Dear Parents,
