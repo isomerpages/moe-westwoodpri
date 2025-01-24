@@ -83,14 +83,7 @@ Embark on a thrilling journey of reading, where each page brings new discoveries
 
 Download [Reading Toolkit For Parents](https://go.gov.sg/reading-toolkit)
 
-#### **Our Pupils' Work: The Creative Ink**
-‘The Creative Ink’ is an online compendium of wonderful writing pieces from our Westwoodians. This initiative aims to nurture budding writers in their creative expression and hone their critical thinking skills.
-
-In this compilation, treat your senses to cleverly crafted acrostic and rhyming poems written by our lower and middle primary pupils. These poems are drawn from our pupils’ rich experiences and their close observations of the things around them.&nbsp; As you read the upper primary writing pieces, listen closely to what they have to say about topics close to their hearts.&nbsp; At Westwood, we believe that a writer exists in each of us. Through this platform, we are proud to showcase some of our flourishing writers’ works. As C.S Lewis aptly puts it, “Write about what really interests you, whether it is real things or imaginary things”. Our connoisseurs have dipped into their creative repository to pen down these pieces. We hope that this compendium will inspire Westwoodians to develop their passion for writing.
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/vCBTC5dgKSE" title="Creative Ink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### **Photo Highlights of our EL Reading Bug Day (Term 1 2022)**
+#### **Photo Highlights of our EL Reading Bug Day (Term 1 2025)**
 Pupils came in a costume based on their favourite book. They get to share the love for reading by doing a book-sharing with their peers in class.
 
 <img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align="left">
