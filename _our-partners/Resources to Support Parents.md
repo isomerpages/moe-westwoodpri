@@ -32,6 +32,6 @@ The Parenting Support Programme (PSP) is an initiative by the Ministry of Social
 
 MOH has launched a new advisory on screen use for children up to 12 years of age to provide parents with more resources and practical help to support their children on healthy screen and device use. <br>
 
-<img src="/images/Guidance%20on%20Screen%20Use%20in%20Children.png" style="width:65%">
+<img src="/images/2025/Guidance_on_Screen_Use_in_Children__18_Jan__clean_Page_01.jpg" style="width:65%">
 
 [Download the Advisory](https://isomer-user-content.by.gov.sg/3/dc21db37-3dde-4cdb-9b9f-773d93c93f93/Guidance%20on%20Screen%20Use%20in%20Children%20(18%20Jan)-clean.pdf)
