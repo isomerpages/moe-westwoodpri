@@ -22,7 +22,7 @@ Art and Crafts Club pupils will:
 #### **CCA Teachers-in-charge**
 Mr Dexter Sim Yu Min<br>
 Ms Asyira Binti Ismawi<br>
-Ms Fathimah Muzammilah<br>
+Ms Fathimah Muzammilah Abdul Salam <br>
 Ms Rachel Fong Hui Xian
 
 #### **Venue**
