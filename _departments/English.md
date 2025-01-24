@@ -45,7 +45,7 @@ These are the various aspects of EL literacy:
 
 |  |  |
 |---|---|
-| STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 1.0 curriculum<br><br>**Upper Primary**<br>STELLAR 1.0 curriculum |
+| STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 2.0 curriculum<br><br>**Upper Primary**<br>P5: STELLAR 2.0 curriculum<br>P6: STELLAR 2.0 curriculum<br> |
 | School-based Curriculum | **Lower Primary**<br>Grammar and Vocabulary Packages<br><br>**Middle Primary and Upper Primary**<br>Grammar, Vocabulary, Comprehension, Writing, Synthesis &amp; Transformation Packages<br><br>- MRL Activities and library lessons<br>- Pick and Tell Activities (P1 - P5)<br>- Literature Programme (P3 - P4)<br>- Vibrant Voice Programme (P3 - P5)<br>- Little Red Dot (P5 - P6)<br>- Reading Bugs Day |
 | Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Vibrant Voices (P3-P6)<br>- P6 Modular Supplementary (4 modules)<br>- Reading Boost Activities (P4 &amp; P5 remedials)<br>- Reading Circles (P4)<br>- Competitions (Internal &amp; External) |
 | Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- Hope Classroom Experiential lessons (P1 &amp; P2)<br>- ICT-infused lessons |
