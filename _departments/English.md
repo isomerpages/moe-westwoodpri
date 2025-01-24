@@ -45,10 +45,10 @@ These are the various aspects of EL literacy:
 
 |  |  |
 |---|---|
-| STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 1.0 curriculum<br><br>**Upper Primary**<br>STELLAR 1.0 curriculum |
+| STELLAR Curriculum | **Lower Primary**<br>STELLAR 2.0 curriculum<br><br>**Middle Primary**<br>P3: STELLAR 2.0 curriculum<br>P4: STELLAR 2.0 curriculum<br><br>**Upper Primary**<br>P5: STELLAR 2.0 curriculum<br>P6: STELLAR 2.0 curriculum<br> |
 | School-based Curriculum | **Lower Primary**<br>Grammar and Vocabulary Packages<br><br>**Middle Primary and Upper Primary**<br>Grammar, Vocabulary, Comprehension, Writing, Synthesis &amp; Transformation Packages<br><br>- MRL Activities and library lessons<br>- Pick and Tell Activities (P1 - P5)<br>- Literature Programme (P3 - P4)<br>- Vibrant Voice Programme (P3 - P5)<br>- Little Red Dot (P5 - P6)<br>- Reading Bugs Day |
-| Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Vibrant Voices (P3-P6)<br>- P6 Modular Supplementary (4 modules)<br>- Reading Boost Activities (P4 &amp; P5 remedials)<br>- Reading Circles (P4)<br>- Competitions (Internal &amp; External) |
-| Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- Hope Classroom Experiential lessons (P1 &amp; P2)<br>- ICT-infused lessons |
+| Differentiated Support for every child | - Learning Support Programme (P1 - P2)<br>- Reading Remediation Programme (P3 -P4)<br>- School-based Dyslexia Remediation Programme (P3 - P4)<br>- Exploration and Inquiry learning(P4)<br>- Creative Writing Programme(P5)<br>- Competitions (Internal &amp; External) |
+| Experiential Learning for Effective Engagement | Learning Journeys (P1 - P2)<br>- ICT-infused lessons |
 | Holistic Assessment | - Formative &amp; Summative Assessments |
 |
 
@@ -66,9 +66,15 @@ These are the various aspects of EL literacy:
 
 <img src="/images/eng8.png" style="width:85%">
 
-##### **STELLAR 1.0: Primary 4 to 6**
+<img src="/images/2025/stellar_2_1.png" style="width:85%">
 
-<img src="/images/eng9.png" style="width:85%">
+<img src="/images/2025/stellar_2_2.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_3.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_4.png" style="width:85%">
+
+<img src="/images/2025/stellar_2_5.png" style="width:85%">
 
 #### **National Library Board's Reading Toolkit**
 Dear Parents,
@@ -77,14 +83,7 @@ Embark on a thrilling journey of reading, where each page brings new discoveries
 
 Download [Reading Toolkit For Parents](https://go.gov.sg/reading-toolkit)
 
-#### **Our Pupils' Work: The Creative Ink**
-‘The Creative Ink’ is an online compendium of wonderful writing pieces from our Westwoodians. This initiative aims to nurture budding writers in their creative expression and hone their critical thinking skills.
-
-In this compilation, treat your senses to cleverly crafted acrostic and rhyming poems written by our lower and middle primary pupils. These poems are drawn from our pupils’ rich experiences and their close observations of the things around them.&nbsp; As you read the upper primary writing pieces, listen closely to what they have to say about topics close to their hearts.&nbsp; At Westwood, we believe that a writer exists in each of us. Through this platform, we are proud to showcase some of our flourishing writers’ works. As C.S Lewis aptly puts it, “Write about what really interests you, whether it is real things or imaginary things”. Our connoisseurs have dipped into their creative repository to pen down these pieces. We hope that this compendium will inspire Westwoodians to develop their passion for writing.
-
-<iframe width="700" height="350" src="https://www.youtube.com/embed/vCBTC5dgKSE" title="Creative Ink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
-
-#### **Photo Highlights of our EL Reading Bug Day (Term 1 2022)**
+#### **Photo Highlights of our EL Reading Bug Day (Term 1 2025)**
 Pupils came in a costume based on their favourite book. They get to share the love for reading by doing a book-sharing with their peers in class.
 
 <img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align="left">
@@ -100,10 +99,9 @@ Pupils came in a costume based on their favourite book. They get to share the lo
 
 #### **English Language Committee**
 Ms Jurveen (HOD/EL covering) <br>
-Ms Yong Lee Min (LT/EL covering)<br>
+Ms Yong Lee Min (LT/EL)<br>
 Ms Hiew Li Tiang (LH/EL covering)<br>
 Mr Mohamed Rafik Osman Alkhatib (School Staff Developer)<br>
-Ms Viroshini <br>
 Ms Nur Diyana<br>
 Mrs Winnie Teng<br>
 Ms Noor Amirah<br>
