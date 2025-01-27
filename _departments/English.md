@@ -83,7 +83,7 @@ Embark on a thrilling journey of reading, where each page brings new discoveries
 
 Download [Reading Toolkit For Parents](https://go.gov.sg/reading-toolkit)
 
-#### **Photo Highlights of our EL Reading Bug Day (Term 1 2025)**
+#### **Photo Highlights of our EL Reading Bug Day (Term 2 2024)**
 Pupils came in a costume based on their favourite book. They get to share the love for reading by doing a book-sharing with their peers in class.
 
 <img src="/images/eng10.jpeg" style="width:30%;margin-right:15px;" align="left">
