@@ -43,11 +43,14 @@ We believe that early success in Mathematics is crucial for developing interest 
 
 #### **Mathematics Committee**
 Ms Lam Meng Chee (HOD/Math)<br>
-Ms Elaine Lai Yongxian (LH/MA)<br>
-Mr Tan Tuan Heng <br>
-Ms Ngiam Wei Ling, Melissa<br>
-Ms Khoo Jia Hui<br>
+Ms Elaine Lai Yongxian (LH/Math)<br>
+Ms Viroshini Visvanathan (Math Coordinator)<br>
+Mdm Suhaila Binte Md Laip<br>
 Mdm Lim Shae Min<br>
+Mr Tan Tuan Heng<br>
+Mdm Ralleeah Naina Mohamed<br>
+Mdm Liyanna Bte Johan<br>
+Mr Chua Zhen Hao<br>
+Mdm Catherine Koh <br>
 Mrs May Foo<br>
-Mrs Agnes Seah<br>
-Ms Catherine Koh
+Mdm Goh Hui Chin
