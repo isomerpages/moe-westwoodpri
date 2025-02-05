@@ -34,9 +34,7 @@ We believe that early success in Mathematics is crucial for developing interest 
 | Experiential Learning For Effective Engagement | - Math Trails/Learning Journey<br>- Math Games<br>- ICT-infused/SLS lessons |
 |
 
-![](/images/math2.jpg)
-![](/images/math3.jpg)
-<img src="/images/math4.jpg" style="width:50%" align="left">
+<img src="/images/2025/math_dept_pictures.jpg" style="width:100%" align="left">
 <br clear="left">
 
 #### **Useful Links**
