@@ -10,10 +10,12 @@ variant: markdown
 Members of the CCA participate in events and activities at various platforms (both within and outside school) for promoting green issues, such as, Greenwave Environmental Care Competitions, South-west CDC Green Schools, Schools Green Awards. Members are also given opportunities to transform recycled materials into useful products through upcycling. They will be trained to share their learning as well as environmental care issues to the school through talks and activities.
 
 #### **CCA Objectives**
-Environmental Science pupils will:&nbsp;  
+Environmental Science pupils will:
 *   Play an active role in sharing about environmental issues to the school;
 *   Learn to work as a team to solve problems and organise actions for environmental causes
 *   Have fun learning about nature and the environment.
+
+Read [Revive the Future - Transforming Waste into opportunity](/files/2025/Revive_the_future.pdf), reflections by brothers Rainier &amp; Ravier Tan (6 Gra􀆟tude 2024)
 
 #### **CCA Teachers-in-charge**
 Mrs Enda Wendy Chan<br>
