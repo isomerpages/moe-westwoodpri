@@ -30,13 +30,11 @@ We believe that early success in Mathematics is crucial for developing interest 
 |  |  |
 |:---:|---|
 | <br>Learner-Centered Environment in every classroom | - Concrete-Pictorial-Abstract Approach<br>- Activity-Based and Collaborative Learning through Learning Experience activities<br>- Use of Cognitive Conceptual Approach in problem solving |
-| <br>Differentiated Support for every child | - Learning Support for Mathematics (P1 to P3)<br>- Math Playground@Mobile Library (P1 &amp; P2)<br>- Math Olympiad Programme (P4 to P6)<br>- E2K Math Programme (P4 &amp; P5)<br>- Remedial Programme (P4 to P6)<br>- Math Competitions |
+| <br>Differentiated Support for every child | - Learning Support for Mathematics (P1 to P4)<br> - Math Olympiad Programme (P4 to P6)<br> - E2K Math Programme (P4 &amp; P5)<br> - Remedial Programme (P3 to P6) <br>- Math Competitions |
 | Experiential Learning For Effective Engagement | - Math Trails/Learning Journey<br>- Math Games<br>- ICT-infused/SLS lessons |
 |
 
-![](/images/math2.jpg)
-![](/images/math3.jpg)
-<img src="/images/math4.jpg" style="width:50%" align="left">
+<img src="/images/2025/math_dept_pictures.jpg" style="width:100%" align="left">
 <br clear="left">
 
 #### **Useful Links**
@@ -45,11 +43,14 @@ We believe that early success in Mathematics is crucial for developing interest 
 
 #### **Mathematics Committee**
 Ms Lam Meng Chee (HOD/Math)<br>
-Ms Elaine Lai Yongxian (LH/MA)<br>
-Mr Tan Tuan Heng <br>
-Ms Ngiam Wei Ling, Melissa<br>
-Ms Khoo Jia Hui<br>
+Ms Elaine Lai Yongxian (LH/Math)<br>
+Ms Viroshini Visvanathan (Math Coordinator)<br>
+Mdm Suhaila Binte Md Laip<br>
 Mdm Lim Shae Min<br>
+Mr Tan Tuan Heng<br>
+Mdm Ralleeah Naina Mohamed<br>
+Mdm Liyanna Bte Johan<br>
+Mr Chua Zhen Hao<br>
+Mdm Catherine Koh <br>
 Mrs May Foo<br>
-Mrs Agnes Seah<br>
-Ms Catherine Koh
+Mdm Goh Hui Chin
