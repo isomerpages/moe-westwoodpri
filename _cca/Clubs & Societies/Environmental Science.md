@@ -15,7 +15,7 @@ Environmental Science pupils will:
 *   Learn to work as a team to solve problems and organise actions for environmental causes
 *   Have fun learning about nature and the environment.
 
-*Read [Revive the Future - Transforming Waste into opportunity](/files/2025/Revivethefuture.pdf), reflections by brothers Rainier &amp; Ravier Tan (6 Gratitude 2024).*
+*Read [Revive the Future - Transforming Waste into opportunity](/files/2025/Revive_the_future.pdf), reflections by brothers Rainier &amp; Ravier Tan (6 Gratitude 2024).*
 
 #### **CCA Teachers-in-charge**
 Mrs Enda Wendy Chan<br>
