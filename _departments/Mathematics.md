@@ -39,7 +39,7 @@ We believe that early success in Mathematics is crucial for developing interest 
 
 #### **Useful Links**
 **Approved calculator list for PSLE:**<br>
-[https://www.seab.gov.sg/home/examinations/approved-calculators](https://www.seab.gov.sg/home/examinations/approved-calculators)
+[https://www.seab.gov.sg/approved-calculators/](https://www.seab.gov.sg/approved-calculators/)
 
 #### **Mathematics Committee**
 Ms Lam Meng Chee (HOD/Math)<br>
