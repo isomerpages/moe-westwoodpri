@@ -6,13 +6,7 @@ variant: markdown
 ---
 ### **Science**
 
-<img src="/images/WWPS_Staff_Photos/science_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Clyde Lim Chang Soon, Mr Joel Ong Xuan You, Mr Tan Yeow Heng Ben, Mdm Long Miaw Ying Jennifer, Mdm Naseema Beevi D/O Abd Rehim, Mdm Jane Kang Hui Chin, Ms Goh Ho Laye
+<img src="/images/2024/WWPS_Staff_Photos/science_2024.jpg" style="width:85%">
 
 #### **Learning Outcome**
 Every Westwood pupil will become an inquisitive learner through the acquisition of scientific knowledge and skills and show care and concern for the environment.
