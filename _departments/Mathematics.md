@@ -6,13 +6,7 @@ variant: markdown
 ---
 ### **Mathematics**
 
-<img src="/images/WWPS_Staff_Photos/maths_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Tan Tuan Heng, Mr Boo Hong Rui, Mr Khoo Rong Huang, Ms Elaine Lai Yongxian,  Mdm Lim Shae Min, Ms Ngiam Wei Ling Melissa, Ms Khoo Jia Hui, Ms Lam Meng Chee
+<img src="/images/2024/WWPS_Staff_Photos/maths_2024.jpg" style="width:85%">
 
 #### **Vision**
 Every Westwood pupil is to be a future-ready, anchor-steady Mathematical problem solver

@@ -7,7 +7,7 @@ variant: markdown
 ---
 ### **ICT &amp; Data Management**
 
-<img src="/images/WWPS_Staff_Photos/ict_2023.jpg" style="width:85%">
+<img src="/images/2024/WWPS_Staff_Photos/ict_2024.jpg" style="width:85%">
 
 **ICT Department**<br>
 1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>

@@ -3,16 +3,9 @@ title: Applied Learning Programme
 permalink: /departments/alp/
 description: ""
 third_nav_title: Applied Learning Programme
+variant: markdown
 ---
 ### **Applied Learning Programme**
-
-<img src="/images/WWPS_Staff_Photos/alp_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Ms Katherine Chua Cheng Bee, Ms Teo Shu Ting Cheryl, Mdm Long Miaw Ying Jennifer, Ms Ang Hwee Chin, Ms Tong Jinyi
 
 #### **Curricular Objectives**
 The Westwood Primary Positive Design Applied Learning Programme seeks to develop pupils’ critical and inventive thinking, as well as social awareness as they create designs that value-add to their communities.

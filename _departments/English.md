@@ -6,13 +6,7 @@ variant: markdown
 ---
 ### **English**
 
-<img src="/images/WWPS_Staff_Photos/english_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Ms Sharenya Devarajan, Ms Ng Su Chern, Ms Noor Amirah Bte Azman, Ms Hiew Li Tiang, Ms Yong Lee Min, Mr Mohamed Rafik Osman Alkhatib, Ms Jurveen Kaur Randhawa, Ms Janice Foo Mei Chien, Mrs Winnie Teng (Leong), Ms Nur Diyana Bte Zakariah
+<img src="/images/2024/WWPS_Staff_Photos/english_2024.jpg" style="width:85%">
 
 #### **Curricular Objectives**
 English is the common language that facilitates bonding amongst the different ethnic and cultural groups in Singapore. At the global level, English allows Singaporeans to tap into a knowledge-based economy where English is the main lingua franca of the Internet, of Science and Technology and of World Trade.
