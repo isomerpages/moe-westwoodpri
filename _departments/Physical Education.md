@@ -5,13 +5,7 @@ description: ""
 variant: markdown
 ---
 ### **Physical Education**
-<img style="width:85%" src="/images/WWPS_Staff_Photos/pe_2023.jpg">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Seet Wee Key, Mr Chow Zhixian, Ariel, Mr Khairul Abdillah Bin Ismail
+<img style="width:85%" src="/images/2024/WWPS_Staff_Photos/pe_2024.jpg">
 
 #### **Vision**
 Setting the foundation for healthy minds &amp; bodies through active lifestyles
