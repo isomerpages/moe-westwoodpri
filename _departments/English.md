@@ -8,9 +8,6 @@ variant: markdown
 
 <img src="/images/2024/WWPS_Staff_Photos/english_2024.jpg" style="width:85%">
 
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
 **First row from left:**<br>
 Ms Sharenya Devarajan, Ms Ng Su Chern, Ms Noor Amirah Bte Azman, Ms Hiew Li Tiang, Ms Yong Lee Min, Mr Mohamed Rafik Osman Alkhatib, Ms Jurveen Kaur Randhawa, Ms Janice Foo Mei Chien, Mrs Winnie Teng (Leong), Ms Nur Diyana Bte Zakariah
 
