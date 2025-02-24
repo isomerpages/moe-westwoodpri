@@ -8,7 +8,7 @@ variant: markdown
 ### **ICT &amp; Data Management**
 
 <img src="/images/2024/WWPS_Staff_Photos/ict_2024.jpg" style="width:85%">
-![hha]()
+
 **ICT Department**<br>
 1.	Mr Gerard Ng (HOD, ICT &amp; Data Management)<br>
 2.	Mr Muhardatsualiff Bin Shamhati (ICT Manager)<br>
