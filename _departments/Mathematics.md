@@ -7,7 +7,7 @@ variant: markdown
 ### **Mathematics**
 
 <img src="/images/WWPS_Staff_Photos/maths_2023.jpg" style="width:85%">
-
+![mm](/images/2024/WWPS_Staff_Photos/maths_2024.jpg)
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
 
