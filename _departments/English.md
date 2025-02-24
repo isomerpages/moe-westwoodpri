@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **English**
 
-<img src="/images/WWPS_Staff_Photos/english_2023.jpg" style="width:85%">
+<img src="/images/2024/WWPS_Staff_Photos/english_2024.jpg" style="width:85%">
 
 Credits to:<br>
 **Photography – Widevision Asia Pte Ltd**
