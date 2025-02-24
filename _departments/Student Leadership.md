@@ -6,6 +6,8 @@ variant: markdown
 ---
 ### **Student Leadership**
 
+<img style="width:85%" src="/images/2024/WWPS_Staff_Photos/sl_team_2024.jpg">
+
 #### **Learning for Life Programme: Student Leadership**
 
 **Student Leadership Department**<br>
