@@ -7,13 +7,7 @@ variant: markdown
 ---
 ### **Character &amp; Citizenship Education**
 
-<img src="/images/WWPS_Staff_Photos/cce_2023.jpg" style="width:85%">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Ms Shen Rong, Ms Chong Yoke Ting, Ms Tan Sze Yi, Ms Tan Lay Lian, Mdm Jamaliah Bte Sulaiman, Ms Claire Lu Baozhu
+<img src="/images/2024/WWPS_Staff_Photos/cce_2024.jpg" style="width:85%">
 
 #### **Character and Citizenship Programmes**
 
