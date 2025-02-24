@@ -6,13 +6,7 @@ variant: markdown
 ---
 ### **Aesthetics**
 
-<img style="width:85%" src="/images/WWPS_Staff_Photos/aesthetics_2023.jpg">
-
-Credits to:<br>
-**Photography – Widevision Asia Pte Ltd**
-
-**First row from left:**<br>
-Mr Zhang Weixiang, Mr Dexter Sim, Mr Low Min Chye, Mdm Hazel Chan Lay Mun, Ms Asyira Binti Ismawi, Ms Gu Si Yuan
+<img style="width:85%" src="/images/2024/WWPS_Staff_Photos/aesthetics_2024.jpg">
 
 #### **Vision**
 An aesthetically literate Westwoodian with a lifelong engagement in the Arts.
