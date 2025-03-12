@@ -30,7 +30,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Anglo-Chinese School (Independent)</td>
     <td>Saturday, 12 April 2025</td>
     <td>8:30am to 12:30pm</td>
-    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a> for more information
+    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
 </td>
   </tr>
 </tbody>
