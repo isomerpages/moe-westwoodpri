@@ -15,6 +15,25 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
 #### **Information on Secondary Education Open House 2025**
+<table>
+<thead>
+  <tr>
+    <th>School</th>
+    <th>Date</th>
+    <th>Time</th>
+    <th>Additional Information</th>
+  </tr>
+</thead>
+<tbody>
+	  <tr>
+    <td>ACS (Independent)</td>
+    <td>Saturday, 12 April 2025</td>
+    <td>8:30 am to 12:30 pm</td>
+    <td>- ONSITE @ 663 Bukit Timah Road, Singapore 269783
+</td>
+  </tr>
+</tbody>
+</table>
 
 #### **Information on Secondary Education Open House 2024**
 
