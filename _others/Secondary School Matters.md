@@ -14,6 +14,8 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 #### **Direct School Admission for secondary schools (DSA-Sec)**
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
+#### **Information on Secondary Education Open House 2025**
+
 #### **Information on Secondary Education Open House 2024**
 
 Open House for Secondary Schools 2024 -
