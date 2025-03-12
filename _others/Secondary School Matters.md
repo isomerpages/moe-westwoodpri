@@ -29,7 +29,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>ACS (Independent)</td>
     <td>Saturday, 12 April 2025</td>
     <td>8:30 am to 12:30 pm</td>
-    <td>- ONSITE @ 663 Bukit Timah Road, Singapore 269783
+    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View [invitation](/files/2025/ACSI_2025.pdf) for more information
 </td>
   </tr>
 </tbody>
