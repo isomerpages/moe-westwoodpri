@@ -12,7 +12,7 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 1 Confidence | MDM NORA BTE ISNIN<br>MDM LU BAOZHU (CLAIRE) |
-| 1 Diligence | MR SEET WEE KEY<br>MDM FATHIMAH MUZAMMILAH BINTE ABDUL SALAM |
+| 1 Diligence | MR SEET WEE KEY<br>MS TEO SHU TING CHERYL |
 | 1 Gratitude | MDM LIYANNA BTE JOHAN<br>MS YAP HUI TEE |
 | 1 Hope | MDM RALLEEAH NAINA MOHAMED<br>MR NG ZHILI GERARD-CHRISTIAN |
 | 1 Kindness | MS YAP CHIN HWEE (SHERINE)<br> |
