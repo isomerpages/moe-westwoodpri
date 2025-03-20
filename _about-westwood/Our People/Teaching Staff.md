@@ -52,7 +52,7 @@ variant: markdown
 | Class | Name |
 |:---:|---|
 | 4 Confidence | MR SUREEN KUMAR VALAUTHAM<br>MS ZHONG XINYING (NICOLIA) |
-| 4 Diligence | MS CHONG YOKE TING<br>MR DEXTER SIM YU MIN |
+| 4 Diligence | MS ZHU YUNING<br>MR DEXTER SIM YU MIN |
 | 4 Gratitude | MDM GOH HO LAYE<br>MR CHOW ZHIXIAN ARIEL |
 | 4 Resilience | MS LAM MENG CHEE<br>MDM KANG HUI CHIN JANE |
 | 4 Synergy | MR NG KAI ZHE ALAN<br>MS CHANG YU JUAN JADE |
