@@ -37,10 +37,10 @@ Collated List of Open Houses 2025: https://www.schoolbag.edu.sg/story/open-house
 </tbody>
 	<tbody>
 	  <tr>
-    <td>Anglo-Chinese School (Independent)</td>
-    <td>Saturday, 12 April 2025</td>
-    <td>8:30am to 12:30pm</td>
-    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
+    <td>National Junior College</td>
+    <td>Saturday, 10 May 2025</td>
+    <td>10:00am to 2:00pm</td>
+    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
 </td>
   </tr>
 </tbody>
