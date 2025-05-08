@@ -15,7 +15,7 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
 #### **Information on Secondary Schools Open House 2025**
-Collated List of Open Houses 2025: https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/
+Collated List of Open Houses 2025:<br><a target="_blank" href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>
 
 <table>
 <thead>
@@ -40,7 +40,7 @@ Collated List of Open Houses 2025: https://www.schoolbag.edu.sg/story/open-house
     <td>National Junior College</td>
     <td>Saturday, 10 May 2025</td>
     <td>10:00am to 2:00pm</td>
-    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
+    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View <a target="_blank" href="/images/2025/secondary_school_matters/njc.png">invitation</a>
 </td>
   </tr>
 </tbody>
@@ -50,7 +50,7 @@ Collated List of Open Houses 2025: https://www.schoolbag.edu.sg/story/open-house
     <td>Saturday, 24 May 2025</td>
     <td>9:00am to 3:00pm</td>
     <td>- ONSITE @ 20 Clementi Avenue 1
-Singapore 129957<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
+Singapore 129957<br>- View <a target="_blank" href="/images/2025/secondary_school_matters/nush.png">invitation</a>
 </td>
   </tr>
 </tbody>
