@@ -14,7 +14,8 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 #### **Direct School Admission for secondary schools (DSA-Sec)**
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
-#### **Information on Secondary Education Open House 2025**
+#### **Information on Secondary Schools Open House 2025**
+Collated List of Open Houses 2025: https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/
 
 <table>
 <thead>
@@ -30,7 +31,26 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Anglo-Chinese School (Independent)</td>
     <td>Saturday, 12 April 2025</td>
     <td>8:30am to 12:30pm</td>
-    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
+    <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/images/we%20stories.png">invitation</a>
+</td>
+  </tr>
+</tbody>
+	<tbody>
+	  <tr>
+    <td>National Junior College</td>
+    <td>Saturday, 10 May 2025</td>
+    <td>10:00am to 2:00pm</td>
+    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
+</td>
+  </tr>
+</tbody>
+	<tbody>
+	  <tr>
+    <td>NUS High School</td>
+    <td>Saturday, 24 May 2025</td>
+    <td>9:00am to 3:00pm</td>
+    <td>- ONSITE @ 20 Clementi Avenue 1
+Singapore 129957<br>- View <a target="_blank" href="/files/2025/ACSI_2025.pdf">invitation</a>
 </td>
   </tr>
 </tbody>
