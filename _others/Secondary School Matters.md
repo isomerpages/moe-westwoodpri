@@ -50,7 +50,7 @@ Collated List of Open Houses 2025:<br><a target="_blank" href="https://www.schoo
     <td>Saturday, 24 May 2025</td>
     <td>9:00am to 3:00pm</td>
     <td>- ONSITE @ 20 Clementi Avenue 1
-Singapore 129957<br>- View <a target="_blank" href="/images/nush_invitation.png">invitation</a>
+Singapore 129957<br>- View <a target="_blank" href="/images/2025/nush_invitation.jpg">invitation</a>
 </td>
   </tr>
 </tbody>
