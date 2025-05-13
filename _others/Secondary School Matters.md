@@ -40,7 +40,7 @@ Collated List of Open Houses 2025:<br><a target="_blank" href="https://www.schoo
     <td>National Junior College</td>
     <td>Saturday, 10 May 2025</td>
     <td>10:00am to 2:00pm</td>
-    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View [invitation](/files/2025/JC.pdf)
+    <td>- ONSITE @ 37 Hillcrest Road, Singapore 288913<br>- View [invitation](/files/2025/NJC.pdf)
 </td>
   </tr>
 </tbody>
