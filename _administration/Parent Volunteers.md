@@ -7,14 +7,15 @@ variant: markdown
 ### **Parent Volunteers**
 Dear Parents,  
 
+[APPLICATIONS FOR 2025 PARENT VOLUNTEER SCHEME ARE CLOSED.]
+
 You may apply to be our Parent Volunteer if your child is a Singapore Citizen or Singapore Permanent Resident born between 2 January 2020 and 1 January 2021 (both dates inclusive).
 
 Application for our 2025 Parent Volunteer Scheme (for 2026 P1 Registration and 2027 Admission) will open from 25 Feb 2025 to 9 May 2025.
 
 #### **Timeline for Parent Volunteers Application**
 
-**By 9 May 2025**<br><br>
-Download our [Parent Volunteer Application Form](/files/2025/WWPS_2025_PV_Application.pdf) and email the completed form to [westwood_ps@moe.edu.sg](mailto:westwood_ps@moe.edu.sg).<br>
+**By 9 May 2025**<br>
 
 Shortlisted applicants will be contacted for interviews.<br>
 Unsuccessful applicants will be notified by email.<br>
