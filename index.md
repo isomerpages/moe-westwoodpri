@@ -28,6 +28,16 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
+      title: School Tour 2025
+      subtitle: Student-Led
+      id: infopic
+      description: Calling all K2 Parents! Join us for an exclusive guided tour of our
+        school!
+      button: more info here
+      url: /images/2025/school_tour_2025_poster.jpg
+      image: /images/2025/school_tour_2025.jpg
+      alt: Student-Led School Tour 2025
+  - infopic:
       title: Photo and Video Gallery
       subtitle: Westwood Primary School
       description: View Photos and Videos from Westwood Primary & MK @ Westwood
