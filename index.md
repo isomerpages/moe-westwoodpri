@@ -28,12 +28,14 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: Get official answers from our Q&A Platform
-      subtitle: HAVE A QUESTION ?
-      button: VIEW OR ASK QUESTIONS ON ASK.GOV
-      url: https://ask.gov.sg/wwps
-      image: /images/westwood-askgov.png
-      alt: Image alt text
+      title: School Tour 2025
+      subtitle: Student-Led
+      description: Calling all K2 Parents! Join us for an exclusive guided tour of our
+        school!
+      button: more info here
+      url: /images/2025/school_tour_2025_poster.jpg
+      image: /images/2025/school_tour_2025.jpg
+      alt: Student-Led School Tour 2025
   - infopic:
       title: Photo and Video Gallery
       subtitle: Westwood Primary School
@@ -59,11 +61,10 @@ sections:
       image: /images/banner_4.jpg
       alt: Image alt text
   - infopic:
-      title: 10th Anniversary
-      subtitle: Positively Westwood
-      description: We flourish and thrive together!
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
-      image: /images/10th anniversary.jpg
-      alt: 10th
+      title: Get official answers from our Q&A Platform
+      subtitle: HAVE A QUESTION ?
+      button: VIEW OR ASK QUESTIONS ON ASK.GOV
+      url: https://ask.gov.sg/wwps
+      image: /images/westwood-askgov.png
+      alt: Image alt text
 ---
