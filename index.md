@@ -32,8 +32,8 @@ sections:
       subtitle: Student-Led
       description: Calling all K2 Parents! Join us for an exclusive guided tour of our
         school!
-      button: click here
-      url: https://sites.google.com/moe.edu.sg/10anniversarycelebrations/home
+      button: more info here
+      url: /images/2025/school_tour_2025_poster.jpg
       image: /images/2025/school_tour_2025.jpg
       alt: Student-Led School Tour 2025
   - infopic:
