@@ -30,6 +30,7 @@ sections:
   - infopic:
       title: School Tour 2025
       subtitle: Student-Led
+      id: infopic
       description: Calling all K2 Parents! Join us for an exclusive guided tour of our
         school!
       button: more info here
