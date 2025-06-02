@@ -35,7 +35,7 @@ sections:
         popular demand, WWPS is opening up more slots! Check out the new slots
         available!
       button: more info here
-      url: /images/2025/school_tour_2025_poster.jpg
+      url: /images/2025/school_tour_2025_poster.png
       image: /images/2025/school_tour_2025.jpg
       alt: Student-Led School Tour 2025
   - infopic:
