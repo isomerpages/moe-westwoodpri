@@ -28,11 +28,12 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: School Tour 2025
-      subtitle: Student-Led
+      title: Student-Led School Tour 2025
+      subtitle: Calling all K2 Parents!
       id: infopic
-      description: Calling all K2 Parents! Join us for an exclusive guided tour of our
-        school!
+      description: Join us for an exclusive guided tour of our school! Owing to
+        popular demand, WWPS is opening up more slots! Check out the new slots
+        available!
       button: more info here
       url: /images/2025/school_tour_2025_poster.jpg
       image: /images/2025/school_tour_2025.jpg
