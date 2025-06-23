@@ -9,13 +9,13 @@ third_nav_title: Canteen Matters
 
 Our School, Westwood Primary, has a vacancy for a **Chinese Food (Rice) Stall**.
 <br>
-(Other food choice e.g. Japanese, Korean cuisine are welcome too.)
+(Other food choices e.g. Japanese, Korean cuisine are welcome too.)
 
 **School Information**<br>
 Our School has a student population of approximately 1410 students and a staff strength of about 140 staff (including MOE kindergarten’s staff).<br>We are a single session school with Student Care Centre.
 
 **Canteen Operating Hours**<br>
-Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may be required to operate on other days as required by School.
+Monday to Friday, 6:30 am to 3 pm during School Term.<br>The canteen operator may be required to operate on other days as required by School.
 
 **Contract Period**<br>
 1 year (Jan - Dec/year)
@@ -37,4 +37,4 @@ Monday to Friday, 6:30 am to 3 pm during School Term. The canteen operator may b
 * Photocopy of relevant certificates such as Basic Food Hygiene, etc.
 
 **Application Closing Date: Friday, 4th Jul 2025**<br> 
-Only shortlisted applicants will be notified for an interview and food sampling at the school. For further queries, please contact Mr Michael Khoo (Operation Manager) / Mdm Cecilia Chia (Administration Manager) at 6412 1690.
+Only shortlisted applicants will be notified for an interview and food sampling at the school.<br>If interested, please contact Mr Michael Khoo (Operation Manager) / Mdm Cecilia Chia (Administration Manager) at 6412 1690.
