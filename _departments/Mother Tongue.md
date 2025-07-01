@@ -64,10 +64,8 @@ MTL SOAR aims to instill students’ love for reading in MTL, to Spark interest,
 
 The Chinese Language Department has conducted a virtual workshop for selected Primary 6 parents, which aims to equip them with the necessary skills in guiding their child to achieve better results for Chinese Language.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pEgxTu_3V5A" height="315" width="560"></iframe>
-
-P6 Parents CL Workshop 2024<br>
-[Download slides](/files/P6_Parents_Workshop_CL_Slides_2024.pdf)
+P6 Parents CL Workshop 2025<br>
+[Download slides](/files/2025/P6_Parents_Workshop_CL_Slides_2025.pdf)
 
 #### **Useful Links**
 **Approved Dictionaries for PSLE:**<br>
