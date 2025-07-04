@@ -81,7 +81,7 @@ Mdm Kee Suat Har (HOD/MTL)<br>
 Mdm Elna (SH/ML &amp; TL)
 
 #### **Chinese Language**
-Ms Yao Anli  (LH/CL Covering)<br>
+Ms Yao Anli  (LH/CL)<br>
 Ms Jasmine Koh Hwee Ling (ST/CL &amp; EdTech Coach)<br>
 Ms Tong Jin Yi (CL Coordinator)<br>
 Mdm Lee Lay Kheng, Sandy<br>
