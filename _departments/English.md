@@ -92,7 +92,7 @@ Pupils came in a costume based on their favourite book. They get to share the lo
 <br clear="left">
 
 #### **English Language Committee**
-Ms Jurveen (HOD/EL covering) <br>
+Ms Jurveen (HOD/EL) <br>
 Ms Yong Lee Min (LT/EL)<br>
 Ms Hiew Li Tiang (LH/EL covering)<br>
 Mr Mohamed Rafik Osman Alkhatib (School Staff Developer)<br>
