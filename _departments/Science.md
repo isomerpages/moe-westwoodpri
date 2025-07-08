@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Science</strong></h3>
-<h4><strong>Learning Outcome4</strong></h4>
+<h4><strong>Learning Outcome</strong></h4>
 <p>Every Westwood pupil will become an inquisitive learner through the acquisition
 of scientific knowledge and skills and show care and concern for the environment.</p>
 <h4><strong>Curricular Objectives</strong></h4>
