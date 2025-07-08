@@ -29,7 +29,7 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Student-Led School Tour 2025
-      subtitle: REGISTRATIONS ARE CLOSED
+      subtitle: Registrations are closed
       id: infopic
       description: Thank you K2 Parents for the overwhelming support! All slots are
         filled and we hope to have a meaningful event with all prior
