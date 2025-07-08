@@ -29,11 +29,11 @@ sections:
       backgroundColor: gray
   - infopic:
       title: Student-Led School Tour 2025
-      subtitle: Calling all K2 Parents!
+      subtitle: REGISTRATIONS ARE CLOSED
       id: infopic
-      description: Join us for an exclusive guided tour of our school! Owing to
-        popular demand, WWPS is opening up more slots! Check out the new slots
-        available!
+      description: Thank you K2 Parents for the overwhelming support! All slots are
+        filled and we hope to have a meaningful event with all prior
+        registrants. See you there!
       button: more info here
       url: /images/2025/school_tour_2025_poster.png
       image: /images/2025/school_tour_2025.jpg
