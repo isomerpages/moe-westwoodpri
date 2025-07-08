@@ -4,7 +4,7 @@ permalink: /departments/aesthetics/
 description: ""
 variant: markdown
 ---
-### **Aesthetics**
+### **Aesthetics**c
 
 <img style="width:85%" src="/images/2024/WWPS_Staff_Photos/aesthetics_2024.jpg">
 
