@@ -105,22 +105,6 @@ of scientific knowledge and skills and show care and concern for the environment
 <p>
 <br>
 </p>
-<h4><strong>Greening for Sustainability</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science5.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science6.jpg">
-</div>
-<p>
-<br>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science7.jpg">
-</div>
-<p>
-<br>
-</p>
 <h4><strong>P4 STEM Programme</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science8.jpg">
