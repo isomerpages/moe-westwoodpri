@@ -104,9 +104,6 @@ of scientific knowledge and skills and show care and concern for the environment
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science8.jpg">
 </div>
-<p>
-<br>
-</p>
 <h4><strong>River Wonders</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science9.jpg">
