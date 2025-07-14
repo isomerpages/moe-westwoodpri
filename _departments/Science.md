@@ -54,8 +54,7 @@ of scientific knowledge and skills and show care and concern for the environment
 <p>- Discover Science Trails@Westwood
 <br>- Learning Journeys
 <br>* P3 - River Wonders
-<br>* P4 / P5 - Science Centre
-<br>* P6 - Lee Kong Chian Natural History Museum
+<br>* P4 / P5 / 6 - Science Centre
 <br>
 <br>
 <br>- School-based level-wide programmes
