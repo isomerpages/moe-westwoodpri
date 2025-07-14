@@ -58,8 +58,6 @@ of scientific knowledge and skills and show care and concern for the environment
 <br>
 <br>
 <br>- School-based level-wide programmes
-<br>* P3 Plant a Seed Programme
-<br>* P4 Greening for Sustainability Programme
 <br>* P3 - P6 STEM Programme</p>
 </td>
 </tr>
@@ -69,10 +67,7 @@ of scientific knowledge and skills and show care and concern for the environment
 <br>Holistic Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Performance Tasks (e.g. practical skills)
-<br>Group work
-<br>Mini Test (MCQ/ short-structured questions)
-<br>Semestral Assessments</p>
+<p>Formative and Summative Assessments</p>
 </td>
 </tr>
 <tr>
