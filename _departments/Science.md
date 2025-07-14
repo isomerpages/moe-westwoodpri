@@ -105,7 +105,7 @@ of scientific knowledge and skills and show care and concern for the environment
 <p>
 <br>
 </p>
-<h4><strong>P4 STEM Programme</strong></h4>
+<h4><strong>Level Wide STEM Programmes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science8.jpg">
 </div>
@@ -123,9 +123,14 @@ of scientific knowledge and skills and show care and concern for the environment
 <br>
 </p>
 <h4><strong>Science Committee</strong></h4>
-<p>Mdm Jennifer Long (HOD/Science)
+<p>Mr Joel Ong  (LH Science - Covering)
 <br>Mrs Naseema Ansar (LT/SC)
-<br>Mr Ong Xuan You Joel
 <br>Ms Kang Hui Chin Jane
 <br>Mdm Goh Ho Laye
-<br>Mrs Muthu</p>
+<br>Mdm Fathimah Muzammilah
+<br>Mr Sureen Kumar Valautham
+<br>Ms Hew Yew Mei
+<br>Mrs Muthu
+<br>Mr Lim Chang Soon Clyde
+<br>Ms Teo Cheong Cheong
+</p>
