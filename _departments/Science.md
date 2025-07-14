@@ -111,9 +111,6 @@ of scientific knowledge and skills and show care and concern for the environment
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science10.jpg">
 </div>
-<p>
-<br>
-</p>
 <h4><strong>Science Committee</strong></h4>
 <p>Mr Joel Ong  (LH Science - Covering)
 <br>Mrs Naseema Ansar (LT/SC)
