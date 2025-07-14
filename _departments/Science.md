@@ -56,15 +56,13 @@ of scientific knowledge and skills and show care and concern for the environment
 <br>* P3 - River Wonders
 <br>* P4 / P5 / 6 - Science Centre
 <br>
-<br>
 <br>- School-based level-wide programmes
 <br>* P3 - P6 STEM Programme</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Holistic Assessment</p>
+<p>Holistic Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Formative and Summative Assessments</p>
