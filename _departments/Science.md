@@ -56,15 +56,13 @@ of scientific knowledge and skills and show care and concern for the environment
 <br>* P3 - River Wonders
 <br>* P4 / P5 / 6 - Science Centre
 <br>
-<br>
 <br>- School-based level-wide programmes
 <br>* P3 - P6 STEM Programme</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>Holistic Assessment</p>
+<p>Holistic Assessment</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Formative and Summative Assessments</p>
@@ -102,26 +100,10 @@ of scientific knowledge and skills and show care and concern for the environment
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/science4.jpg">
 </div>
-<p>
-<br>
-</p>
 <h4><strong>Level Wide STEM Programmes</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:49%" height="auto" width="100%" src="/images/science8.jpg">
 </div>
-<p>
-<br>
-</p>
-<h4><strong>River Wonders</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science9.jpg">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science10.jpg">
-</div>
-<p>
-<br>
-</p>
 <h4><strong>Science Committee</strong></h4>
 <p>Mr Joel Ong  (LH Science - Covering)
 <br>Mrs Naseema Ansar (LT/SC)
