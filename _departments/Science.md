@@ -43,7 +43,7 @@ of scientific knowledge and skills and show care and concern for the environment
 </td>
 <td rowspan="1" colspan="1">
 <p>- P3-P5 Science Remedial Programme
-<br>- Excellence in 2000 Science</p>
+<br>- Excellence in 2000 (E2K) Science</p>
 </td>
 </tr>
 <tr>
