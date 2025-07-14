@@ -95,7 +95,7 @@ of scientific knowledge and skills and show care and concern for the environment
 <div class="isomer-image-wrapper">
 <img style="width:85%" height="auto" width="100%" src="/images/science2.jpg">
 </div>
-<h4><strong>E2K1 &amp; E2K2</strong></h4>
+<h4><strong>E2K Science</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:63%" height="auto" width="100%" src="/images/science3.jpg">
 </div>
