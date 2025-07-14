@@ -97,12 +97,13 @@ of scientific knowledge and skills and show care and concern for the environment
 <div class="isomer-image-wrapper">
 <img style="width:63%" height="auto" width="100%" src="/images/science3.jpg">
 </div>
+<br>
 <div class="isomer-image-wrapper">
 <img style="width:35%" height="auto" width="100%" src="/images/science4.jpg">
 </div>
 <h4><strong>Level Wide STEM Programmes</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:49%" height="auto" width="100%" src="/images/science8.jpg">
+<img style="width:49%" height="auto" width="100%" src="/images/2025/level_wide_stem.png">
 </div>
 <h4><strong>Science Committee</strong></h4>
 <p>Mr Joel Ong  (LH Science - Covering)
