@@ -9,20 +9,9 @@ variant: markdown
 <p>Every Westwood pupil will become an inquisitive learner through the acquisition
 of scientific knowledge and skills and show care and concern for the environment.</p>
 <h4><strong>Curricular Objectives</strong></h4>
-<p>The Science department seeks to prepare our students to be effective citizens
-with the ability to function and thrive in an increasingly technologically
-- driven world.&nbsp; Central to the Science curriculum framework is the
-spirit of scientific inquiry. The Science curriculum seeks to nurture each
-student as an inquirer, fueling each child’s natural curiosity.&nbsp;</p>
-<p>In 2021/2022, STEM (Science, Technology, Engineering and Math)&nbsp; programs
-designed to help students gain skills required to succeed in the 21st-century
-have been introduced into the curriculum at different levels. These programmes
-incorporate a wide range of soft skills such as critical thinking, innovative
-problem-solving, team-work, adaptability, creativity, digital literacy,
-etc.&nbsp;</p>
-<p>Ultimately, we hope to develop pupils who&nbsp; are innovative, enjoy
-Science and value scientific inquiry as an important tool to help them
-explore their natural and physical world.</p>
+<p>The Science department seeks to prepare our students to be effective citizens with the ability to function and thrive in an increasingly technologically - driven world.  Central to the Science curriculum framework is the spirit of scientific inquiry. The Science curriculum seeks to nurture each student as an inquirer, fueling each child’s natural curiosity.</p>
+<p>In Westwood, STEM (Science, Technology, Engineering and Math) is integrated in our Science curriculum to help students gain skills required to succeed in the 21st-century. These programmes incorporate a wide range of soft skills such as critical thinking, innovative problem-solving, teamwork, adaptability, creativity, digital literacy, etc.</p>
+<p>Ultimately, we hope to develop pupils who are innovative, enjoy Science and value scientific inquiry as an important tool to help them explore their natural and physical world.</p>
 <h4><strong>Science Programme</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
