@@ -7,7 +7,7 @@ variant: markdown
 ### **Useful Information and Links**
 
 #### **Upcoming Events**
-![MK Open House 2025](/images/MK/2025/mk_open_house_2025.jpg)
+Keep checking back in for more exciting upcoming events!
 
 #### **Sample Timetable**
 [K1 Daily Schedule (AM Session).pdf](/files/MK/K1_Daily_Schedule__AM_Session_.pdf)<br>
