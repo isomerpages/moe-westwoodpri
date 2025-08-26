@@ -15,7 +15,7 @@ To celebrate Teachers’ Day, we are inviting all Westwood parents, pupils and A
 #### **2024**
 Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
 
-<p><a href="https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html">
+<p><a href="https://www.youtube.com/watch?v=4GECmqmfuTw">
 <img style="width:65%" src="/images/wishingwall2.jpg">
 </a></p>
 
