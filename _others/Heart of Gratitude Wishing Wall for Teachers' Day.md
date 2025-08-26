@@ -14,31 +14,3 @@ To celebrate Teachers’ Day, we are inviting all Westwood Primary parents, pupi
 
 #### **Wishing Walls of Previous Years**
 ##### **[2024](https://www.youtube.com/watch?v=4GECmqmfuTw) | [2023](https://padlet.com/westwoodpri/heart-of-gratitude-wishing-wall-2023-xxvet5vn6u5g1v8s) | [2022](https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html) | [2021](https://westwoodpri.padlet.org/li_huili/teachersday2021)**
-
-#### **2024**
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
-
-<p><a href="https://www.youtube.com/watch?v=4GECmqmfuTw">
-<img style="width:65%" src="/images/wishingwall2.jpg">
-</a></p>
-
-#### **2023**
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
-
-<p><a href="https://padlet.com/westwoodpri/heart-of-gratitude-wishing-wall-2023-xxvet5vn6u5g1v8s">
-<img style="width:65%" src="/images/wishingwall2.jpg">
-</a></p>
-
-#### **2022**
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
-
-<p><a href="https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html">
-<img style="width:65%" src="/images/wishingwall2.jpg">
-</a></p>
-
-#### **2021**
-
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. A sincere thank you for all the heartfelt messages!
-<p><a href="https://westwoodpri.padlet.org/li_huili/teachersday2021">
-<img style="width:65%" src="/images/wishingwall1.jpg">
-</a></p>
