@@ -6,9 +6,9 @@ variant: markdown
 ---
 ### **Heart of Gratitude Wishing Wall for Teachers' Day**
 #### **2025**
-Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
+To celebrate Teachers’ Day, we are inviting all Westwood parents, pupils and Alumni members to pen down words of gratitude for our teachers via our virtual Wishing Wall at [https://go.gov.sg/wwps-heart-of-gratitude](https://go.gov.sg/wwps-heart-of-gratitude). Sincere thanks for all the heartfelt messages!Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
 
-<p><a href="https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html">
+<p><a href="https://go.gov.sg/wwps-heart-of-gratitude">
 <img style="width:65%" src="/images/wishingwall2.jpg">
 </a></p>
 
