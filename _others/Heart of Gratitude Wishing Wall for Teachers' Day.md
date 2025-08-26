@@ -13,7 +13,7 @@ To celebrate Teachers’ Day, we are inviting all Westwood Primary parents, pupi
 </a></p>
 
 #### **Wishing Walls of Previous Years**
-##### **[2024](https://go.gov.sg/wwps-heart-of-gratitude) | [2023](https://go.gov.sg/wwps-heart-of-gratitude) | [2022](https://go.gov.sg/wwps-heart-of-gratitude) | [2021](https://go.gov.sg/wwps-heart-of-gratitude)**
+##### **[2024](https://www.youtube.com/watch?v=4GECmqmfuTw) | [2023](https://padlet.com/westwoodpri/heart-of-gratitude-wishing-wall-2023-xxvet5vn6u5g1v8s) | [2022](https://www.flipsnack.com/8F9BB877C6F/thank-you-cher.html) | [2021](https://westwoodpri.padlet.org/li_huili/teachersday2021)**
 
 #### **2024**
 Messages of appreciation written by Westwood staff and pupils on Teachers' Day. Sincere thanks for the heartfelt messages!
