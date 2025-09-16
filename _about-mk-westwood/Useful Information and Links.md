@@ -7,7 +7,7 @@ variant: markdown
 ### **Useful Information and Links**
 
 #### **KCare Contact Information**
-**Email:** westwood.kcare@littleprofessors.com.sg<br>
+**Email:** [westwood.kcare@littleprofessors.com.sg](mailto:westwood.kcare@littleprofessors.com.sg)<br>
 **Centre Number:** 8201 2497
 
 
