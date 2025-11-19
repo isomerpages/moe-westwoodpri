@@ -8,7 +8,7 @@ variant: markdown
 Online purchase of books can be made via&nbsp;[https://www.ihuntforbooks.com](https://www.ihuntforbooks.com/).&nbsp; Please refer to the last page of each booklist for the 2025 year-end sale dates and timing. 
 
 Primary 1 BookList <br>
-[WWPS Booklist 2026 P1](/files/2025/WW_Booklist_2026_P1.pdf)
+[WWPS Booklist 2026 P1](/files/2026/WW_Booklist_2026_P1.pdf)
 
 Primary 2 Booklist <br>
 [WWPS Booklist 2026 P2](/files/2026/WW_Booklist_2026_P2.pdf)
