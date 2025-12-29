@@ -44,7 +44,7 @@ variant: markdown
 | 3 Gratitude | MDM GOH HO LAYE<br>MS ANISA BINTE ANAN |
 | 3 Resilience | MS KAREN LOH<br>MS SITI JUWANI BTE ABD RAHMAN<br>MDM LIM SWEE KENG ( VIVIAN) |
 | 3 Synergy | MDM LIM SHAE MIN<br>MS CHANG YU JUAN, JADE |
-| 3 Teamwork | MR ZHANG WEIXIANG<br>MS ANEESAH BEEVI BTE AMSSAH |
+| 3 Teamwork | MR NG KAI ZHE ALAN<br>MS THACHAYANI  PUTARAN |
 |
 
 #### **P4 Form Teachers**
