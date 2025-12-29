@@ -11,7 +11,7 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 1 Confidence | MDM NORA BTE ISNIN<br>MDM LU BAOZHU (CLAIRE) |
+| 1 Confidence | MDM NORA BTE ISNIN<br>NATHANIA LAM MUN YEUNG |
 | 1 Diligence | MR SEET WEE KEY<br>MS TEO SHU TING CHERYL<br> |
 | 1 Gratitude | MDM LIYANNA BTE JOHAN<br>MS YAP HUI TEE<br>MS SHAMIN TAN JIA XUAN |
 | 1 Hope | MDM RALLEEAH NAINA MOHAMED<br>MS CHONG YOKE TING |
