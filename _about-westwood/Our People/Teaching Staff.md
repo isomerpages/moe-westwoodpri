@@ -39,8 +39,8 @@ variant: markdown
 
 | Class | Name |
 |:---:|---|
-| 3 Confidence | MR PREMNATH S/O CHANDRAN<br>MS NURAIN BTE ABDUL RAHEEM |
-| 3 Diligence | MDM LIM SHAE MIN<br>MDM NAI LI HUA (MRS TAN) |
+| 3 Confidence | MS LEE YIAN PING<br>MS ZHONG XINYING (NICOLIA) |
+| 3 Diligence | MR SUREEN KUMAR VALAUTHAM<br>MS KHOO JIA HUI |
 | 3 Gratitude | MR MUHAMMAD SYAFIQ BIN AWANG<br>MDM ANG HWEE CHIN |
 | 3 Resilience | MR TAN TUAN HENG<br>MDM LIM SWEE KENG ( VIVIAN) |
 | 3 Synergy | MR ONG XUAN YOU JOEL<br>MS GU SI YUAN |
