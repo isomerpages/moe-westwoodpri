@@ -27,7 +27,7 @@ variant: markdown
 
 You may click [here](https://go.gov.sg/moe-sexuality-education) for more information on MOE Sexuality Education.
 
-#### **Overview Of Westwood Primary School’s Sexuality Education Programme For 2025**
+#### **Overview Of Westwood Primary School’s Sexuality Education Programme For 2026**
 
 4\. Sexuality Education is delivered in a holistic manner through the school curriculum. The content for Sexuality Education is grouped into five main themes: Human Development, Interpersonal Relationships, Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may click [here](https://go.gov.sg/moe-sexuality-education-scope) for more information on the scope of Sexuality Education in the school curriculum.
 
@@ -41,7 +41,7 @@ b.	Character and Citizenship Education (CCE)<br>
 
 7\. 	Sexuality Education (SEd) lessons are taught as part of CCE (FTGP) at Primary 5 and 6. Through these lessons, students will learn healthy ways to manage the physiological, social and emotional changes in their growing years. They learn to build healthy and rewarding relationships with others, including those with members of the opposite sex. Students are also guided to make wise, informed and responsible decisions to keep themselves safe from sexuality-related risks.
 
-#### **At Westwood Primary School, the following Sexuality Education lessons will be taught in 2025:**
+#### **At Westwood Primary School, the following Sexuality Education lessons will be taught in 2026:**
 
 <img src="/images/2025/sed_p5.png" style="width:100%">
 <img src="/images/2025/sed_p51.png" style="width:100%">
@@ -52,6 +52,6 @@ b.	Character and Citizenship Education (CCE)<br>
 
 8\.	Parents may opt their children out of Sexuality Education lessons, and/or supplementary Sexuality Education programmes by MOE-approved external providers.
 
-9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an Opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/2025/Parent_Opt_out_Form.pdf). The completed Opt-out form is to be submitted by 20/01/2025.
+9\.	Parents who wish to opt their children out of the Sexuality Education lessons need to complete an Opt-out form. This form will be communicated to parents at the start of the year and is also downloadable [here](/files/2026/Parent_Opt_out_Form.pdf). The completed Opt-out form is to be submitted by 26/01/2026.
 
 10\.	Parents can contact the school at 6412 1690 or email Ms Lin Shing Chi at [lin_shing_chi@moe.edu.sg](mailto:lin_shing_chi@moe.edu.sg) for discussion or to seek clarification about the school’s Sexuality Education programme.
