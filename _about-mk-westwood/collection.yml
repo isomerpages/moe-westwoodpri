@@ -2,11 +2,11 @@ collections:
   about-mk-westwood:
     output: true
     order:
-      - Open House.md
       - About MK@Westwood.md
       - Our Learning Environment.md
       - Our Teaching Staff.md
       - Total MK Curriculum.md
+      - MK Westwood Photo Gallery/.keep
       - MK Westwood Photo Gallery/2025.md
       - MK Westwood Photo Gallery/2024.md
       - MK Westwood Photo Gallery/2023.md
@@ -14,12 +14,12 @@ collections:
       - MK Westwood Photo Gallery/2021.md
       - MK Westwood Photo Gallery/2020.md
       - MK Westwood Photo Gallery/2019.md
-      - MK Westwood Photo Gallery/.keep
+      - Highlights/.keep
       - Highlights/2025.md
       - Highlights/2024.md
       - Highlights/2023.md
       - Highlights/2022.md
       - Highlights/2021.md
       - Highlights/2020.md
-      - Highlights/.keep
       - Useful Information and Links.md
+      - Open House.md
