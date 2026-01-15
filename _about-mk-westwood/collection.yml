@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - About MK@Westwood.md
+      - Open House.md
       - Our Learning Environment.md
       - Our Teaching Staff.md
       - Total MK Curriculum.md
@@ -22,4 +23,3 @@ collections:
       - Highlights/2021.md
       - Highlights/2020.md
       - Useful Information and Links.md
-      - Open House.md
