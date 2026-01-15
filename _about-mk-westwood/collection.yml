@@ -2,6 +2,7 @@ collections:
   about-mk-westwood:
     output: true
     order:
+      - Open House.md
       - About MK@Westwood.md
       - Our Learning Environment.md
       - Our Teaching Staff.md
