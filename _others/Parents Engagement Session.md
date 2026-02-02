@@ -4,6 +4,11 @@ permalink: /others/parents-engagement-session/
 variant: markdown
 description: ""
 ---
+### **2026 Parents Engagement Session**
+
+Parents Engagement for Upper Primary Students 2026 by Mr Mah<br>
+[Download slides](/files/2026/parents_engagement_ups_2026.pdf)
+
 ### **2025 Parents Engagement Session**
 
 Parents Engagement for Upper Primary Students 2025 by Mr Mah<br>
