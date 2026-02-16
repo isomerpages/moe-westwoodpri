@@ -27,9 +27,7 @@ Weekdays 3pm-8pm / Weekends 10am-4pm;<br>
 Closed on Tuesdays &amp; Public Holidays_
 
 #### **Student Care Centre**
-**Little Professors Learning Centre Pte Ltd**<br>
-Office Contact: 8606 1170 (11.30 a.m. to 7.00 p.m.)<br>
-Email: [westwood@littleprofessors.com.sg](mailto:westwood@littleprofessors.com.sg)
+**Coming soon!**<br>
 
 #### **School Bus Operator**
 
