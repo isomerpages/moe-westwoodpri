@@ -61,15 +61,15 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Ms Chung Oi Ching**<br>English Language Teacher (FAJT) | **Mr Indra**<br>Malay Language Teacher | **Ms Haryati Ali**<br>Malay Language Teacher |
 
-<img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Maria_Binte_Baharuddin.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Senthil_Geetha.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nandini_Muthiah.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Nandini D/O Muthiah**<br>Tamil Language Teacher | **Senthil Geetha**<br>Tamil Language Teacher | **Wang Lu**<br>Chinese Language Teacher |
+| **Ms Maria**<br>Malay Language Teacher | **Ms Geetha**<br>Tamil Language Teacher | **Ms Nandini**<br>Tamil Language Teacher |
 
 <img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
