@@ -51,9 +51,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Ms Rangeeta (Phyllis)**<br>English Language Teacher | **Ms Lim Siew Eng**<br>English Language Teacher (FAJT) | **Ms Lim Le Qi**<br>English Language Teacher (FAJT) |
 
-<img src="/images/MK_Staff/2025/rangeeta.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2025/chung_oi_ching.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Mohammed_Indra.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Lim_Leqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Haryati_Ali.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
