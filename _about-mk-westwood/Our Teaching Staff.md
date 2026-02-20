@@ -12,14 +12,14 @@ variant: markdown
 | **Chan Mun Foong Lucia**<br>Centre Head |
 
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Nur_Nadiah.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Chu Yanan**<br>Senior Teacher, Chinese Language | **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language |
+| **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language |
 
 <img src="/images/MK_Staff/2024/Khoo_Shih_Jia.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
