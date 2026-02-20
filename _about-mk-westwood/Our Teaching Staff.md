@@ -7,9 +7,9 @@ variant: markdown
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%">
 
-|  |
+|  |  |
 |:---:|
-| **Chan Mun Foong Lucia**<br>Centre Head |
+| **Chan Mun Foong Lucia**<br>Centre Head | **Ms Tan Peiqi**<br>Level Coordinator, English Language |
 
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:31%;margin-right:15px;" align="left">
@@ -89,4 +89,4 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Shirley Lee**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Yu Zihan**<br>Chinese Language Teacher |
+| **Ms Shirley Lee**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Yu ZiHan**<br>Chinese Language Teacher |
