@@ -39,11 +39,11 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Jeslyn Goh**<br>English Language Teacher | **Ms Shafiqa**<br>English Language Teacher | **Ms Sahida**<br>English Language Teacher |
+| **Ms Jeslyn Goh**<br>English Language Teacher | **Ms Shafiqa**<br>English Language Teacher | **Ms Salhida**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2024/Goh_Pei_Yu.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Lim_Siew_Eng.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Lim_Leqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2025/shafiqa.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2025/salhida.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
