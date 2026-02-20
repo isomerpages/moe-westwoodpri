@@ -19,7 +19,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language |
+| **Chu Yanan**<br>Senior Teacher, Chinese Language | **Zakiyah Binte Bashier**<br>Level Coordinator, English Language | **Nur Nadiah Binte Abdul Salim**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2024/Khoo_Shih_Jia.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/K_Vishnupriyah.png" style="width:31%;margin-right:15px;" align="left">
