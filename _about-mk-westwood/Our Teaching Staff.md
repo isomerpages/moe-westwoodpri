@@ -71,9 +71,9 @@ variant: markdown
 |:---:|:---:|:---:|
 | **Ms Maria**<br>Malay Language Teacher | **Ms Geetha**<br>Tamil Language Teacher | **Ms Nandini**<br>Tamil Language Teacher |
 
+<img src="/images/MK_Staff/2024/Cai_Luqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2024/Wang_Lu.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Liu_Bing.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Zhou_Hong.png" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
