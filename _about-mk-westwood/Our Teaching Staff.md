@@ -6,10 +6,11 @@ variant: markdown
 ---
 #### **MK @ Westwood Teaching Staff**
 <img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%">
 
 |  |  |
 |:---:|:---:|
-| **Chan Mun Foong Lucia**<br>Centre Head | **Ms Tan Peiqi**<br>Level Coordinator, English Language |
+| **Chan Mun Foong Lucia**<br>Centre Head | **Ms Tan Peiqi**<br>Deputy Centre Head |
 
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:31%;margin-right:15px;" align="left">
