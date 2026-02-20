@@ -8,7 +8,7 @@ variant: markdown
 <img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%">
 
 |  |  |
-|:---:|
+|:---:|:---:|
 | **Chan Mun Foong Lucia**<br>Centre Head | **Ms Tan Peiqi**<br>Level Coordinator, English Language |
 
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
