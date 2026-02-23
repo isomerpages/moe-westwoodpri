@@ -6,8 +6,8 @@ variant: markdown
 ---
 #### **MK @ Westwood Teaching Staff**
 
-<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%;margin-left:85px;" align="left">
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%;margin-left:110px;" align="left">
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%;margin-left:85px;margin-right:110px;" align="left">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%;" align="left">
 
 <br clear="left">
 
@@ -83,7 +83,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Chai Luqi**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Liu Bing**<br>Chinese Language Teacher |
+| **Ms Chai Luqi**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Liu Bing**<br>Chinese Language Teacher |
 
 <img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zhou_Hong.png" style="width:31%;margin-right:15px;" align="left">
