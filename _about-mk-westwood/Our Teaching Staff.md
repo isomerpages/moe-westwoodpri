@@ -5,8 +5,9 @@ description: ""
 variant: markdown
 ---
 #### **MK @ Westwood Teaching Staff**
-<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%;margin-right:15px;" align="centre">
-<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%;margin-right:15px;" align="centre">
+
+<img src="/images/MK_Staff/2024/Lucia_Chan.png" style="width:31%;margin-right:auto;margin-left:auto;">
+<img src="/images/MK_Staff/2024/Tan_Pei_Qi.png" style="width:31%;margin-right:auto;">
 
 |  |  |
 |:---:|:---:|
