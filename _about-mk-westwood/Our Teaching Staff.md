@@ -13,7 +13,7 @@ variant: markdown
 
 |  |  |
 |:---:|:---:|
-| **Chan Mun Foong Lucia**<br>Centre Head | **Ms Tan Peiqi**<br>Deputy Centre Head |
+| **Ms Lucia Chan**<br>Centre Head | **Ms Tan Peiqi**<br>Deputy Centre Head |
 
 <img src="/images/MK_Staff/2024/Chu_Yanan.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zakiyah_Bashier.png" style="width:31%;margin-right:15px;" align="left">
