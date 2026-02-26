@@ -20,5 +20,5 @@ Download the PV Application Form and email the completed form to [westwood_ps@mo
 Shortlisted applicants will be contacted for interviews.<br>
 Unsuccessful applicants will be notified by email.<br>
 
-**Between 30 June 2025 to 30 June 2026**<br><br>
-Commencement and completion of at least 40 hours of voluntary service as required by the school. Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2026 P1 Registration Exercise. Please note that a place for your child through Phase 2B is **not&nbsp;guaranteed**.<br>
+**Between 30 June 2026 to 25 June 2027**<br><br>
+Commencement and completion of at least 40 hours of voluntary service as required by the school. Upon completion of Parent Volunteer service, you will receive a letter certifying that your child is eligible for registration in our school during Phase 2B of 2027 P1 Registration Exercise. Please note that a place for your child through Phase 2B is **not&nbsp;guaranteed**.<br>
