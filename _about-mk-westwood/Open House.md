@@ -6,6 +6,8 @@ description: ""
 ---
 ### **Open House 2026**
 
+<iframe allowfullscreen="" referrerpolicy="strict-origin-when-cross-origin" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/bl5QbcQpZWg?si=Eb5eQVABE9lZuC_M" height="315" width="560"></iframe>
+
 ![mk_open_house_2026_2](/images/MK/2026/mk_open_house_2026_2.jpg)
 
 ![mk_open_house_2026_1](/images/MK/2026/mk_open_house_2026_1.jpg)
