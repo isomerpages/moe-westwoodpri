@@ -1,12 +1,12 @@
 ---
-title: 2024 P1 Parents
-permalink: /others/2024-p1-parents/
+title: P1 Parents
+permalink: /others/p1-parents/
 description: ""
 variant: markdown
 ---
-<h3><strong>2024 P1 Parents</strong></h3>
+<h3><strong>P1 Parents</strong></h3>
 <h4><strong>P1 Induction</strong></h4>
-<h5><strong>Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)</strong></h5>
+<h5><strong>Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian,  HOD ICT)</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/UjKMJdOMi80"></iframe>
 </div>
@@ -22,11 +22,11 @@ variant: markdown
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RMid5hMiv5o"></iframe>
 </div>
-<h5><strong>Nurturing Children's Talents in The Arts (by Mdm Hazel Chan, HOD Aesthetics)</strong></h5>
+<h5><strong>Nurturing Children's Talents in The Arts (by Mdm Hazel Chan)</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_rwTd8f6KDM"></iframe>
 </div>
-<h5><strong>Engaging Young Learners through ICT (by Ms Li Huili, HOD ICT)</strong></h5>
+<h5><strong>Engaging Young Learners through ICT (by Ms Li Huili)</strong></h5>
 <div class="iframe-wrapper">
 <iframe height="350" width="700" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-Gt_qLBJE3c"></iframe>
 </div>
@@ -76,16 +76,7 @@ variant: markdown
 <br>Email:&nbsp;<a href="mailto:myuniformshop@yahoo.com" rel="noopener noreferrer nofollow" target="_blank">myuniformshop@yahoo.com</a>
 </p>
 <h5><strong>3) School-based SCC</strong></h5>
-<p><strong>Little Professors Learning Centre Pte. Ltd.</strong> 
-<br>Office Contact: 8606 1170 (11:30 a.m. to 7:00 p.m.)
-<br>Email:&nbsp;<a href="mailto:westwood@littleprofessors.com.sg" rel="noopener noreferrer nofollow" target="_blank">westwood@littleprofessors.com.sg</a>
-<br>
-</p>
-<p><a href="/files/usefulpdf1.pdf" rel="noopener noreferrer nofollow" target="_blank">Little Professors Slides_For Circualtion_Westwood_13 Oct 22.pdf</a>
-<br><a href="/files/usefulpdf2.pdf" rel="noopener noreferrer nofollow" target="_blank">SCC FAQs_Westwood_For Circulation_13 Oct 22.pdf</a>
-</p>
-<p>Please register via&nbsp;<a href="https://forms.gle/Jm8yGGjaKqFfeV1c8" rel="noopener noreferrer nofollow" target="_blank">https://forms.gle/Jm8yGGjaKqFfeV1c8</a>
-</p>
+<p>Coming soon.</p>
 <h5><strong>4) School Bus Operator</strong></h5>
 <p><a href="/files/usefuldoc.pdf" rel="noopener noreferrer nofollow" target="_blank">Westwood Pri_Request for School Bus Services_Year 2022 Final.docx</a>
 </p>
