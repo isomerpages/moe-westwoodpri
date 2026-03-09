@@ -4,7 +4,7 @@ permalink: /others/p1-parents/
 description: ""
 variant: markdown
 ---
-<h3><strong>2024 P1 Parents</strong></h3>
+<h3><strong>P1 Parents</strong></h3>
 <h4><strong>P1 Induction</strong></h4>
 <h5><strong>Welcome Video for P1 Pupils and Parents (by Mr Ng Zhili Gerard-Christian, SH ICT)</strong></h5>
 <div class="iframe-wrapper">
