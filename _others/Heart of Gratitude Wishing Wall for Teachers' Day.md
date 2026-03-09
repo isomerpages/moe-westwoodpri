@@ -4,7 +4,7 @@ permalink: /others/wishing-wall/
 description: ""
 variant: markdown
 ---
-### **Heart of Gratitude Wishing Wall for Teachers' Day**
+### **Heart of Gratitude Wishing Wall for Teachers' Day 2025**
 
 To celebrate Teachers’ Day, we are inviting all Westwood Primary parents, pupils and Alumni members to pen down words of gratitude for our teachers via our virtual Wishing Wall at [https://go.gov.sg/wwps-heart-of-gratitude](https://go.gov.sg/wwps-heart-of-gratitude).<br><br>*A sincere thank you for all the heartfelt messages!*
 
