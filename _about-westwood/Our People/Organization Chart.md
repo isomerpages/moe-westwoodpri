@@ -6,6 +6,7 @@ third_nav_title: Our People
 variant: tiptap
 ---
 <h3><strong>Organization Chart</strong></h3>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
