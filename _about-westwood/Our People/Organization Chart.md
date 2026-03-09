@@ -206,5 +206,6 @@ variant: tiptap
 </tr>
 </tbody>
 </table>
-<p><sup>As of March 2026</sup>
+<p><sub>As of March 2026</sub>
 </p>
+<p></p>
