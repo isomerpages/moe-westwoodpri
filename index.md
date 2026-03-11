@@ -28,25 +28,6 @@ sections:
       size: sm
       backgroundColor: gray
   - infopic:
-      title: Student-Led School Tour 2025
-      subtitle: Registrations are closed
-      id: infopic
-      description: Thank you K2 Parents for the overwhelming support! All slots are
-        filled and we hope to have a meaningful event with all prior
-        registrants. See you there!
-      button: more info here
-      url: /images/2025/school_tour_2025_poster.png
-      image: /images/2025/school_tour_2025.jpg
-      alt: Student-Led School Tour 2025
-  - infopic:
-      title: Photo and Video Gallery
-      subtitle: Check out our Highlights
-      description: View Photos and Videos from Westwood Primary & MK @ Westwood
-      button: Click here
-      url: https://staging.d3m6h2gl8e4eti.amplifyapp.com/photo-and-video-gallery/
-      image: /images/DSC_0403.JPG
-      alt: Image alt text
-  - infopic:
       title: Westwood Facebook Page
       subtitle: Connect with us
       description: Find out what are the latest activities in school!
