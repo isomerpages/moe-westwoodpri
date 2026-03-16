@@ -14,8 +14,7 @@ Under this tab, we will update matters on Direct School Admission, Open House fo
 #### **Direct School Admission for secondary schools (DSA-Sec)**
 Primary 6 (P6) students can seek admission to certain secondary schools based on their talent in sports, Co-Curricular Activities (CCAs) and specific academic areas. Learn more about DSA-Sec by clicking [here](https://www.moe.gov.sg/secondary/dsa).
 
-#### **Information on Secondary Schools Open House 2025**
-Collated List of Open Houses 2025:<br><a target="_blank" href="https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/">https://www.schoolbag.edu.sg/story/open-house-for-secondary-schools/</a>
+#### **Information on Secondary Schools Open House 2026**
 
 <table>
 <thead>
@@ -29,8 +28,8 @@ Collated List of Open Houses 2025:<br><a target="_blank" href="https://www.schoo
 <tbody>
 	  <tr>
     <td>Anglo-Chinese School (Independent)</td>
-    <td>Saturday, 12 April 2025</td>
-    <td>8:30am to 12:30pm</td>
+    <td>Saturday, 11 April 2026</td>
+    <td>8am to 2:00pm</td>
     <td>- ONSITE @ 121 Dover Road, Singapore 139650<br>- View <a target="_blank" href="/images/we%20stories.png">invitation</a>
 </td>
   </tr>
