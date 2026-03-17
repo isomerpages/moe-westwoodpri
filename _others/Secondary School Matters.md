@@ -30,7 +30,7 @@ Primary 6 (P6) students can seek admission to certain secondary schools based on
     <td>Nanyang Girls' High School</td>
     <td>Saturday, 11 April 2026</td>
     <td>8am to 2:00pm</td>
-    <td>- ONSITE @ 2 Linden Drive, Singapore 288683<br>- View <a target="_blank" href="/2026/acs_oh_2026.pdf">invitation</a>
+    <td>- ONSITE @ 2 Linden Drive, Singapore 288683<br>- View <a target="_blank" href="/2026/nygh_oh_2026.pdf">invitation</a>
 </td>
   </tr>
 </tbody>
