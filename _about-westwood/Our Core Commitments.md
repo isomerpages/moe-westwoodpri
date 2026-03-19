@@ -8,8 +8,8 @@ variant: tiptap
 <h4><strong>Our Vision</strong></h4>
 <p>A School that Inspires our Community to lead Meaningful and Engaged lives</p>
 <h4><strong>Our Mission</strong></h4>
-<p>To provide positive education that nurtures thriving teachers and flourishing
-pupils</p>
+<p>To provide Positive Education that nurtures Thriving Staff and Flourishing
+Students</p>
 <h4><strong>Our Values</strong></h4>
 <p>Westwood pupils will possess the following Character Strengths:</p>
 <ul data-tight="true" class="tight">
