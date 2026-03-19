@@ -6,8 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Our Core Commitments</strong></h3>
 <h4><strong>Our Vision</strong></h4>
-<p>A positive institution in Jurong West that inspires our community to lead
-meaningful and engaged lives</p>
+<p>A School that Inspires our Community to lead Meaningful and Engaged lives</p>
 <h4><strong>Our Mission</strong></h4>
 <p>To provide positive education that nurtures thriving teachers and flourishing
 pupils</p>
