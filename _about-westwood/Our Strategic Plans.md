@@ -2,6 +2,7 @@
 title: Our Strategic Plans
 permalink: /about-westwood/strategic-plans/
 description: ""
+variant: markdown
 ---
 ### **Our Strategic Plans**
 #### **A Journey to be Exceptional**
@@ -15,4 +16,4 @@ In 2021, under the Leadership of our second Principal, Mr Andrew Mah, Westwood P
 #### **Strengths-Weaknesses-Opportunities-Threats Analysis**
 School leaders, together with the management team, undertook a SWOT analysis to list the key strengths to build on, key weaknesses to minimize, opportunities to leverage on and threats to address. In line with our Vision, Mission and Values, 3 Strategic Thrusts were developed.
 
-![](/images/strategic%20plan%202022-2026.jpg)
+![](/images/2026/strat_plan_2025-2027.jpg)
