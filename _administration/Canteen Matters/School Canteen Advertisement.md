@@ -36,5 +36,5 @@ Monday to Friday, 6:30 am to 3 pm during School Term.<br>The canteen operator ma
 * Photocopy of the applicant’s NRIC (front and back)
 * Photocopy of relevant certificates such as Basic Food Hygiene, etc.
 
-**Application Closing Date: Friday, 22 Nov 2025**<br> 
+**Application Closing Date: Friday, 30 Apr 2026**<br> 
 Only shortlisted applicants will be notified for an interview and food sampling at the school.<br>If interested, please contact Mr Michael Khoo (Operation Manager) / Mdm Cecilia Chia (Administration Manager) at 6412 1690.
