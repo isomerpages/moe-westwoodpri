@@ -37,4 +37,4 @@ To view details of bus operator and bus fares, click [here](/files/school%20bus%
 #### **Dental Clinic**
 **Dental Clinic @ Westwood Primary**<br>
 Appointment for non-routine check: 9115 8946 (via call, SMS or WhatsApp)<br>
-If above no. is not contactable for urgent cases, please contact School Dental Centre at Health Promotion Board at 6435 3782
+If above no. is not contactable for urgent cases, please contact the school's General Office at 6412 1690
