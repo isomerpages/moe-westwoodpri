@@ -83,7 +83,7 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Chai Luqi**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Liu Bing**<br>Chinese Language Teacher |
+| **Ms Cai LuQi**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Liu Bing**<br>Chinese Language Teacher |
 
 <img src="/images/MK_Staff/2024/Shirley_Lee.png" style="width:31%;margin-right:15px;" align="left">
 <img src="/images/MK_Staff/2024/Zhou_Hong.png" style="width:31%;margin-right:15px;" align="left">
@@ -93,4 +93,4 @@ variant: markdown
 
 |  |  |  |
 |:---:|:---:|:---:|
-| **Ms Shirley Lee**<br>Chinese Language Teacher | **Ms Zhou Hong**<br>Chinese Language Teacher | **Ms Yu ZiHan**<br>Chinese Language Teacher |
+| **Ms Shirley Lee**<br>Chinese Language Teacher | **Ms Wang Lu**<br>Chinese Language Teacher | **Ms Yu ZiHan**<br>Chinese Language Teacher |
