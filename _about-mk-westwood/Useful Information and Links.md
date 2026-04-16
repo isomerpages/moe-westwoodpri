@@ -9,7 +9,7 @@ variant: markdown
 #### **Kindergarten Care**
 **Nascans Pte. Ltd.**<br>
 Office Contact: 8242 6845 (10.00 a.m. to 7:00 p.m.)<br>
-Email : supervisor.wwdkcc@nascans.com
+Email : [supervisor.wwdkcc@nascans.com](mailto:supervisor.wwdkcc@nascans.com)
 
 #### **Upcoming Events**
 Keep checking back in for more exciting upcoming events!
