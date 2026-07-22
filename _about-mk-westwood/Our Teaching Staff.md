@@ -46,8 +46,8 @@ variant: markdown
 | **Ms Jeslyn Goh**<br>English Language Teacher | **Ms Shafiqa**<br>English Language Teacher | **Ms Salhida**<br>English Language Teacher |
 
 <img src="/images/MK_Staff/2025/rangeeta.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Lim_Siew_Eng.png" style="width:31%;margin-right:15px;" align="left">
-<img src="/images/MK_Staff/2024/Lim_Leqi.png" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2026/lee_poh_chin.jpg" style="width:31%;margin-right:15px;" align="left">
+<img src="/images/MK_Staff/2026/nur_afiah.jpg" style="width:31%;margin-right:15px;" align="left">
 
 <br clear="left">
 
