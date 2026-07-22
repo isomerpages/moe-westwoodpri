@@ -23,10 +23,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Jurveen Kaur Randhawa</p>
+<p>Ms Yong Lee Min</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ English Language</p>
+<p>HOD/ English Language (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +66,7 @@ variant: tiptap
 <p>Ms Elaine Lai Yongxian</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>HOD/ Mathematics (covering)</p>
+<p>HOD/ Mathematics</p>
 </td>
 </tr>
 <tr>
