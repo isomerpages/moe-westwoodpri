@@ -79,10 +79,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ms Sherine Yap</p>
+<p>Ms Cheryl Teo Shu Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Year Head (Lower Primary) &amp; Pos Ed</p>
+<p>Year Head (Lower Primary) &amp; Pos Ed (Covering)</p>
 </td>
 </tr>
 <tr>
@@ -99,14 +99,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Year Head (Upper Primary) &amp; Centre for Pos Ed IC</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ms Cheryl Teo Shu Ting</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Assistant Year Head (Lower Primary) &amp; Centre for Pos Ed 2IC</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +146,7 @@ variant: tiptap
 <p>Ms Yao Anli</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>LH/ CL</p>
+<p>LH/ Chinese Language</p>
 </td>
 </tr>
 <tr>
